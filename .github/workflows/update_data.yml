@@ -24,6 +24,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Restore source files
+        run: |
+          echo "${{ secrets.SCRAPER_CORE_B64 }}" | base64 -d > scraper_core.py
+          echo "${{ secrets.HEADLESS_RUN_B64 }}"  | base64 -d > headless_run.py
+
       - name: Run scraper
         env:
           FFLOGS_CLIENT_ID: ${{ secrets.FFLOGS_CLIENT_ID }}

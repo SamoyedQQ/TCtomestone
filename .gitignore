@@ -4,14 +4,17 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Source code (stored as GitHub Secrets, not in repo)
+*.py
+*.spec
+
 # PyInstaller build artifacts
 build/
 dist/
 
-# Dev / debug scripts
+# Dev / debug scripts and internal docs
 inspect_report_fields.py
-
-# Internal docs (not website)
+update_data.bat
 docs/early_exit_approaches.md
 BUILD.md
 TC_FFLOGS_DATA.md
