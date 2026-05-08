@@ -25,9 +25,12 @@ jobs:
         run: pip install requests
 
       - name: Restore source files
+        env:
+          SCRAPER_CORE_B64: ${{ secrets.SCRAPER_CORE_B64 }}
+          HEADLESS_RUN_B64: ${{ secrets.HEADLESS_RUN_B64 }}
         run: |
-          echo "${{ secrets.SCRAPER_CORE_B64 }}" | base64 -d > scraper_core.py
-          echo "${{ secrets.HEADLESS_RUN_B64 }}"  | base64 -d > headless_run.py
+          python3 -c "import base64,os; open('scraper_core.py','wb').write(base64.b64decode(os.environ['SCRAPER_CORE_B64']))"
+          python3 -c "import base64,os; open('headless_run.py','wb').write(base64.b64decode(os.environ['HEADLESS_RUN_B64']))"
 
       - name: Run scraper
         env:
