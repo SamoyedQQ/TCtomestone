@@ -339,8 +339,8 @@ const DS = {
 const STATE = {
   mainTab: 'leaderboard',
   lbType: 'rdps',
-  rdpsEncounter: 1077,
-  speedEncounter: 1077,
+  rdpsEncounter: 1074,
+  speedEncounter: 1074,
   role: 'Tank',
   job: null,
   rdpsPage: 1,
