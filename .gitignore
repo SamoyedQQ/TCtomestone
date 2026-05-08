@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Dev / debug scripts
+inspect_report_fields.py
+
+# Internal docs (not website)
+docs/early_exit_approaches.md
+BUILD.md
+TC_FFLOGS_DATA.md

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FFlogs 繁中服 絕境戰排名</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <img src="img/logo.png" class="logo-icon" alt="">
+        <div class="logo-text">
+          <span class="logo-title">FFlogs 繁中服 絕境戰排名</span>
+          <span class="logo-sub">僅記錄 TC服 2026-01-01 以後的「公開」數據，可補上傳舊數據。</span>
+        </div>
+      </div>
+      <nav class="main-nav" role="tablist">
+        <button class="nav-tab active" data-tab="leaderboard" role="tab">排行榜</button>
+        <button class="nav-tab" data-tab="player" role="tab">玩家資料</button>
+      </nav>
+      <div class="header-meta" id="header-meta"></div>
+      <a href="https://p.opay.tw/Z4T1f" target="_blank" rel="noopener" class="donate-btn" title="請我喝杯咖啡 ☕">
+        <svg class="donate-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+          <path d="M18.5 3H6c-1.1 0-2 .9-2 2v5.71c0 3.83 2.95 7.18 6.78 7.29 3.96.12 7.22-3.06 7.22-7V5c0-1.1-.9-2-2-2zm0 7c0 2.76-2.24 5-5 5s-5-2.24-5-5V5h10v5zM4 19h16v2H4z"/>
+        </svg>
+        贊助
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <!-- ═══ 排行榜 ═══ -->
+    <section id="tab-leaderboard" class="tab-section active">
+
+      <!-- 主類型切換：傷害量 / 通關速度 -->
+      <div class="sub-nav-bar">
+        <div class="sub-tabs" id="lb-type-tabs">
+          <button class="sub-tab active" data-lbtype="rdps">傷害量</button>
+          <button class="sub-tab sub-tab-speed" data-lbtype="speed">通關速度</button>
+        </div>
+      </div>
+
+      <!-- ── 傷害量 ── -->
+      <div id="rdps-section">
+        <!-- 副本選擇 -->
+        <div class="filter-bar" id="rdps-enc-filter">
+          <button class="filter-btn" data-enc="1074">絕究極神兵</button>
+          <button class="filter-btn" data-enc="1073">絕巴哈姆特</button>
+          <button class="filter-btn active" data-enc="1075">絕亞歷山大</button>
+          <button class="filter-btn" data-enc="1076">絕龍詩戰爭</button>
+          <button class="filter-btn" data-enc="1077">絕歐米茄</button>
+        </div>
+        <!-- 五大職業類別標籤 -->
+        <div class="role-tab-bar">
+          <div class="role-tabs-group" id="role-tabs">
+            <button class="role-tab active" data-role="Tank">坦克</button>
+            <button class="role-tab" data-role="Healer">治療</button>
+            <button class="role-tab" data-role="Melee">近戰</button>
+            <button class="role-tab" data-role="Ranged">遠敏</button>
+            <button class="role-tab" data-role="Caster">法師</button>
+          </div>
+          <div id="lb-stats" class="lb-stats"></div>
+        </div>
+        <!-- 各職業標籤（依選中角色動態產生） -->
+        <div class="filter-bar job-filter-bar" id="job-filter"></div>
+        <!-- 表格 -->
+        <div class="table-wrap">
+          <table class="data-table" id="rdps-table">
+            <thead>
+              <tr>
+                <th class="col-rank">排名</th>
+                <th class="col-player">玩家</th>
+                <th class="col-server">伺服器</th>
+                <th class="col-job">職業</th>
+                <th class="col-lnum">rDPS</th>
+                <th class="col-lnum">aDPS</th>
+                <th class="col-date">通關時長</th>
+              </tr>
+            </thead>
+            <tbody id="rdps-tbody"></tbody>
+          </table>
+          <div class="empty-state hidden" id="rdps-empty">此副本暫無資料</div>
+        </div>
+        <div class="pagination-bar" id="rdps-pagination"></div>
+      </div>
+
+      <!-- ── 通關速度 ── -->
+      <div id="speed-section" class="hidden">
+        <!-- 副本篩選 -->
+        <div class="filter-bar" id="speed-enc-filter">
+          <button class="filter-btn" data-enc="1074">絕究極神兵</button>
+          <button class="filter-btn" data-enc="1073">絕巴哈姆特</button>
+          <button class="filter-btn active" data-enc="1075">絕亞歷山大</button>
+          <button class="filter-btn" data-enc="1076">絕龍詩戰爭</button>
+          <button class="filter-btn" data-enc="1077">絕歐米茄</button>
+        </div>
+        <div class="table-wrap">
+          <table class="data-table" id="speed-table">
+            <thead>
+              <tr>
+                <th class="col-rank">#</th>
+                <th class="col-enc">副本</th>
+                <th class="col-time">通關時間</th>
+                <th class="col-date">日期</th>
+                <th>隊伍</th>
+              </tr>
+            </thead>
+            <tbody id="speed-tbody"></tbody>
+          </table>
+          <div class="empty-state hidden" id="speed-empty">暫無通關紀錄</div>
+        </div>
+        <div class="pagination-bar" id="speed-pagination"></div>
+      </div>
+
+    </section>
+
+    <!-- ═══ 玩家資料 ═══ -->
+    <section id="tab-player" class="tab-section hidden">
+      <div class="search-bar">
+        <input
+          type="text"
+          id="player-input"
+          class="search-input"
+          placeholder="輸入玩家名稱…"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <button class="search-btn" id="search-btn">搜尋</button>
+      </div>
+      <div id="player-results"></div>
+      <div id="return-bar" class="hidden">
+        <button id="return-btn" class="return-btn">&#8592; 返回排行榜</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>資料來源：FFLogs · 僅含繁中服玩家數據</span>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
