@@ -91,9 +91,9 @@ function detectPhase(eid, encounterName) {
       return 1;
 
     case 1075: // TEA - 4 phases
-      if (last.includes('perfect'))                                  return 4;
-      if (last.includes('alexander') && !last.includes('living'))    return 3;
-      if (last.includes('brute') || last.includes('cruise'))         return 2;
+      if (chain.some(p => p.includes('perfect')))                                 return 4;
+      if (chain.some(p => p.includes('alexander') && !p.includes('living')))      return 3;
+      if (chain.some(p => p.includes('brute') || p.includes('cruise')))           return 2;
       return 1;
 
     case 1076: { // DSR - 7 phases
