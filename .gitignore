@@ -15,6 +15,7 @@ dist/
 # Dev / debug scripts and internal docs
 inspect_report_fields.py
 update_data.bat
+push_data.bat
 docs/early_exit_approaches.md
 BUILD.md
 TC_FFLOGS_DATA.md
