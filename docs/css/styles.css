@@ -615,9 +615,11 @@ footer {
     overflow-y: visible;
     -webkit-overflow-scrolling: touch;
   }
-  /* Hide low-priority columns to reduce minimum table width */
-  .col-server { display: none; }
-  .col-date   { display: none; }
+  /* Hide low-priority columns — scoped to specific tables to avoid
+     accidentally hiding headers in the player profile table */
+  #rdps-table .col-server,
+  #rdps-table .col-date,
+  #speed-table .col-date { display: none; }
   .col-player { min-width: 130px; }
   .col-lnum   { width: 100px; }
   .data-table th, .data-table td { padding: 0.5rem 0.5rem; font-size: 0.82rem; }
