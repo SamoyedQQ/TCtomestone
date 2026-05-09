@@ -157,6 +157,55 @@ function ucobWipeHpStr(bossHpPct) {
   return `${phase} (${pct.toFixed(1)}%)`;
 }
 
+// HP pools per phase for non-UCoB ultimates (fightPercentage 100→0)
+const ENCOUNTER_PHASES = {
+  1074: [
+    { name: 'P1', hp: 1_664_845 },
+    { name: 'P2', hp: 1_408_008 },
+    { name: 'P3', hp: 1_449_210 },
+    { name: 'P4', hp: 3_750_000 },
+  ],
+  1075: [
+    { name: 'P1', hp: 3_356_051 },
+    { name: 'P2', hp: 4_337_852 },
+    { name: 'P3', hp: 3_180_181 },
+    { name: 'P4', hp: 7_535_109 },
+  ],
+  1076: [
+    { name: 'P1', hp: 5_670_940 },
+    { name: 'P2', hp: 7_439_000 },
+    { name: 'P3', hp: 6_449_440 },
+    { name: 'P4', hp: 8_839_608 },
+    { name: 'P5', hp: 5_821_796 },
+    { name: 'P6', hp: 9_070_736 },
+    { name: 'P7', hp: 12_178_508 },
+  ],
+  1077: [
+    { name: 'P1', hp: 8_557_964 },
+    { name: 'P2', hp: 8_629_240 },
+    { name: 'P3', hp: 11_125_976 },
+    { name: 'P4', hp: 4_895_429 },
+    { name: 'P5', hp: 13_707_136 },
+    { name: 'P6', hp: 20_530_948 },
+  ],
+};
+
+// fightPercentage (100→0) → "P3 (45.2%)" using HP pools
+function wipeProgressStr(eid, fightPct) {
+  const phases = ENCOUNTER_PHASES[eid];
+  if (!phases) return null;
+  const totalHp = phases.reduce((s, p) => s + p.hp, 0);
+  const damage = totalHp * (100 - fightPct) / 100;
+  if (damage < 0) return null;
+  let cumulative = 0;
+  for (const { name, hp } of phases) {
+    if (damage <= cumulative + hp)
+      return `${name} (${((damage - cumulative) / hp * 100).toFixed(1)}%)`;
+    cumulative += hp;
+  }
+  return `${phases[phases.length - 1].name} (100.0%)`;
+}
+
 function fmtDuration(ms) {
   const s = Math.floor(ms / 1000);
   const m = Math.floor(s / 60);
@@ -613,10 +662,10 @@ function renderPlayerProfile(name, server) {
     if (primary.is_clear) {
       statusHtml = `<span class="status-clear">✓ 已通關</span>`;
     } else {
-      const ph     = (eid !== 1073 && primary.phase_reached > 0) ? primary.phase_reached : detectPhase(eid, primary.encounter);
-      const phStr  = (eid === 1073 || ph == null) ? '' : `P${ph} `;
-      const pctStr = eid === 1073 ? ucobWipeHpStr(primary.boss_hp_pct) : `${(100 - primary.boss_hp_pct).toFixed(1)}%`;
-      statusHtml   = `<span class="status-wipe">✗ 最佳進度 ${eid === 1073 ? pctStr : `${phStr}(${pctStr})`}</span>`;
+      const pctStr = eid === 1073
+        ? ucobWipeHpStr(primary.boss_hp_pct)
+        : (wipeProgressStr(eid, primary.boss_hp_pct) ?? `${(100 - primary.boss_hp_pct).toFixed(1)}%`);
+      statusHtml   = `<span class="status-wipe">✗ 最佳進度 ${pctStr}</span>`;
     }
     const expandHtml = extras.length > 0
       ? ` <button class="expand-btn" data-group="${groupId}" data-expanded="">▼</button>`
@@ -641,10 +690,10 @@ function renderPlayerProfile(name, server) {
       if (rec.is_clear) {
         s2 = `<span class="status-clear">✓ 已通關</span>`;
       } else {
-        const ph2     = (eid !== 1073 && rec.phase_reached > 0) ? rec.phase_reached : detectPhase(eid, rec.encounter);
-        const phStr2  = (eid === 1073 || ph2 == null) ? '' : `P${ph2} `;
-        const pctStr2 = eid === 1073 ? ucobWipeHpStr(rec.boss_hp_pct) : `${(100 - rec.boss_hp_pct).toFixed(1)}%`;
-        s2 = `<span class="status-wipe">✗ 最佳進度 ${eid === 1073 ? pctStr2 : `${phStr2}(${pctStr2})`}</span>`;
+        const pctStr2 = eid === 1073
+          ? ucobWipeHpStr(rec.boss_hp_pct)
+          : (wipeProgressStr(eid, rec.boss_hp_pct) ?? `${(100 - rec.boss_hp_pct).toFixed(1)}%`);
+        s2 = `<span class="status-wipe">✗ 最佳進度 ${pctStr2}</span>`;
       }
       const r2  = rec.rdps > 0 ? `<span class="rdps-val">${rec.rdps.toFixed(1)}</span>` : '—';
       const rk2 = rankPctBadge(rec.rank, rec.rankTotal, rec.job);
