@@ -326,7 +326,13 @@ const DS = {
       byEnc[eid].sort((a, b) => {
         if (a.is_clear && !b.is_clear) return -1;
         if (!a.is_clear && b.is_clear) return 1;
-        if (a.is_clear) return (a.rank ?? Infinity) - (b.rank ?? Infinity);
+        if (a.is_clear) {
+          const rankDiff = (a.rank ?? Infinity) - (b.rank ?? Infinity);
+          if (rankDiff !== 0) return rankDiff;
+          const pctA = a.rankTotal ? Math.floor((1 - (a.rank - 1) / a.rankTotal) * 100) : 0;
+          const pctB = b.rankTotal ? Math.floor((1 - (b.rank - 1) / b.rankTotal) * 100) : 0;
+          return pctB - pctA;
+        }
         return a.boss_hp_pct - b.boss_hp_pct;
       });
     }
