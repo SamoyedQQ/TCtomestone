@@ -6748,5 +6748,77 @@
     "fight_id": 18,
     "duration_ms": 888336,
     "clear_dt_ms": 1770879288134
+  },
+  {
+    "code": "1N34c2XfxVWZGJbk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "柒伍@迦樓羅",
+      "花一匁@伊弗利特",
+      "魔法u柯比u@伊弗利特",
+      "狡猾海豹@鳳凰",
+      "譚仔三哥@利維坦",
+      "琴葉千草@迦樓羅",
+      "Kami@伊弗利特",
+      "Jiaozi@伊弗利特"
+    ],
+    "fight_id": 50,
+    "duration_ms": 1145480,
+    "clear_dt_ms": 1778247948145
+  },
+  {
+    "code": "1N34c2XfxVWZGJbk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "柒伍@迦樓羅",
+      "花一匁@伊弗利特",
+      "魔法u柯比u@伊弗利特",
+      "Nekota@鳳凰",
+      "譚仔三哥@利維坦",
+      "琴葉千草@迦樓羅",
+      "Kami@伊弗利特",
+      "Jiaozi@伊弗利特"
+    ],
+    "fight_id": 119,
+    "duration_ms": 1140728,
+    "clear_dt_ms": 1778313254487
+  },
+  {
+    "code": "cd4jrLVxPNKgzmhv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "魘塵@鳳凰",
+      "Binyan@奧汀",
+      "Oli@鳳凰",
+      "Toast@鳳凰",
+      "Graves@伊弗利特",
+      "Poa@伊弗利特",
+      "Gray@迦樓羅",
+      "Racqn@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 963777,
+    "clear_dt_ms": 1777992465045
+  },
+  {
+    "code": "cd4jrLVxPNKgzmhv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "魘塵@鳳凰",
+      "Binyan@奧汀",
+      "Oli@鳳凰",
+      "Toast@鳳凰",
+      "Graves@伊弗利特",
+      "Poa@伊弗利特",
+      "Gray@迦樓羅",
+      "Racqn@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 947690,
+    "clear_dt_ms": 1777994464397
   }
 ]
