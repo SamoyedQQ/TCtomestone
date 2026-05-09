@@ -128,31 +128,7 @@ function detectPhase(eid, encounterName) {
   return null;
 }
 
-// UCoB phase HP pools (fightPercentage 100=start → 80=clear spans this total)
-const UCOB_PHASES = [
-  { name: 'P1', hp: 1_882_943 },
-  { name: 'P2', hp: 1_706_046 },
-  { name: 'P3', hp: 1_871_792 },  // BP × 0.4 (transitions at 60%)
-  { name: 'P4', hp: 1_520_898 },  // Twin P4 (753,177) + Nael P4 (767,721)
-  { name: 'P5', hp: 4_679_480 },
-];
-const UCOB_TOTAL_HP = UCOB_PHASES.reduce((s, p) => s + p.hp, 0);
-
-// fightPercentage → { phase: "P3", pct: 45.2 }
-function ucobPhaseFromFightPct(fightPct) {
-  const damage = UCOB_TOTAL_HP * (100 - fightPct) / 20;
-  let cumulative = 0;
-  for (const { name, hp } of UCOB_PHASES) {
-    if (damage <= cumulative + hp) {
-      return { phase: name, pct: (damage - cumulative) / hp * 100 };
-    }
-    cumulative += hp;
-  }
-  return { phase: 'P5', pct: 100 };
-}
-
-function wipePhaseLabel(eid, bossHpPct, phaseReached, encounterName) {
-  if (eid === 1073) return ucobPhaseFromFightPct(bossHpPct).phase;
+function wipePhaseLabel(eid, phaseReached, encounterName) {
   const ph = phaseReached > 0 ? phaseReached : detectPhase(eid, encounterName);
   return ph != null ? `P${ph}` : null;
 }
@@ -613,7 +589,7 @@ function renderPlayerProfile(name, server) {
     if (primary.is_clear) {
       statusHtml = `<span class="status-clear">✓ 已通關</span>`;
     } else {
-      const phLabel = wipePhaseLabel(eid, primary.boss_hp_pct, primary.phase_reached, primary.encounter);
+      const phLabel = wipePhaseLabel(eid, primary.phase_reached, primary.encounter);
       statusHtml    = `<span class="status-wipe">✗ 最佳進度 ${phLabel ?? '—'}</span>`;
     }
     const expandHtml = extras.length > 0
@@ -639,7 +615,7 @@ function renderPlayerProfile(name, server) {
       if (rec.is_clear) {
         s2 = `<span class="status-clear">✓ 已通關</span>`;
       } else {
-        const phLabel2 = wipePhaseLabel(eid, rec.boss_hp_pct, rec.phase_reached, rec.encounter);
+        const phLabel2 = wipePhaseLabel(eid, rec.phase_reached, rec.encounter);
         s2 = `<span class="status-wipe">✗ 最佳進度 ${phLabel2 ?? '—'}</span>`;
       }
       const r2  = rec.rdps > 0 ? `<span class="rdps-val">${rec.rdps.toFixed(1)}</span>` : '—';

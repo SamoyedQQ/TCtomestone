@@ -6819,7 +6819,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "無彌z@巴哈姆特:1073:_wipe": {
     "name": "無彌z",
@@ -6837,7 +6837,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "嫣@伊弗利特:1073:_wipe": {
     "name": "嫣",
@@ -6855,7 +6855,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "十一日二十月@伊弗利特:1073:_wipe": {
     "name": "十一日二十月",
@@ -6873,7 +6873,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Yunla@伊弗利特:1073:_wipe": {
     "name": "Yunla",
@@ -6891,7 +6891,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "裴真率的老公@巴哈姆特:1073:_wipe": {
     "name": "裴真率的老公",
@@ -6909,7 +6909,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "里歐leo@迦樓羅:1073:_wipe": {
     "name": "里歐leo",
@@ -6927,7 +6927,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "鯊鯊qwq@迦樓羅:1073:_wipe": {
     "name": "鯊鯊qwq",
@@ -6945,7 +6945,7 @@
     "fight_id": 7,
     "timestamp_ms": 1778171109792,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Sakra@伊弗利特:1075:Dancer": {
     "name": "Sakra",
@@ -7557,7 +7557,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Oftum@鳳凰:1073:_wipe": {
     "name": "Oftum",
@@ -7575,7 +7575,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "梅洛洛@利維坦:1073:_wipe": {
     "name": "梅洛洛",
@@ -7593,7 +7593,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "赫雨娜希恩@迦樓羅:1073:_wipe": {
     "name": "赫雨娜希恩",
@@ -7611,7 +7611,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "積美希@利維坦:1073:_wipe": {
     "name": "積美希",
@@ -7629,7 +7629,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "龍龍@奧汀:1073:_wipe": {
     "name": "龍龍",
@@ -7647,7 +7647,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "醉花o@迦樓羅:1073:_wipe": {
     "name": "醉花o",
@@ -7665,7 +7665,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "沙龍怕鼠@巴哈姆特:1073:_wipe": {
     "name": "沙龍怕鼠",
@@ -7683,7 +7683,7 @@
     "fight_id": 11,
     "timestamp_ms": 1778250631692,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "夢幻o飄@迦樓羅:1073:_wipe": {
     "name": "夢幻o飄",
@@ -7701,7 +7701,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "傷心小殘@伊弗利特:1075:_wipe": {
     "name": "傷心小殘",
@@ -15135,7 +15135,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Rlu@利維坦:1073:_wipe": {
     "name": "Rlu",
@@ -15153,7 +15153,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Yuruia@奧汀:1073:_wipe": {
     "name": "Yuruia",
@@ -15171,7 +15171,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "悠夜雨@鳳凰:1073:_wipe": {
     "name": "悠夜雨",
@@ -15189,7 +15189,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "哈哈傻瓜蛋@利維坦:1073:_wipe": {
     "name": "哈哈傻瓜蛋",
@@ -15207,7 +15207,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Squash@利維坦:1073:_wipe": {
     "name": "Squash",
@@ -15225,7 +15225,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "鳩可@迦樓羅:1073:_wipe": {
     "name": "鳩可",
@@ -15243,7 +15243,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "璃津@迦樓羅:1073:_wipe": {
     "name": "璃津",
@@ -15261,7 +15261,7 @@
     "fight_id": 33,
     "timestamp_ms": 1777643436953,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "亞爾@伊弗利特:1074:_wipe": {
     "name": "亞爾",
@@ -23109,7 +23109,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "沅禧吃麻薯@巴哈姆特:1073:_wipe": {
     "name": "沅禧吃麻薯",
@@ -23127,7 +23127,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Hitomi@奧汀:1073:_wipe": {
     "name": "Hitomi",
@@ -23145,7 +23145,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "佐拉賈斯汀@伊弗利特:1073:_wipe": {
     "name": "佐拉賈斯汀",
@@ -23163,7 +23163,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "諾里曼·費特@伊弗利特:1073:_wipe": {
     "name": "諾里曼·費特",
@@ -23181,7 +23181,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Kfc炸薯條@奧汀:1073:_wipe": {
     "name": "Kfc炸薯條",
@@ -23199,7 +23199,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Begin雄@迦樓羅:1073:_wipe": {
     "name": "Begin雄",
@@ -23217,7 +23217,7 @@
     "fight_id": 61,
     "timestamp_ms": 1776874968736,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "我不叫冠衝@奧汀:1075:_wipe": {
     "name": "我不叫冠衝",
@@ -31875,7 +31875,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "Rudolf@奧汀:1073:_wipe": {
     "name": "Rudolf",
@@ -31893,7 +31893,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "莫古亞·莫古@奧汀:1073:_wipe": {
     "name": "莫古亞·莫古",
@@ -31911,7 +31911,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "Rafale@巴哈姆特:1073:_wipe": {
     "name": "Rafale",
@@ -31929,7 +31929,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "喬泥娜鼻樣@奧汀:1073:_wipe": {
     "name": "喬泥娜鼻樣",
@@ -31947,7 +31947,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "雩梟@鳳凰:1073:_wipe": {
     "name": "雩梟",
@@ -31965,7 +31965,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "Ceria@鳳凰:1073:_wipe": {
     "name": "Ceria",
@@ -31983,7 +31983,7 @@
     "fight_id": 41,
     "timestamp_ms": 1772893483169,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "Yui@鳳凰:1073:_wipe": {
     "name": "Yui",
@@ -32001,7 +32001,7 @@
     "fight_id": 21,
     "timestamp_ms": 1772809215720,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "小咻咻@鳳凰:1075:_wipe": {
     "name": "小咻咻",
@@ -32667,7 +32667,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "黑雪兔@利維坦:1073:_wipe": {
     "name": "黑雪兔",
@@ -32685,7 +32685,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "香蕉大濕@伊弗利特:1073:_wipe": {
     "name": "香蕉大濕",
@@ -32703,7 +32703,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "波攸@巴哈姆特:1073:_wipe": {
     "name": "波攸",
@@ -32721,7 +32721,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "流星拉菲卡@迦樓羅:1073:_wipe": {
     "name": "流星拉菲卡",
@@ -32739,7 +32739,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "時莯@利維坦:1073:_wipe": {
     "name": "時莯",
@@ -32757,7 +32757,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "給你錢快點做@鳳凰:1073:_wipe": {
     "name": "給你錢快點做",
@@ -32775,7 +32775,7 @@
     "fight_id": 13,
     "timestamp_ms": 1772888397878,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "夏殷@利維坦:1075:_wipe": {
     "name": "夏殷",
@@ -35475,7 +35475,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "青菜老大@利維坦:1073:_wipe": {
     "name": "青菜老大",
@@ -35493,7 +35493,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "Nutz@巴哈姆特:1073:_wipe": {
     "name": "Nutz",
@@ -35511,7 +35511,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "九筒大姊@利維坦:1075:_wipe": {
     "name": "九筒大姊",
@@ -44547,7 +44547,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "夜無@迦樓羅:1073:_wipe": {
     "name": "夜無",
@@ -44565,7 +44565,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Mikka@利維坦:1073:_wipe": {
     "name": "Mikka",
@@ -44583,7 +44583,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "布津乃@利維坦:1073:_wipe": {
     "name": "布津乃",
@@ -44601,7 +44601,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "薩耶@利維坦:1073:_wipe": {
     "name": "薩耶",
@@ -44619,7 +44619,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "阿飯@利維坦:1073:_wipe": {
     "name": "阿飯",
@@ -44637,7 +44637,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "加奈@利維坦:1073:_wipe": {
     "name": "加奈",
@@ -44655,7 +44655,7 @@
     "fight_id": 5,
     "timestamp_ms": 1777031736584,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "馬歇爾艾爾@迦樓羅:1074:_wipe": {
     "name": "馬歇爾艾爾",
@@ -44979,7 +44979,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "阿兔爺@迦樓羅:1073:_wipe": {
     "name": "阿兔爺",
@@ -44997,7 +44997,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "泠凌月@利維坦:1073:_wipe": {
     "name": "泠凌月",
@@ -45015,7 +45015,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "布丁蜜豆奶@伊弗利特:1073:_wipe": {
     "name": "布丁蜜豆奶",
@@ -45033,7 +45033,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "阿多尼斯@鳳凰:1073:_wipe": {
     "name": "阿多尼斯",
@@ -45051,7 +45051,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "夜雨聲煩@鳳凰:1073:_wipe": {
     "name": "夜雨聲煩",
@@ -45069,7 +45069,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "咻咻@伊弗利特:1073:_wipe": {
     "name": "咻咻",
@@ -45087,7 +45087,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "抹茶霜淇淋@伊弗利特:1073:_wipe": {
     "name": "抹茶霜淇淋",
@@ -45105,7 +45105,7 @@
     "fight_id": 5,
     "timestamp_ms": 1775141619333,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Mikank@鳳凰:1074:_wipe": {
     "name": "Mikank",
@@ -52161,7 +52161,7 @@
     "fight_id": 19,
     "timestamp_ms": 1775832524282,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "腹黑兔@利維坦:1073:_wipe": {
     "name": "腹黑兔",
@@ -52179,7 +52179,7 @@
     "fight_id": 19,
     "timestamp_ms": 1775832524282,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "阿大姆@迦樓羅:1073:_wipe": {
     "name": "阿大姆",
@@ -52197,7 +52197,7 @@
     "fight_id": 19,
     "timestamp_ms": 1775832524282,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Lalayo@迦樓羅:1075:_wipe": {
     "name": "Lalayo",
@@ -52863,7 +52863,7 @@
     "fight_id": 8,
     "timestamp_ms": 1775823657457,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "麥克雞快@巴哈姆特:1074:_wipe": {
     "name": "麥克雞快",
@@ -53979,7 +53979,7 @@
     "fight_id": 26,
     "timestamp_ms": 1774110515963,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "Fung@巴哈姆特:1073:_wipe": {
     "name": "Fung",
@@ -53997,7 +53997,7 @@
     "fight_id": 26,
     "timestamp_ms": 1774110515963,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "眾天月靈@迦樓羅:1073:_wipe": {
     "name": "眾天月靈",
@@ -54015,7 +54015,7 @@
     "fight_id": 26,
     "timestamp_ms": 1774110515963,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "點迪@迦樓羅:1074:_wipe": {
     "name": "點迪",
@@ -57273,7 +57273,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "酉星酉星口巴@迦樓羅:1073:_wipe": {
     "name": "酉星酉星口巴",
@@ -57291,7 +57291,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Bang企鵝@巴哈姆特:1073:_wipe": {
     "name": "Bang企鵝",
@@ -57309,7 +57309,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Bucket@鳳凰:1073:_wipe": {
     "name": "Bucket",
@@ -57327,7 +57327,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Syrtis@奧汀:1073:_wipe": {
     "name": "Syrtis",
@@ -57345,7 +57345,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "淡定普洱茶@奧汀:1073:_wipe": {
     "name": "淡定普洱茶",
@@ -57363,7 +57363,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "丁特兒子@巴哈姆特:1073:_wipe": {
     "name": "丁特兒子",
@@ -57381,7 +57381,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Fubuki@奧汀:1073:_wipe": {
     "name": "Fubuki",
@@ -57399,7 +57399,7 @@
     "fight_id": 82,
     "timestamp_ms": 1774634998103,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "Lucy@奧汀:1075:_wipe": {
     "name": "Lucy",
@@ -65733,7 +65733,7 @@
     "fight_id": 17,
     "timestamp_ms": 1775909554342,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "久雲@奧汀:1074:_wipe": {
     "name": "久雲",
@@ -66471,7 +66471,7 @@
     "fight_id": 70,
     "timestamp_ms": 1775984808429,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "真央@迦樓羅:1075:_wipe": {
     "name": "真央",
@@ -66633,7 +66633,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "麻靈吉@伊弗利特:1073:_wipe": {
     "name": "麻靈吉",
@@ -66651,7 +66651,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Jiaozi@伊弗利特:1073:_wipe": {
     "name": "Jiaozi",
@@ -66669,7 +66669,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Xufeng@利維坦:1073:_wipe": {
     "name": "Xufeng",
@@ -66687,7 +66687,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "丹鳳@鳳凰:1073:_wipe": {
     "name": "丹鳳",
@@ -66705,7 +66705,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "納斯@伊弗利特:1073:_wipe": {
     "name": "納斯",
@@ -66723,7 +66723,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "柚兔兔@伊弗利特:1073:_wipe": {
     "name": "柚兔兔",
@@ -66741,7 +66741,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "大包包@伊弗利特:1073:_wipe": {
     "name": "大包包",
@@ -66759,7 +66759,7 @@
     "fight_id": 3,
     "timestamp_ms": 1775845355058,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Makima@伊弗利特:1075:Astrologian": {
     "name": "Makima",
@@ -70017,7 +70017,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "肌肉兔@鳳凰:1073:_wipe": {
     "name": "肌肉兔",
@@ -70035,7 +70035,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "鹹酥雞@鳳凰:1073:_wipe": {
     "name": "鹹酥雞",
@@ -70053,7 +70053,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "神聖耶菈@鳳凰:1073:_wipe": {
     "name": "神聖耶菈",
@@ -70071,7 +70071,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "香蔥厚麵超市@巴哈姆特:1073:_wipe": {
     "name": "香蔥厚麵超市",
@@ -70089,7 +70089,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "咪咪帽帽@鳳凰:1073:_wipe": {
     "name": "咪咪帽帽",
@@ -70107,7 +70107,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "角神莫@鳳凰:1073:_wipe": {
     "name": "角神莫",
@@ -70125,7 +70125,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "雨嵐@伊弗利特:1073:_wipe": {
     "name": "雨嵐",
@@ -70143,7 +70143,7 @@
     "fight_id": 19,
     "timestamp_ms": 1770993564422,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 1
   },
   "喵萌蝶@伊弗利特:1074:_wipe": {
     "name": "喵萌蝶",
@@ -76407,7 +76407,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "小落奈@巴哈姆特:1073:_wipe": {
     "name": "小落奈",
@@ -76425,7 +76425,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "仙草愛玉@鳳凰:1073:_wipe": {
     "name": "仙草愛玉",
@@ -76443,7 +76443,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "懶斯洛特@迦樓羅:1073:_wipe": {
     "name": "懶斯洛特",
@@ -76461,7 +76461,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "夢龜@迦樓羅:1073:_wipe": {
     "name": "夢龜",
@@ -76479,7 +76479,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "悠羽狐白@利維坦:1073:_wipe": {
     "name": "悠羽狐白",
@@ -76497,7 +76497,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Gibada@鳳凰:1073:_wipe": {
     "name": "Gibada",
@@ -76515,7 +76515,7 @@
     "fight_id": 59,
     "timestamp_ms": 1778316273119,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "熊貓不接受@鳳凰:1075:_wipe": {
     "name": "熊貓不接受",
@@ -79809,7 +79809,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "雅·修的啦@利維坦:1073:_wipe": {
     "name": "雅·修的啦",
@@ -79827,7 +79827,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "補月@利維坦:1073:_wipe": {
     "name": "補月",
@@ -79845,7 +79845,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "麥茶丷@迦樓羅:1073:_wipe": {
     "name": "麥茶丷",
@@ -79863,7 +79863,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "黑色楓葉@利維坦:1073:_wipe": {
     "name": "黑色楓葉",
@@ -79881,7 +79881,7 @@
     "fight_id": 11,
     "timestamp_ms": 1772809523733,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "陰暗爬行初華@利維坦:1073:_wipe": {
     "name": "陰暗爬行初華",
@@ -79899,7 +79899,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "梅幽芊@伊弗利特:1073:_wipe": {
     "name": "梅幽芊",
@@ -79917,7 +79917,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "Exsalt@鳳凰:1073:_wipe": {
     "name": "Exsalt",
@@ -79935,7 +79935,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "繆雅菈@鳳凰:1073:_wipe": {
     "name": "繆雅菈",
@@ -79953,7 +79953,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "帽子給我好嗎@伊弗利特:1073:_wipe": {
     "name": "帽子給我好嗎",
@@ -79971,7 +79971,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "銀鈴@伊弗利特:1073:_wipe": {
     "name": "銀鈴",
@@ -79989,7 +79989,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "骯髒毛毯@伊弗利特:1073:_wipe": {
     "name": "骯髒毛毯",
@@ -80007,7 +80007,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "咖哩暴龍@迦樓羅:1073:_wipe": {
     "name": "咖哩暴龍",
@@ -80025,7 +80025,7 @@
     "fight_id": 10,
     "timestamp_ms": 1777019112833,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 5
   },
   "米萊owo@利維坦:1073:_wipe": {
     "name": "米萊owo",
@@ -80043,7 +80043,7 @@
     "fight_id": 4,
     "timestamp_ms": 1777041172586,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Estia@鳳凰:1073:_wipe": {
     "name": "Estia",
@@ -80061,7 +80061,7 @@
     "fight_id": 4,
     "timestamp_ms": 1777041172586,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Nutz@泰坦:1073:_wipe": {
     "name": "Nutz",
@@ -80079,7 +80079,7 @@
     "fight_id": 4,
     "timestamp_ms": 1777041172586,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Jacy@伊弗利特:1073:_wipe": {
     "name": "Jacy",
@@ -80097,7 +80097,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "黃金熊熊維尼@巴哈姆特:1073:_wipe": {
     "name": "黃金熊熊維尼",
@@ -80115,7 +80115,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Wenwen@伊弗利特:1073:_wipe": {
     "name": "Wenwen",
@@ -80133,7 +80133,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Meiji@迦樓羅:1073:_wipe": {
     "name": "Meiji",
@@ -80151,7 +80151,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "羊松鼠馬魚貓@迦樓羅:1073:_wipe": {
     "name": "羊松鼠馬魚貓",
@@ -80169,7 +80169,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "喵萌蝶@伊弗利特:1073:_wipe": {
     "name": "喵萌蝶",
@@ -80187,7 +80187,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Mayoo@利維坦:1073:_wipe": {
     "name": "Mayoo",
@@ -80205,7 +80205,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Benny@奧汀:1073:_wipe": {
     "name": "Benny",
@@ -80223,7 +80223,7 @@
     "fight_id": 60,
     "timestamp_ms": 1775976777573,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "明日的希望@迦樓羅:1073:_wipe": {
     "name": "明日的希望",
@@ -80241,7 +80241,7 @@
     "fight_id": 66,
     "timestamp_ms": 1775982422243,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "魘塵@鳳凰:1075:BlackMage": {
     "name": "魘塵",
@@ -80637,7 +80637,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Souru@利維坦:1073:_wipe": {
     "name": "Souru",
@@ -80655,7 +80655,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "綾小路@伊弗利特:1073:_wipe": {
     "name": "綾小路",
@@ -80673,7 +80673,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "電子幽靈@奧汀:1073:_wipe": {
     "name": "電子幽靈",
@@ -80691,7 +80691,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "左淪@迦樓羅:1073:_wipe": {
     "name": "左淪",
@@ -80709,7 +80709,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "莉可@鳳凰:1073:_wipe": {
     "name": "莉可",
@@ -80727,7 +80727,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Icy@奧汀:1073:_wipe": {
     "name": "Icy",
@@ -80745,7 +80745,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "燈除見懷弔@伊弗利特:1073:_wipe": {
     "name": "燈除見懷弔",
@@ -80763,7 +80763,7 @@
     "fight_id": 2,
     "timestamp_ms": 1778155780587,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 3
   },
   "Kimgra@利維坦:1075:_wipe": {
     "name": "Kimgra",
