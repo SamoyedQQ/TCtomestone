@@ -8980,5 +8980,77 @@
     "fight_id": 10,
     "duration_ms": 974425,
     "clear_dt_ms": 1778337345554
+  },
+  {
+    "code": "fNyXn3jvmM1kYVZb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "輕鬆開朗@鳳凰",
+      "瓦蘭忒@奧汀",
+      "Wazir@迦樓羅",
+      "Cylian@巴哈姆特",
+      "Yunai@迦樓羅",
+      "伊卡@伊弗利特",
+      "恆天@迦樓羅",
+      "Est@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 955860,
+    "clear_dt_ms": 1778333100008
+  },
+  {
+    "code": "fNyXn3jvmM1kYVZb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "輕鬆開朗@鳳凰",
+      "瓦蘭忒@奧汀",
+      "Wazir@迦樓羅",
+      "Cylian@巴哈姆特",
+      "伊卡@伊弗利特",
+      "Yunai@迦樓羅",
+      "恆天@迦樓羅",
+      "Est@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 956780,
+    "clear_dt_ms": 1778334795819
+  },
+  {
+    "code": "fNyXn3jvmM1kYVZb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "輕鬆開朗@鳳凰",
+      "瓦蘭忒@奧汀",
+      "伊卡@伊弗利特",
+      "Wazir@迦樓羅",
+      "Cylian@巴哈姆特",
+      "Yunai@迦樓羅",
+      "恆天@迦樓羅",
+      "Est@巴哈姆特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 959433,
+    "clear_dt_ms": 1778336793255
+  },
+  {
+    "code": "wJgVhypAXWkT6zdr",
+    "title": "0509",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Chuchu@迦樓羅",
+      "Star竣@迦樓羅",
+      "黑鳶尾@迦樓羅",
+      "弗雷克托@巴哈姆特",
+      "是瑞奇阿@迦樓羅",
+      "霖ing@迦樓羅",
+      "真香@迦樓羅",
+      "高手貓騎士@迦樓羅"
+    ],
+    "fight_id": 18,
+    "duration_ms": 994645,
+    "clear_dt_ms": 1778340613944
   }
 ]
