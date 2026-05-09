@@ -593,9 +593,37 @@ footer {
 
 /* ── Responsive ── */
 @media (max-width: 700px) {
-  .header-inner { padding: 0 1rem; }
-  main { padding: 1rem; }
-  .data-table th, .data-table td { padding: 0.5rem 0.6rem; font-size: 0.82rem; }
-  .col-date { display: none; }
-  .role-tab { padding: 0.45rem 0.75rem; font-size: 0.82rem; }
+  /* Header: two-row layout to prevent button overlap */
+  .header-inner {
+    flex-wrap: wrap;
+    padding: 0.5rem 1rem;
+    min-height: auto;
+    gap: 0.4rem 0.75rem;
+  }
+  /* Logo takes full first row, pushes nav+donate to second row */
+  .logo        { flex: 1 1 100%; }
+  .logo-sub    { display: none; }
+  .header-meta { display: none; }
+  .donate-btn  { padding: 0.3rem 0.65rem; font-size: 0.8rem; }
+
+  /* Content */
+  main { padding: 0.75rem; }
+
+  /* Table: allow horizontal scroll instead of clipping */
+  .table-wrap {
+    overflow-x: auto;
+    overflow-y: visible;
+    -webkit-overflow-scrolling: touch;
+  }
+  /* Hide low-priority columns to reduce minimum table width */
+  .col-server { display: none; }
+  .col-date   { display: none; }
+  .col-player { min-width: 130px; }
+  .col-lnum   { width: 100px; }
+  .data-table th, .data-table td { padding: 0.5rem 0.5rem; font-size: 0.82rem; }
+
+  /* Role tab bar: stack stats below tabs instead of side-by-side */
+  .role-tab-bar { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
+  .lb-stats     { margin-left: 0; text-align: left; }
+  .role-tab     { padding: 0.45rem 0.75rem; font-size: 0.82rem; }
 }
