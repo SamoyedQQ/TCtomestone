@@ -616,7 +616,7 @@ function renderPlayerProfile(name, server) {
       const ph     = detectPhase(eid, primary.encounter);
       const phStr  = (eid === 1073 || ph == null) ? '' : `P${ph} `;
       const pctStr = eid === 1073 ? ucobWipeHpStr(primary.boss_hp_pct) : `${(100 - primary.boss_hp_pct).toFixed(1)}%`;
-      statusHtml   = `<span class="status-wipe">✗ 最佳進度 ${phStr}(${pctStr})</span>`;
+      statusHtml   = `<span class="status-wipe">✗ 最佳進度 ${eid === 1073 ? pctStr : `${phStr}(${pctStr})`}</span>`;
     }
     const expandHtml = extras.length > 0
       ? ` <button class="expand-btn" data-group="${groupId}" data-expanded="">▼</button>`
@@ -644,7 +644,7 @@ function renderPlayerProfile(name, server) {
         const ph2     = detectPhase(eid, rec.encounter);
         const phStr2  = (eid === 1073 || ph2 == null) ? '' : `P${ph2} `;
         const pctStr2 = eid === 1073 ? ucobWipeHpStr(rec.boss_hp_pct) : `${(100 - rec.boss_hp_pct).toFixed(1)}%`;
-        s2 = `<span class="status-wipe">✗ 最佳進度 ${phStr2}(${pctStr2})</span>`;
+        s2 = `<span class="status-wipe">✗ 最佳進度 ${eid === 1073 ? pctStr2 : `${phStr2}(${pctStr2})`}</span>`;
       }
       const r2  = rec.rdps > 0 ? `<span class="rdps-val">${rec.rdps.toFixed(1)}</span>` : '—';
       const rk2 = rankPctBadge(rec.rank, rec.rankTotal, rec.job);

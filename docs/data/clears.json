@@ -5886,6 +5886,24 @@
     "clear_dt_ms": 1778259943028
   },
   {
+    "code": "tHnyrGTvgMja8hfz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "白山銀次郎@鳳凰",
+      "喵萌蝶@伊弗利特",
+      "永愛三玖@巴哈姆特",
+      "舞紗橘@利維坦",
+      "崩落之旅人@利維坦",
+      "新手一名@伊弗利特",
+      "Wenwen@伊弗利特",
+      "Mayoo@利維坦"
+    ],
+    "fight_id": 142,
+    "duration_ms": 966148,
+    "clear_dt_ms": 1776101189049
+  },
+  {
     "code": "t7F8HGVXy3acg4Yb",
     "title": "绝境战（旧版本）",
     "encounter": "The Epic of Alexander",
@@ -6730,95 +6748,5 @@
     "fight_id": 18,
     "duration_ms": 888336,
     "clear_dt_ms": 1770879288134
-  },
-  {
-    "code": "bBJMcWNP13LwQF8j",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "米萊owo@利維坦",
-      "Estia@鳳凰",
-      "麥茶丷@迦樓羅",
-      "補月@利維坦",
-      "雅·修的啦@利維坦",
-      "碳酸氫鈉@利維坦",
-      "Nutz@泰坦",
-      "黑色楓葉@利維坦"
-    ],
-    "fight_id": 4,
-    "duration_ms": 969708,
-    "clear_dt_ms": 1777041172586
-  },
-  {
-    "code": "m29TjCJwxaWqbLDt",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "陰暗爬行初華@利維坦",
-      "梅幽芊@伊弗利特",
-      "Exsalt@鳳凰",
-      "繆雅菈@鳳凰",
-      "帽子給我好嗎@伊弗利特",
-      "銀鈴@伊弗利特",
-      "骯髒毛毯@伊弗利特",
-      "咖哩暴龍@迦樓羅"
-    ],
-    "fight_id": 10,
-    "duration_ms": 1056850,
-    "clear_dt_ms": 1777019112833
-  },
-  {
-    "code": "tHnyrGTvgMja8hfz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "黃金熊熊維尼@巴哈姆特",
-      "Benny@奧汀",
-      "喵萌蝶@伊弗利特",
-      "Wenwen@伊弗利特",
-      "Mayoo@利維坦",
-      "羊松鼠馬魚貓@迦樓羅",
-      "Jacy@伊弗利特",
-      "Meiji@迦樓羅"
-    ],
-    "fight_id": 60,
-    "duration_ms": 1111132,
-    "clear_dt_ms": 1775976777573
-  },
-  {
-    "code": "tHnyrGTvgMja8hfz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "黃金熊熊維尼@巴哈姆特",
-      "Benny@奧汀",
-      "喵萌蝶@伊弗利特",
-      "Wenwen@伊弗利特",
-      "Mayoo@利維坦",
-      "羊松鼠馬魚貓@迦樓羅",
-      "Jacy@伊弗利特",
-      "Meiji@迦樓羅"
-    ],
-    "fight_id": 64,
-    "duration_ms": 1102028,
-    "clear_dt_ms": 1775980677665
-  },
-  {
-    "code": "tHnyrGTvgMja8hfz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "黃金熊熊維尼@巴哈姆特",
-      "Benny@奧汀",
-      "喵萌蝶@伊弗利特",
-      "Wenwen@伊弗利特",
-      "Mayoo@利維坦",
-      "明日的希望@迦樓羅",
-      "羊松鼠馬魚貓@迦樓羅",
-      "Jacy@伊弗利特"
-    ],
-    "fight_id": 66,
-    "duration_ms": 1106170,
-    "clear_dt_ms": 1775982422243
   }
 ]
