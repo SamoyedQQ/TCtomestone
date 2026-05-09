@@ -449,7 +449,7 @@ function renderLeaderboard() {
     <tr class="lb-row" data-name="${esc(rec.name)}" data-server="${esc(rec.server)}">
       <td class="col-rank" style="text-align:center">${rankBadge(rank)}</td>
       <td class="col-player" style="color:${nameColor};font-weight:500">${esc(rec.name)}</td>
-      <td><span class="server-name">${esc(rec.server)}</span></td>
+      <td class="col-server"><span class="server-name">${esc(rec.server)}</span></td>
       <td class="col-job">${jobChip(rec.job)}</td>
       <td class="col-lnum rdps-val">${rec.rdps.toFixed(1)}</td>
       <td class="col-lnum parse-val">${rec.adps > 0 ? rec.adps.toFixed(1) : '—'}</td>
