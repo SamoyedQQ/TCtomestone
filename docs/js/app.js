@@ -613,7 +613,7 @@ function renderPlayerProfile(name, server) {
     if (primary.is_clear) {
       statusHtml = `<span class="status-clear">✓ 已通關</span>`;
     } else {
-      const ph     = detectPhase(eid, primary.encounter);
+      const ph     = (eid !== 1073 && primary.phase_reached > 0) ? primary.phase_reached : detectPhase(eid, primary.encounter);
       const phStr  = (eid === 1073 || ph == null) ? '' : `P${ph} `;
       const pctStr = eid === 1073 ? ucobWipeHpStr(primary.boss_hp_pct) : `${(100 - primary.boss_hp_pct).toFixed(1)}%`;
       statusHtml   = `<span class="status-wipe">✗ 最佳進度 ${eid === 1073 ? pctStr : `${phStr}(${pctStr})`}</span>`;
@@ -641,7 +641,7 @@ function renderPlayerProfile(name, server) {
       if (rec.is_clear) {
         s2 = `<span class="status-clear">✓ 已通關</span>`;
       } else {
-        const ph2     = detectPhase(eid, rec.encounter);
+        const ph2     = (eid !== 1073 && rec.phase_reached > 0) ? rec.phase_reached : detectPhase(eid, rec.encounter);
         const phStr2  = (eid === 1073 || ph2 == null) ? '' : `P${ph2} `;
         const pctStr2 = eid === 1073 ? ucobWipeHpStr(rec.boss_hp_pct) : `${(100 - rec.boss_hp_pct).toFixed(1)}%`;
         s2 = `<span class="status-wipe">✗ 最佳進度 ${eid === 1073 ? pctStr2 : `${phStr2}(${pctStr2})`}</span>`;
