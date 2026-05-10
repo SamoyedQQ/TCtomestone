@@ -9556,5 +9556,41 @@
     "fight_id": 55,
     "duration_ms": 997129,
     "clear_dt_ms": 1778081207279
+  },
+  {
+    "code": "CYVzTHhxXJgpmc2P",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿秋@利維坦",
+      "椒麻雞@巴哈姆特",
+      "嵐可可@利維坦",
+      "群青日和@泰坦",
+      "小who豬@鳳凰",
+      "星宿及月@迦樓羅",
+      "藥塵@利維坦",
+      "穗曦@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 931666,
+    "clear_dt_ms": 1778358940212
+  },
+  {
+    "code": "CYVzTHhxXJgpmc2P",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "椒麻雞@巴哈姆特",
+      "嵐可可@利維坦",
+      "群青日和@泰坦",
+      "小who豬@鳳凰",
+      "藥塵@利維坦",
+      "穗曦@伊弗利特",
+      "阿秋@利維坦",
+      "星宿及月@迦樓羅"
+    ],
+    "fight_id": 14,
+    "duration_ms": 956097,
+    "clear_dt_ms": 1778361076931
   }
 ]
