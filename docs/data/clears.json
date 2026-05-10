@@ -10060,5 +10060,113 @@
     "fight_id": 10,
     "duration_ms": 1034042,
     "clear_dt_ms": 1772355364328
+  },
+  {
+    "code": "1yBWYq4fxkLvR7FV",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "閻龍@利維坦",
+      "今天還沒練琴@伊弗利特",
+      "Roe@伊弗利特",
+      "問我@迦樓羅",
+      "舞川奈富子@奧汀",
+      "Ruko@利維坦",
+      "野上奈緒@利維坦",
+      "Rejack@迦樓羅"
+    ],
+    "fight_id": 21,
+    "duration_ms": 1000096,
+    "clear_dt_ms": 1778400753399
+  },
+  {
+    "code": "ztwcNgWLaphC1GqZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "貝藜詩@伊弗利特",
+      "數多@利維坦",
+      "真白瑠璃@伊弗利特",
+      "小犬@鳳凰",
+      "夏雪@利維坦",
+      "洋月@巴哈姆特",
+      "Yt陌呱呱@利維坦",
+      "逼欸逼u@利維坦"
+    ],
+    "fight_id": 27,
+    "duration_ms": 867730,
+    "clear_dt_ms": 1778404583358
+  },
+  {
+    "code": "dmHTpWNhkRrzJKFY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "小犬@鳳凰",
+      "暮雨終將落下@迦樓羅",
+      "Ringo@巴哈姆特",
+      "數多@利維坦",
+      "羊仔@利維坦",
+      "巴隆@泰坦",
+      "夏雪@利維坦",
+      "Yt陌呱呱@利維坦"
+    ],
+    "fight_id": 32,
+    "duration_ms": 894723,
+    "clear_dt_ms": 1778353481348
+  },
+  {
+    "code": "CQypXLnVgMP8fqAZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "阿盧@鳳凰",
+      "火箭鴨鴨@利維坦",
+      "Aquaaa@巴哈姆特",
+      "一三八@迦樓羅",
+      "以律@迦樓羅",
+      "緹厄珊@伊弗利特",
+      "琣玦@鳳凰",
+      "小白@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 849951,
+    "clear_dt_ms": 1777711457370
+  },
+  {
+    "code": "kMmqCjJWZPY9LVQB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "休機司息室@迦樓羅",
+      "Zz@迦樓羅",
+      "Oaopg@巴哈姆特",
+      "醬菜@迦樓羅",
+      "庫米米·庫米@利維坦",
+      "露妮娜@鳳凰",
+      "楓葉泉水@迦樓羅",
+      "Ya@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 855767,
+    "clear_dt_ms": 1778401706579
+  },
+  {
+    "code": "kMmqCjJWZPY9LVQB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "休機司息室@迦樓羅",
+      "Zz@迦樓羅",
+      "Oaopg@巴哈姆特",
+      "醬菜@迦樓羅",
+      "庫米米·庫米@利維坦",
+      "露妮娜@鳳凰",
+      "楓葉泉水@迦樓羅",
+      "Ya@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 851784,
+    "clear_dt_ms": 1778403086954
   }
 ]
