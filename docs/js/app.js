@@ -66,7 +66,7 @@ function detectEncounterId(name) {
   if (n.includes('twintania') || n.includes('nael') || n.includes('bahamut prime') || n.includes('golden bahamut')) return 1073;
   if (n.includes('garuda') || n.includes('ifrit') || n.includes('titan') || (n.includes('ultima') && !n.includes('alexander'))) return 1074;
   if (n.includes('living liquid') || n.includes('cruise chaser') || n.includes('alexander') || n.includes('brute justice')) return 1075;
-  if (n.includes('adelphel') || n.includes('thordan') || n.includes('nidhogg') || n.includes('hraesvelgr') || n.includes('estinien') || n.includes('dragon king') || n.includes('left eye') || n.includes('right eye')) return 1076;
+  if (n.includes('adelphel') || n.includes('thordan') || n.includes('nidhogg') || n.includes('hraesvelgr') || n.includes('estinien') || n.includes('dragon king') || n.includes('dragonsong') || n.includes('left eye') || n.includes('right eye')) return 1076;
   if (n.includes('omega')) return 1077;
   return null;
 }
