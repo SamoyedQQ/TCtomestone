@@ -591,6 +591,22 @@ footer {
   margin-top: auto;
 }
 
+.footer-link:hover {
+  color: #2563eb;
+  text-decoration: none;   /* 用 border 代替 underline 會更精緻 */
+}
+/* 新增：針對多字說明文字的樣式 */
+.footer-note {
+  margin-top: 1rem;    /* 與上一行資料來源保持一點距離 */
+  line-height: 1.5;     /* 增加行距，字多才不會擠成一坨 */
+  opacity: 0.85;         /* 稍微降低透明度，讓視覺重點留在第一行 */
+  color: #71717a;
+  max-width: 800px;      /* 避免在大螢幕上文字拉得太寬 */
+  margin-left: auto;     /* 配合 max-width 置中 */
+  margin-right: auto;    /* 配合 max-width 置中 */
+  word-break: break-all; /* 確保長網址或特殊字元能正常換行 */
+}
+
 /* ── Responsive ── */
 @media (max-width: 700px) {
   /* Header: two-row layout to prevent button overlap */
