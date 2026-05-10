@@ -9412,5 +9412,131 @@
     "fight_id": 4,
     "duration_ms": 971238,
     "clear_dt_ms": 1776260497564
+  },
+  {
+    "code": "8XZDPxaRN6jLyKrp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "繪靈法師@迦樓羅",
+      "找不到此玩家@迦樓羅",
+      "蕎麥鮮奶茶@伊弗利特",
+      "給酷接q@迦樓羅",
+      "Fear夜@利維坦",
+      "修羅@迦樓羅",
+      "張員瑛的狗@巴哈姆特",
+      "月曜日@迦樓羅"
+    ],
+    "fight_id": 55,
+    "duration_ms": 997129,
+    "clear_dt_ms": 1778081207279
+  },
+  {
+    "code": "HPqf6CJVvbFjt73Y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "殺手佐之助@巴哈姆特",
+      "可可樂可樂@鳳凰",
+      "香蕉皇@伊弗利特",
+      "席德@鳳凰",
+      "千小本@巴哈姆特",
+      "二v@迦樓羅",
+      "木景雲@奧汀",
+      "暗影牙叉@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1096586,
+    "clear_dt_ms": 1776155987947
+  },
+  {
+    "code": "HPqf6CJVvbFjt73Y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "殺手佐之助@巴哈姆特",
+      "可可樂可樂@鳳凰",
+      "香蕉皇@伊弗利特",
+      "席德@鳳凰",
+      "千小本@巴哈姆特",
+      "二v@迦樓羅",
+      "木景雲@奧汀",
+      "暗影牙叉@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1108308,
+    "clear_dt_ms": 1776160475384
+  },
+  {
+    "code": "hMFjgmaWtN9AqwR7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "可可樂可樂@鳳凰",
+      "殺手佐之助@巴哈姆特",
+      "悠太@鳳凰",
+      "可愛兔兔邦妮@巴哈姆特",
+      "島輝@鳳凰",
+      "美鳳沒約@鳳凰",
+      "木景雲@奧汀",
+      "暗影牙叉@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1124192,
+    "clear_dt_ms": 1776090765267
+  },
+  {
+    "code": "xGLzW8C9Q2vanMqd",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嵐可可@利維坦",
+      "時依@利維坦",
+      "一杯熱牛奶@利維坦",
+      "您爹剛剛@巴哈姆特",
+      "李托李@奧汀",
+      "卡鴉君@利維坦",
+      "Rbing@利維坦",
+      "姆姆@利維坦"
+    ],
+    "fight_id": 26,
+    "duration_ms": 970237,
+    "clear_dt_ms": 1773681853505
+  },
+  {
+    "code": "kDZvtf6nAcH14PM3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "巴尾的熊@鳳凰",
+      "咖咖哩@迦樓羅",
+      "Kito@奧汀",
+      "Mayoo@利維坦",
+      "可口無尾熊@迦樓羅",
+      "喵萌蝶@伊弗利特",
+      "塔克西跩佛@奧汀",
+      "米粉兔子@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 860980,
+    "clear_dt_ms": 1773062956499
+  },
+  {
+    "code": "37kvhqyxgQznNTPc",
+    "title": "絶シリーズ（過去）",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "我是醜底迪@鳳凰",
+      "西·特莉格@鳳凰",
+      "Kana@利維坦",
+      "米粉兔子@鳳凰",
+      "苗疆殺人蛙@奧汀",
+      "巴尾的熊@鳳凰",
+      "咖咖哩@迦樓羅",
+      "Enidnu@奧汀"
+    ],
+    "fight_id": 16,
+    "duration_ms": 827458,
+    "clear_dt_ms": 1772123412748
   }
 ]
