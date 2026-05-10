@@ -9538,5 +9538,23 @@
     "fight_id": 16,
     "duration_ms": 827458,
     "clear_dt_ms": 1772123412748
+  },
+  {
+    "code": "axf2YHTcAXDtj1RQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "繪靈法師@迦樓羅",
+      "找不到此玩家@迦樓羅",
+      "蕎麥鮮奶茶@伊弗利特",
+      "給酷接q@迦樓羅",
+      "Fear夜@利維坦",
+      "修羅@迦樓羅",
+      "張員瑛的狗@巴哈姆特",
+      "月曜日@迦樓羅"
+    ],
+    "fight_id": 55,
+    "duration_ms": 997129,
+    "clear_dt_ms": 1778081207279
   }
 ]
