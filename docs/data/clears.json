@@ -12760,5 +12760,131 @@
     "fight_id": 11,
     "duration_ms": 910918,
     "clear_dt_ms": 1774118763805
+  },
+  {
+    "code": "k4HMZXpKaxNh2APW",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "孤獨萊恩@鳳凰",
+      "布絲@利維坦",
+      "Seira@利維坦",
+      "瀟湘夜雨@鳳凰",
+      "新約不能天使@迦樓羅",
+      "有生命鮮奶茶@鳳凰",
+      "巧克力熱果凍@迦樓羅",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 957756,
+    "clear_dt_ms": 1778483445760
+  },
+  {
+    "code": "k4HMZXpKaxNh2APW",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "游刃游魚@迦樓羅",
+      "標@泰坦",
+      "啵啵伊啵伊@巴哈姆特",
+      "Kira@鳳凰",
+      "梅露@伊弗利特",
+      "三角初音@伊弗利特",
+      "神豬@利維坦",
+      "瑪艾兒@伊弗利特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 961114,
+    "clear_dt_ms": 1778492309266
+  },
+  {
+    "code": "RAptfk2ywcKgPq8Z",
+    "title": "絕亞",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "孤獨萊恩@鳳凰",
+      "布絲@利維坦",
+      "Seira@利維坦",
+      "瀟湘夜雨@鳳凰",
+      "新約不能天使@迦樓羅",
+      "有生命鮮奶茶@鳳凰",
+      "三角初音@伊弗利特",
+      "巧克力熱果凍@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 957756,
+    "clear_dt_ms": 1778483445760
+  },
+  {
+    "code": "XmxVCMyWqZjFRBNP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "蔚笙枳@迦樓羅",
+      "Avisev@迦樓羅",
+      "朧月@迦樓羅",
+      "鯨魚不上盾@鳳凰",
+      "美蒂森@鳳凰",
+      "蒼蒼@迦樓羅",
+      "歐歐扣@鳳凰",
+      "洽米@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 875492,
+    "clear_dt_ms": 1775395291893
+  },
+  {
+    "code": "XmxVCMyWqZjFRBNP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "蔚笙枳@迦樓羅",
+      "Avisev@迦樓羅",
+      "朧月@迦樓羅",
+      "鯨魚不上盾@鳳凰",
+      "美蒂森@鳳凰",
+      "蒼蒼@迦樓羅",
+      "歐歐扣@鳳凰",
+      "洽米@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 877625,
+    "clear_dt_ms": 1775397326183
+  },
+  {
+    "code": "aqT2RmANtVw3vyfp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "茜色飄零@巴哈姆特",
+      "慎真@利維坦",
+      "舞紗橘@利維坦",
+      "詩學少女@利維坦",
+      "小河狸@伊弗利特",
+      "真央@迦樓羅",
+      "圓形食物@鳳凰",
+      "Benny@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 957491,
+    "clear_dt_ms": 1775408314793
+  },
+  {
+    "code": "ZKGmQ2xdp7HBakcb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "落葉丸@迦樓羅",
+      "Star竣@迦樓羅",
+      "Karas@迦樓羅",
+      "那由多壽司屋@迦樓羅",
+      "飛鴻踏雪@利維坦",
+      "真香@迦樓羅",
+      "高手貓騎士@迦樓羅",
+      "王豆沙@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 898181,
+    "clear_dt_ms": 1775048825155
   }
 ]
