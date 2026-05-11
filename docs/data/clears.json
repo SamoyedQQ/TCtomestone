@@ -9844,5 +9844,77 @@
     "fight_id": 11,
     "duration_ms": 968396,
     "clear_dt_ms": 1778514623573
+  },
+  {
+    "code": "Dxgv9A7aqQjH8PnT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "波波一號@奧汀",
+      "海滋@迦樓羅",
+      "鴨鴨@迦樓羅",
+      "Enidnu@奧汀",
+      "Meii@迦樓羅",
+      "薩拉颯颯@利維坦",
+      "新約不能天使@迦樓羅",
+      "再買剁手手@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 981762,
+    "clear_dt_ms": 1778520720303
+  },
+  {
+    "code": "8BYkDPZymjKXWCrc",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "新約不能天使@迦樓羅",
+      "Meii@迦樓羅",
+      "海滋@迦樓羅",
+      "波波一號@奧汀",
+      "鴨鴨@迦樓羅",
+      "再買剁手手@迦樓羅",
+      "Enidnu@奧汀",
+      "薩拉颯颯@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 981763,
+    "clear_dt_ms": 1778520720304
+  },
+  {
+    "code": "9d6GjQVbqzFBfPC8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Loiloi@迦樓羅",
+      "有生命鮮奶茶@鳳凰",
+      "桃梔@泰坦",
+      "Sellyy@迦樓羅",
+      "野上奈緒@利維坦",
+      "Wacoo@迦樓羅",
+      "羊仔@利維坦",
+      "仙草奶茶@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 993752,
+    "clear_dt_ms": 1778519391771
+  },
+  {
+    "code": "G7wvc1KjtVCR89LP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "新鮮急凍魚乾@奧汀",
+      "暈碳@奧汀",
+      "Nezer@奧汀",
+      "烏龍凍飲@奧汀",
+      "Ethe@迦樓羅",
+      "巴隆@泰坦",
+      "Hitomi@奧汀",
+      "咪咪帽帽@鳳凰"
+    ],
+    "fight_id": 22,
+    "duration_ms": 890398,
+    "clear_dt_ms": 1778514043408
   }
 ]
