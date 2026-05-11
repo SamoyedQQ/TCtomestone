@@ -12580,5 +12580,59 @@
     "fight_id": 3,
     "duration_ms": 789628,
     "clear_dt_ms": 1775047245117
+  },
+  {
+    "code": "Kpm3FYbHfyMrca79",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "仙草愛玉@鳳凰",
+      "虛零@鳳凰",
+      "Minah@迦樓羅",
+      "Kinako@鳳凰",
+      "空条承太郎@伊弗利特",
+      "黃色小惡魔@利維坦",
+      "伊妮雅絲@伊弗利特",
+      "Ayaane@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 996779,
+    "clear_dt_ms": 1778244528681
+  },
+  {
+    "code": "ZRwvjFKJ1Ptc6zqy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "仙草愛玉@鳳凰",
+      "虛零@鳳凰",
+      "Minah@迦樓羅",
+      "Kinako@鳳凰",
+      "空条承太郎@伊弗利特",
+      "黃色小惡魔@利維坦",
+      "伊妮雅絲@伊弗利特",
+      "Ayaane@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 996779,
+    "clear_dt_ms": 1778244528681
+  },
+  {
+    "code": "nzZD29FgC6Lr3c1Q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "塔皮歐卡@鳳凰",
+      "弦凱@巴哈姆特",
+      "小乳子@利維坦",
+      "羅剎@伊弗利特",
+      "早麗雯雯@鳳凰",
+      "伊諾@利維坦",
+      "掃把@伊弗利特",
+      "月月丶@利維坦"
+    ],
+    "fight_id": 39,
+    "duration_ms": 849898,
+    "clear_dt_ms": 1778439905350
   }
 ]
