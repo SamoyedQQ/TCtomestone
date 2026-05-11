@@ -82,10 +82,11 @@ function detectPhase(eid, encounterName) {
       // New format: "P1 Twintania" / "P2 Nael" / "P3 Bahamut Prime" / "P4 Grand Octet"
       const m = encounterName.match(/^P(\d+)/i);
       if (m) return parseInt(m[1]);
-      // Legacy fallback
-      if (last.includes('golden bahamut')) return 4;
-      if (last.includes('bahamut prime'))  return 3;
-      if (last.includes('nael'))           return 2;
+      // Legacy fallback: multi-boss names like "Nael / Bahamut Prime / Twintania" put
+      // Twintania last, so check the full chain rather than just `last`.
+      if (chain.some(p => p.includes('golden bahamut'))) return 4;
+      if (chain.some(p => p.includes('bahamut prime')))  return 3;
+      if (chain.some(p => p.includes('nael')))           return 2;
       return 1;
     }
 
@@ -130,7 +131,9 @@ function detectPhase(eid, encounterName) {
 
 function wipePhaseLabel(eid, phaseReached, encounterName) {
   const ph = phaseReached > 0 ? phaseReached : detectPhase(eid, encounterName);
-  return ph != null ? `P${ph}` : null;
+  if (ph == null) return null;
+  if (eid === 1077 && (ph === 3 || ph === 4)) return 'P3-P4';
+  return `P${ph}`;
 }
 
 function fmtDuration(ms) {
