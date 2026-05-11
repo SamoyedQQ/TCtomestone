@@ -9808,5 +9808,41 @@
     "fight_id": 127,
     "duration_ms": 873728,
     "clear_dt_ms": 1772729097314
+  },
+  {
+    "code": "pwBJgMX2xVYCfGqk",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "派大腥新@鳳凰",
+      "薛丁特的嬰靈@鳳凰",
+      "Okay@迦樓羅",
+      "Liange@利維坦",
+      "烏爾比安@伊弗利特",
+      "伊捺@迦樓羅",
+      "魚維@利維坦",
+      "夜風@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 993474,
+    "clear_dt_ms": 1778511857885
+  },
+  {
+    "code": "pwBJgMX2xVYCfGqk",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "派大腥新@鳳凰",
+      "薛丁特的嬰靈@鳳凰",
+      "Okay@迦樓羅",
+      "Liange@利維坦",
+      "烏爾比安@伊弗利特",
+      "伊捺@迦樓羅",
+      "魚維@利維坦",
+      "夜風@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 968396,
+    "clear_dt_ms": 1778514623573
   }
 ]
