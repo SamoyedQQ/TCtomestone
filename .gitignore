@@ -19,3 +19,12 @@ push_data.bat
 docs/early_exit_approaches.md
 BUILD.md
 TC_FFLOGS_DATA.md
+
+# Local-only reference docs and credentials
+README.md
+CHANGELOG.md
+ucob.md
+tc_fflogs_data.md
+ucob_calibration.json
+pull_data.bat
+docs/data/config.json
