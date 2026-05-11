@@ -133,6 +133,7 @@ function wipePhaseLabel(eid, phaseReached, encounterName) {
   const ph = phaseReached > 0 ? phaseReached : detectPhase(eid, encounterName);
   if (ph == null) return null;
   if (eid === 1077 && (ph === 3 || ph === 4)) return 'P3-P4';
+  if (eid === 1073 && ph === 3) return 'P3-P5';
   return `P${ph}`;
 }
 
@@ -252,9 +253,14 @@ const DS = {
   },
 
   _buildKillCounts() {
+    const seenSigs = new Set();
     for (const c of this.clears) {
       const eid = detectEncounterId(c.encounter);
       if (!eid) continue;
+      // Deduplicate: same team + same timestamp = same actual clear (multiple uploads)
+      const sig = `${eid}|${c.clear_dt_ms}|${[...c.players].sort().join('|')}`;
+      if (seenSigs.has(sig)) continue;
+      seenSigs.add(sig);
       for (const p of c.players) {
         const key = `${p}:${eid}`;
         this.killCounts[key] = (this.killCounts[key] || 0) + 1;

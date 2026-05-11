@@ -72,60 +72,6 @@
     "clear_dt_ms": 1769789233463
   },
   {
-    "code": "KwZHbC3atp6D9cMf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "狡猾海豹@鳳凰",
-      "Aw丶@鳳凰",
-      "罐罐黑@鳳凰",
-      "迷路哭@伊弗利特",
-      "亦雪@伊弗利特",
-      "道友請留步@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Yamimi@迦樓羅"
-    ],
-    "fight_id": 19,
-    "duration_ms": 1047993,
-    "clear_dt_ms": 1769789233463
-  },
-  {
-    "code": "JACaLh9RZqTny1tB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "亦雪@伊弗利特",
-      "迷路哭@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Aw丶@鳳凰",
-      "Yamimi@迦樓羅",
-      "罐罐黑@鳳凰",
-      "道友請留步@伊弗利特",
-      "冬瓜瓜@鳳凰"
-    ],
-    "fight_id": 14,
-    "duration_ms": 1047993,
-    "clear_dt_ms": 1769789233463
-  },
-  {
-    "code": "pt9XGbf41rLRJQNB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Yamimi@迦樓羅",
-      "冬瓜瓜@鳳凰",
-      "亦雪@伊弗利特",
-      "道友請留步@伊弗利特",
-      "迷路哭@伊弗利特",
-      "罐罐黑@鳳凰",
-      "狡猾海豹@鳳凰",
-      "Aw丶@鳳凰"
-    ],
-    "fight_id": 19,
-    "duration_ms": 1047993,
-    "clear_dt_ms": 1769789233463
-  },
-  {
     "code": "jxN4vFZTMA2cDar1",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -342,24 +288,6 @@
     "clear_dt_ms": 1770993097083
   },
   {
-    "code": "wYJQzmf92Bb1gnVq",
-    "title": "UWU",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Lylas@鳳凰",
-      "小夢貘@巴哈姆特",
-      "龍井春茶@鳳凰",
-      "Tow@利維坦",
-      "里克@鳳凰",
-      "嘗鮮@鳳凰",
-      "樹懶@鳳凰",
-      "煞氣a達克@伊弗利特"
-    ],
-    "fight_id": 9,
-    "duration_ms": 839232,
-    "clear_dt_ms": 1770993097083
-  },
-  {
     "code": "9WfHj27ZArvByDpc",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -390,24 +318,6 @@
       "灰原丷@鳳凰",
       "Leo一刀齋@迦樓羅",
       "刻路kuro@巴哈姆特"
-    ],
-    "fight_id": 37,
-    "duration_ms": 1003120,
-    "clear_dt_ms": 1771003431597
-  },
-  {
-    "code": "BNdHVvr1gtYRzaXn",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "香風智乃@泰坦",
-      "灰原丷@鳳凰",
-      "西卡鴨毛@鳳凰",
-      "長腿木木@伊弗利特",
-      "刻路kuro@巴哈姆特",
-      "Leo一刀齋@迦樓羅",
-      "麻辣白開水@利維坦",
-      "糖喵@利維坦"
     ],
     "fight_id": 37,
     "duration_ms": 1003120,
@@ -488,24 +398,6 @@
   {
     "code": "qrLBTb6XZd2jzfgG",
     "title": "绝境战（旧版本）",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Oluo@迦樓羅",
-      "麥茶丷@迦樓羅",
-      "桐生桔梗@迦樓羅",
-      "吳立亞@奧汀",
-      "Wacoo@迦樓羅",
-      "日日嵐@利維坦",
-      "Loiloi@迦樓羅",
-      "Max@伊弗利特"
-    ],
-    "fight_id": 119,
-    "duration_ms": 896987,
-    "clear_dt_ms": 1771155250395
-  },
-  {
-    "code": "BTwYrWGa1DhnQ786",
-    "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
       "Oluo@迦樓羅",
@@ -774,24 +666,6 @@
     "clear_dt_ms": 1772178915184
   },
   {
-    "code": "gGdzFHb4awZjVkJf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "這檸檬酸掉了@伊弗利特",
-      "燁子@鳳凰",
-      "明日的希望@迦樓羅",
-      "九羿@迦樓羅",
-      "房屋中介@迦樓羅",
-      "七十七@巴哈姆特",
-      "馴鹿@利維坦",
-      "愛睏的貓@伊弗利特"
-    ],
-    "fight_id": 27,
-    "duration_ms": 851525,
-    "clear_dt_ms": 1772178915184
-  },
-  {
     "code": "zNqVF9MT3L427RhY",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
@@ -810,24 +684,6 @@
     "clear_dt_ms": 1772180177741
   },
   {
-    "code": "gGdzFHb4awZjVkJf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "燁子@鳳凰",
-      "明日的希望@迦樓羅",
-      "這檸檬酸掉了@伊弗利特",
-      "九羿@迦樓羅",
-      "房屋中介@迦樓羅",
-      "七十七@巴哈姆特",
-      "馴鹿@利維坦",
-      "愛睏的貓@伊弗利特"
-    ],
-    "fight_id": 28,
-    "duration_ms": 853508,
-    "clear_dt_ms": 1772180177741
-  },
-  {
     "code": "zNqVF9MT3L427RhY",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
@@ -842,24 +698,6 @@
       "這檸檬酸掉了@伊弗利特"
     ],
     "fight_id": 247,
-    "duration_ms": 861764,
-    "clear_dt_ms": 1772181154040
-  },
-  {
-    "code": "gGdzFHb4awZjVkJf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "燁子@鳳凰",
-      "明日的希望@迦樓羅",
-      "這檸檬酸掉了@伊弗利特",
-      "九羿@迦樓羅",
-      "房屋中介@迦樓羅",
-      "七十七@巴哈姆特",
-      "馴鹿@利維坦",
-      "愛睏的貓@伊弗利特"
-    ],
-    "fight_id": 29,
     "duration_ms": 861764,
     "clear_dt_ms": 1772181154040
   },
@@ -1008,24 +846,6 @@
     "clear_dt_ms": 1772284473145
   },
   {
-    "code": "DL1XFG6JzRrpBQj8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "阿年@迦樓羅",
-      "火高@迦樓羅",
-      "Zary@鳳凰",
-      "星聚光輝@巴哈姆特",
-      "大王魷魚o@巴哈姆特",
-      "伽藍影日@巴哈姆特",
-      "Yukii@利維坦",
-      "殤颯@伊弗利特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 846365,
-    "clear_dt_ms": 1772284473145
-  },
-  {
     "code": "Vtm6YNBXr82vHDWp",
     "title": "Ultimates (Legacy)",
     "encounter": "Omega / Omega-M / Alpha Omega",
@@ -1058,24 +878,6 @@
       "大王魷魚o@巴哈姆特"
     ],
     "fight_id": 54,
-    "duration_ms": 860470,
-    "clear_dt_ms": 1772287536487
-  },
-  {
-    "code": "DL1XFG6JzRrpBQj8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "咖哩薯仔@巴哈姆特",
-      "Nekouo@鳳凰",
-      "阿年@迦樓羅",
-      "火高@迦樓羅",
-      "Zary@鳳凰",
-      "星聚光輝@巴哈姆特",
-      "大王魷魚o@巴哈姆特",
-      "殤颯@伊弗利特"
-    ],
-    "fight_id": 16,
     "duration_ms": 860470,
     "clear_dt_ms": 1772287536487
   },
@@ -1116,24 +918,6 @@
     "clear_dt_ms": 1772290058233
   },
   {
-    "code": "DL1XFG6JzRrpBQj8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Wayyee@奧汀",
-      "彧彧的@鳳凰",
-      "殤颯@伊弗利特",
-      "白翼@利維坦",
-      "Yukii@利維坦",
-      "布津乃@利維坦",
-      "調皮獸@伊弗利特",
-      "Msizy@伊弗利特"
-    ],
-    "fight_id": 19,
-    "duration_ms": 862306,
-    "clear_dt_ms": 1772290058233
-  },
-  {
     "code": "w8yFAbgmq9CaJLfc",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -1170,42 +954,6 @@
     "clear_dt_ms": 1772345106962
   },
   {
-    "code": "DL1XFG6JzRrpBQj8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "青檸氣泡酒@利維坦",
-      "哈哈傻瓜蛋@利維坦",
-      "霧雨的魔法使@迦樓羅",
-      "殤颯@伊弗利特",
-      "貓尼@伊弗利特",
-      "這檸檬酸掉了@伊弗利特",
-      "愛睏的貓@伊弗利特",
-      "Gsdasd@利維坦"
-    ],
-    "fight_id": 22,
-    "duration_ms": 858671,
-    "clear_dt_ms": 1772345106962
-  },
-  {
-    "code": "YRcZHrNfQK1WhpJB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "殤颯@伊弗利特",
-      "愛睏的貓@伊弗利特",
-      "霧雨的魔法使@迦樓羅",
-      "這檸檬酸掉了@伊弗利特",
-      "貓尼@伊弗利特",
-      "Gsdasd@利維坦",
-      "青檸氣泡酒@利維坦",
-      "哈哈傻瓜蛋@利維坦"
-    ],
-    "fight_id": 61,
-    "duration_ms": 858671,
-    "clear_dt_ms": 1772345106962
-  },
-  {
     "code": "ZAx9TtcDFv4JzgmR",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -1220,42 +968,6 @@
       "過場動晝中@迦樓羅"
     ],
     "fight_id": 86,
-    "duration_ms": 842680,
-    "clear_dt_ms": 1772346634443
-  },
-  {
-    "code": "DL1XFG6JzRrpBQj8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "水寒@伊弗利特",
-      "角卷綿芽@伊弗利特",
-      "二v@迦樓羅",
-      "過場動晝中@迦樓羅",
-      "殤颯@伊弗利特",
-      "貓尼@伊弗利特",
-      "這檸檬酸掉了@伊弗利特",
-      "愛睏的貓@伊弗利特"
-    ],
-    "fight_id": 23,
-    "duration_ms": 842680,
-    "clear_dt_ms": 1772346634443
-  },
-  {
-    "code": "YRcZHrNfQK1WhpJB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "殤颯@伊弗利特",
-      "愛睏的貓@伊弗利特",
-      "水寒@伊弗利特",
-      "角卷綿芽@伊弗利特",
-      "二v@迦樓羅",
-      "過場動晝中@迦樓羅",
-      "這檸檬酸掉了@伊弗利特",
-      "貓尼@伊弗利特"
-    ],
-    "fight_id": 62,
     "duration_ms": 842680,
     "clear_dt_ms": 1772346634443
   },
@@ -1278,42 +990,6 @@
     "clear_dt_ms": 1772349810121
   },
   {
-    "code": "DL1XFG6JzRrpBQj8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "水寒@伊弗利特",
-      "角卷綿芽@伊弗利特",
-      "Wenwen@伊弗利特",
-      "西門不辣@利維坦",
-      "殤颯@伊弗利特",
-      "貓尼@伊弗利特",
-      "這檸檬酸掉了@伊弗利特",
-      "愛睏的貓@伊弗利特"
-    ],
-    "fight_id": 25,
-    "duration_ms": 855917,
-    "clear_dt_ms": 1772349810121
-  },
-  {
-    "code": "YRcZHrNfQK1WhpJB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "殤颯@伊弗利特",
-      "愛睏的貓@伊弗利特",
-      "水寒@伊弗利特",
-      "角卷綿芽@伊弗利特",
-      "Wenwen@伊弗利特",
-      "西門不辣@利維坦",
-      "這檸檬酸掉了@伊弗利特",
-      "貓尼@伊弗利特"
-    ],
-    "fight_id": 64,
-    "duration_ms": 855917,
-    "clear_dt_ms": 1772349810121
-  },
-  {
     "code": "ZAx9TtcDFv4JzgmR",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -1332,24 +1008,6 @@
     "clear_dt_ms": 1772351922171
   },
   {
-    "code": "YRcZHrNfQK1WhpJB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "殤颯@伊弗利特",
-      "歐咪嘎@伊弗利特",
-      "Yukii@利維坦",
-      "愛睏的貓@伊弗利特",
-      "咪咪帽帽@鳳凰",
-      "角卷綿芽@伊弗利特",
-      "這檸檬酸掉了@伊弗利特",
-      "貓尼@伊弗利特"
-    ],
-    "fight_id": 66,
-    "duration_ms": 873441,
-    "clear_dt_ms": 1772351922171
-  },
-  {
     "code": "ZAx9TtcDFv4JzgmR",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -1364,24 +1022,6 @@
       "咪咪帽帽@鳳凰"
     ],
     "fight_id": 93,
-    "duration_ms": 867664,
-    "clear_dt_ms": 1772355033235
-  },
-  {
-    "code": "YRcZHrNfQK1WhpJB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "殤颯@伊弗利特",
-      "歐咪嘎@伊弗利特",
-      "Yukii@利維坦",
-      "愛睏的貓@伊弗利特",
-      "咪咪帽帽@鳳凰",
-      "角卷綿芽@伊弗利特",
-      "這檸檬酸掉了@伊弗利特",
-      "貓尼@伊弗利特"
-    ],
-    "fight_id": 70,
     "duration_ms": 867664,
     "clear_dt_ms": 1772355033235
   },
@@ -1602,24 +1242,6 @@
     "clear_dt_ms": 1772636915392
   },
   {
-    "code": "dLgfCjcxb3DRAWav",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Kua@奧汀",
-      "洗讚小鴨鴨@伊弗利特",
-      "Dukg@奧汀",
-      "Kobe@奧汀",
-      "范太帥@伊弗利特",
-      "Koro@奧汀",
-      "莉可莉特@迦樓羅",
-      "村長塔塔蔓@鳳凰"
-    ],
-    "fight_id": 72,
-    "duration_ms": 1002313,
-    "clear_dt_ms": 1772636915392
-  },
-  {
     "code": "N9YDxj7Arhd8cXWQ",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -1638,24 +1260,6 @@
     "clear_dt_ms": 1772639837827
   },
   {
-    "code": "dLgfCjcxb3DRAWav",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Kua@奧汀",
-      "洗讚小鴨鴨@伊弗利特",
-      "Dukg@奧汀",
-      "Kobe@奧汀",
-      "范太帥@伊弗利特",
-      "Koro@奧汀",
-      "莉可莉特@迦樓羅",
-      "村長塔塔蔓@鳳凰"
-    ],
-    "fight_id": 74,
-    "duration_ms": 972455,
-    "clear_dt_ms": 1772639837827
-  },
-  {
     "code": "N9YDxj7Arhd8cXWQ",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -1670,24 +1274,6 @@
       "洗讚小鴨鴨@伊弗利特"
     ],
     "fight_id": 16,
-    "duration_ms": 969159,
-    "clear_dt_ms": 1772642164407
-  },
-  {
-    "code": "dLgfCjcxb3DRAWav",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Kua@奧汀",
-      "洗讚小鴨鴨@伊弗利特",
-      "Dukg@奧汀",
-      "Kobe@奧汀",
-      "范太帥@伊弗利特",
-      "Koro@奧汀",
-      "莉可莉特@迦樓羅",
-      "村長塔塔蔓@鳳凰"
-    ],
-    "fight_id": 76,
     "duration_ms": 969159,
     "clear_dt_ms": 1772642164407
   },
@@ -1782,24 +1368,6 @@
     "clear_dt_ms": 1772727987773
   },
   {
-    "code": "dLgfCjcxb3DRAWav",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Kua@奧汀",
-      "洗讚小鴨鴨@伊弗利特",
-      "Dukg@奧汀",
-      "Kobe@奧汀",
-      "范太帥@伊弗利特",
-      "Koro@奧汀",
-      "莉可莉特@迦樓羅",
-      "村長塔塔蔓@鳳凰"
-    ],
-    "fight_id": 143,
-    "duration_ms": 1003256,
-    "clear_dt_ms": 1772727987773
-  },
-  {
     "code": "N9YDxj7Arhd8cXWQ",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -1814,24 +1382,6 @@
       "洗讚小鴨鴨@伊弗利特"
     ],
     "fight_id": 25,
-    "duration_ms": 967794,
-    "clear_dt_ms": 1772729809971
-  },
-  {
-    "code": "dLgfCjcxb3DRAWav",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Kua@奧汀",
-      "洗讚小鴨鴨@伊弗利特",
-      "Dukg@奧汀",
-      "Kobe@奧汀",
-      "范太帥@伊弗利特",
-      "Koro@奧汀",
-      "莉可莉特@迦樓羅",
-      "村長塔塔蔓@鳳凰"
-    ],
-    "fight_id": 147,
     "duration_ms": 967794,
     "clear_dt_ms": 1772729809971
   },
@@ -1854,24 +1404,6 @@
     "clear_dt_ms": 1772733276587
   },
   {
-    "code": "dLgfCjcxb3DRAWav",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "洗讚小鴨鴨@伊弗利特",
-      "Dukg@奧汀",
-      "Kobe@奧汀",
-      "范太帥@伊弗利特",
-      "Kua@奧汀",
-      "村長塔塔蔓@鳳凰",
-      "Koro@奧汀",
-      "莉可莉特@迦樓羅"
-    ],
-    "fight_id": 154,
-    "duration_ms": 977540,
-    "clear_dt_ms": 1772733276587
-  },
-  {
     "code": "VGrFXK74qCJwLaAZ",
     "title": "绝境战（旧版本）",
     "encounter": "living liquid / liquid hand / ... ",
@@ -1886,24 +1418,6 @@
       "阿蚊同學@伊弗利特"
     ],
     "fight_id": 2,
-    "duration_ms": 981950,
-    "clear_dt_ms": 1772805744622
-  },
-  {
-    "code": "MDykhQzrLwdPmGxW",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "姆姆@利維坦",
-      "揪卡@利維坦",
-      "李托李@奧汀",
-      "結印明日奈@利維坦",
-      "迪絲皮康芙蕾@伊弗利特",
-      "斯貝德@利維坦",
-      "阿蚊同學@伊弗利特",
-      "卡鴉君@利維坦"
-    ],
-    "fight_id": 5,
     "duration_ms": 981950,
     "clear_dt_ms": 1772805744622
   },
@@ -1980,24 +1494,6 @@
     "clear_dt_ms": 1772827321010
   },
   {
-    "code": "XK2bQMz4xgkf3jpR",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "直升機@鳳凰",
-      "黑犬@利維坦",
-      "河馬鈴薯@伊弗利特",
-      "有隻鳥@迦樓羅",
-      "顧言@奧汀",
-      "Cygnus@奧汀",
-      "Junior@伊弗利特",
-      "小who豬@鳳凰"
-    ],
-    "fight_id": 307,
-    "duration_ms": 904261,
-    "clear_dt_ms": 1772827321010
-  },
-  {
     "code": "JC1Q43gBArKk9apT",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -2035,24 +1531,6 @@
   },
   {
     "code": "Vrj3vTxkQ8qhpaAY",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Bernie@巴哈姆特",
-      "冷冷泡茶@巴哈姆特",
-      "來點兔子@巴哈姆特",
-      "蕭陽@利維坦",
-      "萊茵哈魯特@伊弗利特",
-      "炭烤low能@伊弗利特",
-      "Matty@伊弗利特",
-      "Nakai@鳳凰"
-    ],
-    "fight_id": 2,
-    "duration_ms": 883345,
-    "clear_dt_ms": 1772877872545
-  },
-  {
-    "code": "JtWprQf67dRPy2gn",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
     "players": [
@@ -2160,43 +1638,7 @@
     "clear_dt_ms": 1772891859828
   },
   {
-    "code": "8ZRBp9N1MQPnCqHw",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Bentou@迦樓羅",
-      "奇異鳥鬆餅@利維坦",
-      "香草布偶貓@鳳凰",
-      "Miruru@巴哈姆特",
-      "Mystes@利維坦",
-      "Ddlc@伊弗利特",
-      "玄天丷@鳳凰",
-      "Wei煒翔@伊弗利特"
-    ],
-    "fight_id": 5,
-    "duration_ms": 994173,
-    "clear_dt_ms": 1772891859828
-  },
-  {
     "code": "2Xd36hvRMb1yTQJB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "灰塵五公分@鳳凰",
-      "Zuo@鳳凰",
-      "龍蝦小兵@鳳凰",
-      "嵐丶@利維坦",
-      "紫夜@鳳凰",
-      "我迷路了@鳳凰",
-      "Nemo捏摸@利維坦",
-      "Iyao@鳳凰"
-    ],
-    "fight_id": 66,
-    "duration_ms": 868561,
-    "clear_dt_ms": 1772894941775
-  },
-  {
-    "code": "PJaYZ1jfnLAkBHNy",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -2300,24 +1742,6 @@
       "小妖@伊弗利特"
     ],
     "fight_id": 46,
-    "duration_ms": 899251,
-    "clear_dt_ms": 1772906357772
-  },
-  {
-    "code": "jfcCykYtNqzMbZ7T",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "小妖@伊弗利特",
-      "咕卡啵@伊弗利特",
-      "詠小餒@伊弗利特",
-      "布雷克馬基@伊弗利特",
-      "Eden@伊弗利特",
-      "冰雨軒@伊弗利特",
-      "愛吃鬼@伊弗利特",
-      "魯小蟒@伊弗利特"
-    ],
-    "fight_id": 13,
     "duration_ms": 899251,
     "clear_dt_ms": 1772906357772
   },
@@ -2772,24 +2196,6 @@
     "clear_dt_ms": 1774531232510
   },
   {
-    "code": "7YywArDGfhtV3cBm",
-    "title": "絕亞",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "博麗靈夢@利維坦",
-      "Imp@鳳凰",
-      "藍職龍奇@伊弗利特",
-      "Kuro彡@奧汀",
-      "Klho@鳳凰",
-      "蕾帕@迦樓羅",
-      "莫提斯@利維坦",
-      "韓立@利維坦"
-    ],
-    "fight_id": 8,
-    "duration_ms": 963798,
-    "clear_dt_ms": 1774531232510
-  },
-  {
     "code": "d97h2vntP4WpfyQ8",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -2802,24 +2208,6 @@
       "韓立@利維坦",
       "莫提斯@利維坦",
       "蕾帕@迦樓羅"
-    ],
-    "fight_id": 11,
-    "duration_ms": 956670,
-    "clear_dt_ms": 1774533774543
-  },
-  {
-    "code": "7YywArDGfhtV3cBm",
-    "title": "絕亞",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "博麗靈夢@利維坦",
-      "Imp@鳳凰",
-      "藍職龍奇@伊弗利特",
-      "Kuro彡@奧汀",
-      "Klho@鳳凰",
-      "蕾帕@迦樓羅",
-      "莫提斯@利維坦",
-      "韓立@利維坦"
     ],
     "fight_id": 11,
     "duration_ms": 956670,
@@ -3038,42 +2426,6 @@
       "麻辣白開水@利維坦"
     ],
     "fight_id": 80,
-    "duration_ms": 1141190,
-    "clear_dt_ms": 1774629116993
-  },
-  {
-    "code": "WJhxdgV2PZFt8M6H",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "香蕉皇@伊弗利特",
-      "灰原丷@鳳凰",
-      "天若羽@巴哈姆特",
-      "老鴿@伊弗利特",
-      "長腿木木@伊弗利特",
-      "糖喵@利維坦",
-      "麻辣白開水@利維坦",
-      "Rc@鳳凰"
-    ],
-    "fight_id": 5,
-    "duration_ms": 1141190,
-    "clear_dt_ms": 1774629116993
-  },
-  {
-    "code": "Bt6cRadrQThMyDZJ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "香蕉皇@伊弗利特",
-      "麻辣白開水@利維坦",
-      "灰原丷@鳳凰",
-      "Rc@鳳凰",
-      "天若羽@巴哈姆特",
-      "老鴿@伊弗利特",
-      "長腿木木@伊弗利特",
-      "糖喵@利維坦"
-    ],
-    "fight_id": 5,
     "duration_ms": 1141190,
     "clear_dt_ms": 1774629116993
   },
@@ -3330,79 +2682,7 @@
     "clear_dt_ms": 1775421022335
   },
   {
-    "code": "TLGADdbJFn2gfXx1",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "老公@伊弗利特",
-      "濃醇鮮奶茶@鳳凰",
-      "顧言@奧汀",
-      "Rbing@利維坦",
-      "藥塵@利維坦",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "椒麻雞@巴哈姆特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 859411,
-    "clear_dt_ms": 1775421022335
-  },
-  {
-    "code": "VyXhFYfzgZrA1KjD",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "老公@伊弗利特",
-      "濃醇鮮奶茶@鳳凰",
-      "顧言@奧汀",
-      "Rbing@利維坦",
-      "藥塵@利維坦",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "椒麻雞@巴哈姆特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 859411,
-    "clear_dt_ms": 1775421022335
-  },
-  {
     "code": "KN46Pz8WLDY2htwT",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "老公@伊弗利特",
-      "濃醇鮮奶茶@鳳凰",
-      "顧言@奧汀",
-      "Rbing@利維坦",
-      "藥塵@利維坦",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "椒麻雞@巴哈姆特"
-    ],
-    "fight_id": 15,
-    "duration_ms": 883993,
-    "clear_dt_ms": 1775423090457
-  },
-  {
-    "code": "TLGADdbJFn2gfXx1",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "老公@伊弗利特",
-      "濃醇鮮奶茶@鳳凰",
-      "顧言@奧汀",
-      "Rbing@利維坦",
-      "藥塵@利維坦",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "椒麻雞@巴哈姆特"
-    ],
-    "fight_id": 15,
-    "duration_ms": 883993,
-    "clear_dt_ms": 1775423090457
-  },
-  {
-    "code": "VyXhFYfzgZrA1KjD",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -3564,24 +2844,6 @@
     "clear_dt_ms": 1775831672887
   },
   {
-    "code": "xJcjqYbwaK3dvfTV",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "直升機@鳳凰",
-      "紅燒竹鼠@迦樓羅",
-      "Ddlc@伊弗利特",
-      "ㄇ凹ㄇ凹@鳳凰",
-      "Benny@利維坦",
-      "伊賀栖寅@伊弗利特",
-      "鴨子丷@泰坦",
-      "菲魯特控魚丸@利維坦"
-    ],
-    "fight_id": 22,
-    "duration_ms": 981998,
-    "clear_dt_ms": 1775831672887
-  },
-  {
     "code": "paxKfJP7mvYbhrXV",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -3708,24 +2970,6 @@
     "clear_dt_ms": 1775841615871
   },
   {
-    "code": "mPbJ7Y3rQD2ZXKHk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "黑瑰香@巴哈姆特",
-      "散戶中的霸主@巴哈姆特",
-      "町田理香@巴哈姆特",
-      "心願@巴哈姆特",
-      "麻雀@利維坦",
-      "Yuuki@利維坦",
-      "Yuuni@迦樓羅",
-      "Fs@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 974377,
-    "clear_dt_ms": 1775841615871
-  },
-  {
     "code": "7ZxhmMWP8Q1cCrp2",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -3740,24 +2984,6 @@
       "黑瑰香@巴哈姆特"
     ],
     "fight_id": 53,
-    "duration_ms": 967728,
-    "clear_dt_ms": 1775844168158
-  },
-  {
-    "code": "mPbJ7Y3rQD2ZXKHk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "黑瑰香@巴哈姆特",
-      "散戶中的霸主@巴哈姆特",
-      "町田理香@巴哈姆特",
-      "心願@巴哈姆特",
-      "麻雀@利維坦",
-      "Yuuki@利維坦",
-      "Yuuni@迦樓羅",
-      "Fs@迦樓羅"
-    ],
-    "fight_id": 9,
     "duration_ms": 967728,
     "clear_dt_ms": 1775844168158
   },
@@ -3906,60 +3132,6 @@
     "clear_dt_ms": 1775911549673
   },
   {
-    "code": "RT9ZaWGt1fvdC4Pn",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ainz@迦樓羅",
-      "竹子ouo@迦樓羅",
-      "敘事詩@迦樓羅",
-      "水星星@迦樓羅",
-      "Yalei@迦樓羅",
-      "Junior@伊弗利特",
-      "Bala@迦樓羅",
-      "河馬鈴薯@伊弗利特"
-    ],
-    "fight_id": 28,
-    "duration_ms": 995129,
-    "clear_dt_ms": 1775911549673
-  },
-  {
-    "code": "vJPRtLX8gFG9KDYW",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ainz@迦樓羅",
-      "竹子ouo@迦樓羅",
-      "敘事詩@迦樓羅",
-      "水星星@迦樓羅",
-      "Yalei@迦樓羅",
-      "Junior@伊弗利特",
-      "Bala@迦樓羅",
-      "河馬鈴薯@伊弗利特"
-    ],
-    "fight_id": 28,
-    "duration_ms": 995129,
-    "clear_dt_ms": 1775911549673
-  },
-  {
-    "code": "Lrk3TtHaQmDw4GnA",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ainz@迦樓羅",
-      "竹子ouo@迦樓羅",
-      "敘事詩@迦樓羅",
-      "水星星@迦樓羅",
-      "Yalei@迦樓羅",
-      "Junior@伊弗利特",
-      "Bala@迦樓羅",
-      "河馬鈴薯@伊弗利特"
-    ],
-    "fight_id": 28,
-    "duration_ms": 995129,
-    "clear_dt_ms": 1775911549673
-  },
-  {
     "code": "YVAkFxzjLqaM4nJp",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -3996,42 +3168,6 @@
     "clear_dt_ms": 1775917358263
   },
   {
-    "code": "RT9ZaWGt1fvdC4Pn",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ainz@迦樓羅",
-      "竹子ouo@迦樓羅",
-      "敘事詩@迦樓羅",
-      "水星星@迦樓羅",
-      "Yalei@迦樓羅",
-      "Junior@伊弗利特",
-      "Bala@迦樓羅",
-      "河馬鈴薯@伊弗利特"
-    ],
-    "fight_id": 31,
-    "duration_ms": 992393,
-    "clear_dt_ms": 1775917358263
-  },
-  {
-    "code": "vJPRtLX8gFG9KDYW",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ainz@迦樓羅",
-      "竹子ouo@迦樓羅",
-      "敘事詩@迦樓羅",
-      "水星星@迦樓羅",
-      "Yalei@迦樓羅",
-      "Junior@伊弗利特",
-      "Bala@迦樓羅",
-      "河馬鈴薯@伊弗利特"
-    ],
-    "fight_id": 31,
-    "duration_ms": 992393,
-    "clear_dt_ms": 1775917358263
-  },
-  {
     "code": "f2W6VNKDgnH9AGqv",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -4046,24 +3182,6 @@
       "Ainz@迦樓羅"
     ],
     "fight_id": 61,
-    "duration_ms": 982293,
-    "clear_dt_ms": 1775919403726
-  },
-  {
-    "code": "RT9ZaWGt1fvdC4Pn",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ainz@迦樓羅",
-      "竹子ouo@迦樓羅",
-      "敘事詩@迦樓羅",
-      "水星星@迦樓羅",
-      "Yalei@迦樓羅",
-      "Junior@伊弗利特",
-      "Bala@迦樓羅",
-      "河馬鈴薯@伊弗利特"
-    ],
-    "fight_id": 33,
     "duration_ms": 982293,
     "clear_dt_ms": 1775919403726
   },
@@ -4212,24 +3330,6 @@
     "clear_dt_ms": 1776440971617
   },
   {
-    "code": "AtgfXkT1ZmYdQB9w",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "二v@迦樓羅",
-      "烤月餅@奧汀",
-      "顧影憐@伊弗利特",
-      "星也@泰坦",
-      "走不遠@泰坦",
-      "雨嵐@伊弗利特",
-      "扁平足智蛙@利維坦",
-      "小維@鳳凰"
-    ],
-    "fight_id": 524,
-    "duration_ms": 1108978,
-    "clear_dt_ms": 1776440971617
-  },
-  {
     "code": "hLjTrcfFtR2CGXQP",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -4262,24 +3362,6 @@
       "貓丸丸@鳳凰"
     ],
     "fight_id": 48,
-    "duration_ms": 985344,
-    "clear_dt_ms": 1776462949392
-  },
-  {
-    "code": "6aTdAgLzB2xZKpwk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "洽米@迦樓羅",
-      "貓丸丸@鳳凰",
-      "神影依@巴哈姆特",
-      "仙草愛玉@鳳凰",
-      "沙龍怕鼠@巴哈姆特",
-      "我是醜底迪@鳳凰",
-      "Dukg@奧汀",
-      "我不是卡蘇咪@奧汀"
-    ],
-    "fight_id": 321,
     "duration_ms": 985344,
     "clear_dt_ms": 1776462949392
   },
@@ -4446,24 +3528,6 @@
     "clear_dt_ms": 1776693935245
   },
   {
-    "code": "aAL1tYNHXr27fvRF",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "可頌麵包@伊弗利特",
-      "不可@鳳凰",
-      "Kapa@伊弗利特",
-      "貓丸丸@鳳凰",
-      "Hiki@伊弗利特",
-      "阿加德@迦樓羅",
-      "僅予以你晴天@伊弗利特",
-      "炒蛋@伊弗利特"
-    ],
-    "fight_id": 18,
-    "duration_ms": 963565,
-    "clear_dt_ms": 1776693935245
-  },
-  {
     "code": "4zF8pWcT7nBQZ621",
     "title": "Ultimates (Legacy)",
     "encounter": "left eye / right eye / ... ",
@@ -4590,43 +3654,7 @@
     "clear_dt_ms": 1776799083308
   },
   {
-    "code": "KBZtMzbRhna4cPA2",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "狼少兒@鳳凰",
-      "角卷綿芽@伊弗利特",
-      "瑪瑪@泰坦",
-      "珉咕家的貓咪@迦樓羅",
-      "Foobar@鳳凰",
-      "太一@奧汀",
-      "魔法小靈貓@迦樓羅",
-      "乂罐頭乂@泰坦"
-    ],
-    "fight_id": 2,
-    "duration_ms": 1003346,
-    "clear_dt_ms": 1776799083308
-  },
-  {
     "code": "69fFamBG2zJ8g3hw",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "一薰衣草一@巴哈姆特",
-      "Ennie@利維坦",
-      "煌天月@利維坦",
-      "蕾爾緹暮暮@巴哈姆特",
-      "Yeeeee@巴哈姆特",
-      "雪梨歌劇院@巴哈姆特",
-      "真白瑠璃@伊弗利特",
-      "Astia@鳳凰"
-    ],
-    "fight_id": 16,
-    "duration_ms": 869529,
-    "clear_dt_ms": 1776840491353
-  },
-  {
-    "code": "2kzGgJTqaQrHY4xB",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
     "players": [
@@ -4662,24 +3690,6 @@
     "clear_dt_ms": 1776861164524
   },
   {
-    "code": "TtgY2Zvb76CynNX1",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "二階堂希羅@伊弗利特",
-      "櫻羽艾瑪@伊弗利特",
-      "蛤蜜呱@伊弗利特",
-      "永愛三玖@巴哈姆特",
-      "想睡覺mmm@伊弗利特",
-      "阿蜜陀螺@伊弗利特",
-      "橘雪莉@伊弗利特",
-      "伽藍影日@巴哈姆特"
-    ],
-    "fight_id": 4,
-    "duration_ms": 991650,
-    "clear_dt_ms": 1776861164524
-  },
-  {
     "code": "ka8AqhfBT4MDFjn2",
     "title": "Ultimates (Legacy)",
     "encounter": "Omega / Omega-M / Alpha Omega",
@@ -4694,60 +3704,6 @@
       "Aw丶@鳳凰"
     ],
     "fight_id": 17,
-    "duration_ms": 1134311,
-    "clear_dt_ms": 1776862881288
-  },
-  {
-    "code": "8AF1HPpar2vcmD3j",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "迷路哭@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Yamimi@迦樓羅",
-      "穗曦@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Squash@利維坦",
-      "道友請留步@伊弗利特",
-      "Aw丶@鳳凰"
-    ],
-    "fight_id": 7,
-    "duration_ms": 1134311,
-    "clear_dt_ms": 1776862881288
-  },
-  {
-    "code": "yjW7XTm69xkDAz13",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "迷路哭@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Aw丶@鳳凰",
-      "Yamimi@迦樓羅",
-      "狡猾海豹@鳳凰",
-      "Squash@利維坦",
-      "道友請留步@伊弗利特",
-      "穗曦@伊弗利特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 1134311,
-    "clear_dt_ms": 1776862881288
-  },
-  {
-    "code": "VwMF3jDBtTQGYKpz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "迷路哭@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Yamimi@迦樓羅",
-      "穗曦@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Squash@利維坦",
-      "道友請留步@伊弗利特",
-      "Aw丶@鳳凰"
-    ],
-    "fight_id": 7,
     "duration_ms": 1134311,
     "clear_dt_ms": 1776862881288
   },
@@ -4770,42 +3726,6 @@
     "clear_dt_ms": 1776864445935
   },
   {
-    "code": "8AF1HPpar2vcmD3j",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "迷路哭@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Yamimi@迦樓羅",
-      "穗曦@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Squash@利維坦",
-      "道友請留步@伊弗利特",
-      "Aw丶@鳳凰"
-    ],
-    "fight_id": 9,
-    "duration_ms": 1133759,
-    "clear_dt_ms": 1776864445935
-  },
-  {
-    "code": "yjW7XTm69xkDAz13",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "迷路哭@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Aw丶@鳳凰",
-      "Yamimi@迦樓羅",
-      "狡猾海豹@鳳凰",
-      "Squash@利維坦",
-      "道友請留步@伊弗利特",
-      "穗曦@伊弗利特"
-    ],
-    "fight_id": 9,
-    "duration_ms": 1133759,
-    "clear_dt_ms": 1776864445935
-  },
-  {
     "code": "ka8AqhfBT4MDFjn2",
     "title": "Ultimates (Legacy)",
     "encounter": "Omega / Omega-M / Alpha Omega",
@@ -4820,24 +3740,6 @@
       "Aw丶@鳳凰"
     ],
     "fight_id": 23,
-    "duration_ms": 1139747,
-    "clear_dt_ms": 1776868150102
-  },
-  {
-    "code": "yjW7XTm69xkDAz13",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "迷路哭@伊弗利特",
-      "冬瓜瓜@鳳凰",
-      "Aw丶@鳳凰",
-      "Yamimi@迦樓羅",
-      "狡猾海豹@鳳凰",
-      "Squash@利維坦",
-      "道友請留步@伊弗利特",
-      "穗曦@伊弗利特"
-    ],
-    "fight_id": 13,
     "duration_ms": 1139747,
     "clear_dt_ms": 1776868150102
   },
@@ -4896,60 +3798,6 @@
     "clear_dt_ms": 1776951183907
   },
   {
-    "code": "QXvzm3DVacTyn9PH",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "野原新之助@奧汀",
-      "珉咕家的貓咪@迦樓羅",
-      "布蘭妮想怎樣@利維坦",
-      "神豬@利維坦",
-      "Hiki@伊弗利特",
-      "載客鳩舵手@伊弗利特",
-      "櫻田妮妮@奧汀",
-      "歪尤尤@巴哈姆特"
-    ],
-    "fight_id": 32,
-    "duration_ms": 1003091,
-    "clear_dt_ms": 1776951183907
-  },
-  {
-    "code": "fALtQPZzN9JbYa8r",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "野原新之助@奧汀",
-      "珉咕家的貓咪@迦樓羅",
-      "布蘭妮想怎樣@利維坦",
-      "神豬@利維坦",
-      "Hiki@伊弗利特",
-      "載客鳩舵手@伊弗利特",
-      "櫻田妮妮@奧汀",
-      "歪尤尤@巴哈姆特"
-    ],
-    "fight_id": 32,
-    "duration_ms": 1003091,
-    "clear_dt_ms": 1776951183907
-  },
-  {
-    "code": "YvmKZcQGB6hA4V7N",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "野原新之助@奧汀",
-      "珉咕家的貓咪@迦樓羅",
-      "布蘭妮想怎樣@利維坦",
-      "神豬@利維坦",
-      "Hiki@伊弗利特",
-      "載客鳩舵手@伊弗利特",
-      "櫻田妮妮@奧汀",
-      "歪尤尤@巴哈姆特"
-    ],
-    "fight_id": 32,
-    "duration_ms": 1003091,
-    "clear_dt_ms": 1776951183907
-  },
-  {
     "code": "ka8AqhfBT4MDFjn2",
     "title": "Ultimates (Legacy)",
     "encounter": "Omega / Omega-M / Alpha Omega",
@@ -4969,24 +3817,6 @@
   },
   {
     "code": "WjHdt2xC9avLmfbw",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "睡覺人@鳳凰",
-      "無敵最開朗@鳳凰",
-      "語蓉@鳳凰",
-      "巴巴@伊弗利特",
-      "古菇菇@鳳凰",
-      "舞寺雪茗@巴哈姆特",
-      "Benny@利維坦",
-      "Aile羽衣@鳳凰"
-    ],
-    "fight_id": 15,
-    "duration_ms": 980611,
-    "clear_dt_ms": 1776959288764
-  },
-  {
-    "code": "k7qTG2tHYmzQFhby",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
     "players": [
@@ -5094,42 +3924,6 @@
     "clear_dt_ms": 1776968406151
   },
   {
-    "code": "DMYRfhnprxN3F294",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "舞紗橘@利維坦",
-      "貓爪@伊弗利特",
-      "暗影牙叉@伊弗利特",
-      "真白瑠璃@伊弗利特",
-      "Yt陌呱呱@利維坦",
-      "校長四七@利維坦",
-      "Ryou@利維坦",
-      "殺手佐之助@巴哈姆特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 873852,
-    "clear_dt_ms": 1776968406151
-  },
-  {
-    "code": "B8h7K1MtjWL2fAQP",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "舞紗橘@利維坦",
-      "貓爪@伊弗利特",
-      "暗影牙叉@伊弗利特",
-      "真白瑠璃@伊弗利特",
-      "Yt陌呱呱@利維坦",
-      "校長四七@利維坦",
-      "Ryou@利維坦",
-      "殺手佐之助@巴哈姆特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 873852,
-    "clear_dt_ms": 1776968406151
-  },
-  {
     "code": "z4ghLy6PqC9Ymatn",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -5202,24 +3996,6 @@
     "clear_dt_ms": 1777037167213
   },
   {
-    "code": "qt2cALBNXMnxmhzk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "殤魂@奧汀",
-      "Mjlinv@鳳凰",
-      "伽藍影日@巴哈姆特",
-      "Sirius@鳳凰",
-      "麥克雞快@巴哈姆特",
-      "Choco@鳳凰",
-      "Iehtan@奧汀",
-      "伊卡@伊弗利特"
-    ],
-    "fight_id": 45,
-    "duration_ms": 988911,
-    "clear_dt_ms": 1777037167213
-  },
-  {
     "code": "fbxP6ZyFw7cHpWrD",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -5232,24 +4008,6 @@
       "隨機看狗呀@迦樓羅",
       "爐石戰記化身@伊弗利特",
       "Noma@伊弗利特"
-    ],
-    "fight_id": 8,
-    "duration_ms": 962248,
-    "clear_dt_ms": 1777037860825
-  },
-  {
-    "code": "ZJqRFdQmckaM748z",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Noma@伊弗利特",
-      "嘎boom@鳳凰",
-      "破曉金風@迦樓羅",
-      "隨機看狗呀@迦樓羅",
-      "純屬意外@伊弗利特",
-      "爐石戰記化身@伊弗利特",
-      "麥塊啟動器@伊弗利特",
-      "夙月@巴哈姆特"
     ],
     "fight_id": 8,
     "duration_ms": 962248,
@@ -5286,24 +4044,6 @@
       "隨機看狗呀@迦樓羅",
       "爐石戰記化身@伊弗利特",
       "Noma@伊弗利特"
-    ],
-    "fight_id": 10,
-    "duration_ms": 967115,
-    "clear_dt_ms": 1777039414803
-  },
-  {
-    "code": "ZJqRFdQmckaM748z",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Noma@伊弗利特",
-      "嘎boom@鳳凰",
-      "破曉金風@迦樓羅",
-      "隨機看狗呀@迦樓羅",
-      "純屬意外@伊弗利特",
-      "爐石戰記化身@伊弗利特",
-      "麥塊啟動器@伊弗利特",
-      "夙月@巴哈姆特"
     ],
     "fight_id": 10,
     "duration_ms": 967115,
@@ -5364,24 +4104,6 @@
     "clear_dt_ms": 1777045064802
   },
   {
-    "code": "XgjC1c8Vk7DwndzJ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "鳶仔小饅頭@鳳凰",
-      "卡在原地不動@鳳凰",
-      "Yuruia@奧汀",
-      "海都人妻@伊弗利特",
-      "鳩可@迦樓羅",
-      "悠夜雨@鳳凰",
-      "晞呱owob@鳳凰",
-      "Rlu@利維坦"
-    ],
-    "fight_id": 6,
-    "duration_ms": 1108660,
-    "clear_dt_ms": 1777045064802
-  },
-  {
     "code": "69C78nYMk1zQFrVB",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -5400,43 +4122,7 @@
     "clear_dt_ms": 1777045924749
   },
   {
-    "code": "Ha1X9F4CzRZdv67V",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "走位像貓的喵@鳳凰",
-      "Himeri@鳳凰",
-      "野貓@鳳凰",
-      "蕭陽@利維坦",
-      "希吧囖嘛@利維坦",
-      "Enidnu@奧汀",
-      "梅香吹雪@鳳凰",
-      "空霞夜明@利維坦"
-    ],
-    "fight_id": 61,
-    "duration_ms": 950415,
-    "clear_dt_ms": 1777045924749
-  },
-  {
     "code": "69C78nYMk1zQFrVB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "走位像貓的喵@鳳凰",
-      "Himeri@鳳凰",
-      "野貓@鳳凰",
-      "蕭陽@利維坦",
-      "希吧囖嘛@利維坦",
-      "Enidnu@奧汀",
-      "梅香吹雪@鳳凰",
-      "空霞夜明@利維坦"
-    ],
-    "fight_id": 63,
-    "duration_ms": 962496,
-    "clear_dt_ms": 1777047403908
-  },
-  {
-    "code": "Ha1X9F4CzRZdv67V",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
     "players": [
@@ -5472,61 +4158,7 @@
     "clear_dt_ms": 1777048622177
   },
   {
-    "code": "DMYRfhnprxN3F294",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Pesnya@伊弗利特",
-      "菇包@巴哈姆特",
-      "ㄇ凹ㄇ凹@鳳凰",
-      "小k@奧汀",
-      "Maruta@奧汀",
-      "掃把@伊弗利特",
-      "Ryou@利維坦",
-      "阿格尼絲@奧汀"
-    ],
-    "fight_id": 46,
-    "duration_ms": 871351,
-    "clear_dt_ms": 1777048622177
-  },
-  {
-    "code": "B8h7K1MtjWL2fAQP",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Pesnya@伊弗利特",
-      "菇包@巴哈姆特",
-      "ㄇ凹ㄇ凹@鳳凰",
-      "小k@奧汀",
-      "Maruta@奧汀",
-      "掃把@伊弗利特",
-      "Ryou@利維坦",
-      "阿格尼絲@奧汀"
-    ],
-    "fight_id": 46,
-    "duration_ms": 871351,
-    "clear_dt_ms": 1777048622177
-  },
-  {
     "code": "69C78nYMk1zQFrVB",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "走位像貓的喵@鳳凰",
-      "Himeri@鳳凰",
-      "野貓@鳳凰",
-      "蕭陽@利維坦",
-      "希吧囖嘛@利維坦",
-      "Enidnu@奧汀",
-      "梅香吹雪@鳳凰",
-      "空霞夜明@利維坦"
-    ],
-    "fight_id": 65,
-    "duration_ms": 979687,
-    "clear_dt_ms": 1777048903346
-  },
-  {
-    "code": "Ha1X9F4CzRZdv67V",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
     "players": [
@@ -5616,42 +4248,6 @@
     "clear_dt_ms": 1777053065718
   },
   {
-    "code": "dgFRLxjfVGJHXrnM",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "玉米柴柴粥@巴哈姆特",
-      "便當店老闆@巴哈姆特",
-      "可可樂可樂@鳳凰",
-      "海滋@迦樓羅",
-      "布蘭妮想怎樣@利維坦",
-      "Hiki@伊弗利特",
-      "ㄝㄚ冬瓜@迦樓羅",
-      "蚊香蛙@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 966105,
-    "clear_dt_ms": 1777053065718
-  },
-  {
-    "code": "gfvVKmkAcXpDaTRx",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "玉米柴柴粥@巴哈姆特",
-      "便當店老闆@巴哈姆特",
-      "可可樂可樂@鳳凰",
-      "海滋@迦樓羅",
-      "布蘭妮想怎樣@利維坦",
-      "Hiki@伊弗利特",
-      "ㄝㄚ冬瓜@迦樓羅",
-      "蚊香蛙@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 966105,
-    "clear_dt_ms": 1777053065718
-  },
-  {
     "code": "zTKfprFk27yQ4DLn",
     "title": "20260424",
     "encounter": "Titan / Ifrit",
@@ -5666,60 +4262,6 @@
       "賣女孩小火柴@伊弗利特"
     ],
     "fight_id": 18,
-    "duration_ms": 897545,
-    "clear_dt_ms": 1777053896116
-  },
-  {
-    "code": "G67Y2rkcPvz4hbCW",
-    "title": "绝境战（旧版本）",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "賣女孩小火柴@伊弗利特",
-      "神羽@巴哈姆特",
-      "冬@利維坦",
-      "生椰拿鐵@奧汀",
-      "天宮凜@鳳凰",
-      "Ukaung@迦樓羅",
-      "桃梔@泰坦",
-      "野上奈緒@利維坦"
-    ],
-    "fight_id": 22,
-    "duration_ms": 897545,
-    "clear_dt_ms": 1777053896116
-  },
-  {
-    "code": "acZQg9jf7Ft8kKqN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "賣女孩小火柴@伊弗利特",
-      "神羽@巴哈姆特",
-      "冬@利維坦",
-      "生椰拿鐵@奧汀",
-      "天宮凜@鳳凰",
-      "Ukaung@迦樓羅",
-      "桃梔@泰坦",
-      "野上奈緒@利維坦"
-    ],
-    "fight_id": 22,
-    "duration_ms": 897545,
-    "clear_dt_ms": 1777053896116
-  },
-  {
-    "code": "BtvCj9ApwQGKmz38",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "賣女孩小火柴@伊弗利特",
-      "神羽@巴哈姆特",
-      "冬@利維坦",
-      "生椰拿鐵@奧汀",
-      "天宮凜@鳳凰",
-      "Ukaung@迦樓羅",
-      "桃梔@泰坦",
-      "野上奈緒@利維坦"
-    ],
-    "fight_id": 22,
     "duration_ms": 897545,
     "clear_dt_ms": 1777053896116
   },
@@ -5850,60 +4392,6 @@
     "clear_dt_ms": 1777131091776
   },
   {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 87,
-    "duration_ms": 980136,
-    "clear_dt_ms": 1777131091776
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 87,
-    "duration_ms": 980136,
-    "clear_dt_ms": 1777131091776
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 87,
-    "duration_ms": 980136,
-    "clear_dt_ms": 1777131091776
-  },
-  {
     "code": "nRTJQ9fVLYap3kyw",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -5958,24 +4446,6 @@
     "clear_dt_ms": 1777134094363
   },
   {
-    "code": "acZQg9jf7Ft8kKqN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "煌獅@利維坦",
-      "捲毛毛@迦樓羅",
-      "我都可以看你@巴哈姆特",
-      "鮭魚明太子@迦樓羅",
-      "九筒@鳳凰",
-      "野上奈緒@利維坦",
-      "桃梔@泰坦",
-      "哈傻o@鳳凰"
-    ],
-    "fight_id": 52,
-    "duration_ms": 928653,
-    "clear_dt_ms": 1777134094363
-  },
-  {
     "code": "nRTJQ9fVLYap3kyw",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -6012,24 +4482,6 @@
     "clear_dt_ms": 1777135478045
   },
   {
-    "code": "acZQg9jf7Ft8kKqN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "煌獅@利維坦",
-      "我都可以看你@巴哈姆特",
-      "鮭魚明太子@迦樓羅",
-      "九筒@鳳凰",
-      "幻羽山雀@鳳凰",
-      "桃梔@泰坦",
-      "野上奈緒@利維坦",
-      "哈傻o@鳳凰"
-    ],
-    "fight_id": 54,
-    "duration_ms": 913638,
-    "clear_dt_ms": 1777135478045
-  },
-  {
     "code": "nRTJQ9fVLYap3kyw",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -6049,24 +4501,6 @@
   },
   {
     "code": "A1zYwh7pLk9QmB2n",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Jine@巴哈姆特",
-      "天宮凜@鳳凰",
-      "Ukaung@迦樓羅",
-      "芙·妮瓦莎@迦樓羅",
-      "ㄇ凹ㄇ凹@鳳凰",
-      "生椰拿鐵@奧汀",
-      "Ryou@利維坦",
-      "Jerky@迦樓羅"
-    ],
-    "fight_id": 133,
-    "duration_ms": 857765,
-    "clear_dt_ms": 1777142633299
-  },
-  {
-    "code": "DMYRfhnprxN3F294",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -6192,60 +4626,6 @@
     "clear_dt_ms": 1777303107643
   },
   {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 124,
-    "duration_ms": 976768,
-    "clear_dt_ms": 1777303107643
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 124,
-    "duration_ms": 976768,
-    "clear_dt_ms": 1777303107643
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 124,
-    "duration_ms": 976768,
-    "clear_dt_ms": 1777303107643
-  },
-  {
     "code": "LNdbBaRqYADC96kw",
     "title": "tcts",
     "encounter": "Ifrit / Titan",
@@ -6318,115 +4698,7 @@
     "clear_dt_ms": 1777386645706
   },
   {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 153,
-    "duration_ms": 972388,
-    "clear_dt_ms": 1777386645706
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 153,
-    "duration_ms": 972388,
-    "clear_dt_ms": 1777386645706
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 153,
-    "duration_ms": 972388,
-    "clear_dt_ms": 1777386645706
-  },
-  {
     "code": "BMhyR7jaLgKxJf6N",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 154,
-    "duration_ms": 966448,
-    "clear_dt_ms": 1777387798155
-  },
-  {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 154,
-    "duration_ms": 966448,
-    "clear_dt_ms": 1777387798155
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 154,
-    "duration_ms": 966448,
-    "clear_dt_ms": 1777387798155
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
     "title": "Ultimates (Legacy)",
     "encounter": "The Epic of Alexander",
     "players": [
@@ -6462,60 +4734,6 @@
     "clear_dt_ms": 1777388970178
   },
   {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "我迷路了@鳳凰",
-      "洛洛塔@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 155,
-    "duration_ms": 964522,
-    "clear_dt_ms": 1777388970178
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "我迷路了@鳳凰",
-      "洛洛塔@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 155,
-    "duration_ms": 964522,
-    "clear_dt_ms": 1777388970178
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "我迷路了@鳳凰",
-      "洛洛塔@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 155,
-    "duration_ms": 964522,
-    "clear_dt_ms": 1777388970178
-  },
-  {
     "code": "BMhyR7jaLgKxJf6N",
     "title": "Ultimates (Legacy)",
     "encounter": "The Epic of Alexander",
@@ -6534,115 +4752,7 @@
     "clear_dt_ms": 1777390312587
   },
   {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 158,
-    "duration_ms": 968047,
-    "clear_dt_ms": 1777390312587
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 158,
-    "duration_ms": 968047,
-    "clear_dt_ms": 1777390312587
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "菲妮@鳳凰",
-      "船過水有痕@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 158,
-    "duration_ms": 968047,
-    "clear_dt_ms": 1777390312587
-  },
-  {
     "code": "BMhyR7jaLgKxJf6N",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 159,
-    "duration_ms": 969255,
-    "clear_dt_ms": 1777391373792
-  },
-  {
-    "code": "CG9f8jFkrgx4dc3W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 159,
-    "duration_ms": 969255,
-    "clear_dt_ms": 1777391373792
-  },
-  {
-    "code": "XBCkbPtdYpyfqvDg",
-    "title": "绝境战（旧版本）",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Iyao@鳳凰",
-      "詩恩@鳳凰",
-      "鳥鳴山更幽@鳳凰",
-      "洛洛塔@鳳凰",
-      "我迷路了@鳳凰",
-      "船過水有痕@鳳凰",
-      "菲妮@鳳凰",
-      "瓜@鳳凰"
-    ],
-    "fight_id": 159,
-    "duration_ms": 969255,
-    "clear_dt_ms": 1777391373792
-  },
-  {
-    "code": "RmprvtjxQ79WBghV",
     "title": "Ultimates (Legacy)",
     "encounter": "The Epic of Alexander",
     "players": [
@@ -6966,24 +5076,6 @@
     "clear_dt_ms": 1777643181226
   },
   {
-    "code": "W7dKkZVtNwTvyM2J",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "不雪@巴哈姆特",
-      "Rairai@迦樓羅",
-      "野上良太郎@鳳凰",
-      "一隻熊@鳳凰",
-      "星羽心褀@奧汀",
-      "百龍院沙加@泰坦",
-      "一隻牛@鳳凰",
-      "最後武士@伊弗利特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 956527,
-    "clear_dt_ms": 1777643181226
-  },
-  {
     "code": "4tb3xHLvDrVmJgzZ",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -7016,42 +5108,6 @@
       "野上良太郎@鳳凰"
     ],
     "fight_id": 21,
-    "duration_ms": 967287,
-    "clear_dt_ms": 1777644543024
-  },
-  {
-    "code": "9M6XcQdyrntjR4PL",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "不雪@巴哈姆特",
-      "Rairai@迦樓羅",
-      "野上良太郎@鳳凰",
-      "一隻熊@鳳凰",
-      "星羽心褀@奧汀",
-      "百龍院沙加@泰坦",
-      "一隻牛@鳳凰",
-      "最後武士@伊弗利特"
-    ],
-    "fight_id": 3,
-    "duration_ms": 967287,
-    "clear_dt_ms": 1777644543024
-  },
-  {
-    "code": "W7dKkZVtNwTvyM2J",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "不雪@巴哈姆特",
-      "Rairai@迦樓羅",
-      "野上良太郎@鳳凰",
-      "一隻熊@鳳凰",
-      "星羽心褀@奧汀",
-      "百龍院沙加@泰坦",
-      "一隻牛@鳳凰",
-      "最後武士@伊弗利特"
-    ],
-    "fight_id": 3,
     "duration_ms": 967287,
     "clear_dt_ms": 1777644543024
   },
@@ -7124,42 +5180,6 @@
       "野上良太郎@鳳凰"
     ],
     "fight_id": 25,
-    "duration_ms": 982262,
-    "clear_dt_ms": 1777646393768
-  },
-  {
-    "code": "9M6XcQdyrntjR4PL",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "不雪@巴哈姆特",
-      "Rairai@迦樓羅",
-      "野上良太郎@鳳凰",
-      "一隻熊@鳳凰",
-      "星羽心褀@奧汀",
-      "百龍院沙加@泰坦",
-      "一隻牛@鳳凰",
-      "最後武士@伊弗利特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 982262,
-    "clear_dt_ms": 1777646393768
-  },
-  {
-    "code": "W7dKkZVtNwTvyM2J",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "不雪@巴哈姆特",
-      "Rairai@迦樓羅",
-      "野上良太郎@鳳凰",
-      "一隻熊@鳳凰",
-      "星羽心褀@奧汀",
-      "百龍院沙加@泰坦",
-      "一隻牛@鳳凰",
-      "最後武士@伊弗利特"
-    ],
-    "fight_id": 7,
     "duration_ms": 982262,
     "clear_dt_ms": 1777646393768
   },
@@ -7560,60 +5580,6 @@
     "clear_dt_ms": 1778157793454
   },
   {
-    "code": "8JZrYcM2qtPdw3g4",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ayaane@鳳凰",
-      "黃色小惡魔@利維坦",
-      "真尋兒@利維坦",
-      "Minah@迦樓羅",
-      "伊妮雅絲@伊弗利特",
-      "虛零@鳳凰",
-      "Kinako@鳳凰",
-      "仙草愛玉@鳳凰"
-    ],
-    "fight_id": 1,
-    "duration_ms": 978462,
-    "clear_dt_ms": 1778157793454
-  },
-  {
-    "code": "Z2H8WGdrnwLaRVB7",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "伊妮雅絲@伊弗利特",
-      "Ayaane@鳳凰",
-      "仙草愛玉@鳳凰",
-      "真尋兒@利維坦",
-      "虛零@鳳凰",
-      "黃色小惡魔@利維坦",
-      "Minah@迦樓羅",
-      "Kinako@鳳凰"
-    ],
-    "fight_id": 7,
-    "duration_ms": 978462,
-    "clear_dt_ms": 1778157793454
-  },
-  {
-    "code": "1c7rNFTQDK8C2LVG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Ayaane@鳳凰",
-      "仙草愛玉@鳳凰",
-      "真尋兒@利維坦",
-      "虛零@鳳凰",
-      "黃色小惡魔@利維坦",
-      "Minah@迦樓羅",
-      "Kinako@鳳凰",
-      "伊妮雅絲@伊弗利特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 978462,
-    "clear_dt_ms": 1778157793454
-  },
-  {
     "code": "aZBgWmbqf3Az7cFy",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -7740,24 +5706,6 @@
     "clear_dt_ms": 1778170980426
   },
   {
-    "code": "m7zwFZgbHhR2AfLv",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "卡卡的我@奧汀",
-      "Alune@利維坦",
-      "金金喵@伊弗利特",
-      "Cygnus@奧汀",
-      "赫龍@迦樓羅",
-      "歐買尬@巴哈姆特",
-      "聖月@利維坦",
-      "未來歌姬@迦樓羅"
-    ],
-    "fight_id": 10,
-    "duration_ms": 962380,
-    "clear_dt_ms": 1778170980426
-  },
-  {
     "code": "Kr9bzfQqNwZynVGF",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -7770,24 +5718,6 @@
       "金金喵@伊弗利特",
       "歐買尬@巴哈姆特",
       "卡卡的我@奧汀"
-    ],
-    "fight_id": 12,
-    "duration_ms": 984859,
-    "clear_dt_ms": 1778172654166
-  },
-  {
-    "code": "m7zwFZgbHhR2AfLv",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "卡卡的我@奧汀",
-      "Alune@利維坦",
-      "金金喵@伊弗利特",
-      "Cygnus@奧汀",
-      "赫龍@迦樓羅",
-      "歐買尬@巴哈姆特",
-      "聖月@利維坦",
-      "未來歌姬@迦樓羅"
     ],
     "fight_id": 12,
     "duration_ms": 984859,
@@ -7848,42 +5778,6 @@
     "clear_dt_ms": 1778179969468
   },
   {
-    "code": "ktn61pF8hNaYjWqX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "小維@鳳凰",
-      "Kotori@伊弗利特",
-      "暗影牙叉@伊弗利特",
-      "慎真@利維坦",
-      "舞紗橘@利維坦",
-      "Jester@巴哈姆特",
-      "校長四七@利維坦",
-      "Nemo捏摸@利維坦"
-    ],
-    "fight_id": 58,
-    "duration_ms": 971677,
-    "clear_dt_ms": 1778179969468
-  },
-  {
-    "code": "K83ntMkbrhNP7FpH",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Nemo捏摸@利維坦",
-      "Kotori@伊弗利特",
-      "暗影牙叉@伊弗利特",
-      "Jester@巴哈姆特",
-      "慎真@利維坦",
-      "舞紗橘@利維坦",
-      "校長四七@利維坦",
-      "小維@鳳凰"
-    ],
-    "fight_id": 12,
-    "duration_ms": 971677,
-    "clear_dt_ms": 1778179969468
-  },
-  {
     "code": "kLxQqzrBMaV8WGXZ",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -7916,24 +5810,6 @@
       "侑介@迦樓羅"
     ],
     "fight_id": 2,
-    "duration_ms": 976549,
-    "clear_dt_ms": 1778231463199
-  },
-  {
-    "code": "v8m6DLjkJKMRpwQt",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "神豬@利維坦",
-      "伊卡@伊弗利特",
-      "仙草奶茶@迦樓羅",
-      "侑介@迦樓羅",
-      "空条承太郎@伊弗利特",
-      "端木依@巴哈姆特",
-      "Sellyy@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 24,
     "duration_ms": 976549,
     "clear_dt_ms": 1778231463199
   },
@@ -7992,115 +5868,7 @@
     "clear_dt_ms": 1778246523881
   },
   {
-    "code": "HBfLmJka9q2tQdhG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "艾恩葛朗特@巴哈姆特",
-      "雷姆大好@巴哈姆特",
-      "巴哥毛怪@利維坦",
-      "歪燕@利維坦",
-      "桃梔@泰坦",
-      "格林@迦樓羅",
-      "Wei巴@伊弗利特",
-      "黑魔@奧汀"
-    ],
-    "fight_id": 5,
-    "duration_ms": 971694,
-    "clear_dt_ms": 1778246523881
-  },
-  {
     "code": "BHg8xGZdnpjFwJL4",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 833056,
-    "clear_dt_ms": 1778247499649
-  },
-  {
-    "code": "8gnMYP7kDB1r93KC",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 833056,
-    "clear_dt_ms": 1778247499649
-  },
-  {
-    "code": "cZCtk6G7bFhNfx2B",
-    "title": "绝境战（旧版本）",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "魔鬼@迦樓羅",
-      "披口醬@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "拿豆腐丟你喔@迦樓羅",
-      "莉露@迦樓羅",
-      "雀喵@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 833056,
-    "clear_dt_ms": 1778247499649
-  },
-  {
-    "code": "gt6AFWNdp1jcvMb4",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "魔鬼@迦樓羅",
-      "披口醬@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "拿豆腐丟你喔@迦樓羅",
-      "莉露@迦樓羅",
-      "雀喵@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 833056,
-    "clear_dt_ms": 1778247499649
-  },
-  {
-    "code": "1n64rpG8bwYJBXxm",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 833056,
-    "clear_dt_ms": 1778247499649
-  },
-  {
-    "code": "46fxch2GKvXLCadr",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -8154,24 +5922,6 @@
     "clear_dt_ms": 1778247948145
   },
   {
-    "code": "1N34c2XfxVWZGJbk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "柒伍@迦樓羅",
-      "花一匁@伊弗利特",
-      "魔法u柯比u@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "譚仔三哥@利維坦",
-      "琴葉千草@迦樓羅",
-      "Kami@伊弗利特",
-      "Jiaozi@伊弗利特"
-    ],
-    "fight_id": 50,
-    "duration_ms": 1145480,
-    "clear_dt_ms": 1778247948145
-  },
-  {
     "code": "BHg8xGZdnpjFwJL4",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -8190,97 +5940,7 @@
     "clear_dt_ms": 1778248601469
   },
   {
-    "code": "8gnMYP7kDB1r93KC",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 4,
-    "duration_ms": 836135,
-    "clear_dt_ms": 1778248601469
-  },
-  {
-    "code": "1n64rpG8bwYJBXxm",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 4,
-    "duration_ms": 836135,
-    "clear_dt_ms": 1778248601469
-  },
-  {
-    "code": "46fxch2GKvXLCadr",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 4,
-    "duration_ms": 836135,
-    "clear_dt_ms": 1778248601469
-  },
-  {
     "code": "BHg8xGZdnpjFwJL4",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 824153,
-    "clear_dt_ms": 1778250022967
-  },
-  {
-    "code": "1n64rpG8bwYJBXxm",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 824153,
-    "clear_dt_ms": 1778250022967
-  },
-  {
-    "code": "46fxch2GKvXLCadr",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -8316,43 +5976,7 @@
     "clear_dt_ms": 1778250940063
   },
   {
-    "code": "HBfLmJka9q2tQdhG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "艾恩葛朗特@巴哈姆特",
-      "雷姆大好@巴哈姆特",
-      "巴哥毛怪@利維坦",
-      "歪燕@利維坦",
-      "桃梔@泰坦",
-      "格林@迦樓羅",
-      "Wei巴@伊弗利特",
-      "黑魔@奧汀"
-    ],
-    "fight_id": 11,
-    "duration_ms": 966244,
-    "clear_dt_ms": 1778250940063
-  },
-  {
     "code": "1n64rpG8bwYJBXxm",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "拿豆腐丟你喔@迦樓羅",
-      "披口醬@迦樓羅",
-      "雀喵@迦樓羅",
-      "小呆瓜@迦樓羅",
-      "Ao@迦樓羅",
-      "欸欸欸手摸哪@伊弗利特",
-      "莉露@迦樓羅",
-      "魔鬼@迦樓羅"
-    ],
-    "fight_id": 7,
-    "duration_ms": 837490,
-    "clear_dt_ms": 1778251170316
-  },
-  {
-    "code": "46fxch2GKvXLCadr",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -8532,24 +6156,6 @@
     "clear_dt_ms": 1778260112995
   },
   {
-    "code": "BGPQCjg4qZHrJY8D",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "游刃游魚@迦樓羅",
-      "Pesnya@伊弗利特",
-      "烏爾比安@伊弗利特",
-      "杏仁豆腐@奧汀",
-      "肉肉肉肉肉@利維坦",
-      "Kira@鳳凰",
-      "梅露@伊弗利特",
-      "是瑞奇阿@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 968188,
-    "clear_dt_ms": 1778260112995
-  },
-  {
     "code": "tbmaKPqpB8XLVFJw",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -8604,42 +6210,6 @@
     "clear_dt_ms": 1778268105075
   },
   {
-    "code": "HtCDTcQKrZq7vWw8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "睦子米@伊弗利特",
-      "永恆光戰@奧汀",
-      "Karo@伊弗利特",
-      "麥克雞快@巴哈姆特",
-      "愛馬仕橘@伊弗利特",
-      "竹@伊弗利特",
-      "侑介@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 995996,
-    "clear_dt_ms": 1778268105075
-  },
-  {
-    "code": "79cC2gzYrJXkZb1w",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "睦子米@伊弗利特",
-      "永恆光戰@奧汀",
-      "Karo@伊弗利特",
-      "麥克雞快@巴哈姆特",
-      "愛馬仕橘@伊弗利特",
-      "竹@伊弗利特",
-      "侑介@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 995996,
-    "clear_dt_ms": 1778268105075
-  },
-  {
     "code": "83AgpvxMFdbZRhjq",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -8676,24 +6246,6 @@
     "clear_dt_ms": 1778313254487
   },
   {
-    "code": "1N34c2XfxVWZGJbk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "柒伍@迦樓羅",
-      "花一匁@伊弗利特",
-      "魔法u柯比u@伊弗利特",
-      "Nekota@鳳凰",
-      "譚仔三哥@利維坦",
-      "琴葉千草@迦樓羅",
-      "Kami@伊弗利特",
-      "Jiaozi@伊弗利特"
-    ],
-    "fight_id": 119,
-    "duration_ms": 1140728,
-    "clear_dt_ms": 1778313254487
-  },
-  {
     "code": "79cC2gzYrJXkZb1w",
     "title": "绝境战（旧版本）",
     "encounter": "living liquid / liquid hand / ... ",
@@ -8708,24 +6260,6 @@
       "布絲@利維坦"
     ],
     "fight_id": 21,
-    "duration_ms": 960873,
-    "clear_dt_ms": 1778316323302
-  },
-  {
-    "code": "yhGa4LJDcnpYCWbN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "舉舉@利維坦",
-      "布絲@利維坦",
-      "三角初音@伊弗利特",
-      "洽瓜@奧汀",
-      "神羽@巴哈姆特",
-      "柔情o貓娘@伊弗利特",
-      "Nekols@奧汀",
-      "Maple@伊弗利特"
-    ],
-    "fight_id": 5,
     "duration_ms": 960873,
     "clear_dt_ms": 1778316323302
   },
@@ -8802,43 +6336,7 @@
     "clear_dt_ms": 1778329935249
   },
   {
-    "code": "4kam6Q39tZbXcJKD",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "格林@迦樓羅",
-      "Wei巴@伊弗利特",
-      "黑魔@奧汀",
-      "巴哥毛怪@利維坦",
-      "艾恩葛朗特@巴哈姆特",
-      "桃梔@泰坦",
-      "歪燕@利維坦",
-      "雷姆大好@巴哈姆特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 954228,
-    "clear_dt_ms": 1778329935249
-  },
-  {
     "code": "tk8HhvpnZLW3yBQd",
-    "title": "05/09 TEA Clear",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "妖焰曉劍·藿@迦樓羅",
-      "貓奈奈@迦樓羅",
-      "兩儀@迦樓羅",
-      "燒肉粽@迦樓羅",
-      "老娘用下面@迦樓羅",
-      "陸子殤@迦樓羅",
-      "陌上晚@迦樓羅",
-      "襄@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 972376,
-    "clear_dt_ms": 1778332593235
-  },
-  {
-    "code": "N2WFxhmJHdf1pcvj",
     "title": "05/09 TEA Clear",
     "encounter": "living liquid / liquid hand / ... ",
     "players": [
@@ -8858,24 +6356,6 @@
   {
     "code": "ZmnLWJcw4XY7a1T3",
     "title": "绝境战（旧版本）",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "羽鳥@迦樓羅",
-      "希夫特斯@鳳凰",
-      "Decade@伊弗利特",
-      "靴子裡有蛇w@利維坦",
-      "Mogu@伊弗利特",
-      "最初的聲音@迦樓羅",
-      "笑容不是為我@迦樓羅",
-      "旮旯給木高手@伊弗利特"
-    ],
-    "fight_id": 5,
-    "duration_ms": 1102231,
-    "clear_dt_ms": 1778332684040
-  },
-  {
-    "code": "QhCgLpvHD1WarPFn",
-    "title": "Ultimates (Legacy)",
     "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
     "players": [
       "羽鳥@迦樓羅",
@@ -9252,42 +6732,6 @@
     "clear_dt_ms": 1778343602151
   },
   {
-    "code": "PnjXyrQqdDMJLwz1",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "披星@利維坦",
-      "勞斑尼迪克蛋@鳳凰",
-      "Sealcy@迦樓羅",
-      "安冏@奧汀",
-      "熊大薯@鳳凰",
-      "弦凱@巴哈姆特",
-      "槿@奧汀",
-      "氵每豸勺火宣@利維坦"
-    ],
-    "fight_id": 13,
-    "duration_ms": 877094,
-    "clear_dt_ms": 1778266299043
-  },
-  {
-    "code": "kaPKFtN2TVLyR6D9",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "披星@利維坦",
-      "勞斑尼迪克蛋@鳳凰",
-      "Sealcy@迦樓羅",
-      "安冏@奧汀",
-      "熊大薯@鳳凰",
-      "弦凱@巴哈姆特",
-      "槿@奧汀",
-      "氵每豸勺火宣@利維坦"
-    ],
-    "fight_id": 13,
-    "duration_ms": 877094,
-    "clear_dt_ms": 1778266299043
-  },
-  {
     "code": "9yWfc1rjhTPgMpam",
     "title": "绝境战（旧版本）",
     "encounter": "Titan / Ifrit",
@@ -9304,78 +6748,6 @@
     "fight_id": 4,
     "duration_ms": 859210,
     "clear_dt_ms": 1778342140426
-  },
-  {
-    "code": "fxvHJr8cWP2MptnG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "月見冰@奧汀",
-      "Wayway@奧汀",
-      "我都可以看你@巴哈姆特",
-      "鮭魚明太子@迦樓羅",
-      "安茲烏爾·恭@迦樓羅",
-      "黑白沒有建模@迦樓羅",
-      "Panda@迦樓羅",
-      "Tvtian@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 859210,
-    "clear_dt_ms": 1778342140426
-  },
-  {
-    "code": "gG6nmK1J8ZFA4pjR",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Yoyo柚柚@迦樓羅",
-      "黑白沒有建模@迦樓羅",
-      "桐生茉優@利維坦",
-      "昕月菲娜@鳳凰",
-      "鮭魚明太子@迦樓羅",
-      "月見冰@奧汀",
-      "Panda@迦樓羅",
-      "Tvtian@迦樓羅"
-    ],
-    "fight_id": 2,
-    "duration_ms": 895034,
-    "clear_dt_ms": 1778265393034
-  },
-  {
-    "code": "gG6nmK1J8ZFA4pjR",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "Wayway@奧汀",
-      "我都可以看你@巴哈姆特",
-      "黑白沒有建模@迦樓羅",
-      "鮭魚明太子@迦樓羅",
-      "月見冰@奧汀",
-      "Panda@迦樓羅",
-      "安茲烏爾·恭@迦樓羅",
-      "Tvtian@迦樓羅"
-    ],
-    "fight_id": 6,
-    "duration_ms": 859210,
-    "clear_dt_ms": 1778342140426
-  },
-  {
-    "code": "8MGh3xqVTvRmZdHz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Star竣@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "弗雷克托@巴哈姆特",
-      "是瑞奇阿@迦樓羅",
-      "霖ing@迦樓羅",
-      "真香@迦樓羅",
-      "Chuchu@迦樓羅"
-    ],
-    "fight_id": 18,
-    "duration_ms": 994645,
-    "clear_dt_ms": 1778340613944
   },
   {
     "code": "XzAfCDx3BhrYyt64",
@@ -9538,24 +6910,6 @@
     "fight_id": 16,
     "duration_ms": 827458,
     "clear_dt_ms": 1772123412748
-  },
-  {
-    "code": "axf2YHTcAXDtj1RQ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "繪靈法師@迦樓羅",
-      "找不到此玩家@迦樓羅",
-      "蕎麥鮮奶茶@伊弗利特",
-      "給酷接q@迦樓羅",
-      "Fear夜@利維坦",
-      "修羅@迦樓羅",
-      "張員瑛的狗@巴哈姆特",
-      "月曜日@迦樓羅"
-    ],
-    "fight_id": 55,
-    "duration_ms": 997129,
-    "clear_dt_ms": 1778081207279
   },
   {
     "code": "CYVzTHhxXJgpmc2P",
@@ -9738,42 +7092,6 @@
     "clear_dt_ms": 1778396608736
   },
   {
-    "code": "dcJtxYQP2jgZw6Bf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "可可樂可樂@鳳凰",
-      "二v@迦樓羅",
-      "香蕉皇@伊弗利特",
-      "千小本@巴哈姆特",
-      "席德@鳳凰",
-      "木景雲@奧汀",
-      "殺手佐之助@巴哈姆特",
-      "暗影牙叉@伊弗利特"
-    ],
-    "fight_id": 2,
-    "duration_ms": 1108308,
-    "clear_dt_ms": 1776160475384
-  },
-  {
-    "code": "Xyt71ZK9Yg3CjPN4",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "可可樂可樂@鳳凰",
-      "木景雲@奧汀",
-      "可愛兔兔邦妮@巴哈姆特",
-      "島輝@鳳凰",
-      "美鳳沒約@鳳凰",
-      "悠太@鳳凰",
-      "殺手佐之助@巴哈姆特",
-      "暗影牙叉@伊弗利特"
-    ],
-    "fight_id": 11,
-    "duration_ms": 1124192,
-    "clear_dt_ms": 1776090765267
-  },
-  {
     "code": "d6JPbWgKAqVLTt2m",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -9916,114 +7234,6 @@
     "fight_id": 45,
     "duration_ms": 955556,
     "clear_dt_ms": 1772034922922
-  },
-  {
-    "code": "a6mT2NF19tQP8X7L",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Yuki醬@利維坦",
-      "西柚味鮮奶@伊弗利特",
-      "小妹@利維坦",
-      "八八四八四四@迦樓羅",
-      "R卡捏@奧汀",
-      "殺手佐之助@巴哈姆特",
-      "陽光彩虹白駒@迦樓羅",
-      "小維@鳳凰"
-    ],
-    "fight_id": 52,
-    "duration_ms": 986928,
-    "clear_dt_ms": 1772367143455
-  },
-  {
-    "code": "a6mT2NF19tQP8X7L",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "愛梅特賽爾號@巴哈姆特",
-      "R卡捏@奧汀",
-      "Yuki醬@利維坦",
-      "西柚味鮮奶@伊弗利特",
-      "小妹@利維坦",
-      "八八四八四四@迦樓羅",
-      "殺手佐之助@巴哈姆特",
-      "陽光彩虹白駒@迦樓羅"
-    ],
-    "fight_id": 56,
-    "duration_ms": 974372,
-    "clear_dt_ms": 1772370036604
-  },
-  {
-    "code": "a6mT2NF19tQP8X7L",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "愛梅特賽爾號@巴哈姆特",
-      "四月的風@鳳凰",
-      "花生丶@巴哈姆特",
-      "Yuki醬@利維坦",
-      "克洛安布斯特@迦樓羅",
-      "咪咪帽帽@鳳凰",
-      "八八四八四四@迦樓羅",
-      "殺手佐之助@巴哈姆特"
-    ],
-    "fight_id": 75,
-    "duration_ms": 989485,
-    "clear_dt_ms": 1772384646597
-  },
-  {
-    "code": "ARrZYMFQ7Lcj8tDG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Yuki醬@利維坦",
-      "西柚味鮮奶@伊弗利特",
-      "小妹@利維坦",
-      "八八四八四四@迦樓羅",
-      "R卡捏@奧汀",
-      "殺手佐之助@巴哈姆特",
-      "陽光彩虹白駒@迦樓羅",
-      "小維@鳳凰"
-    ],
-    "fight_id": 52,
-    "duration_ms": 986928,
-    "clear_dt_ms": 1772367143455
-  },
-  {
-    "code": "ARrZYMFQ7Lcj8tDG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "愛梅特賽爾號@巴哈姆特",
-      "R卡捏@奧汀",
-      "Yuki醬@利維坦",
-      "西柚味鮮奶@伊弗利特",
-      "小妹@利維坦",
-      "八八四八四四@迦樓羅",
-      "殺手佐之助@巴哈姆特",
-      "陽光彩虹白駒@迦樓羅"
-    ],
-    "fight_id": 56,
-    "duration_ms": 974372,
-    "clear_dt_ms": 1772370036604
-  },
-  {
-    "code": "ARrZYMFQ7Lcj8tDG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "愛梅特賽爾號@巴哈姆特",
-      "四月的風@鳳凰",
-      "花生丶@巴哈姆特",
-      "Yuki醬@利維坦",
-      "克洛安布斯特@迦樓羅",
-      "咪咪帽帽@鳳凰",
-      "八八四八四四@迦樓羅",
-      "殺手佐之助@巴哈姆特"
-    ],
-    "fight_id": 75,
-    "duration_ms": 989485,
-    "clear_dt_ms": 1772384646597
   },
   {
     "code": "1TbWgyAFh3jMLZtK",
@@ -10188,60 +7398,6 @@
     "clear_dt_ms": 1777902955564
   },
   {
-    "code": "LNAW1wz7ngaFH4PM",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "莫莫拉·莫拉@鳳凰",
-      "黃色小惡魔@利維坦",
-      "俄里翁@伊弗利特",
-      "角神莫@鳳凰",
-      "雨嵐@伊弗利特",
-      "Sirius@鳳凰",
-      "嗚咪沒有睡飽@鳳凰",
-      "班凱西@鳳凰"
-    ],
-    "fight_id": 4,
-    "duration_ms": 975509,
-    "clear_dt_ms": 1777902955564
-  },
-  {
-    "code": "YATJXcrtMR4FwqCk",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "心@巴哈姆特",
-      "Roe@伊弗利特",
-      "Spor@巴哈姆特",
-      "燁子@鳳凰",
-      "Heropo@鳳凰",
-      "會員制槍兵@迦樓羅",
-      "淵@鳳凰",
-      "美花丸@奧汀"
-    ],
-    "fight_id": 13,
-    "duration_ms": 969479,
-    "clear_dt_ms": 1778252742573
-  },
-  {
-    "code": "aTc4hV6j87zK2v1F",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "閻龍@利維坦",
-      "今天還沒練琴@伊弗利特",
-      "Roe@伊弗利特",
-      "問我@迦樓羅",
-      "舞川奈富子@奧汀",
-      "Ruko@利維坦",
-      "野上奈緒@利維坦",
-      "Rejack@迦樓羅"
-    ],
-    "fight_id": 21,
-    "duration_ms": 1000096,
-    "clear_dt_ms": 1778400753399
-  },
-  {
     "code": "aTc4hV6j87zK2v1F",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -10258,42 +7414,6 @@
     "fight_id": 38,
     "duration_ms": 984784,
     "clear_dt_ms": 1778411158735
-  },
-  {
-    "code": "7xXvgRWyp2AMGrZh",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "布絲@利維坦",
-      "神豬@利維坦",
-      "野上奈緒@利維坦",
-      "羊仔@利維坦",
-      "桃梔@泰坦",
-      "神羽@巴哈姆特",
-      "冬@利維坦",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 984784,
-    "clear_dt_ms": 1778411158735
-  },
-  {
-    "code": "AaLN93bGDWhJjMyx",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "我是醜底迪@鳳凰",
-      "西·特莉格@鳳凰",
-      "Kana@利維坦",
-      "米粉兔子@鳳凰",
-      "苗疆殺人蛙@奧汀",
-      "巴尾的熊@鳳凰",
-      "咖咖哩@迦樓羅",
-      "Enidnu@奧汀"
-    ],
-    "fight_id": 16,
-    "duration_ms": 827458,
-    "clear_dt_ms": 1772123412748
   },
   {
     "code": "3aR4vpZJVz8kxMmg",
@@ -10350,24 +7470,6 @@
     "clear_dt_ms": 1778167061604
   },
   {
-    "code": "3F7QPGy8ARXCJxWn",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "雷姆大好@巴哈姆特",
-      "黑魔@奧汀",
-      "艾恩葛朗特@巴哈姆特",
-      "桃梔@泰坦",
-      "歪燕@利維坦",
-      "格林@迦樓羅",
-      "巴哥毛怪@利維坦",
-      "Wei巴@伊弗利特"
-    ],
-    "fight_id": 10,
-    "duration_ms": 953166,
-    "clear_dt_ms": 1778421109941
-  },
-  {
     "code": "Kw3JGZ8NnkrCavBj",
     "title": "Ultimates (Legacy)",
     "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
@@ -10402,42 +7504,6 @@
     "fight_id": 3,
     "duration_ms": 971889,
     "clear_dt_ms": 1778420039405
-  },
-  {
-    "code": "KhdLcApYz8RjCaXW",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "夏洛洛@奧汀",
-      "舞川奈富子@奧汀",
-      "Karo@伊弗利特",
-      "Iehtan@奧汀",
-      "莓果布偶貓@鳳凰",
-      "Mjlinv@鳳凰",
-      "麥克雞快@巴哈姆特",
-      "Choco@鳳凰"
-    ],
-    "fight_id": 5,
-    "duration_ms": 980861,
-    "clear_dt_ms": 1777614029696
-  },
-  {
-    "code": "KhdLcApYz8RjCaXW",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "阿秋@利維坦",
-      "永恆光戰@奧汀",
-      "兔田配口茶@伊弗利特",
-      "愛馬仕橘@伊弗利特",
-      "Karo@伊弗利特",
-      "睦子米@伊弗利特",
-      "侑介@迦樓羅",
-      "舞川奈富子@奧汀"
-    ],
-    "fight_id": 9,
-    "duration_ms": 994294,
-    "clear_dt_ms": 1777646382132
   },
   {
     "code": "RTyw9YW1qBfgpc2V",
@@ -10492,204 +7558,6 @@
     "fight_id": 3,
     "duration_ms": 980171,
     "clear_dt_ms": 1778417855246
-  },
-  {
-    "code": "nX9Cp4PL8FyzD3dK",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "蕾爾緹暮暮@巴哈姆特",
-      "美花丸@奧汀",
-      "心@巴哈姆特",
-      "羊仔@利維坦",
-      "弗雷克托@巴哈姆特",
-      "芒果多多檸@奧汀",
-      "Bentou@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 9,
-    "duration_ms": 926240,
-    "clear_dt_ms": 1778418627676
-  },
-  {
-    "code": "FnN4pJPZmt9387zL",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "心@巴哈姆特",
-      "芒果多多檸@奧汀",
-      "三角初音@伊弗利特",
-      "弗雷克托@巴哈姆特",
-      "美花丸@奧汀",
-      "蕾爾緹暮暮@巴哈姆特",
-      "羊仔@利維坦",
-      "Bentou@迦樓羅"
-    ],
-    "fight_id": 13,
-    "duration_ms": 926240,
-    "clear_dt_ms": 1778418627676
-  },
-  {
-    "code": "nzTcfB3vFKmHjY7W",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "蕾爾緹暮暮@巴哈姆特",
-      "心@巴哈姆特",
-      "羊仔@利維坦",
-      "弗雷克托@巴哈姆特",
-      "芒果多多檸@奧汀",
-      "Bentou@迦樓羅",
-      "三角初音@伊弗利特",
-      "美花丸@奧汀"
-    ],
-    "fight_id": 9,
-    "duration_ms": 926240,
-    "clear_dt_ms": 1778418627676
-  },
-  {
-    "code": "JjWBVpMdLQfXHr7G",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "布絲@利維坦",
-      "神豬@利維坦",
-      "野上奈緒@利維坦",
-      "羊仔@利維坦",
-      "桃梔@泰坦",
-      "神羽@巴哈姆特",
-      "冬@利維坦",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 984784,
-    "clear_dt_ms": 1778411158735
-  },
-  {
-    "code": "JjWBVpMdLQfXHr7G",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "芒果多多檸@奧汀",
-      "蕾爾緹暮暮@巴哈姆特",
-      "心@巴哈姆特",
-      "弗雷克托@巴哈姆特",
-      "Bentou@迦樓羅",
-      "羊仔@利維坦",
-      "美花丸@奧汀",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 6,
-    "duration_ms": 926240,
-    "clear_dt_ms": 1778418627676
-  },
-  {
-    "code": "cTKXvbgyjnpQJV6H",
-    "title": "0510-2",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Chuchu@迦樓羅",
-      "Star竣@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "弗雷克托@巴哈姆特",
-      "是瑞奇阿@迦樓羅",
-      "霖ing@迦樓羅",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅"
-    ],
-    "fight_id": 18,
-    "duration_ms": 994645,
-    "clear_dt_ms": 1778340613944
-  },
-  {
-    "code": "cTKXvbgyjnpQJV6H",
-    "title": "0510-2",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Banana@迦樓羅",
-      "Star竣@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "是瑞奇阿@迦樓羅",
-      "霖ing@迦樓羅",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "落葉丸@迦樓羅"
-    ],
-    "fight_id": 47,
-    "duration_ms": 980171,
-    "clear_dt_ms": 1778417855246
-  },
-  {
-    "code": "4W1hbwFj6tdapV7g",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "落葉丸@迦樓羅",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "Banana@迦樓羅",
-      "Star竣@迦樓羅",
-      "霖ing@迦樓羅",
-      "是瑞奇阿@迦樓羅"
-    ],
-    "fight_id": 10,
-    "duration_ms": 980171,
-    "clear_dt_ms": 1778417855246
-  },
-  {
-    "code": "QdzXvtKBkCpAD8hZ",
-    "title": "絶シリーズ（過去）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "落葉丸@迦樓羅",
-      "霖ing@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "是瑞奇阿@迦樓羅",
-      "Star竣@迦樓羅",
-      "Banana@迦樓羅",
-      "真香@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 980171,
-    "clear_dt_ms": 1778417855246
-  },
-  {
-    "code": "RxvVDYTZFGrJmjz6",
-    "title": "0510",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Chuchu@迦樓羅",
-      "Star竣@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "弗雷克托@巴哈姆特",
-      "是瑞奇阿@迦樓羅",
-      "霖ing@迦樓羅",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅"
-    ],
-    "fight_id": 18,
-    "duration_ms": 994645,
-    "clear_dt_ms": 1778340613944
-  },
-  {
-    "code": "WRMzw7KX34y1Zmrx",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "桃梔@泰坦",
-      "神羽@巴哈姆特",
-      "三角初音@伊弗利特",
-      "冬@利維坦",
-      "布絲@利維坦",
-      "神豬@利維坦",
-      "野上奈緒@利維坦",
-      "羊仔@利維坦"
-    ],
-    "fight_id": 20,
-    "duration_ms": 984784,
-    "clear_dt_ms": 1778411158735
   },
   {
     "code": "yqQTV9hX8ZYjF1cH",
@@ -10890,42 +7758,6 @@
     "clear_dt_ms": 1773566288047
   },
   {
-    "code": "WKA4km1TtHfB7rxa",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "找不到此玩家@迦樓羅",
-      "Sekiro@迦樓羅",
-      "修羅@迦樓羅",
-      "Rakuen@迦樓羅",
-      "Fear夜@利維坦",
-      "朧月@巴哈姆特",
-      "蕎麥鮮奶茶@伊弗利特",
-      "月曜日@迦樓羅"
-    ],
-    "fight_id": 27,
-    "duration_ms": 997087,
-    "clear_dt_ms": 1773566288047
-  },
-  {
-    "code": "Rbw6Q2FG3jyYmcfL",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "安眠@伊弗利特",
-      "二v@迦樓羅",
-      "萊茵哈魯特@巴哈姆特",
-      "Xinsa@迦樓羅",
-      "桐生桔梗@迦樓羅",
-      "李丁路哲@迦樓羅",
-      "Rakuen@迦樓羅",
-      "洗讚小鴨鴨@伊弗利特"
-    ],
-    "fight_id": 24,
-    "duration_ms": 977343,
-    "clear_dt_ms": 1773594955204
-  },
-  {
     "code": "j1WZ9MF6GpCQvbwY",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -10963,60 +7795,6 @@
   },
   {
     "code": "j1WZ9MF6GpCQvbwY",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "托托蘿@利維坦",
-      "小who豬@鳳凰",
-      "皇家壽司拼盤@巴哈姆特",
-      "發芽馬鈴薯@巴哈姆特",
-      "米米兒@迦樓羅",
-      "丨咕咕嘎嘎丨@巴哈姆特",
-      "Cvabyx@伊弗利特",
-      "愛琳娜喵@伊弗利特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 865778,
-    "clear_dt_ms": 1773564594172
-  },
-  {
-    "code": "WXyNLDPnMd2f8ZFz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "托托蘿@利維坦",
-      "小who豬@鳳凰",
-      "皇家壽司拼盤@巴哈姆特",
-      "發芽馬鈴薯@巴哈姆特",
-      "米米兒@迦樓羅",
-      "丨咕咕嘎嘎丨@巴哈姆特",
-      "Cvabyx@伊弗利特",
-      "愛琳娜喵@伊弗利特"
-    ],
-    "fight_id": 4,
-    "duration_ms": 864144,
-    "clear_dt_ms": 1773562478175
-  },
-  {
-    "code": "WXyNLDPnMd2f8ZFz",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "托托蘿@利維坦",
-      "小who豬@鳳凰",
-      "皇家壽司拼盤@巴哈姆特",
-      "發芽馬鈴薯@巴哈姆特",
-      "米米兒@迦樓羅",
-      "丨咕咕嘎嘎丨@巴哈姆特",
-      "Cvabyx@伊弗利特",
-      "愛琳娜喵@伊弗利特"
-    ],
-    "fight_id": 6,
-    "duration_ms": 865099,
-    "clear_dt_ms": 1773563615913
-  },
-  {
-    "code": "WXyNLDPnMd2f8ZFz",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -11142,24 +7920,6 @@
     "clear_dt_ms": 1778426083187
   },
   {
-    "code": "HZtMw2TP1FWXJVD8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Jl@鳳凰",
-      "雪蓮貓@利維坦",
-      "菟小可@鳳凰",
-      "藥塵@利維坦",
-      "富可可@利維坦",
-      "小who豬@鳳凰",
-      "黑糬奶油泡芙@利維坦",
-      "穗曦@伊弗利特"
-    ],
-    "fight_id": 5,
-    "duration_ms": 993036,
-    "clear_dt_ms": 1778426083187
-  },
-  {
     "code": "X4R6fFjP1Bwm8x3M",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -11176,24 +7936,6 @@
     "fight_id": 1,
     "duration_ms": 954201,
     "clear_dt_ms": 1778426015080
-  },
-  {
-    "code": "wcLPYp2gXZ9AJ17f",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "貝藜詩@伊弗利特",
-      "數多@利維坦",
-      "真白瑠璃@伊弗利特",
-      "小犬@鳳凰",
-      "夏雪@利維坦",
-      "洋月@巴哈姆特",
-      "Yt陌呱呱@利維坦",
-      "逼欸逼u@利維坦"
-    ],
-    "fight_id": 27,
-    "duration_ms": 867730,
-    "clear_dt_ms": 1778404583358
   },
   {
     "code": "wcLPYp2gXZ9AJ17f",
@@ -11232,42 +7974,6 @@
     "clear_dt_ms": 1778424177944
   },
   {
-    "code": "JRqL6jBT87xg9yWp",
-    "title": "0510-3",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Chuchu@迦樓羅",
-      "Star竣@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "弗雷克托@巴哈姆特",
-      "是瑞奇阿@迦樓羅",
-      "霖ing@迦樓羅",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅"
-    ],
-    "fight_id": 18,
-    "duration_ms": 994645,
-    "clear_dt_ms": 1778340613944
-  },
-  {
-    "code": "JRqL6jBT87xg9yWp",
-    "title": "0510-3",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Banana@迦樓羅",
-      "Star竣@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "是瑞奇阿@迦樓羅",
-      "霖ing@迦樓羅",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "落葉丸@迦樓羅"
-    ],
-    "fight_id": 47,
-    "duration_ms": 980171,
-    "clear_dt_ms": 1778417855246
-  },
-  {
     "code": "ycqBgrjdVnFa4JNZ",
     "title": "Ultimates (Legacy)",
     "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
@@ -11286,42 +7992,6 @@
     "clear_dt_ms": 1778423431356
   },
   {
-    "code": "tkQVfcCjng3TB1yY",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
-    "players": [
-      "羽鳥@迦樓羅",
-      "希夫特斯@鳳凰",
-      "靴子裡有蛇w@利維坦",
-      "Mogu@伊弗利特",
-      "笑容不是為我@迦樓羅",
-      "Decade@伊弗利特",
-      "最初的聲音@迦樓羅",
-      "旮旯給木高手@伊弗利特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 1093048,
-    "clear_dt_ms": 1778423431356
-  },
-  {
-    "code": "YVJfCrmPvxT64ywA",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "落葉丸@迦樓羅",
-      "霖ing@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "黑鳶尾@迦樓羅",
-      "是瑞奇阿@迦樓羅",
-      "Star竣@迦樓羅",
-      "Banana@迦樓羅",
-      "真香@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 980171,
-    "clear_dt_ms": 1778417855246
-  },
-  {
     "code": "wVX4FfxKtp8WZg7M",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
@@ -11338,24 +8008,6 @@
     "fight_id": 2,
     "duration_ms": 849898,
     "clear_dt_ms": 1778439905350
-  },
-  {
-    "code": "kgFpdCjR1W23MK8J",
-    "title": "绝境战（旧版本）",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "芭樂綠茶@鳳凰",
-      "小雞@鳳凰",
-      "阿邦邦@鳳凰",
-      "Seckil@奧汀",
-      "席德@鳳凰",
-      "新約能天使@奧汀",
-      "Kami@鳳凰",
-      "Hearst@鳳凰"
-    ],
-    "fight_id": 3,
-    "duration_ms": 1140558,
-    "clear_dt_ms": 1778420013650
   },
   {
     "code": "j9cfzT2VKxhH1JrD",
@@ -11430,24 +8082,6 @@
     "clear_dt_ms": 1778435271347
   },
   {
-    "code": "pRgyMr13vJZdcLz7",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "友原伊@伊弗利特",
-      "Natsum@奧汀",
-      "賭狗隊長阿粽@鳳凰",
-      "天墨祤@鳳凰",
-      "光之工具人@奧汀",
-      "使吹箭太郎@奧汀",
-      "Weki@奧汀",
-      "魚丸丸辣@鳳凰"
-    ],
-    "fight_id": 3,
-    "duration_ms": 1022978,
-    "clear_dt_ms": 1778435271347
-  },
-  {
     "code": "qDAmC3npWjYyZ8wV",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -11482,42 +8116,6 @@
     "fight_id": 1,
     "duration_ms": 975139,
     "clear_dt_ms": 1778428026304
-  },
-  {
-    "code": "A6C9Tfq2WD1abPpG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "閻龍@利維坦",
-      "今天還沒練琴@伊弗利特",
-      "Roe@伊弗利特",
-      "問我@迦樓羅",
-      "舞川奈富子@奧汀",
-      "Ruko@利維坦",
-      "野上奈緒@利維坦",
-      "Rejack@迦樓羅"
-    ],
-    "fight_id": 21,
-    "duration_ms": 1000096,
-    "clear_dt_ms": 1778400753399
-  },
-  {
-    "code": "A6C9Tfq2WD1abPpG",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "神羽@巴哈姆特",
-      "三角初音@伊弗利特",
-      "冬@利維坦",
-      "桃梔@泰坦",
-      "野上奈緒@利維坦",
-      "布絲@利維坦",
-      "神豬@利維坦",
-      "羊仔@利維坦"
-    ],
-    "fight_id": 38,
-    "duration_ms": 984784,
-    "clear_dt_ms": 1778411158735
   },
   {
     "code": "xk6WJ8rnXpfNtK1q",
@@ -11608,96 +8206,6 @@
     "fight_id": 18,
     "duration_ms": 961976,
     "clear_dt_ms": 1778428588962
-  },
-  {
-    "code": "1KzBYWkMZhgvJx9a",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "布絲@利維坦",
-      "神豬@利維坦",
-      "野上奈緒@利維坦",
-      "羊仔@利維坦",
-      "桃梔@泰坦",
-      "神羽@巴哈姆特",
-      "冬@利維坦",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 984784,
-    "clear_dt_ms": 1778411158735
-  },
-  {
-    "code": "1KzBYWkMZhgvJx9a",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "芒果多多檸@奧汀",
-      "蕾爾緹暮暮@巴哈姆特",
-      "心@巴哈姆特",
-      "弗雷克托@巴哈姆特",
-      "Bentou@迦樓羅",
-      "羊仔@利維坦",
-      "美花丸@奧汀",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 6,
-    "duration_ms": 926240,
-    "clear_dt_ms": 1778418627676
-  },
-  {
-    "code": "1KzBYWkMZhgvJx9a",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "心@巴哈姆特",
-      "柒伍@迦樓羅",
-      "梅吉布拉德@伊弗利特",
-      "三角初音@伊弗利特",
-      "神豬@利維坦",
-      "小肥嘟嘟@利維坦",
-      "Mjlinv@鳳凰",
-      "Sellyy@迦樓羅"
-    ],
-    "fight_id": 7,
-    "duration_ms": 954201,
-    "clear_dt_ms": 1778426015080
-  },
-  {
-    "code": "ym2CtZf1TMcYvjrA",
-    "title": "绝境战（旧版本）",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "芭樂綠茶@鳳凰",
-      "小雞@鳳凰",
-      "阿邦邦@鳳凰",
-      "Seckil@奧汀",
-      "席德@鳳凰",
-      "新約能天使@奧汀",
-      "Kami@鳳凰",
-      "Hearst@鳳凰"
-    ],
-    "fight_id": 3,
-    "duration_ms": 1140558,
-    "clear_dt_ms": 1778420013650
-  },
-  {
-    "code": "1PBpV8C6aRg3TH2v",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "柒伍@迦樓羅",
-      "心@巴哈姆特",
-      "梅吉布拉德@伊弗利特",
-      "神豬@利維坦",
-      "小肥嘟嘟@利維坦",
-      "Mjlinv@鳳凰",
-      "Sellyy@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 954201,
-    "clear_dt_ms": 1778426015080
   },
   {
     "code": "PAgRqW3LjwQGxK9a",
@@ -11794,42 +8302,6 @@
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
     "players": [
-      "Maple@伊弗利特",
-      "貓丸丸@鳳凰",
-      "貓貓好可愛@利維坦",
-      "夢幻o飄@迦樓羅",
-      "洽米@迦樓羅",
-      "Avisev@迦樓羅",
-      "Iehtan@奧汀",
-      "沙龍怕鼠@巴哈姆特"
-    ],
-    "fight_id": 90,
-    "duration_ms": 975528,
-    "clear_dt_ms": 1777216682376
-  },
-  {
-    "code": "dvRy1DmzMtfn6Cw3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Maple@伊弗利特",
-      "貓丸丸@鳳凰",
-      "貓貓好可愛@利維坦",
-      "夢幻o飄@迦樓羅",
-      "洽米@迦樓羅",
-      "Avisev@迦樓羅",
-      "Iehtan@奧汀",
-      "沙龍怕鼠@巴哈姆特"
-    ],
-    "fight_id": 91,
-    "duration_ms": 955449,
-    "clear_dt_ms": 1777217880889
-  },
-  {
-    "code": "dvRy1DmzMtfn6Cw3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
       "狼少兒@鳳凰",
       "乂罐頭乂@泰坦",
       "角卷綿芽@伊弗利特",
@@ -11916,133 +8388,7 @@
     "clear_dt_ms": 1777316756969
   },
   {
-    "code": "dvRy1DmzMtfn6Cw3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Maple@伊弗利特",
-      "貓丸丸@鳳凰",
-      "貓貓好可愛@利維坦",
-      "夢幻o飄@迦樓羅",
-      "虛零@鳳凰",
-      "洽米@迦樓羅",
-      "Avisev@迦樓羅",
-      "沙龍怕鼠@巴哈姆特"
-    ],
-    "fight_id": 284,
-    "duration_ms": 967058,
-    "clear_dt_ms": 1777391515383
-  },
-  {
     "code": "FbkvgjZqXHnQ2DR3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "麻凎你呦吼@利維坦",
-      "殳羅兒ouo@利維坦",
-      "阿爾博德之門@利維坦",
-      "Dodo@利維坦",
-      "克勞勞勞德@利維坦",
-      "Nobu@利維坦",
-      "葉卡琳特@利維坦",
-      "Rita@利維坦"
-    ],
-    "fight_id": 6,
-    "duration_ms": 894569,
-    "clear_dt_ms": 1777221618675
-  },
-  {
-    "code": "dCKRyQ7BNtv1HhJX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 2,
-    "duration_ms": 982545,
-    "clear_dt_ms": 1777225305276
-  },
-  {
-    "code": "dCKRyQ7BNtv1HhJX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 6,
-    "duration_ms": 968624,
-    "clear_dt_ms": 1777227221625
-  },
-  {
-    "code": "dCKRyQ7BNtv1HhJX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "太一@奧汀",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 55,
-    "duration_ms": 981673,
-    "clear_dt_ms": 1777313701669
-  },
-  {
-    "code": "dCKRyQ7BNtv1HhJX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "太一@奧汀",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 58,
-    "duration_ms": 977889,
-    "clear_dt_ms": 1777315712397
-  },
-  {
-    "code": "dCKRyQ7BNtv1HhJX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "太一@奧汀",
-      "角卷綿芽@伊弗利特",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 59,
-    "duration_ms": 979970,
-    "clear_dt_ms": 1777316756969
-  },
-  {
-    "code": "m9d1C4nMk86zcfqZ",
     "title": "Ultimates (Legacy)",
     "encounter": "Titan / Ifrit",
     "players": [
@@ -12132,42 +8478,6 @@
     "clear_dt_ms": 1777292362925
   },
   {
-    "code": "Ry4QCdhKwx62LJqb",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "下限無底@迦樓羅",
-      "素材怪物森森@迦樓羅",
-      "休機司息室@迦樓羅",
-      "赫雨娜希恩@迦樓羅",
-      "普瑞賽斯@巴哈姆特",
-      "欸欸欸手摸哪@伊弗利特",
-      "橘瑠衣@迦樓羅",
-      "莉露@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 874104,
-    "clear_dt_ms": 1777153415376
-  },
-  {
-    "code": "Ry4QCdhKwx62LJqb",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "披口醬@迦樓羅",
-      "Ao@迦樓羅",
-      "莉莉米娃@泰坦",
-      "欸欸欸手摸哪@伊弗利特",
-      "下限無底@迦樓羅",
-      "莉露@迦樓羅",
-      "雀喵@迦樓羅",
-      "拿豆腐丟你喔@迦樓羅"
-    ],
-    "fight_id": 4,
-    "duration_ms": 879618,
-    "clear_dt_ms": 1777296115961
-  },
-  {
     "code": "cLX8a24HxmWMfJQN",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -12184,96 +8494,6 @@
     "fight_id": 41,
     "duration_ms": 963613,
     "clear_dt_ms": 1777207431209
-  },
-  {
-    "code": "LjVnG4DW1dpTFvYf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "蔥爆牛肉@伊弗利特",
-      "兔田配口茶@伊弗利特",
-      "泠凌月@利維坦",
-      "拉拉舒肥餐@伊弗利特",
-      "十三么@伊弗利特",
-      "Twom@伊弗利特",
-      "便當店老闆@巴哈姆特",
-      "玉米柴柴粥@巴哈姆特"
-    ],
-    "fight_id": 41,
-    "duration_ms": 963613,
-    "clear_dt_ms": 1777207431209
-  },
-  {
-    "code": "t8qbRxXk4njvyrKQ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 2,
-    "duration_ms": 982545,
-    "clear_dt_ms": 1777225305276
-  },
-  {
-    "code": "t8qbRxXk4njvyrKQ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "狼少兒@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "瑪瑪@泰坦",
-      "魔法小靈貓@迦樓羅",
-      "夢幻o飄@迦樓羅"
-    ],
-    "fight_id": 6,
-    "duration_ms": 968624,
-    "clear_dt_ms": 1777227221625
-  },
-  {
-    "code": "P9wAKMkBLX3xnyYT",
-    "title": "绝境战（旧版本）",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Yanjan@伊弗利特",
-      "紫夜kido@巴哈姆特",
-      "牙橙@伊弗利特",
-      "老大的最愛@巴哈姆特",
-      "魚丸探長@鳳凰",
-      "貓羊@迦樓羅",
-      "羅剎@伊弗利特",
-      "月月丶@利維坦"
-    ],
-    "fight_id": 13,
-    "duration_ms": 852612,
-    "clear_dt_ms": 1777226392581
-  },
-  {
-    "code": "z63JHacFmyYWB7jM",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Yanjan@伊弗利特",
-      "紫夜kido@巴哈姆特",
-      "牙橙@伊弗利特",
-      "老大的最愛@巴哈姆特",
-      "魚丸探長@鳳凰",
-      "貓羊@迦樓羅",
-      "羅剎@伊弗利特",
-      "月月丶@利維坦"
-    ],
-    "fight_id": 13,
-    "duration_ms": 852612,
-    "clear_dt_ms": 1777226392581
   },
   {
     "code": "37cQKW4gpRLC9jTa",
@@ -12312,42 +8532,6 @@
     "clear_dt_ms": 1777231543112
   },
   {
-    "code": "XMVhTB1W2yp4mKcN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "夢幻o飄@迦樓羅",
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "狼少兒@鳳凰",
-      "魔法小靈貓@迦樓羅",
-      "瑪瑪@泰坦"
-    ],
-    "fight_id": 2,
-    "duration_ms": 982545,
-    "clear_dt_ms": 1777225305276
-  },
-  {
-    "code": "XMVhTB1W2yp4mKcN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "夢幻o飄@迦樓羅",
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "狼少兒@鳳凰",
-      "魔法小靈貓@迦樓羅",
-      "瑪瑪@泰坦"
-    ],
-    "fight_id": 6,
-    "duration_ms": 968624,
-    "clear_dt_ms": 1777227221625
-  },
-  {
     "code": "JDnvpCbaBXgh2wtR",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -12384,60 +8568,6 @@
     "clear_dt_ms": 1777220291456
   },
   {
-    "code": "Xf4Zxr7G1NhYzLdF",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "月下之影@鳳凰",
-      "Dreamy@迦樓羅",
-      "D·咕咕嘎嘎@伊弗利特",
-      "阿公穿肚兜跑@利維坦",
-      "塔拉妮絲@巴哈姆特",
-      "我壞嘛@伊弗利特",
-      "Adai@伊弗利特",
-      "樺璘@迦樓羅"
-    ],
-    "fight_id": 40,
-    "duration_ms": 996833,
-    "clear_dt_ms": 1777221354893
-  },
-  {
-    "code": "GzmPWCDwYNnMAxj9",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "夢幻o飄@迦樓羅",
-      "伊卡@伊弗利特",
-      "Foobar@鳳凰",
-      "乂罐頭乂@泰坦",
-      "角卷綿芽@伊弗利特",
-      "狼少兒@鳳凰",
-      "魔法小靈貓@迦樓羅",
-      "瑪瑪@泰坦"
-    ],
-    "fight_id": 2,
-    "duration_ms": 982545,
-    "clear_dt_ms": 1777225305276
-  },
-  {
-    "code": "8NZzpf69XQRtFCck",
-    "title": "Ultimates (Legacy)",
-    "encounter": "The Epic of Alexander",
-    "players": [
-      "Dreamy@迦樓羅",
-      "Adai@伊弗利特",
-      "D·咕咕嘎嘎@伊弗利特",
-      "月下之影@鳳凰",
-      "我壞嘛@伊弗利特",
-      "樺璘@迦樓羅",
-      "阿公穿肚兜跑@利維坦",
-      "塔拉妮絲@巴哈姆特"
-    ],
-    "fight_id": 29,
-    "duration_ms": 996833,
-    "clear_dt_ms": 1777221354893
-  },
-  {
     "code": "nkAhvgxBcGQtzWdf",
     "title": "绝境战（旧版本）",
     "encounter": "living liquid / liquid hand / ... ",
@@ -12454,60 +8584,6 @@
     "fight_id": 58,
     "duration_ms": 1007124,
     "clear_dt_ms": 1777222177128
-  },
-  {
-    "code": "zVRGcq4T8Bvpr1kJ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "詩學少女@利維坦",
-      "有錢@迦樓羅",
-      "米開朗雞肉飯@利維坦",
-      "Lcho@利維坦",
-      "Katze@利維坦",
-      "冷冷吖@利維坦",
-      "名字隨時改嗎@利維坦",
-      "Sherry@巴哈姆特"
-    ],
-    "fight_id": 19,
-    "duration_ms": 1007124,
-    "clear_dt_ms": 1777222177128
-  },
-  {
-    "code": "27gtzLhRFj9KqVpJ",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "麻凎你呦吼@利維坦",
-      "殳羅兒ouo@利維坦",
-      "阿爾博德之門@利維坦",
-      "Dodo@利維坦",
-      "克勞勞勞德@利維坦",
-      "Nobu@利維坦",
-      "葉卡琳特@利維坦",
-      "Rita@利維坦"
-    ],
-    "fight_id": 6,
-    "duration_ms": 894569,
-    "clear_dt_ms": 1777221618675
-  },
-  {
-    "code": "HmW9VCrZDvxKfL48",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Kaout@巴哈姆特",
-      "夜神天祈@伊弗利特",
-      "我不叫冠衝@奧汀",
-      "盧森堡@巴哈姆特",
-      "高手貓騎士@迦樓羅",
-      "小凱ouo@迦樓羅",
-      "拉哈不累呀@奧汀",
-      "Sakra@伊弗利特"
-    ],
-    "fight_id": 22,
-    "duration_ms": 980414,
-    "clear_dt_ms": 1777199487025
   },
   {
     "code": "GKzWfwH92XxQYLnC",
@@ -12582,60 +8658,6 @@
     "clear_dt_ms": 1775047245117
   },
   {
-    "code": "Kpm3FYbHfyMrca79",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "仙草愛玉@鳳凰",
-      "虛零@鳳凰",
-      "Minah@迦樓羅",
-      "Kinako@鳳凰",
-      "空条承太郎@伊弗利特",
-      "黃色小惡魔@利維坦",
-      "伊妮雅絲@伊弗利特",
-      "Ayaane@鳳凰"
-    ],
-    "fight_id": 8,
-    "duration_ms": 996779,
-    "clear_dt_ms": 1778244528681
-  },
-  {
-    "code": "ZRwvjFKJ1Ptc6zqy",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "仙草愛玉@鳳凰",
-      "虛零@鳳凰",
-      "Minah@迦樓羅",
-      "Kinako@鳳凰",
-      "空条承太郎@伊弗利特",
-      "黃色小惡魔@利維坦",
-      "伊妮雅絲@伊弗利特",
-      "Ayaane@鳳凰"
-    ],
-    "fight_id": 8,
-    "duration_ms": 996779,
-    "clear_dt_ms": 1778244528681
-  },
-  {
-    "code": "nzZD29FgC6Lr3c1Q",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "塔皮歐卡@鳳凰",
-      "弦凱@巴哈姆特",
-      "小乳子@利維坦",
-      "羅剎@伊弗利特",
-      "早麗雯雯@鳳凰",
-      "伊諾@利維坦",
-      "掃把@伊弗利特",
-      "月月丶@利維坦"
-    ],
-    "fight_id": 39,
-    "duration_ms": 849898,
-    "clear_dt_ms": 1778439905350
-  },
-  {
     "code": "q1cCNwrhgt9YJHmj",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
@@ -12686,24 +8708,6 @@
       "Seira@利維坦"
     ],
     "fight_id": 7,
-    "duration_ms": 957756,
-    "clear_dt_ms": 1778483445760
-  },
-  {
-    "code": "Bqr1Hk9tjAm4gvVP",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "孤獨萊恩@鳳凰",
-      "布絲@利維坦",
-      "Seira@利維坦",
-      "瀟湘夜雨@鳳凰",
-      "新約不能天使@迦樓羅",
-      "有生命鮮奶茶@鳳凰",
-      "巧克力熱果凍@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 1,
     "duration_ms": 957756,
     "clear_dt_ms": 1778483445760
   },
@@ -12766,24 +8770,6 @@
     "title": "绝境战（旧版本）",
     "encounter": "living liquid / liquid hand / ... ",
     "players": [
-      "孤獨萊恩@鳳凰",
-      "布絲@利維坦",
-      "Seira@利維坦",
-      "瀟湘夜雨@鳳凰",
-      "新約不能天使@迦樓羅",
-      "有生命鮮奶茶@鳳凰",
-      "巧克力熱果凍@迦樓羅",
-      "三角初音@伊弗利特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 957756,
-    "clear_dt_ms": 1778483445760
-  },
-  {
-    "code": "k4HMZXpKaxNh2APW",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
       "游刃游魚@迦樓羅",
       "標@泰坦",
       "啵啵伊啵伊@巴哈姆特",
@@ -12796,60 +8782,6 @@
     "fight_id": 18,
     "duration_ms": 961114,
     "clear_dt_ms": 1778492309266
-  },
-  {
-    "code": "RAptfk2ywcKgPq8Z",
-    "title": "絕亞",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "孤獨萊恩@鳳凰",
-      "布絲@利維坦",
-      "Seira@利維坦",
-      "瀟湘夜雨@鳳凰",
-      "新約不能天使@迦樓羅",
-      "有生命鮮奶茶@鳳凰",
-      "三角初音@伊弗利特",
-      "巧克力熱果凍@迦樓羅"
-    ],
-    "fight_id": 1,
-    "duration_ms": 957756,
-    "clear_dt_ms": 1778483445760
-  },
-  {
-    "code": "XmxVCMyWqZjFRBNP",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "蔚笙枳@迦樓羅",
-      "Avisev@迦樓羅",
-      "朧月@迦樓羅",
-      "鯨魚不上盾@鳳凰",
-      "美蒂森@鳳凰",
-      "蒼蒼@迦樓羅",
-      "歐歐扣@鳳凰",
-      "洽米@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 875492,
-    "clear_dt_ms": 1775395291893
-  },
-  {
-    "code": "XmxVCMyWqZjFRBNP",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "蔚笙枳@迦樓羅",
-      "Avisev@迦樓羅",
-      "朧月@迦樓羅",
-      "鯨魚不上盾@鳳凰",
-      "美蒂森@鳳凰",
-      "蒼蒼@迦樓羅",
-      "歐歐扣@鳳凰",
-      "洽米@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 877625,
-    "clear_dt_ms": 1775397326183
   },
   {
     "code": "aqT2RmANtVw3vyfp",
@@ -12868,24 +8800,6 @@
     "fight_id": 1,
     "duration_ms": 957491,
     "clear_dt_ms": 1775408314793
-  },
-  {
-    "code": "ZKGmQ2xdp7HBakcb",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "落葉丸@迦樓羅",
-      "Star竣@迦樓羅",
-      "Karas@迦樓羅",
-      "那由多壽司屋@迦樓羅",
-      "飛鴻踏雪@利維坦",
-      "真香@迦樓羅",
-      "高手貓騎士@迦樓羅",
-      "王豆沙@利維坦"
-    ],
-    "fight_id": 2,
-    "duration_ms": 898181,
-    "clear_dt_ms": 1775048825155
   },
   {
     "code": "1fQ4pLrmnvzJZXT6",
@@ -12967,42 +8881,6 @@
       "柒伍@迦樓羅",
       "Kami@伊弗利特",
       "魔法u柯比u@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "譚仔三哥@利維坦",
-      "花一匁@伊弗利特",
-      "琴葉千草@迦樓羅",
-      "Jiaozi@伊弗利特"
-    ],
-    "fight_id": 30,
-    "duration_ms": 1145480,
-    "clear_dt_ms": 1778247948145
-  },
-  {
-    "code": "64HbMmjLJRwf3PGF",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "柒伍@迦樓羅",
-      "Kami@伊弗利特",
-      "魔法u柯比u@伊弗利特",
-      "Nekota@鳳凰",
-      "譚仔三哥@利維坦",
-      "花一匁@伊弗利特",
-      "琴葉千草@迦樓羅",
-      "Jiaozi@伊弗利特"
-    ],
-    "fight_id": 52,
-    "duration_ms": 1140728,
-    "clear_dt_ms": 1778313254487
-  },
-  {
-    "code": "64HbMmjLJRwf3PGF",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Omega / Omega-M / Alpha Omega",
-    "players": [
-      "柒伍@迦樓羅",
-      "Kami@伊弗利特",
-      "魔法u柯比u@伊弗利特",
       "Nekota@鳳凰",
       "譚仔三哥@利維坦",
       "花一匁@伊弗利特",
@@ -13012,132 +8890,6 @@
     "fight_id": 127,
     "duration_ms": 1138942,
     "clear_dt_ms": 1778506853699
-  },
-  {
-    "code": "9gHN3J4PKcnXYMxV",
-    "title": "TC龍詩99 (JP)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "阿·瓦諾@奧汀",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特",
-      "星也@泰坦",
-      "偷米@奧汀",
-      "歪皮@伊弗利特",
-      "二v@迦樓羅",
-      "咪咪帽帽@鳳凰"
-    ],
-    "fight_id": 4,
-    "duration_ms": 1090298,
-    "clear_dt_ms": 1778504583824
-  },
-  {
-    "code": "9gHN3J4PKcnXYMxV",
-    "title": "TC龍詩99 (JP)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "阿·瓦諾@奧汀",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特",
-      "星也@泰坦",
-      "偷米@奧汀",
-      "歪皮@伊弗利特",
-      "二v@迦樓羅",
-      "咪咪帽帽@鳳凰"
-    ],
-    "fight_id": 6,
-    "duration_ms": 1094865,
-    "clear_dt_ms": 1778506518648
-  },
-  {
-    "code": "HwLrvtM6J2Cng4dD",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "歪皮@伊弗利特",
-      "偷米@奧汀",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特",
-      "阿·瓦諾@奧汀",
-      "咪咪帽帽@鳳凰",
-      "二v@迦樓羅",
-      "星也@泰坦"
-    ],
-    "fight_id": 5,
-    "duration_ms": 1090298,
-    "clear_dt_ms": 1778504583824
-  },
-  {
-    "code": "HwLrvtM6J2Cng4dD",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "歪皮@伊弗利特",
-      "偷米@奧汀",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特",
-      "咪咪帽帽@鳳凰",
-      "阿·瓦諾@奧汀",
-      "二v@迦樓羅",
-      "星也@泰坦"
-    ],
-    "fight_id": 7,
-    "duration_ms": 1094865,
-    "clear_dt_ms": 1778506518648
-  },
-  {
-    "code": "XVCYAjL6B3ZktKfm",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "偷米@奧汀",
-      "歪皮@伊弗利特",
-      "星也@泰坦",
-      "阿·瓦諾@奧汀",
-      "二v@迦樓羅",
-      "咪咪帽帽@鳳凰",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特"
-    ],
-    "fight_id": 1,
-    "duration_ms": 1090298,
-    "clear_dt_ms": 1778504583824
-  },
-  {
-    "code": "9Lt34mr61RBZ8zNX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "歪皮@伊弗利特",
-      "偷米@奧汀",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特",
-      "阿·瓦諾@奧汀",
-      "咪咪帽帽@鳳凰",
-      "二v@迦樓羅",
-      "星也@泰坦"
-    ],
-    "fight_id": 5,
-    "duration_ms": 1090298,
-    "clear_dt_ms": 1778504583824
-  },
-  {
-    "code": "A9NM8KqCBQJkcw3z",
-    "title": "Ultimates (Legacy)",
-    "encounter": "left eye / right eye / ... ",
-    "players": [
-      "阿·瓦諾@奧汀",
-      "兩性憑拳老師@奧汀",
-      "千小本@巴哈姆特",
-      "星也@泰坦",
-      "偷米@奧汀",
-      "歪皮@伊弗利特",
-      "二v@迦樓羅",
-      "咪咪帽帽@鳳凰"
-    ],
-    "fight_id": 4,
-    "duration_ms": 1090298,
-    "clear_dt_ms": 1778504583824
   },
   {
     "code": "LgKVFWHJmcvkxrB4",
@@ -13172,24 +8924,6 @@
       "赤斯栗田@伊弗利特"
     ],
     "fight_id": 36,
-    "duration_ms": 864867,
-    "clear_dt_ms": 1778502210489
-  },
-  {
-    "code": "YHGw2hJa3DB7Ft96",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Titan / Ifrit",
-    "players": [
-      "三石宮分@奧汀",
-      "Unii@伊弗利特",
-      "赤斯栗田@伊弗利特",
-      "洗讚小鴨鴨@伊弗利特",
-      "不要吵@利維坦",
-      "Erltw@伊弗利特",
-      "欸欸欸手摸哪@伊弗利特",
-      "Aki@奧汀"
-    ],
-    "fight_id": 7,
     "duration_ms": 864867,
     "clear_dt_ms": 1778502210489
   },
@@ -13302,97 +9036,7 @@
     "clear_dt_ms": 1776264779480
   },
   {
-    "code": "ZYLqARCDQgfty74N",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "蔚笙枳@迦樓羅",
-      "Avisev@迦樓羅",
-      "朧月@迦樓羅",
-      "鯨魚不上盾@鳳凰",
-      "美蒂森@鳳凰",
-      "蒼蒼@迦樓羅",
-      "歐歐扣@鳳凰",
-      "洽米@迦樓羅"
-    ],
-    "fight_id": 3,
-    "duration_ms": 875492,
-    "clear_dt_ms": 1775395291893
-  },
-  {
-    "code": "ZYLqARCDQgfty74N",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "蔚笙枳@迦樓羅",
-      "Avisev@迦樓羅",
-      "朧月@迦樓羅",
-      "鯨魚不上盾@鳳凰",
-      "美蒂森@鳳凰",
-      "蒼蒼@迦樓羅",
-      "歐歐扣@鳳凰",
-      "洽米@迦樓羅"
-    ],
-    "fight_id": 5,
-    "duration_ms": 877625,
-    "clear_dt_ms": 1775397326183
-  },
-  {
     "code": "aBxGrWDVNdTqnZYX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Sixwin@伊弗利特",
-      "隔壁家的橘貓@伊弗利特",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "爸爸@伊弗利特",
-      "火焰阿突@鳳凰",
-      "老公@伊弗利特",
-      "蝶祈小梓@伊弗利特"
-    ],
-    "fight_id": 63,
-    "duration_ms": 883520,
-    "clear_dt_ms": 1774972907204
-  },
-  {
-    "code": "Z4GHXxL7kwTnW2QN",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Sixwin@伊弗利特",
-      "隔壁家的橘貓@伊弗利特",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "爸爸@伊弗利特",
-      "火焰阿突@鳳凰",
-      "老公@伊弗利特",
-      "蝶祈小梓@伊弗利特"
-    ],
-    "fight_id": 63,
-    "duration_ms": 883520,
-    "clear_dt_ms": 1774972907204
-  },
-  {
-    "code": "wc4KXqTgDVbCn8Pp",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Ifrit / Titan",
-    "players": [
-      "Sixwin@伊弗利特",
-      "隔壁家的橘貓@伊弗利特",
-      "結城希亞@伊弗利特",
-      "吹雪@伊弗利特",
-      "爸爸@伊弗利特",
-      "火焰阿突@鳳凰",
-      "老公@伊弗利特",
-      "蝶祈小梓@伊弗利特"
-    ],
-    "fight_id": 63,
-    "duration_ms": 883520,
-    "clear_dt_ms": 1774972907204
-  },
-  {
-    "code": "3TQ7apkJzYwmDtL8",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
     "players": [
@@ -13518,24 +9162,6 @@
     "clear_dt_ms": 1774766776356
   },
   {
-    "code": "h8qyt93MZfLjvCbX",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "茜色飄零@巴哈姆特",
-      "真央@迦樓羅",
-      "舞紗橘@利維坦",
-      "詩學少女@利維坦",
-      "Benny@奧汀",
-      "慎真@利維坦",
-      "圓形食物@鳳凰",
-      "小河狸@伊弗利特"
-    ],
-    "fight_id": 6,
-    "duration_ms": 989019,
-    "clear_dt_ms": 1774881021247
-  },
-  {
     "code": "c2RDFqHMY4C19XVz",
     "title": "Ultimates (Legacy)",
     "encounter": "left eye / right eye / ... ",
@@ -13548,24 +9174,6 @@
       "Qmaow@利維坦",
       "大麻dama@伊弗利特",
       "哈哈傻瓜蛋@利維坦"
-    ],
-    "fight_id": 12,
-    "duration_ms": 1104629,
-    "clear_dt_ms": 1774883540600
-  },
-  {
-    "code": "9aXd1wkQ3bNW84jP",
-    "title": "Ultimates (Legacy)",
-    "encounter": "Dragonsong's Reprise",
-    "players": [
-      "哈哈傻瓜蛋@利維坦",
-      "Eru@利維坦",
-      "木景雲@奧汀",
-      "大麻dama@伊弗利特",
-      "蜜絲彼河@鳳凰",
-      "Qmaow@利維坦",
-      "過場動晝中@迦樓羅",
-      "發芽馬鈴薯@巴哈姆特"
     ],
     "fight_id": 12,
     "duration_ms": 1104629,
@@ -13878,24 +9486,6 @@
     "clear_dt_ms": 1772443413520
   },
   {
-    "code": "HC8r1F4BGKhjdMV6",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "森海飛霞@利維坦",
-      "強運的犬@奧汀",
-      "星宿及月@迦樓羅",
-      "懶得理你@奧汀",
-      "捏米巴@奧汀",
-      "米奈娃@奧汀",
-      "波貝先生@奧汀",
-      "米米兒@迦樓羅"
-    ],
-    "fight_id": 23,
-    "duration_ms": 959821,
-    "clear_dt_ms": 1772465962948
-  },
-  {
     "code": "PhF1BgXD7qCQbfzA",
     "title": "Ultimates (Legacy)",
     "encounter": "Ifrit / Titan",
@@ -13986,24 +9576,6 @@
     "clear_dt_ms": 1772459772997
   },
   {
-    "code": "61tVQaNYn42kFBDM",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "Yummy鴨@鳳凰",
-      "Samjai@鳳凰",
-      "芭樂綠茶@鳳凰",
-      "啾仔@鳳凰",
-      "Hearst@鳳凰",
-      "絢柊@鳳凰",
-      "Kami@鳳凰",
-      "阿邦邦@鳳凰"
-    ],
-    "fight_id": 1,
-    "duration_ms": 1039847,
-    "clear_dt_ms": 1772459772997
-  },
-  {
     "code": "tfvBP7wWjrKY2Nqn",
     "title": "Ultimates (Legacy)",
     "encounter": "living liquid / liquid hand / ... ",
@@ -14022,42 +9594,6 @@
     "clear_dt_ms": 1772376740389
   },
   {
-    "code": "c4gLdYzN927t3hZW",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "四月的風@鳳凰",
-      "克洛安布斯特@迦樓羅",
-      "花生丶@巴哈姆特",
-      "咪咪帽帽@鳳凰",
-      "愛梅特賽爾號@巴哈姆特",
-      "八八四八四四@迦樓羅",
-      "殺手佐之助@巴哈姆特",
-      "Yuki醬@利維坦"
-    ],
-    "fight_id": 9,
-    "duration_ms": 989484,
-    "clear_dt_ms": 1772384646597
-  },
-  {
-    "code": "7g9jVyBvLxGDXZC8",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "森海飛霞@利維坦",
-      "強運的犬@奧汀",
-      "星宿及月@迦樓羅",
-      "懶得理你@奧汀",
-      "捏米巴@奧汀",
-      "波貝先生@奧汀",
-      "Lulumi@迦樓羅",
-      "米米兒@迦樓羅"
-    ],
-    "fight_id": 6,
-    "duration_ms": 974945,
-    "clear_dt_ms": 1772443413520
-  },
-  {
     "code": "TYvtcDfzdk9x8hXb",
     "title": "Ultimates (Legacy)",
     "encounter": "The Epic of Alexander",
@@ -14110,113 +9646,5 @@
     "fight_id": 18,
     "duration_ms": 1038606,
     "clear_dt_ms": 1770044619174
-  },
-  {
-    "code": "AgM4XLdvrF1wqht3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "狡猾海豹@鳳凰",
-      "Yamimi@迦樓羅",
-      "冬瓜瓜@鳳凰",
-      "穗曦@伊弗利特",
-      "罐罐黑@鳳凰",
-      "Aw丶@鳳凰",
-      "道友請留步@伊弗利特",
-      "迷路哭@伊弗利特"
-    ],
-    "fight_id": 7,
-    "duration_ms": 1044438,
-    "clear_dt_ms": 1770038658221
-  },
-  {
-    "code": "AgM4XLdvrF1wqht3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "狡猾海豹@鳳凰",
-      "Yamimi@迦樓羅",
-      "冬瓜瓜@鳳凰",
-      "穗曦@伊弗利特",
-      "罐罐黑@鳳凰",
-      "Aw丶@鳳凰",
-      "道友請留步@伊弗利特",
-      "迷路哭@伊弗利特"
-    ],
-    "fight_id": 13,
-    "duration_ms": 1055446,
-    "clear_dt_ms": 1770042098976
-  },
-  {
-    "code": "AgM4XLdvrF1wqht3",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "狡猾海豹@鳳凰",
-      "Yamimi@迦樓羅",
-      "冬瓜瓜@鳳凰",
-      "穗曦@伊弗利特",
-      "罐罐黑@鳳凰",
-      "Aw丶@鳳凰",
-      "道友請留步@伊弗利特",
-      "迷路哭@伊弗利特"
-    ],
-    "fight_id": 18,
-    "duration_ms": 1038606,
-    "clear_dt_ms": 1770044619174
-  },
-  {
-    "code": "X6cHPzBYVCG7ajmk",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "迷路哭@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Yamimi@迦樓羅",
-      "Aw丶@鳳凰",
-      "道友請留步@伊弗利特",
-      "穗曦@伊弗利特",
-      "罐罐黑@鳳凰",
-      "冬瓜瓜@鳳凰"
-    ],
-    "fight_id": 7,
-    "duration_ms": 1044438,
-    "clear_dt_ms": 1770038658221
-  },
-  {
-    "code": "X6cHPzBYVCG7ajmk",
-    "title": "绝境战（旧版本）",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "迷路哭@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Yamimi@迦樓羅",
-      "Aw丶@鳳凰",
-      "道友請留步@伊弗利特",
-      "穗曦@伊弗利特",
-      "罐罐黑@鳳凰",
-      "冬瓜瓜@鳳凰"
-    ],
-    "fight_id": 13,
-    "duration_ms": 1055446,
-    "clear_dt_ms": 1770042098976
-  },
-  {
-    "code": "98cG7bYBg4ZnH6mf",
-    "title": "Ultimates (Legacy)",
-    "encounter": "living liquid / liquid hand / ... ",
-    "players": [
-      "迷路哭@伊弗利特",
-      "狡猾海豹@鳳凰",
-      "Yamimi@迦樓羅",
-      "Aw丶@鳳凰",
-      "道友請留步@伊弗利特",
-      "穗曦@伊弗利特",
-      "罐罐黑@鳳凰",
-      "冬瓜瓜@鳳凰"
-    ],
-    "fight_id": 7,
-    "duration_ms": 1044438,
-    "clear_dt_ms": 1770038658221
   }
 ]
