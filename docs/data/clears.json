@@ -10006,5 +10006,41 @@
     "fight_id": 82,
     "duration_ms": 859616,
     "clear_dt_ms": 1778545033327
+  },
+  {
+    "code": "fyZD9rxMmG3p2d7Y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "伊苒@伊弗利特",
+      "夢聽@伊弗利特",
+      "Meow@伊弗利特",
+      "歪皮@伊弗利特",
+      "范太帥@伊弗利特",
+      "千小本@巴哈姆特",
+      "新手一名@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 834120,
+    "clear_dt_ms": 1770845868242
+  },
+  {
+    "code": "FjpgPyzA8VbC2JW9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "百生姬芽@迦樓羅",
+      "努努露@伊弗利特",
+      "香草泥@伊弗利特",
+      "角卷綿芽@伊弗利特",
+      "Risen@鳳凰",
+      "顧影憐@伊弗利特",
+      "Wayyee@奧汀",
+      "小心點小點心@伊弗利特"
+    ],
+    "fight_id": 33,
+    "duration_ms": 873278,
+    "clear_dt_ms": 1771332605226
   }
 ]
