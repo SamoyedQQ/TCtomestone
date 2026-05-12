@@ -10042,5 +10042,113 @@
     "fight_id": 33,
     "duration_ms": 873278,
     "clear_dt_ms": 1771332605226
+  },
+  {
+    "code": "w6b8rMGy9kTVtKF2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "空澄雪奈o@伊弗利特",
+      "Wenwen@伊弗利特",
+      "安米@伊弗利特",
+      "球球貓貓@巴哈姆特",
+      "Miyano@伊弗利特",
+      "Ayyy@利維坦",
+      "飽嗝二@巴哈姆特",
+      "Amesei@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 866939,
+    "clear_dt_ms": 1778557836077
+  },
+  {
+    "code": "f2Cdp4rNtRaynM7X",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rc@鳳凰",
+      "老鴿@伊弗利特",
+      "灰原丷@鳳凰",
+      "麻辣白開水@利維坦",
+      "天若羽@巴哈姆特",
+      "長腿木木@伊弗利特",
+      "香蕉皇@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1132568,
+    "clear_dt_ms": 1775670826118
+  },
+  {
+    "code": "NZfbtvQhLPdJAVyq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Leo一刀齋@迦樓羅",
+      "西卡鴨毛@鳳凰",
+      "灰原丷@鳳凰",
+      "麻辣白開水@利維坦",
+      "香風智乃@泰坦",
+      "刻路kuro@巴哈姆特",
+      "長腿木木@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 997245,
+    "clear_dt_ms": 1771168936685
+  },
+  {
+    "code": "NZfbtvQhLPdJAVyq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Leo一刀齋@迦樓羅",
+      "西卡鴨毛@鳳凰",
+      "灰原丷@鳳凰",
+      "麻辣白開水@利維坦",
+      "香風智乃@泰坦",
+      "刻路kuro@巴哈姆特",
+      "長腿木木@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 993352,
+    "clear_dt_ms": 1771170830923
+  },
+  {
+    "code": "NZfbtvQhLPdJAVyq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Leo一刀齋@迦樓羅",
+      "西卡鴨毛@鳳凰",
+      "灰原丷@鳳凰",
+      "麻辣白開水@利維坦",
+      "香風智乃@泰坦",
+      "刻路kuro@巴哈姆特",
+      "長腿木木@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1002160,
+    "clear_dt_ms": 1771171900786
+  },
+  {
+    "code": "69z4KDqANkxpQ3CG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "吉娃娃睡覺覺@鳳凰",
+      "黑色楓葉@利維坦",
+      "長腿木木@伊弗利特",
+      "Estia@鳳凰",
+      "米萊owo@利維坦",
+      "灰原丷@鳳凰",
+      "補月@利維坦",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 38,
+    "duration_ms": 855645,
+    "clear_dt_ms": 1770573787047
   }
 ]
