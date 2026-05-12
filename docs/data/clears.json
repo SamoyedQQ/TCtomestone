@@ -10906,5 +10906,59 @@
     "fight_id": 12,
     "duration_ms": 944772,
     "clear_dt_ms": 1772547636576
+  },
+  {
+    "code": "2mRAxXdtB38DcTWH",
+    "title": "絕亞",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Hiyaok@迦樓羅",
+      "宵月弦ito@迦樓羅",
+      "人帥何須名跩@奧汀",
+      "小夢幻@奧汀",
+      "瀟湘夜雨@鳳凰",
+      "上安里李長柏@迦樓羅",
+      "卯米ouo@迦樓羅",
+      "巧克力熱果凍@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 966629,
+    "clear_dt_ms": 1778613193997
+  },
+  {
+    "code": "RkfQnK4ZVmhjcLtx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Heroin@利維坦",
+      "焦糖的媽@鳳凰",
+      "焦糖的爸@鳳凰",
+      "希姆佐奈@伊弗利特",
+      "異累k@迦樓羅",
+      "弦凱@巴哈姆特",
+      "邦邦邦@鳳凰",
+      "Verniy@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 843108,
+    "clear_dt_ms": 1778613969432
+  },
+  {
+    "code": "wjzMa9VFRhBT6cvD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "流承@迦樓羅",
+      "亮月@迦樓羅",
+      "歪皮@伊弗利特",
+      "星也@泰坦",
+      "烤月餅@奧汀",
+      "千小本@巴哈姆特",
+      "霸總哥布林@巴哈姆特",
+      "阿·瓦諾@奧汀"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1114629,
+    "clear_dt_ms": 1778611865326
   }
 ]
