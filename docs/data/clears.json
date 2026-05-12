@@ -9988,5 +9988,23 @@
     "fight_id": 5,
     "duration_ms": 860713,
     "clear_dt_ms": 1778535207506
+  },
+  {
+    "code": "qnW6J7LN3CFrzZHG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "白河螢@利維坦",
+      "找不到此玩家@迦樓羅",
+      "白藍樂事人@巴哈姆特",
+      "弦凱@巴哈姆特",
+      "雜燴兔@利維坦",
+      "大餅餅@奧汀",
+      "舉舉@利維坦",
+      "煌獅@利維坦"
+    ],
+    "fight_id": 82,
+    "duration_ms": 859616,
+    "clear_dt_ms": 1778545033327
   }
 ]
