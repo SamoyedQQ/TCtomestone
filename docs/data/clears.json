@@ -10690,5 +10690,131 @@
     "fight_id": 2,
     "duration_ms": 883356,
     "clear_dt_ms": 1778596052959
+  },
+  {
+    "code": "HhBKcMv3kRAwtxpD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "最靚豬腩肉@伊弗利特",
+      "牙邦@伊弗利特",
+      "赤斯栗田@伊弗利特",
+      "Griseo@伊弗利特",
+      "桃金娘@伊弗利特",
+      "小孟@伊弗利特",
+      "無憂@伊弗利特",
+      "小櫻花水滴@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 898893,
+    "clear_dt_ms": 1778597672142
+  },
+  {
+    "code": "8xyVZbj3g6qYWwrC",
+    "title": "絶シリーズ（過去）",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "鳩可@迦樓羅",
+      "Yuruia@奧汀",
+      "栗米@利維坦",
+      "哈哈傻瓜蛋@利維坦",
+      "鳶仔小饅頭@鳳凰",
+      "八仇武士@鳳凰",
+      "悠夜雨@鳳凰",
+      "御子飯糰@鳳凰"
+    ],
+    "fight_id": 16,
+    "duration_ms": 997195,
+    "clear_dt_ms": 1778600536597
+  },
+  {
+    "code": "GgF1Vt9c6rwqHhpD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "葬送的貓咪@泰坦",
+      "Rosen@伊弗利特",
+      "章魚愛米米@伊弗利特",
+      "漾辰@伊弗利特",
+      "司空長峰@伊弗利特",
+      "蓲蓲茱@伊弗利特",
+      "灰色香克勞斯@伊弗利特",
+      "蒼將@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 882948,
+    "clear_dt_ms": 1778599229929
+  },
+  {
+    "code": "yR8tN6321KajwLmP",
+    "title": "5/12 TEA",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "陸子殤@迦樓羅",
+      "襄@迦樓羅",
+      "陌上晚@迦樓羅",
+      "妖焰曉劍·藿@迦樓羅",
+      "兩儀@迦樓羅",
+      "燒肉粽@迦樓羅",
+      "貓奈奈@迦樓羅",
+      "老娘用下面@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 958555,
+    "clear_dt_ms": 1778592204772
+  },
+  {
+    "code": "yR8tN6321KajwLmP",
+    "title": "5/12 TEA",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "陸子殤@迦樓羅",
+      "襄@迦樓羅",
+      "陌上晚@迦樓羅",
+      "妖焰曉劍·藿@迦樓羅",
+      "兩儀@迦樓羅",
+      "燒肉粽@迦樓羅",
+      "貓奈奈@迦樓羅",
+      "老娘用下面@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 964979,
+    "clear_dt_ms": 1778593422574
+  },
+  {
+    "code": "yR8tN6321KajwLmP",
+    "title": "5/12 TEA",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "陸子殤@迦樓羅",
+      "襄@迦樓羅",
+      "陌上晚@迦樓羅",
+      "妖焰曉劍·藿@迦樓羅",
+      "兩儀@迦樓羅",
+      "燒肉粽@迦樓羅",
+      "貓奈奈@迦樓羅",
+      "美雪姑姑@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 968242,
+    "clear_dt_ms": 1778595141374
+  },
+  {
+    "code": "yR8tN6321KajwLmP",
+    "title": "5/12 TEA",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "陸子殤@迦樓羅",
+      "襄@迦樓羅",
+      "陌上晚@迦樓羅",
+      "妖焰曉劍·藿@迦樓羅",
+      "兩儀@迦樓羅",
+      "燒肉粽@迦樓羅",
+      "貓奈奈@迦樓羅",
+      "美雪姑姑@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 956494,
+    "clear_dt_ms": 1778598889434
   }
 ]
