@@ -10150,5 +10150,95 @@
     "fight_id": 38,
     "duration_ms": 855645,
     "clear_dt_ms": 1770573787047
+  },
+  {
+    "code": "HBXM7Pmp284AjJdN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "長腿木木@伊弗利特",
+      "天若羽@巴哈姆特",
+      "灰原丷@鳳凰",
+      "香蕉皇@伊弗利特",
+      "Rc@鳳凰",
+      "糖喵@利維坦",
+      "麻辣白開水@利維坦",
+      "老鴿@伊弗利特"
+    ],
+    "fight_id": 28,
+    "duration_ms": 1137479,
+    "clear_dt_ms": 1775495862245
+  },
+  {
+    "code": "HBXM7Pmp284AjJdN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "長腿木木@伊弗利特",
+      "天若羽@巴哈姆特",
+      "灰原丷@鳳凰",
+      "香蕉皇@伊弗利特",
+      "Rc@鳳凰",
+      "糖喵@利維坦",
+      "麻辣白開水@利維坦",
+      "老鴿@伊弗利特"
+    ],
+    "fight_id": 31,
+    "duration_ms": 1135791,
+    "clear_dt_ms": 1775497771372
+  },
+  {
+    "code": "KV9GqC1bLm7vJYyW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rc@鳳凰",
+      "香蕉皇@伊弗利特",
+      "灰原丷@鳳凰",
+      "長腿木木@伊弗利特",
+      "麻辣白開水@利維坦",
+      "老鴿@伊弗利特",
+      "天若羽@巴哈姆特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1139270,
+    "clear_dt_ms": 1775583634341
+  },
+  {
+    "code": "Rfh8qXtdPNgrjHBW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rc@鳳凰",
+      "天若羽@巴哈姆特",
+      "灰原丷@鳳凰",
+      "麻辣白開水@利維坦",
+      "老鴿@伊弗利特",
+      "香蕉皇@伊弗利特",
+      "長腿木木@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1139216,
+    "clear_dt_ms": 1774977537099
+  },
+  {
+    "code": "Rfh8qXtdPNgrjHBW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rc@鳳凰",
+      "天若羽@巴哈姆特",
+      "灰原丷@鳳凰",
+      "麻辣白開水@利維坦",
+      "老鴿@伊弗利特",
+      "香蕉皇@伊弗利特",
+      "長腿木木@伊弗利特",
+      "糖喵@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1140115,
+    "clear_dt_ms": 1774979281438
   }
 ]
