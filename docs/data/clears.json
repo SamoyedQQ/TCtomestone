@@ -10456,5 +10456,95 @@
     "fight_id": 17,
     "duration_ms": 1140906,
     "clear_dt_ms": 1774805130099
+  },
+  {
+    "code": "aQKbC8yxRDF16f7N",
+    "title": "绝境战（旧版本）",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "空澄雪奈o@伊弗利特",
+      "如月@鳳凰",
+      "比斯吉@巴哈姆特",
+      "雪莉的放大鏡@巴哈姆特",
+      "日光@迦樓羅",
+      "棉花糖@迦樓羅",
+      "常葉@迦樓羅",
+      "休機司息室@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 872571,
+    "clear_dt_ms": 1778573365163
+  },
+  {
+    "code": "MWXzd9AkVq3atHL7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Beruna@利維坦",
+      "雪昕@利維坦",
+      "肉球貓咪@利維坦",
+      "Katze@利維坦",
+      "起司歐蕾兒@巴哈姆特",
+      "冷冷吖@利維坦",
+      "名字隨時改嗎@利維坦",
+      "Lcho@利維坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 982678,
+    "clear_dt_ms": 1778166361465
+  },
+  {
+    "code": "nkGD8PZQd6VwhzxM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "黑獸母雞魁首@奧汀",
+      "Atri@奧汀",
+      "夏日@利維坦",
+      "你們都是給@奧汀",
+      "丹丹@鳳凰",
+      "電子幽靈@奧汀",
+      "飛行雪絨@奧汀",
+      "Irdl@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 812715,
+    "clear_dt_ms": 1772299150347
+  },
+  {
+    "code": "nkGD8PZQd6VwhzxM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "黑獸母雞魁首@奧汀",
+      "Atri@奧汀",
+      "夏日@利維坦",
+      "你們都是給@奧汀",
+      "丹丹@鳳凰",
+      "電子幽靈@奧汀",
+      "飛行雪絨@奧汀",
+      "Irdl@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 826065,
+    "clear_dt_ms": 1772300102463
+  },
+  {
+    "code": "nkGD8PZQd6VwhzxM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "黑獸母雞魁首@奧汀",
+      "Atri@奧汀",
+      "夏日@利維坦",
+      "你們都是給@奧汀",
+      "丹丹@鳳凰",
+      "電子幽靈@奧汀",
+      "飛行雪絨@奧汀",
+      "Irdl@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 814922,
+    "clear_dt_ms": 1772300996745
   }
 ]
