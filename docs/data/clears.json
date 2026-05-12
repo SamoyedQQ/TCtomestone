@@ -9970,5 +9970,23 @@
     "fight_id": 8,
     "duration_ms": 983423,
     "clear_dt_ms": 1772887923997
+  },
+  {
+    "code": "K8CyLMWnQBZwY4Tk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "夜影嵐@伊弗利特",
+      "扁包@巴哈姆特",
+      "慎真@利維坦",
+      "嵐芽@伊弗利特",
+      "蕎麥鮮奶茶@伊弗利特",
+      "Gojojo@迦樓羅",
+      "侑介@迦樓羅",
+      "蘿包@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 860713,
+    "clear_dt_ms": 1778535207506
   }
 ]
