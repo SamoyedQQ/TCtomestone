@@ -520,7 +520,7 @@ function renderClearSpeed() {
     const i_global = start + i;
     const eid = c._eid ?? detectEncounterId(c.encounter);
     const clearKey = (p) => `${c.code}:${c.fight_id}:${p}`;
-    const jobFor   = (p) => DS.clearJobMap[clearKey(p)] ?? DS.playerJobMap[`${p}:${eid}`]?.job;
+    const jobFor   = (p) => c.jobs?.[p] ?? DS.clearJobMap[clearKey(p)] ?? DS.playerJobMap[`${p}:${eid}`]?.job;
     const sorted = [...c.players].sort((a, b) => {
       const ja = jobFor(a);
       const jb = jobFor(b);

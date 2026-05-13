@@ -28,3 +28,4 @@ tc_fflogs_data.md
 ucob_calibration.json
 pull_data.bat
 docs/data/config.json
+.env
