@@ -7912,8 +7912,7 @@
     ],
     "fight_id": 21,
     "duration_ms": 967287,
-    "clear_dt_ms": 1777644543024,
-    "jobs": {}
+    "clear_dt_ms": 1777644543024
   },
   {
     "code": "4tb3xHLvDrVmJgzZ",
@@ -11813,8 +11812,7 @@
     ],
     "fight_id": 4,
     "duration_ms": 962580,
-    "clear_dt_ms": 1775484342994,
-    "jobs": {}
+    "clear_dt_ms": 1775484342994
   },
   {
     "code": "nQJp4hWHwANyMTXr",
@@ -11855,8 +11853,7 @@
     ],
     "fight_id": 14,
     "duration_ms": 974069,
-    "clear_dt_ms": 1775487905922,
-    "jobs": {}
+    "clear_dt_ms": 1775487905922
   },
   {
     "code": "M9n2mKJQb71kjw4H",
@@ -17008,6 +17005,174 @@
       "Ciel@迦樓羅": "Sage",
       "黑獸母雞魁首@奧汀": "Gunbreaker",
       "夏日@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "CTbHd9wfNFXWptZL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "阿陌靠睡覺就@迦樓羅",
+      "血兔@迦樓羅",
+      "十六@迦樓羅",
+      "Asleep@利維坦",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "天心羽@鳳凰"
+    ],
+    "fight_id": 36,
+    "duration_ms": 869233,
+    "clear_dt_ms": 1778503641645,
+    "jobs": {
+      "阿陌靠睡覺就@迦樓羅": "Summoner",
+      "血兔@迦樓羅": "Dancer",
+      "十六@迦樓羅": "BlackMage",
+      "Asleep@利維坦": "Paladin",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "天心羽@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "CTbHd9wfNFXWptZL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "阿陌靠睡覺就@迦樓羅",
+      "血兔@迦樓羅",
+      "十六@迦樓羅",
+      "Asleep@利維坦",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "天心羽@鳳凰"
+    ],
+    "fight_id": 40,
+    "duration_ms": 860158,
+    "clear_dt_ms": 1778507799670,
+    "jobs": {
+      "阿陌靠睡覺就@迦樓羅": "Summoner",
+      "血兔@迦樓羅": "Bard",
+      "十六@迦樓羅": "BlackMage",
+      "Asleep@利維坦": "Paladin",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "天心羽@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "CTbHd9wfNFXWptZL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "阿陌靠睡覺就@迦樓羅",
+      "血兔@迦樓羅",
+      "十六@迦樓羅",
+      "Asleep@利維坦",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "天心羽@鳳凰"
+    ],
+    "fight_id": 43,
+    "duration_ms": 851882,
+    "clear_dt_ms": 1778509824239,
+    "jobs": {
+      "阿陌靠睡覺就@迦樓羅": "Summoner",
+      "血兔@迦樓羅": "Dancer",
+      "十六@迦樓羅": "BlackMage",
+      "Asleep@利維坦": "Paladin",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "天心羽@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "CTbHd9wfNFXWptZL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "阿陌靠睡覺就@迦樓羅",
+      "血兔@迦樓羅",
+      "十六@迦樓羅",
+      "Asleep@利維坦",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "天心羽@鳳凰"
+    ],
+    "fight_id": 45,
+    "duration_ms": 848606,
+    "clear_dt_ms": 1778511540272,
+    "jobs": {
+      "阿陌靠睡覺就@迦樓羅": "Summoner",
+      "血兔@迦樓羅": "Dancer",
+      "十六@迦樓羅": "BlackMage",
+      "Asleep@利維坦": "Paladin",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "天心羽@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "3GyRcM26pwBnrZaL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Choco@鳳凰",
+      "楪祈@伊弗利特",
+      "柊秣@利維坦",
+      "Seorka@鳳凰",
+      "Mjlinv@鳳凰",
+      "來點兔子@巴哈姆特",
+      "冷冷泡茶@巴哈姆特",
+      "Ayaane@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 860601,
+    "clear_dt_ms": 1773063736450,
+    "jobs": {
+      "Choco@鳳凰": "DarkKnight",
+      "楪祈@伊弗利特": "Dancer",
+      "柊秣@利維坦": "Paladin",
+      "Seorka@鳳凰": "Reaper",
+      "Mjlinv@鳳凰": "RedMage",
+      "來點兔子@巴哈姆特": "Astrologian",
+      "冷冷泡茶@巴哈姆特": "Sage",
+      "Ayaane@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "3GyRcM26pwBnrZaL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Choco@鳳凰",
+      "楪祈@伊弗利特",
+      "柊秣@利維坦",
+      "Seorka@鳳凰",
+      "Mjlinv@鳳凰",
+      "來點兔子@巴哈姆特",
+      "冷冷泡茶@巴哈姆特",
+      "Ayaane@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 879294,
+    "clear_dt_ms": 1773066610317,
+    "jobs": {
+      "Choco@鳳凰": "DarkKnight",
+      "楪祈@伊弗利特": "Dancer",
+      "柊秣@利維坦": "Paladin",
+      "Seorka@鳳凰": "Reaper",
+      "Mjlinv@鳳凰": "RedMage",
+      "來點兔子@巴哈姆特": "Astrologian",
+      "冷冷泡茶@巴哈姆特": "Sage",
+      "Ayaane@鳳凰": "Dragoon"
     }
   }
 ]
