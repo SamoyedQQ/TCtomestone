@@ -10960,5 +10960,41 @@
     "fight_id": 13,
     "duration_ms": 1114629,
     "clear_dt_ms": 1778611865326
+  },
+  {
+    "code": "Y3f71w4RyDxZQGqa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "黑獸母雞魁首@奧汀",
+      "Skull@奧汀",
+      "Ciel@迦樓羅",
+      "電子幽靈@奧汀",
+      "白雪公主@利維坦",
+      "Atri@奧汀",
+      "阿丸@奧汀",
+      "夏日@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 978693,
+    "clear_dt_ms": 1775239348297
+  },
+  {
+    "code": "JaQf4MwZFB2jc18b",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "電子幽靈@奧汀",
+      "阿丸@奧汀",
+      "白雪公主@利維坦",
+      "Skull@奧汀",
+      "Atri@奧汀",
+      "Ciel@迦樓羅",
+      "黑獸母雞魁首@奧汀",
+      "夏日@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 988528,
+    "clear_dt_ms": 1775235245940
   }
 ]
