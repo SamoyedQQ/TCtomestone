@@ -17174,5 +17174,89 @@
       "冷冷泡茶@巴哈姆特": "Sage",
       "Ayaane@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "8yDRNPdQ7gw2q9F1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Chuchu@迦樓羅",
+      "小公主@奧汀",
+      "Vbuik@伊弗利特",
+      "Lunsix@泰坦",
+      "熊貓@奧汀",
+      "小夢幻@奧汀",
+      "Equno@迦樓羅",
+      "麵琉水@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 991662,
+    "clear_dt_ms": 1778654442926,
+    "jobs": {
+      "Chuchu@迦樓羅": "Gunbreaker",
+      "小公主@奧汀": "Samurai",
+      "Vbuik@伊弗利特": "Dancer",
+      "Lunsix@泰坦": "DarkKnight",
+      "熊貓@奧汀": "Ninja",
+      "小夢幻@奧汀": "Sage",
+      "Equno@迦樓羅": "WhiteMage",
+      "麵琉水@鳳凰": "BlackMage"
+    }
+  },
+  {
+    "code": "Vbrm3TcwWk8v1pqL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "詠月@泰坦",
+      "木之葉上忍逼@奧汀",
+      "Chuchu@迦樓羅",
+      "梧刻@迦樓羅",
+      "Ethe@迦樓羅",
+      "煌獅@利維坦",
+      "小野寺悠@奧汀",
+      "鮭魚明太子@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 876853,
+    "clear_dt_ms": 1778657392841,
+    "jobs": {
+      "詠月@泰坦": "WhiteMage",
+      "木之葉上忍逼@奧汀": "Summoner",
+      "Chuchu@迦樓羅": "Gunbreaker",
+      "梧刻@迦樓羅": "DarkKnight",
+      "Ethe@迦樓羅": "Dancer",
+      "煌獅@利維坦": "Dragoon",
+      "小野寺悠@奧汀": "Ninja",
+      "鮭魚明太子@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "7gvn8w2xZJqGr9hP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "鮭魚明太子@迦樓羅",
+      "Ethe@迦樓羅",
+      "煌獅@利維坦",
+      "Chuchu@迦樓羅",
+      "梧刻@迦樓羅",
+      "木之葉上忍逼@奧汀",
+      "小野寺悠@奧汀",
+      "Enidnu@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 847527,
+    "clear_dt_ms": 1778656291381,
+    "jobs": {
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "Ethe@迦樓羅": "Dancer",
+      "煌獅@利維坦": "Dragoon",
+      "Chuchu@迦樓羅": "Gunbreaker",
+      "梧刻@迦樓羅": "DarkKnight",
+      "木之葉上忍逼@奧汀": "Summoner",
+      "小野寺悠@奧汀": "Ninja",
+      "Enidnu@奧汀": "Astrologian"
+    }
   }
 ]
