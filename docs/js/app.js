@@ -203,6 +203,7 @@ const DS = {
   clearsByEnc: {},
   killCounts: {},
   playerJobMap: {},   // key: "Name@Server:eid" → best clear record
+  clearJobMap: {},    // key: "report_code:fight_id:Name@Server" → job (exact job used in that fight)
 
   meta: null,
 
@@ -218,6 +219,7 @@ const DS = {
     this._buildClearsByEnc();
     this._buildKillCounts();
     this._buildPlayerJobMap();
+    this._buildClearJobMap();
   },
 
   _buildPlayerJobMap() {
@@ -229,6 +231,14 @@ const DS = {
       if (!cur) { this.playerJobMap[mapKey] = rec; continue; }
       if (rec.is_clear && !cur.is_clear) { this.playerJobMap[mapKey] = rec; continue; }
       if (rec.is_clear === cur.is_clear && rec.rdps > cur.rdps) this.playerJobMap[mapKey] = rec;
+    }
+  },
+
+  _buildClearJobMap() {
+    for (const rec of Object.values(this.playerBests)) {
+      if (!rec.report_code || !rec.fight_id || !rec.job || rec.job === 'Unknown') continue;
+      const key = `${rec.report_code}:${rec.fight_id}:${rec.name}@${rec.server}`;
+      this.clearJobMap[key] = rec.job;
     }
   },
 
@@ -509,15 +519,16 @@ function renderClearSpeed() {
   tbody.innerHTML = clears.map((c, i) => {
     const i_global = start + i;
     const eid = c._eid ?? detectEncounterId(c.encounter);
+    const clearKey = (p) => `${c.code}:${c.fight_id}:${p}`;
+    const jobFor   = (p) => DS.clearJobMap[clearKey(p)] ?? DS.playerJobMap[`${p}:${eid}`]?.job;
     const sorted = [...c.players].sort((a, b) => {
-      const ja = DS.playerJobMap[`${a}:${eid}`]?.job;
-      const jb = DS.playerJobMap[`${b}:${eid}`]?.job;
+      const ja = jobFor(a);
+      const jb = jobFor(b);
       return (ja ? TEAM_ORDER.indexOf(ja) : 999) - (jb ? TEAM_ORDER.indexOf(jb) : 999);
     });
     const team = sorted.map(p => {
       const [pName, pSrv = ''] = p.split('@');
-      const rec   = DS.playerJobMap[`${p}:${eid}`];
-      const job   = rec?.job;
+      const job   = jobFor(p);
       const color  = job ? (JOB_CSS[job] || '') : '';
       const tip    = job ? (JOB_ZH[job] || job) : '';
       const border = job ? roleBorderColor(job) : '';
