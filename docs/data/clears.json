@@ -17510,5 +17510,61 @@
       "配ㄆ喵嗚@巴哈姆特": "Sage",
       "木景雲@奧汀": "Scholar"
     }
+  },
+  {
+    "code": "htzRLrF6K8qyaWJY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "空澄雪奈o@伊弗利特",
+      "小孟@伊弗利特",
+      "Ethe@迦樓羅",
+      "煌獅@利維坦",
+      "米大斯@迦樓羅",
+      "生椰拿鐵@奧汀",
+      "小鹿鹿@泰坦",
+      "青菜老大@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 875594,
+    "clear_dt_ms": 1778670716395,
+    "jobs": {
+      "空澄雪奈o@伊弗利特": "Sage",
+      "小孟@伊弗利特": "Ninja",
+      "Ethe@迦樓羅": "Summoner",
+      "煌獅@利維坦": "Dragoon",
+      "米大斯@迦樓羅": "Warrior",
+      "生椰拿鐵@奧汀": "Paladin",
+      "小鹿鹿@泰坦": "Dancer",
+      "青菜老大@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "Pt8qYbmLydnMkraF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "得到寬恕的憾@鳳凰",
+      "Ping@鳳凰",
+      "J級玩家@鳳凰",
+      "雅·羊朵拉@泰坦",
+      "Tanasa@鳳凰",
+      "曉犽伊莉莎@巴哈姆特",
+      "Taimin@鳳凰",
+      "海獺寶寶@鳳凰"
+    ],
+    "fight_id": 23,
+    "duration_ms": 619129,
+    "clear_dt_ms": 1778597393656,
+    "jobs": {
+      "得到寬恕的憾@鳳凰": "Warrior",
+      "Ping@鳳凰": "Summoner",
+      "J級玩家@鳳凰": "Paladin",
+      "雅·羊朵拉@泰坦": "Scholar",
+      "Tanasa@鳳凰": "Machinist",
+      "曉犽伊莉莎@巴哈姆特": "Astrologian",
+      "Taimin@鳳凰": "Dragoon",
+      "海獺寶寶@鳳凰": "Sage"
+    }
   }
 ]
