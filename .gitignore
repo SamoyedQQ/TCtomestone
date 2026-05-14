@@ -1,31 +1,16 @@
-# Python
+# Python 執行環境（不進 repo）
 .venv/
 __pycache__/
 *.pyc
 *.pyo
 
-# Source code (stored as GitHub Secrets, not in repo)
-*.py
-*.spec
-
-# PyInstaller build artifacts
+# PyInstaller 建置產物（不進 repo）
 build/
 dist/
 
-# Dev / debug scripts and internal docs
-inspect_report_fields.py
-update_data.bat
-push_data.bat
-docs/early_exit_approaches.md
-BUILD.md
-TC_FFLOGS_DATA.md
-
-# Local-only reference docs and credentials
-README.md
-CHANGELOG.md
-ucob.md
-tc_fflogs_data.md
-ucob_calibration.json
-pull_data.bat
-docs/data/config.json
+# 敏感憑證（絕對不進 repo）
 .env
+docs/data/config.json
+
+# 暫存輸出檔
+*_out.txt

@@ -1,0 +1,47 @@
+[
+  {
+    "key": "top",
+    "name": "絕歐米茄",
+    "full": "The Omega Protocol",
+    "encounter_id": 1077,
+    "zone_id": 59,
+    "enabled": true,
+    "scan_start_date": "2026-01-01"
+  },
+  {
+    "key": "dsr",
+    "name": "絕龍詩戰爭",
+    "full": "Dragonsong's Reprise",
+    "encounter_id": 1076,
+    "zone_id": 59,
+    "enabled": true,
+    "scan_start_date": "2026-01-01"
+  },
+  {
+    "key": "tea",
+    "name": "絕亞歷山大",
+    "full": "The Epic of Alexander",
+    "encounter_id": 1075,
+    "zone_id": 59,
+    "enabled": true,
+    "scan_start_date": "2026-01-01"
+  },
+  {
+    "key": "uwu",
+    "name": "絕究極神兵",
+    "full": "The Weapon's Refrain",
+    "encounter_id": 1074,
+    "zone_id": 59,
+    "enabled": true,
+    "scan_start_date": "2026-01-01"
+  },
+  {
+    "key": "ucob",
+    "name": "絕巴哈姆特",
+    "full": "The Unending Coil of Bahamut",
+    "encounter_id": 1073,
+    "zone_id": 59,
+    "enabled": true,
+    "scan_start_date": "2026-01-01"
+  }
+]

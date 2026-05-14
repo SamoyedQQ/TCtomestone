@@ -2,11 +2,11 @@ name: Update TC Data
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # 每天 02:00 UTC (= 台灣時間 10:00)
-  workflow_dispatch:        # 允許手動觸發
+    - cron: '0 2 * * *'   # 每天 02:00 UTC（台灣時間 10:00）
+  workflow_dispatch:        # 允許從 GitHub Actions 頁面手動觸發
 
 permissions:
-  contents: write
+  contents: write           # 允許 bot 提交並推送資料更新
 
 jobs:
   update:
@@ -24,19 +24,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Restore source files
-        env:
-          SCRAPER_CORE_B64: ${{ secrets.SCRAPER_CORE_B64 }}
-          HEADLESS_RUN_B64: ${{ secrets.HEADLESS_RUN_B64 }}
-        run: |
-          python3 -c "import base64,os; open('scraper_core.py','wb').write(base64.b64decode(os.environ['SCRAPER_CORE_B64']))"
-          python3 -c "import base64,os; open('headless_run.py','wb').write(base64.b64decode(os.environ['HEADLESS_RUN_B64']))"
-
       - name: Run scraper
         env:
           FFLOGS_CLIENT_ID: ${{ secrets.FFLOGS_CLIENT_ID }}
           FFLOGS_CLIENT_SECRET: ${{ secrets.FFLOGS_CLIENT_SECRET }}
         run: python headless_run.py
+
+      - name: Validate data
+        run: python validate_data.py
 
       - name: Commit and push if changed
         run: |

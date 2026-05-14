@@ -1,0 +1,14 @@
+{
+  "tc_servers": ["奧汀", "伊弗利特", "迦樓羅", "巴哈姆特", "鳳凰", "泰坦", "利維坦"],
+
+  "point_limit": 3400,
+  "page_delay_s": 2,
+  "fight_delay_s": 1,
+  "max_pages_per_batch": 25,
+  "max_batches": 200,
+  "scan_window_days": 14,
+  "scan_start_date": "2026-01-01",
+
+  "retry_report_codes": [],
+  "only_report_codes": []
+}
