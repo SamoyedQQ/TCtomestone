@@ -195,79 +195,85 @@ function esc(s) {
     .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-// ── Data Store ────────────────────────────────────────────────────────────────
+// ── Data Store（懶載入架構）────────────────────────────────────────────────────
+// 每次只載入使用者正在瀏覽的副本資料，大幅降低首次頁面載入流量。
+// 各副本資料首次載入後快取，切換副本時直接使用快取，不重複 fetch。
 
 const DS = {
-  playerBests: null,
-  clears: null,
-  clearsByEnc: {},
-  killCounts: {},
-  playerJobMap: {},   // key: "Name@Server:eid" → best clear record
-  clearJobMap: {},    // key: "report_code:fight_id:Name@Server" → job (exact job used in that fight)
-
   meta: null,
+  _lb: {},            // 副本排行快取：eid → [{_key, ...playerBest}]
+  _cl: {},            // 副本通關快取：eid → [{_eid, ...clearRecord}]
+  clearsByEnc: {},    // 速刷排行（最佳隊伍）：eid → sorted clear records
+  killCounts: {},     // 擊殺數："name@server:eid" → count
+  playerJobMap: {},   // 最佳通關："name@server:eid" → record
+  clearJobMap: {},    // 通關用職業："code:fight_id:name@server" → job
+  playersIdx: null,   // 玩家索引（搜尋用）：[{name, server}]
+  _loaded: new Set(), // 已完整載入的 eid
+  _loading: {},       // 進行中的 fetch Promise：eid → Promise
 
-  async loadAll() {
-    const [pb, cl, mt] = await Promise.all([
-      fetch('data/player_bests.json').then(r => r.json()),
-      fetch('data/clears.json').then(r => r.json()),
-      fetch('data/meta.json').then(r => r.json()).catch(() => null),
-    ]);
-    this.playerBests = pb;
-    this.clears = cl;
-    this.meta = mt;
-    this._buildClearsByEnc();
-    this._buildKillCounts();
-    this._buildPlayerJobMap();
-    this._buildClearJobMap();
+  async loadMeta() {
+    this.meta = await fetch('data/meta.json').then(r => r.json()).catch(() => null);
   },
 
-  _buildPlayerJobMap() {
-    for (const [key, rec] of Object.entries(this.playerBests)) {
-      const parts = key.split(':');
+  async loadEncounter(eid) {
+    if (this._loaded.has(eid)) return;
+    if (this._loading[eid]) return this._loading[eid];
+    this._loading[eid] = Promise.all([
+      fetch(`data/leaderboard_${eid}.json`).then(r => r.json()),
+      fetch(`data/clears_${eid}.json`).then(r => r.json()),
+    ]).then(([lb, cl]) => {
+      this._lb[eid] = lb;
+      this._cl[eid] = cl;
+      this._mergeEncounterIndices(eid);
+      this._loaded.add(eid);
+    }).finally(() => {
+      delete this._loading[eid];
+    });
+    return this._loading[eid];
+  },
+
+  async loadAllEncounters() {
+    await Promise.all(Object.keys(ENCOUNTERS).map(eid => this.loadEncounter(parseInt(eid, 10))));
+  },
+
+  async loadPlayersIndex() {
+    if (this.playersIdx !== null) return;
+    this.playersIdx = await fetch('data/players_index.json').then(r => r.json());
+  },
+
+  _mergeEncounterIndices(eid) {
+    const lb = this._lb[eid] || [];
+    const cl = this._cl[eid] || [];
+
+    // playerJobMap：Name@Server:eid → 最佳通關紀錄
+    for (const rec of lb) {
+      const parts = rec._key.split(':');
       if (parts.length < 3 || parts[parts.length - 1] === '_wipe') continue;
-      const mapKey = `${parts[0]}:${parts[1]}`;   // Name@Server:eid
+      const mapKey = `${parts[0]}:${parts[1]}`;
       const cur = this.playerJobMap[mapKey];
       if (!cur) { this.playerJobMap[mapKey] = rec; continue; }
       if (rec.is_clear && !cur.is_clear) { this.playerJobMap[mapKey] = rec; continue; }
       if (rec.is_clear === cur.is_clear && rec.rdps > cur.rdps) this.playerJobMap[mapKey] = rec;
     }
-  },
 
-  _buildClearJobMap() {
-    for (const rec of Object.values(this.playerBests)) {
+    // clearJobMap：code:fight_id:name@server → job
+    for (const rec of lb) {
       if (!rec.report_code || !rec.fight_id || !rec.job || rec.job === 'Unknown') continue;
-      const key = `${rec.report_code}:${rec.fight_id}:${rec.name}@${rec.server}`;
-      this.clearJobMap[key] = rec.job;
+      this.clearJobMap[`${rec.report_code}:${rec.fight_id}:${rec.name}@${rec.server}`] = rec.job;
     }
-  },
 
-  _buildClearsByEnc() {
-    const bestByTeam = {};   // key: "eid|player1|player2|..."
-    for (const c of this.clears) {
-      const eid = detectEncounterId(c.encounter);
-      if (!eid) continue;
-      const teamKey = `${eid}|` + [...c.players].sort().join('|');
+    // clearsByEnc：同一隊伍保留最快通關，按時間排序
+    const bestByTeam = {};
+    for (const c of cl) {
+      const teamKey = [...c.players].sort().join('|');
       const existing = bestByTeam[teamKey];
-      if (!existing || c.duration_ms < existing.duration_ms) {
-        bestByTeam[teamKey] = { ...c, _eid: eid };
-      }
+      if (!existing || c.duration_ms < existing.duration_ms) bestByTeam[teamKey] = c;
     }
-    for (const rec of Object.values(bestByTeam)) {
-      if (!this.clearsByEnc[rec._eid]) this.clearsByEnc[rec._eid] = [];
-      this.clearsByEnc[rec._eid].push(rec);
-    }
-    for (const eid of Object.keys(this.clearsByEnc)) {
-      this.clearsByEnc[eid].sort((a, b) => a.duration_ms - b.duration_ms);
-    }
-  },
+    this.clearsByEnc[eid] = Object.values(bestByTeam).sort((a, b) => a.duration_ms - b.duration_ms);
 
-  _buildKillCounts() {
+    // killCounts：每位玩家在該副本的擊殺次數
     const seenSigs = new Set();
-    for (const c of this.clears) {
-      const eid = detectEncounterId(c.encounter);
-      if (!eid) continue;
-      // Deduplicate: same team + same timestamp = same actual clear (multiple uploads)
+    for (const c of cl) {
       const sig = `${eid}|${c.clear_dt_ms}|${[...c.players].sort().join('|')}`;
       if (seenSigs.has(sig)) continue;
       seenSigs.add(sig);
@@ -278,10 +284,9 @@ const DS = {
     }
   },
 
-  getLeaderboard(encounterId, role, job) {
+  getLeaderboard(eid, role, job) {
     const entries = [];
-    for (const rec of Object.values(this.playerBests)) {
-      if (rec.encounter_id !== encounterId) continue;
+    for (const rec of (this._lb[eid] || [])) {
       if (!rec.is_clear || rec.rdps <= 0 || !rec.job || rec.job === 'Unknown') continue;
       if (jobToRole(rec.job) !== role) continue;
       if (job && rec.job !== job) continue;
@@ -291,30 +296,26 @@ const DS = {
     return entries;
   },
 
-  getClearSpeed(encounterId) {
-    if (!encounterId) {
-      // all encounters merged, sorted by duration
+  getClearSpeed(eid) {
+    if (!eid) {
       return Object.values(this.clearsByEnc).flat().sort((a, b) => a.duration_ms - b.duration_ms);
     }
-    return this.clearsByEnc[encounterId] || [];
+    return this.clearsByEnc[eid] || [];
   },
 
   getRank(eid, job, rdps) {
     let rank = 1, total = 0;
-    for (const rec of Object.values(this.playerBests)) {
-      if (rec.encounter_id !== eid || rec.job !== job) continue;
-      if (!rec.is_clear || rec.rdps <= 0 || rec.job === 'Unknown') continue;
+    for (const rec of (this._lb[eid] || [])) {
+      if (rec.job !== job || !rec.is_clear || rec.rdps <= 0 || rec.job === 'Unknown') continue;
       total++;
       if (rec.rdps > rdps) rank++;
     }
     return { rank, total };
   },
 
-  // Returns the set of jobs present in the leaderboard for a given encounter+role
-  availableJobs(encounterId, role) {
+  availableJobs(eid, role) {
     const jobs = new Set();
-    for (const rec of Object.values(this.playerBests)) {
-      if (rec.encounter_id !== encounterId) continue;
+    for (const rec of (this._lb[eid] || [])) {
       if (!rec.is_clear || rec.rdps <= 0 || !rec.job || rec.job === 'Unknown') continue;
       if (jobToRole(rec.job) !== role) continue;
       jobs.add(rec.job);
@@ -324,29 +325,24 @@ const DS = {
 
   searchPlayer(query) {
     const q = query.trim().toLowerCase();
-    if (!q) return [];
-    const seen = new Set();
-    const results = [];
-    for (const rec of Object.values(this.playerBests)) {
-      const id = `${rec.name}@${rec.server}`;
-      if (seen.has(id)) continue;
-      if (rec.name.toLowerCase().includes(q) || id.toLowerCase().includes(q)) {
-        seen.add(id);
-        results.push({ name: rec.name, server: rec.server });
-      }
-    }
-    return results;
+    if (!q || !this.playersIdx) return [];
+    return this.playersIdx.filter(p =>
+      p.name.toLowerCase().includes(q) ||
+      `${p.name}@${p.server}`.toLowerCase().includes(q)
+    );
   },
 
   getPlayerProfile(name, server) {
     const byEnc = {};
-    for (const rec of Object.values(this.playerBests)) {
-      if (rec.name !== name || rec.server !== server) continue;
-      const eid = rec.encounter_id;
-      if (!byEnc[eid]) byEnc[eid] = [];
-      const kills    = this.killCounts[`${name}@${server}:${eid}`] || 0;
-      const rankInfo = (rec.is_clear && rec.rdps > 0) ? this.getRank(eid, rec.job, rec.rdps) : null;
-      byEnc[eid].push({ ...rec, kills, rank: rankInfo?.rank ?? null, rankTotal: rankInfo?.total ?? null });
+    for (const [eidStr, lb] of Object.entries(this._lb)) {
+      const eid = parseInt(eidStr, 10);
+      const kills = this.killCounts[`${name}@${server}:${eid}`] || 0;
+      for (const rec of lb) {
+        if (rec.name !== name || rec.server !== server) continue;
+        if (!byEnc[eid]) byEnc[eid] = [];
+        const rankInfo = (rec.is_clear && rec.rdps > 0) ? this.getRank(eid, rec.job, rec.rdps) : null;
+        byEnc[eid].push({ ...rec, kills, rank: rankInfo?.rank ?? null, rankTotal: rankInfo?.total ?? null });
+      }
     }
     for (const eid of Object.keys(byEnc)) {
       const recs = byEnc[eid];
@@ -463,8 +459,13 @@ function applyHashToState() {
   return { type: 'rdps' };
 }
 
+function showTableLoading(tbodyId, colCount = 7) {
+  const el = $id(tbodyId);
+  if (el) el.innerHTML = `<tr><td colspan="${colCount}" style="text-align:center;padding:2rem;color:var(--text-muted)">載入中...</td></tr>`;
+}
+
 // 依照目前 STATE 更新所有 UI（active 樣式、顯示/隱藏、觸發渲染）
-function syncUIToState(pending = null) {
+async function syncUIToState(pending = null) {
   document.querySelectorAll('.nav-tab').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.tab === STATE.mainTab);
   });
@@ -482,19 +483,33 @@ function syncUIToState(pending = null) {
 
     if (isSpeed) {
       setActive($id('speed-enc-filter'), '.filter-btn',
-        $id('speed-enc-filter').querySelector(`[data-enc="${STATE.speedEncounter}"]`));
-      if (DS.clears) renderClearSpeed();
+        $id('speed-enc-filter').querySelector(
+          STATE.speedEncounter ? `[data-enc="${STATE.speedEncounter}"]` : '[data-enc=""]'
+        ));
+      if (STATE.speedEncounter) {
+        showTableLoading('speed-tbody', 5);
+        await DS.loadEncounter(STATE.speedEncounter);
+      } else {
+        showTableLoading('speed-tbody', 5);
+        await DS.loadAllEncounters();
+      }
+      renderClearSpeed();
     } else {
       setActive($id('rdps-enc-filter'), '.filter-btn',
         $id('rdps-enc-filter').querySelector(`[data-enc="${STATE.rdpsEncounter}"]`));
       setActive($id('role-tabs'), '.role-tab',
         $id('role-tabs').querySelector(`[data-role="${STATE.role}"]`));
-      if (DS.playerBests) { renderJobFilter(); renderLeaderboard(); }
+      showTableLoading('rdps-tbody');
+      await DS.loadEncounter(STATE.rdpsEncounter);
+      renderJobFilter();
+      renderLeaderboard();
     }
   } else {
     // 玩家頁：由 hashchange 導航時不顯示返回列（無 returnSnapshot）
-    if (pending?.type === 'player' && DS.playerBests) {
+    if (pending?.type === 'player') {
       $id('player-input').value = `${pending.name}@${pending.server}`;
+      showTableLoading('rdps-tbody');
+      await Promise.all([DS.loadPlayersIndex(), DS.loadAllEncounters()]);
       renderPlayerProfile(pending.name, pending.server);
     }
   }
@@ -505,7 +520,7 @@ function wireHashChange() {
     returnSnapshot = null;
     $id('return-bar').classList.add('hidden');
     const pending = applyHashToState();
-    syncUIToState(pending);
+    syncUIToState(pending);  // async，不需要 await
   });
 }
 
@@ -832,7 +847,7 @@ function wireMainNav() {
 }
 
 function wireLbTypeTabs() {
-  $id('lb-type-tabs').addEventListener('click', e => {
+  $id('lb-type-tabs').addEventListener('click', async e => {
     const btn = e.target.closest('.sub-tab');
     if (!btn) return;
     STATE.lbType = btn.dataset.lbtype;
@@ -843,12 +858,20 @@ function wireLbTypeTabs() {
     $id('speed-section').classList.toggle('hidden', !isSpeed);
 
     pushHash();
-    if (isSpeed) renderClearSpeed();
+    if (isSpeed) {
+      showTableLoading('speed-tbody', 5);
+      if (STATE.speedEncounter) {
+        await DS.loadEncounter(STATE.speedEncounter);
+      } else {
+        await DS.loadAllEncounters();
+      }
+      renderClearSpeed();
+    }
   });
 }
 
 function wireRdpsEncFilter() {
-  $id('rdps-enc-filter').addEventListener('click', e => {
+  $id('rdps-enc-filter').addEventListener('click', async e => {
     const btn = e.target.closest('.filter-btn');
     if (!btn) return;
     STATE.rdpsEncounter = parseInt(btn.dataset.enc, 10);
@@ -856,6 +879,8 @@ function wireRdpsEncFilter() {
     STATE.job = null;
     setActive($id('rdps-enc-filter'), '.filter-btn', btn);
     replaceHash();
+    showTableLoading('rdps-tbody');
+    await DS.loadEncounter(STATE.rdpsEncounter);
     renderJobFilter();
     renderLeaderboard();
   });
@@ -876,18 +901,24 @@ function wireRoleTabs() {
 }
 
 function wireSpeedEncFilter() {
-  $id('speed-enc-filter').addEventListener('click', e => {
+  $id('speed-enc-filter').addEventListener('click', async e => {
     const btn = e.target.closest('.filter-btn');
     if (!btn) return;
     STATE.speedEncounter = btn.dataset.enc ? parseInt(btn.dataset.enc, 10) : null;
     STATE.speedPage = 1;
     setActive($id('speed-enc-filter'), '.filter-btn', btn);
     replaceHash();
+    showTableLoading('speed-tbody', 5);
+    if (STATE.speedEncounter) {
+      await DS.loadEncounter(STATE.speedEncounter);
+    } else {
+      await DS.loadAllEncounters();
+    }
     renderClearSpeed();
   });
 }
 
-function goToPlayerProfile(name, server) {
+async function goToPlayerProfile(name, server) {
   returnSnapshot = {
     mainTab:        STATE.mainTab,
     lbType:         STATE.lbType,
@@ -911,9 +942,14 @@ function goToPlayerProfile(name, server) {
   document.querySelectorAll('.tab-section').forEach(s => s.classList.add('hidden'));
   $id('tab-player').classList.remove('hidden');
   $id('player-input').value = name;
-  renderPlayerProfile(name, server);
   $id('return-bar').classList.remove('hidden');
   pushHash();
+
+  // 載入所有副本資料（快取命中時幾乎無延遲）
+  $id('player-results').innerHTML =
+    '<div style="text-align:center;padding:2rem;color:var(--text-muted)">載入中...</div>';
+  await Promise.all([DS.loadPlayersIndex(), DS.loadAllEncounters()]);
+  renderPlayerProfile(name, server);
 }
 
 function wireLeaderboardRowClick() {
@@ -968,11 +1004,17 @@ function wirePlayerSearch() {
   const input = $id('player-input');
   const btn   = $id('search-btn');
 
-  function doSearch() {
+  async function doSearch() {
     const q = input.value.trim();
     if (!q) return;
     returnSnapshot = null;
     $id('return-bar').classList.add('hidden');
+
+    // 確保玩家索引已載入（首次搜尋時 fetch players_index.json）
+    $id('player-results').innerHTML =
+      '<div style="text-align:center;padding:2rem;color:var(--text-muted)">搜尋中...</div>';
+    await DS.loadPlayersIndex();
+
     const matches = DS.searchPlayer(q);
     if (matches.length === 0) {
       STATE.playerName = STATE.playerServer = null;
@@ -982,6 +1024,7 @@ function wirePlayerSearch() {
       STATE.playerName   = matches[0].name;
       STATE.playerServer = matches[0].server;
       replaceHash();
+      await Promise.all([DS.loadAllEncounters()]);
       renderPlayerProfile(matches[0].name, matches[0].server);
     } else {
       STATE.playerName = STATE.playerServer = null;
@@ -1012,12 +1055,12 @@ async function init() {
   const pending = applyHashToState();
 
   try {
-    await DS.loadAll();
+    await DS.loadMeta();
     const metaEl = $id('header-meta');
     if (metaEl) metaEl.textContent = `更新時間：${DS.meta?.updated_at ?? '—'}`;
 
-    // 依照 STATE（已從 hash 更新）渲染正確的分頁
-    syncUIToState(pending);
+    // 依照 STATE（已從 hash 更新）渲染正確的分頁，按需載入對應副本資料
+    await syncUIToState(pending);
 
     // 若無 hash，寫入當前狀態作為初始網址
     if (!location.hash) replaceHash();

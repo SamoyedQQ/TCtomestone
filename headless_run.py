@@ -360,6 +360,93 @@ def main():
     )
     print(f"完成。updated_at={updated_at} UTC", flush=True)
 
+    # 8d. 產生分割 JSON（讓前端按副本按需載入，大幅降低首次載入流量）
+    print("產生分割 JSON...", flush=True)
+    _write_split_data(DATA_DIR)
+    print("分割完成。", flush=True)
+
+
+def _detect_encounter_id(encounter_name: str):
+    """
+    從 FFLogs fight name 推導 encounter_id，邏輯與前端 detectEncounterId() 一致。
+    """
+    n = encounter_name.lower()
+    if any(kw in n for kw in ('twintania', 'nael', 'bahamut prime', 'golden bahamut')):
+        return 1073
+    if 'garuda' in n or 'ifrit' in n or 'titan' in n or ('ultima' in n and 'alexander' not in n):
+        return 1074
+    if 'living liquid' in n or 'cruise chaser' in n or 'alexander' in n or 'brute justice' in n:
+        return 1075
+    if any(kw in n for kw in ('adelphel', 'thordan', 'nidhogg', 'hraesvelgr', 'estinien',
+                               'dragon king', 'dragonsong', 'left eye', 'right eye')):
+        return 1076
+    if 'omega' in n:
+        return 1077
+    return None
+
+
+def _write_split_data(data_dir: Path) -> None:
+    """
+    讀取合併的 player_bests.json 與 clears.json，產生按副本與功能分割的 JSON 檔案，
+    讓前端可以按需載入，避免每次載入全量 3.4 MB 資料。
+
+    輸出：
+      leaderboard_{eid}.json  — 該副本所有玩家最佳成績（含 _key 欄位，array 格式）
+      clears_{eid}.json       — 該副本所有通關紀錄（含 _eid 欄位，array 格式）
+      players_index.json      — 全站玩家名稱+伺服器清單（搜尋用，去重後）
+    """
+    bests_path  = data_dir / "player_bests.json"
+    clears_path = data_dir / "clears.json"
+
+    bests_dict: dict = {}
+    if bests_path.exists():
+        bests_dict = json.loads(bests_path.read_text(encoding="utf-8"))
+
+    clears_list: list = []
+    if clears_path.exists():
+        clears_list = json.loads(clears_path.read_text(encoding="utf-8"))
+
+    # ── leaderboard_{eid}.json：player_bests 依 encounter_id 分割 ──────────────
+    lb_by_eid: dict[int, list] = {}
+    players_set: set[tuple] = set()
+
+    for key, rec in bests_dict.items():
+        eid = rec.get("encounter_id")
+        if not eid:
+            continue
+        lb_by_eid.setdefault(eid, []).append({"_key": key, **rec})
+        name, server = rec.get("name", ""), rec.get("server", "")
+        if name:
+            players_set.add((name, server))
+
+    for eid, records in lb_by_eid.items():
+        path = data_dir / f"leaderboard_{eid}.json"
+        path.write_text(json.dumps(records, ensure_ascii=False), encoding="utf-8")
+        print(f"  分割: leaderboard_{eid}.json ({len(records)} 筆)", flush=True)
+
+    # ── clears_{eid}.json：clears 依副本分割（fight name → encounter_id） ───────
+    cl_by_eid: dict[int, list] = {}
+
+    for c in clears_list:
+        eid = _detect_encounter_id(c.get("encounter", ""))
+        if not eid:
+            continue
+        cl_by_eid.setdefault(eid, []).append({"_eid": eid, **c})
+
+    for eid, records in cl_by_eid.items():
+        path = data_dir / f"clears_{eid}.json"
+        path.write_text(json.dumps(records, ensure_ascii=False), encoding="utf-8")
+        print(f"  分割: clears_{eid}.json ({len(records)} 筆)", flush=True)
+
+    # ── players_index.json：全站玩家索引（搜尋用） ────────────────────────────
+    players_index = sorted(
+        [{"name": n, "server": s} for n, s in players_set],
+        key=lambda x: x["name"].lower(),
+    )
+    idx_path = data_dir / "players_index.json"
+    idx_path.write_text(json.dumps(players_index, ensure_ascii=False), encoding="utf-8")
+    print(f"  分割: players_index.json ({len(players_index)} 位玩家)", flush=True)
+
 
 if __name__ == "__main__":
     main()
