@@ -256,8 +256,8 @@ main {
 }
 .data-table thead tr { background: #2e2e32; }
 .data-table th {
-  padding: 0.65rem 1rem;
-  text-align: left;
+  padding: 0.65rem 0.85rem;
+  text-align: center;
   font-size: 0.78rem;
   font-weight: 600;
   color: var(--text-muted);
@@ -266,10 +266,11 @@ main {
   white-space: nowrap;
 }
 .data-table td {
-  padding: 0.69rem 1rem;
+  padding: 0.69rem 0.85rem;
   font-size: 0.9rem;
   border-top: 1px solid var(--border);
   vertical-align: middle;
+  text-align: center;
 }
 .data-table tbody tr:hover { background: rgba(255,255,255,0.03); }
 .data-table tbody tr.lb-row { cursor: pointer; }
@@ -277,18 +278,15 @@ main {
 
 #rdps-table.single-job .col-job { display: none; }
 
-.col-rank   { width: 4rem; text-align: center; }
+.col-rank   { width: 4rem; }
 .col-player { min-width: 240px; }
-.data-table th.col-player,
-.data-table td.col-player { text-align: center; }
-.col-server { width: 132px; }
-.col-job    { width: 96px; }
-.col-num    { width: 132px; text-align: right; font-variant-numeric: tabular-nums; }
-.col-lnum   { width: 132px; text-align: left;  font-variant-numeric: tabular-nums; }
+.col-server { width: 110px; }
+.data-table th.col-server,
+.data-table td.col-server { text-align: center; padding-left: 0.2rem; padding-right: 2.25rem; }
+.col-job    { width: 116px; }
+.col-num    { width: 132px; font-variant-numeric: tabular-nums; }
+.col-lnum   { width: 132px; font-variant-numeric: tabular-nums; }
 .col-date   { width: 180px; white-space: nowrap; font-variant-numeric: tabular-nums; }
-.data-table th.col-rank { text-align: center; }
-.data-table th.col-num  { text-align: right; }
-.data-table th.col-lnum { text-align: left; }
 .col-date { white-space: nowrap; color: var(--text-muted); font-size: 0.82rem; }
 .col-time { white-space: nowrap; font-weight: 700; font-variant-numeric: tabular-nums; }
 .col-enc  { white-space: nowrap; font-size: 0.82rem; font-weight: 600; }
