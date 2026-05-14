@@ -380,9 +380,134 @@ const STATE = {
   job: null,
   rdpsPage: 1,
   speedPage: 1,
+  playerName: null,
+  playerServer: null,
 };
 
 let returnSnapshot = null;
+
+// ── URL Hash Navigation ────────────────────────────────────────────────────────
+// Hash 格式：#tab=rdps&enc=1077&role=Tank&job=Viper
+//            #tab=speed&enc=1073
+//            #tab=player&id=名字%40伺服器
+// 切副本/職業/分頁 → replaceState（不建立歷史紀錄）
+// 切主分頁/進玩家頁 → pushState（支援瀏覽器上一頁）
+
+function buildHash() {
+  const p = new URLSearchParams();
+  if (STATE.mainTab === 'player') {
+    p.set('tab', 'player');
+    if (STATE.playerName && STATE.playerServer) {
+      p.set('id', `${STATE.playerName}@${STATE.playerServer}`);
+    }
+    return '#' + p.toString();
+  }
+  if (STATE.lbType === 'speed') {
+    p.set('tab', 'speed');
+    if (STATE.speedEncounter) p.set('enc', STATE.speedEncounter);
+    if (STATE.speedPage > 1) p.set('p', STATE.speedPage);
+  } else {
+    p.set('tab', 'rdps');
+    p.set('enc', STATE.rdpsEncounter);
+    p.set('role', STATE.role);
+    if (STATE.job) p.set('job', STATE.job);
+    if (STATE.rdpsPage > 1) p.set('p', STATE.rdpsPage);
+  }
+  return '#' + p.toString();
+}
+
+function pushHash()    { history.pushState(null, '', buildHash()); }
+function replaceHash() { history.replaceState(null, '', buildHash()); }
+
+// 解析 location.hash，更新 STATE，回傳待處理的玩家資訊（若有）
+function applyHashToState() {
+  const raw = location.hash.slice(1);
+  if (!raw) return null;
+  let p;
+  try { p = new URLSearchParams(raw); } catch { return null; }
+
+  const tab = p.get('tab');
+
+  if (tab === 'player') {
+    STATE.mainTab = 'player';
+    const id = p.get('id') || '';
+    const at = id.lastIndexOf('@');
+    if (at > 0) {
+      STATE.playerName   = id.slice(0, at);
+      STATE.playerServer = id.slice(at + 1);
+      return { type: 'player', name: STATE.playerName, server: STATE.playerServer };
+    }
+    STATE.playerName = STATE.playerServer = null;
+    return { type: 'player-search' };
+  }
+
+  STATE.mainTab = 'leaderboard';
+
+  if (tab === 'speed') {
+    STATE.lbType = 'speed';
+    const enc = parseInt(p.get('enc'), 10);
+    STATE.speedEncounter = (enc && ENCOUNTERS[enc]) ? enc : 1074;
+    STATE.speedPage = Math.max(1, parseInt(p.get('p'), 10) || 1);
+    return { type: 'speed' };
+  }
+
+  // 預設：rdps
+  STATE.lbType = 'rdps';
+  const enc = parseInt(p.get('enc'), 10);
+  if (enc && ENCOUNTERS[enc]) STATE.rdpsEncounter = enc;
+  const role = p.get('role');
+  if (role && ROLE_JOBS[role]) STATE.role = role;
+  const job = p.get('job');
+  STATE.job = (job && ROLE_JOBS[STATE.role]?.includes(job)) ? job : null;
+  STATE.rdpsPage = Math.max(1, parseInt(p.get('p'), 10) || 1);
+  return { type: 'rdps' };
+}
+
+// 依照目前 STATE 更新所有 UI（active 樣式、顯示/隱藏、觸發渲染）
+function syncUIToState(pending = null) {
+  document.querySelectorAll('.nav-tab').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.tab === STATE.mainTab);
+  });
+  document.querySelectorAll('.tab-section').forEach(s => s.classList.add('hidden'));
+  $id(`tab-${STATE.mainTab}`)?.classList.remove('hidden');
+
+  if (STATE.mainTab === 'leaderboard') {
+    $id('return-bar').classList.add('hidden');
+    document.querySelectorAll('#lb-type-tabs .sub-tab').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.lbtype === STATE.lbType);
+    });
+    const isSpeed = STATE.lbType === 'speed';
+    $id('rdps-section').classList.toggle('hidden', isSpeed);
+    $id('speed-section').classList.toggle('hidden', !isSpeed);
+
+    if (isSpeed) {
+      setActive($id('speed-enc-filter'), '.filter-btn',
+        $id('speed-enc-filter').querySelector(`[data-enc="${STATE.speedEncounter}"]`));
+      if (DS.clears) renderClearSpeed();
+    } else {
+      setActive($id('rdps-enc-filter'), '.filter-btn',
+        $id('rdps-enc-filter').querySelector(`[data-enc="${STATE.rdpsEncounter}"]`));
+      setActive($id('role-tabs'), '.role-tab',
+        $id('role-tabs').querySelector(`[data-role="${STATE.role}"]`));
+      if (DS.playerBests) { renderJobFilter(); renderLeaderboard(); }
+    }
+  } else {
+    // 玩家頁：由 hashchange 導航時不顯示返回列（無 returnSnapshot）
+    if (pending?.type === 'player' && DS.playerBests) {
+      $id('player-input').value = `${pending.name}@${pending.server}`;
+      renderPlayerProfile(pending.name, pending.server);
+    }
+  }
+}
+
+function wireHashChange() {
+  window.addEventListener('hashchange', () => {
+    returnSnapshot = null;
+    $id('return-bar').classList.add('hidden');
+    const pending = applyHashToState();
+    syncUIToState(pending);
+  });
+}
 
 function $id(id) { return document.getElementById(id); }
 
@@ -431,6 +556,7 @@ function renderJobFilter() {
     const clicked = btn.dataset.job;
     STATE.job = STATE.job === clicked ? null : clicked;
     STATE.rdpsPage = 1;
+    replaceHash();
     renderJobFilter();
     renderLeaderboard();
   };
@@ -471,6 +597,7 @@ function renderLeaderboard() {
   const start   = (STATE.rdpsPage - 1) * PAGE_SIZE;
   const entries = all.slice(start, start + PAGE_SIZE);
 
+
   tbody.innerHTML = entries.map((rec, i) => {
     const rank      = start + i + 1;
     const nameColor = JOB_CSS[rec.job] || 'var(--text)';
@@ -488,6 +615,7 @@ function renderLeaderboard() {
 
   renderPagination(pgEl, STATE.rdpsPage, totalPages, p => {
     STATE.rdpsPage = p;
+    replaceHash();
     renderLeaderboard();
   });
 }
@@ -548,6 +676,7 @@ function renderClearSpeed() {
 
   renderPagination(pgEl, STATE.speedPage, totalPages, p => {
     STATE.speedPage = p;
+    replaceHash();
     renderClearSpeed();
   });
 }
@@ -674,7 +803,12 @@ function renderDisambig(matches) {
     const btn = document.createElement('button');
     btn.className = 'disambig-btn';
     btn.textContent = `${m.name}@${m.server}`;
-    btn.onclick = () => renderPlayerProfile(m.name, m.server);
+    btn.onclick = () => {
+      STATE.playerName   = m.name;
+      STATE.playerServer = m.server;
+      replaceHash();
+      renderPlayerProfile(m.name, m.server);
+    };
     wrap.appendChild(btn);
   }
   results.appendChild(wrap);
@@ -686,9 +820,13 @@ function wireMainNav() {
   document.querySelectorAll('.nav-tab').forEach(btn => {
     btn.addEventListener('click', () => {
       STATE.mainTab = btn.dataset.tab;
+      if (STATE.mainTab !== 'player') {
+        STATE.playerName = STATE.playerServer = null;
+      }
       setActive(document, '.nav-tab', btn);
       document.querySelectorAll('.tab-section').forEach(s => s.classList.add('hidden'));
       $id(`tab-${STATE.mainTab}`).classList.remove('hidden');
+      pushHash();
     });
   });
 }
@@ -704,6 +842,7 @@ function wireLbTypeTabs() {
     $id('rdps-section').classList.toggle('hidden', isSpeed);
     $id('speed-section').classList.toggle('hidden', !isSpeed);
 
+    pushHash();
     if (isSpeed) renderClearSpeed();
   });
 }
@@ -716,6 +855,7 @@ function wireRdpsEncFilter() {
     STATE.rdpsPage = 1;
     STATE.job = null;
     setActive($id('rdps-enc-filter'), '.filter-btn', btn);
+    replaceHash();
     renderJobFilter();
     renderLeaderboard();
   });
@@ -729,6 +869,7 @@ function wireRoleTabs() {
     STATE.rdpsPage = 1;
     STATE.job = null;
     setActive($id('role-tabs'), '.role-tab', btn);
+    replaceHash();
     renderJobFilter();
     renderLeaderboard();
   });
@@ -741,23 +882,29 @@ function wireSpeedEncFilter() {
     STATE.speedEncounter = btn.dataset.enc ? parseInt(btn.dataset.enc, 10) : null;
     STATE.speedPage = 1;
     setActive($id('speed-enc-filter'), '.filter-btn', btn);
+    replaceHash();
     renderClearSpeed();
   });
 }
 
 function goToPlayerProfile(name, server) {
   returnSnapshot = {
-    mainTab:       STATE.mainTab,
-    lbType:        STATE.lbType,
-    rdpsEncounter: STATE.rdpsEncounter,
+    mainTab:        STATE.mainTab,
+    lbType:         STATE.lbType,
+    rdpsEncounter:  STATE.rdpsEncounter,
     speedEncounter: STATE.speedEncounter,
-    role:          STATE.role,
-    job:           STATE.job,
-    rdpsPage:      STATE.rdpsPage,
-    speedPage:     STATE.speedPage,
+    role:           STATE.role,
+    job:            STATE.job,
+    rdpsPage:       STATE.rdpsPage,
+    speedPage:      STATE.speedPage,
+    playerName:     null,
+    playerServer:   null,
   };
 
-  STATE.mainTab = 'player';
+  STATE.mainTab     = 'player';
+  STATE.playerName   = name;
+  STATE.playerServer = server;
+
   document.querySelectorAll('.nav-tab').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.tab === 'player');
   });
@@ -765,8 +912,8 @@ function goToPlayerProfile(name, server) {
   $id('tab-player').classList.remove('hidden');
   $id('player-input').value = name;
   renderPlayerProfile(name, server);
-
   $id('return-bar').classList.remove('hidden');
+  pushHash();
 }
 
 function wireLeaderboardRowClick() {
@@ -811,6 +958,7 @@ function wireReturnBtn() {
     setActive($id('role-tabs'), '.role-tab',
       $id('role-tabs').querySelector(`[data-role="${STATE.role}"]`));
 
+    replaceHash();
     renderJobFilter();
     if (isSpeed) renderClearSpeed(); else renderLeaderboard();
   });
@@ -827,10 +975,17 @@ function wirePlayerSearch() {
     $id('return-bar').classList.add('hidden');
     const matches = DS.searchPlayer(q);
     if (matches.length === 0) {
+      STATE.playerName = STATE.playerServer = null;
+      replaceHash();
       $id('player-results').innerHTML = `<div class="empty-state">找不到玩家「${esc(q)}」</div>`;
     } else if (matches.length === 1) {
+      STATE.playerName   = matches[0].name;
+      STATE.playerServer = matches[0].server;
+      replaceHash();
       renderPlayerProfile(matches[0].name, matches[0].server);
     } else {
+      STATE.playerName = STATE.playerServer = null;
+      replaceHash();
       renderDisambig(matches);
     }
   }
@@ -851,16 +1006,21 @@ async function init() {
   wireLeaderboardRowClick();
   wireSpeedPlayerClick();
   wireReturnBtn();
+  wireHashChange();
+
+  // 解析初始 hash，更新 STATE（資料尚未載入，僅更新狀態）
+  const pending = applyHashToState();
 
   try {
     await DS.loadAll();
     const metaEl = $id('header-meta');
-    if (metaEl) {
-      const t = DS.meta?.updated_at ?? '—';
-      metaEl.textContent = `更新時間：${t}`;
-    }
-    renderJobFilter();
-    renderLeaderboard();
+    if (metaEl) metaEl.textContent = `更新時間：${DS.meta?.updated_at ?? '—'}`;
+
+    // 依照 STATE（已從 hash 更新）渲染正確的分頁
+    syncUIToState(pending);
+
+    // 若無 hash，寫入當前狀態作為初始網址
+    if (!location.hash) replaceHash();
   } catch (err) {
     console.error('Failed to load data:', err);
     document.querySelector('main').innerHTML =
