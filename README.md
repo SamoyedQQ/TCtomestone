@@ -40,6 +40,16 @@
 
 ---
 
+## 聲明
+
+本站為非官方粉絲專案，與 Square Enix 及 FFLogs 無任何關聯。
+
+- 《最終幻想 XIV》遊戲內容、名稱及相關資產之著作權歸 **Square Enix** 所有
+- 戰鬥記錄資料來源為 **[FFLogs](https://www.fflogs.com)**，相關資料著作權歸 FFLogs 及原始報告上傳者所有
+- 本站不持有任何遊戲資產，亦不以商業目的營運
+
+---
+
 ## License
 
-MIT
+本專案程式碼以 [MIT 授權](LICENSE) 釋出。
