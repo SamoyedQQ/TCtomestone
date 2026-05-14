@@ -19134,5 +19134,33 @@
       "我是醜底迪@鳳凰": "Astrologian",
       "Mog@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "4ZkWPzQHhb17qv6B",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "歪歐萬@巴哈姆特",
+      "納緹宓絲@巴哈姆特",
+      "洋釀薯條@巴哈姆特",
+      "那德艾爾格@巴哈姆特",
+      "Shiroo@巴哈姆特",
+      "內田真礼@巴哈姆特",
+      "白祿@巴哈姆特",
+      "Tori@巴哈姆特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 970489,
+    "clear_dt_ms": 1778683635134,
+    "jobs": {
+      "歪歐萬@巴哈姆特": "DarkKnight",
+      "納緹宓絲@巴哈姆特": "Samurai",
+      "洋釀薯條@巴哈姆特": "Paladin",
+      "那德艾爾格@巴哈姆特": "Bard",
+      "Shiroo@巴哈姆特": "BlackMage",
+      "內田真礼@巴哈姆特": "Astrologian",
+      "白祿@巴哈姆特": "Pictomancer",
+      "Tori@巴哈姆特": "Sage"
+    }
   }
 ]
