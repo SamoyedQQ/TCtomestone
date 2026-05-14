@@ -1088,16 +1088,16 @@ def _is_kill(fight: dict) -> bool:
 
     UCoB 特殊規則（encounterID == 1073）：
       FFLogs 不標記 UCoB 為 kill=true，需手動以三個條件判斷：
-        1. fightPercentage == 80（Golden Bahamut phase 的 HP 閾值）
-        2. fight name 包含 "Bahamut Prime"（確認已進入最終 phase）
-        3. 戰鬥時長 ≥ 10 分鐘（排除只跑 P1–P3 的無效紀錄）
+        1. fightPercentage == 80（通關結束的 HP 閾值）
+        2. fight name 包含 "Bahamut Prime"（確認已進入 P3+ 階段）
+        3. 戰鬥時長 ≥ 13 分鐘（排除 P4/P5 轉換點全滅：fp 同樣為 80 但時長僅約 10 分鐘）
       其他副本直接使用 FFLogs 原生 kill 旗標。
     """
     if fight.get("encounterID") == 1073:
         return (
             fight.get("fightPercentage") == 80
             and "Bahamut Prime" in fight.get("name", "")
-            and (fight["endTime"] - fight["startTime"]) >= 600_000
+            and (fight["endTime"] - fight["startTime"]) >= 780_000
         )
     return bool(fight.get("kill"))
 
