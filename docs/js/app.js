@@ -179,10 +179,15 @@ function fmtDateTime(ms) {
   return `${date} ${time}`;
 }
 
+function jobIcon(job) {
+  if (!JOB_CSS[job]) return '';
+  return `<img class="job-icon" src="img/jobs/${job.toLowerCase()}.png" alt="${job}" onerror="this.style.display='none'">`;
+}
+
 function jobChip(job) {
   const zh = JOB_ZH[job] || job;
   const cls = JOB_CSS[job] ? `job-${job}` : 'job-Unknown';
-  return `<span class="job-chip ${cls}">${zh}</span>`;
+  return `<span class="job-chip ${cls}">${jobIcon(job)}${zh}</span>`;
 }
 
 function encChip(eid) {
@@ -193,6 +198,12 @@ function esc(s) {
   return String(s)
     .replace(/&/g, '&amp;').replace(/</g, '&lt;')
     .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function reportLink(code, fightId) {
+  if (!code) return '<span class="col-report-na">—</span>';
+  const url = `https://www.fflogs.com/reports/${esc(code)}#fight=${fightId}`;
+  return `<a class="report-link" href="${url}" target="_blank" rel="noopener" title="查看 FFLogs 報告">FFLogs</a>`;
 }
 
 // ── Data Store（懶載入架構）────────────────────────────────────────────────────
@@ -561,7 +572,7 @@ function renderJobFilter() {
     btn.className = `filter-btn job-btn${STATE.job === job ? ' active' : ''}`;
     btn.dataset.job = job;
     btn.style.setProperty('--jc', color);
-    btn.textContent = JOB_ZH[job] || job;
+    btn.innerHTML = `${jobIcon(job)}${JOB_ZH[job] || job}`;
     bar.appendChild(btn);
   }
 
@@ -625,6 +636,7 @@ function renderLeaderboard() {
       <td class="col-lnum rdps-val">${rec.rdps.toFixed(1)}</td>
       <td class="col-lnum parse-val">${rec.adps > 0 ? rec.adps.toFixed(1) : '—'}</td>
       <td class="col-date">${rec.duration_ms > 0 ? fmtDuration(rec.duration_ms) : '—'}</td>
+      <td class="col-report">${reportLink(rec.report_code, rec.fight_id)}</td>
     </tr>`;
   }).join('');
 
@@ -676,7 +688,8 @@ function renderClearSpeed() {
       const tip    = job ? (JOB_ZH[job] || job) : '';
       const border = job ? roleBorderColor(job) : '';
       const style  = (color || border) ? ` style="${color ? `--jc:${color};` : ''}${border ? `--rc:${border}` : ''}"` : '';
-      return `<span class="team-player team-player-link"${style}${tip ? ` data-tip="${tip}"` : ''} data-name="${esc(pName)}" data-srv="${esc(pSrv)}"><span>${esc(pName)}</span>@${esc(pSrv)}</span>`;
+      const icon = job ? jobIcon(job) : '';
+      return `<span class="team-player team-player-link"${style}${tip ? ` data-tip="${tip}"` : ''} data-name="${esc(pName)}" data-srv="${esc(pSrv)}">${icon}<span>${esc(pName)}</span>@${esc(pSrv)}</span>`;
     }).join('');
     return `
       <tr>
@@ -685,6 +698,7 @@ function renderClearSpeed() {
         <td class="col-time">${fmtDuration(c.duration_ms)}</td>
         <td class="col-date">${fmtDate(c.clear_dt_ms)}</td>
         <td><div class="team-list">${team}</div></td>
+        <td class="col-report">${reportLink(c.code, c.fight_id)}</td>
       </tr>
     `;
   }).join('');
@@ -725,6 +739,7 @@ function renderPlayerProfile(name, server) {
             <th class="col-rank">排名</th>
             <th class="col-num">總擊殺數</th>
             <th class="col-date">日期</th>
+            <th class="col-report">報告</th>
           </tr>
         </thead>
         <tbody class="player-profile-tbody"></tbody>
@@ -772,6 +787,7 @@ function renderPlayerProfile(name, server) {
         <td>${rankHtml}</td>
         <td>${killHtml}</td>
         <td>${fmtDate(primary.timestamp_ms)}</td>
+        <td class="col-report">${reportLink(primary.report_code, primary.fight_id)}</td>
       </tr>`);
 
     for (const rec of extras) {
@@ -793,6 +809,7 @@ function renderPlayerProfile(name, server) {
           <td>${rk2}</td>
           <td>—</td>
           <td>${fmtDate(rec.timestamp_ms)}</td>
+          <td class="col-report">${reportLink(rec.report_code, rec.fight_id)}</td>
         </tr>`);
     }
   }

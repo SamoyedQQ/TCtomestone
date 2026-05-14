@@ -178,6 +178,10 @@ main {
 
 /* Job filter buttons — color driven by CSS custom property --jc set in JS */
 .filter-btn.job-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  white-space: nowrap;
   color: var(--jc);
   border-color: transparent;
   background: transparent;
@@ -302,14 +306,25 @@ main {
 .rank-3 { background: var(--rank3); color: #fff; }
 .rank-n { color: var(--text-muted); font-size: 0.85rem; }
 
+/* ── Job Icons ── */
+.job-icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
 /* ── Job Chip (per-job colors from PartyFinderWindow.cs) ── */
 .job-chip {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
   padding: 0.15rem 0.55rem;
   border-radius: 4px;
   font-size: 0.78rem;
   font-weight: 600;
   letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 /* Tanks */
@@ -366,6 +381,10 @@ main {
 .team-player-link:hover { background: rgba(59,130,246,0.15); border-color: var(--accent); }
 .team-player {
   position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  white-space: nowrap;
   font-size: 0.78rem;
   color: var(--jc, var(--text-muted));
   background: var(--bg-elevated);
@@ -580,6 +599,20 @@ main {
 
 .player-profile-table th:nth-child(7),
 .player-profile-table td:nth-child(7) { width: 110px; }
+
+/* ── Report Link ── */
+.col-report { width: 4.5rem; text-align: center; white-space: nowrap; }
+.report-link {
+  display: inline-block;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.72rem;
+  line-height: 1;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+.report-link:hover { opacity: 1; text-decoration: underline; }
+.col-report-na { color: var(--text-muted); }
 
 /* ── Footer ── */
 footer {
