@@ -19302,5 +19302,61 @@
       "小伊果@巴哈姆特": "Sage",
       "水無月夢@巴哈姆特": "DarkKnight"
     }
+  },
+  {
+    "code": "F9cQJW7XDtafThCv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "許小嘉@利維坦",
+      "雲切@利維坦",
+      "灰天@利維坦",
+      "黎雪嵐@迦樓羅",
+      "米迦@利維坦",
+      "黎宮紗曉@迦樓羅",
+      "冰柏@伊弗利特",
+      "Azyio@利維坦"
+    ],
+    "fight_id": 23,
+    "duration_ms": 898168,
+    "clear_dt_ms": 1778764340963,
+    "jobs": {
+      "許小嘉@利維坦": "RedMage",
+      "雲切@利維坦": "Astrologian",
+      "灰天@利維坦": "Pictomancer",
+      "黎雪嵐@迦樓羅": "Dragoon",
+      "米迦@利維坦": "Warrior",
+      "黎宮紗曉@迦樓羅": "Dancer",
+      "冰柏@伊弗利特": "Scholar",
+      "Azyio@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "k1QAbc87BrdRWnjT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "不要吵@利維坦",
+      "吉備團子@巴哈姆特",
+      "Nacho@鳳凰",
+      "豪@鳳凰",
+      "Enidnu@奧汀",
+      "吸貓貓@迦樓羅",
+      "阿萬音鈴羽@利維坦",
+      "一龍@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 980033,
+    "clear_dt_ms": 1778764478973,
+    "jobs": {
+      "不要吵@利維坦": "Machinist",
+      "吉備團子@巴哈姆特": "Astrologian",
+      "Nacho@鳳凰": "BlackMage",
+      "豪@鳳凰": "Sage",
+      "Enidnu@奧汀": "RedMage",
+      "吸貓貓@迦樓羅": "Paladin",
+      "阿萬音鈴羽@利維坦": "Warrior",
+      "一龍@迦樓羅": "Monk"
+    }
   }
 ]
