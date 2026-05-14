@@ -276,13 +276,21 @@ main {
 .data-table tbody tr.lb-row { cursor: pointer; }
 .data-table tbody tr.lb-row:hover { background: rgba(59,130,246,0.12); }
 
+#rdps-table { table-layout: fixed; }
 #rdps-table.single-job .col-job { display: none; }
 
+/* rdps-table 各欄百分比寬度（合計 100%），確保平均分配 */
+#rdps-table thead th.col-rank   { width: 5%; }
+#rdps-table thead th.col-player { width: 22%; }
+#rdps-table thead th.col-server { width: 11%; }
+#rdps-table thead th.col-job    { width: 11%; }
+#rdps-table thead th.col-lnum   { width: 14%; }
+#rdps-table thead th.col-date   { width: 16%; }
+#rdps-table thead th.col-report { width: 7%; }
+
 .col-rank   { width: 4rem; }
-.col-player { min-width: 240px; }
+.col-player { min-width: 0; }
 .col-server { width: 110px; }
-.data-table th.col-server,
-.data-table td.col-server { text-align: center; padding-left: 0.2rem; padding-right: 2.25rem; }
 .col-job    { width: 116px; }
 .col-num    { width: 132px; font-variant-numeric: tabular-nums; }
 .col-lnum   { width: 132px; font-variant-numeric: tabular-nums; }
