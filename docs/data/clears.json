@@ -20422,5 +20422,33 @@
       "流浪南瓜@利維坦": "Monk",
       "黑森林裡有鬼@鳳凰": "WhiteMage"
     }
+  },
+  {
+    "code": "R6cVxfn7mN1r9Zyj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "未來歌姬@迦樓羅",
+      "卡卡的我@奧汀",
+      "歐買尬@巴哈姆特",
+      "金金喵@伊弗利特",
+      "聖月@利維坦",
+      "劉雅慈@伊弗利特",
+      "赫龍@迦樓羅",
+      "Cygnus@奧汀"
+    ],
+    "fight_id": 59,
+    "duration_ms": 983363,
+    "clear_dt_ms": 1778773161629,
+    "jobs": {
+      "未來歌姬@迦樓羅": "Monk",
+      "卡卡的我@奧汀": "Dragoon",
+      "歐買尬@巴哈姆特": "BlackMage",
+      "金金喵@伊弗利特": "Dancer",
+      "聖月@利維坦": "Astrologian",
+      "劉雅慈@伊弗利特": "Warrior",
+      "赫龍@迦樓羅": "Sage",
+      "Cygnus@奧汀": "Paladin"
+    }
   }
 ]
