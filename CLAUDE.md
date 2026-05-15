@@ -44,20 +44,25 @@
 
 ### rDPS 計算（重要）
 
-TOP（1077）P6 上天 ≈ 274s downtime，必須從時間分母扣除：
+**時間分母優先使用 `rankings.duration`**（FFLogs 網頁同源），無法取得時 fallback：
 
-| 欄位 | 含義 |
-|------|------|
-| `totalTime` / `combatTime` | raw 戰鬥時長（ms），**未**扣 downtime（兩者相等，combatTime 無用） |
-| `damageDowntime` | 無輸出 downtime（ms）；TOP ≈ 274,000 |
-| `entries[].totalRDPS` | 玩家總 rDPS 傷害量（非 per-second） |
+| 來源 | 欄位 | 含義 |
+|------|------|------|
+| `FIGHTS_QUERY` → `rankings` | `data[].duration` | **首選分母**（ms）；FFLogs 網頁顯示 rDPS 所用的實際輸出時長，比 endTime-startTime 約短 1s |
+| `DETAIL_QUERY` → `table` | `totalTime` / `combatTime` | raw 戰鬥時長（ms），**未**扣 downtime（兩者相等，combatTime 無用） |
+| `DETAIL_QUERY` → `table` | `damageDowntime` | 無輸出 downtime（ms）；TOP ≈ 274,000 |
+| `DETAIL_QUERY` → `table` | `entries[].totalRDPS` | 玩家總 rDPS 傷害量（非 per-second） |
 
 ```python
-effective_ms = total_time_ms - damage_downtime_ms   # TOP 實測 860s，+32%
+# rankings.duration 已由 FFLogs 內部處理 downtime，直接使用
+if fight_id in rankings_duration:
+    effective_ms = rankings_duration[fight_id]        # 首選：與網頁完全一致
+else:
+    effective_ms = total_time_ms - damage_downtime_ms  # fallback：TOP 實測 860s，+32%
 rdps = entry["totalRDPS"] / (effective_ms / 1000)
 ```
 
-其他副本 `damageDowntime=0` 時退化為原始計算。
+`rankings` 欄位已加入 `FIGHTS_QUERY`（+1pt），由 `_parse_rankings_duration()` 解析為 `{fight_id: ms}`。
 
 ### 去重機制（四層）
 1. `seen_keys`（`{code}:{fight_id}`）：本 session 已存通關，防重複寫入
@@ -104,7 +109,15 @@ Key：通關 `name@server:encounter_id:job`；團滅 `name@server:encounter_id:_
 
 ## 6. 手動補抓流程
 
-在 `config/fflogs.json` 設定後執行爬蟲，完成後**務必清空**對應欄位：
+**`ManualBackfill.py`**：直接指定 report code + fight_id 補抓，自動讀 `.env` 憑證，只更新 `player_bests.json`（取最佳），不動 `clears.json` / `processed_codes.json`。
+
+```bash
+python ManualBackfill.py                      # 用腳本內 TARGETS
+python ManualBackfill.py <code> <fight_id>    # 單筆
+python ManualBackfill.py <code>               # 整份 report 所有通關
+```
+
+**`config/fflogs.json`** 設定後執行爬蟲，完成後**務必清空**對應欄位：
 
 | 模式 | 行為 |
 |------|------|
@@ -154,7 +167,11 @@ Key：通關 `name@server:encounter_id:job`；團滅 `name@server:encounter_id:_
 前端 `detectPhase(eid, encounterName)` 依 fight name 字串偵測（舊格式 fallback）。  
 UCoB P5（Golden Bahamut）無法用 NPC gameID 辨識，改用 `fightPercentage < 80` 判定。詳見 `ucob.md`。
 
-### B. Wipe 排行最佳成績規則
+### B. rDPS 分母來源（rankings.duration vs totalTime）
+FFLogs 網頁顯示的 rDPS 使用 `rankings.duration` 作為時間分母，比 `endTime - startTime` 約短 1 秒（精確實測值），導致我們若用 `totalTime` 算出來的 rDPS 系統性偏低（約 +7 rDPS / 1094s fight 的量級）。  
+現行做法：`FIGHTS_QUERY` 加入 `rankings` 欄位（+1pt），`_parse_rankings_duration()` 解析後傳入 `_process_kill_bests()`。`rankings.duration` 不存在時（如私密報告）fallback 至 `totalTime - damageDowntime`。
+
+### C. Wipe 排行最佳成績規則
 - 已通關 > 未通關（有 clear 的 job 覆蓋 wipe）
 - 通關中：`rdps` 越高越好
 - 團滅中：`boss_hp_pct` 越低越好（fightPercentage，lower = further）
