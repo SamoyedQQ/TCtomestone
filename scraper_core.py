@@ -79,6 +79,7 @@ query ($code: String) {
       title
       startTime
       masterData { actors(type: "Player") { id name server subType } }
+      rankings
       fights {
         id encounterID name kill startTime endTime friendlyPlayers fightPercentage
         enemyNPCs { gameID }
@@ -516,6 +517,7 @@ class Scraper:
             by_id      = {a["id"]: a for a in rep["masterData"]["actors"]}
             ult_fights = [f for f in rep["fights"]
                           if f.get("encounterID") in self._encounter_ids]
+            rankings_duration = _parse_rankings_duration(rep.get("rankings"))
 
             # 處理通關場次的玩家最佳紀錄
             kill_job_maps: dict = {}
@@ -530,7 +532,8 @@ class Scraper:
 
                 time.sleep(self._fight_delay)
                 pts_now_raw, _, job_map = self._process_kill_bests(
-                    report_obj, fight, tc_in, bests, pts_start or 0
+                    report_obj, fight, tc_in, bests, pts_start or 0,
+                    rankings_duration=rankings_duration,
                 )
                 kill_job_maps[fight["id"]] = job_map
                 if pts_now_raw is not None:
@@ -769,6 +772,8 @@ class Scraper:
                     # 只取絕境戰的場次（過濾掉 Extreme/Savage 等）
                     ult_fights = [f for f in rep["fights"]
                                   if f.get("encounterID") in self._encounter_ids]
+                    # rankings.duration：FFLogs 網頁使用的時間分母（fight_id → ms）
+                    rankings_duration = _parse_rankings_duration(rep.get("rankings"))
 
                     # 處理通關場次：每場各呼叫一次 DETAIL_QUERY 取 rDPS
                     kill_job_maps: dict = {}   # fight_id → {"玩家名@伺服器": "職業"}
@@ -782,7 +787,8 @@ class Scraper:
                             continue
 
                         pts_now, _, job_map = self._process_kill_bests(
-                            report, fight, tc_in, bests, pts_start or 0
+                            report, fight, tc_in, bests, pts_start or 0,
+                            rankings_duration=rankings_duration,
                         )
                         kill_job_maps[fight["id"]] = job_map
                         if pts_now is not None:
@@ -880,13 +886,12 @@ class Scraper:
 
     # ── 玩家最佳紀錄 helper ───────────────────────────────────────────────────
 
-    def _process_kill_bests(self, report, fight, tc_actors, bests, pts_start_ref):
+    def _process_kill_bests(self, report, fight, tc_actors, bests, pts_start_ref,
+                            rankings_duration: Optional[dict] = None):
         """呼叫 DETAIL_QUERY 取得單場通關的 rDPS，更新各玩家最佳紀錄。
 
-        rDPS 計算方式（關鍵）：
-          FFLogs 排名使用 totalTime - damageDowntime 作為有效戰鬥時間
-          combatTime 數值等同 totalTime（未扣 downtime），不能直接使用
-          TOP Phase 6（上天）有 ~274 秒 damageDowntime，影響 rDPS 約 +32%
+        rDPS 時間分母優先使用 rankings_duration（FFLogs 網頁同源），
+        不存在時退回 totalTime - damageDowntime。
 
         回傳：(pts_now_raw, did_update, job_map)
         """
@@ -901,10 +906,14 @@ class Scraper:
 
         table_data = ddata["reportData"]["report"]["table"]["data"]
 
-        # 計算有效戰鬥時間（扣除 damageDowntime）
-        total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
-        damage_downtime_ms = table_data.get("damageDowntime") or 0
-        effective_ms       = total_time_ms - damage_downtime_ms
+        # 時間分母：rankings.duration 與 FFLogs 網頁完全一致；
+        # 無法取得時退回 totalTime - damageDowntime（TOP downtime 仍可正確處理）
+        if rankings_duration is not None and fight["id"] in rankings_duration:
+            effective_ms = rankings_duration[fight["id"]]
+        else:
+            total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
+            damage_downtime_ms = table_data.get("damageDowntime") or 0
+            effective_ms       = total_time_ms - damage_downtime_ms
         fight_s = effective_ms / 1000 if effective_ms > 0 else \
                   (fight["endTime"] - fight["startTime"]) / 1000
 
@@ -1073,6 +1082,22 @@ class Scraper:
 
 
 # ── 模組級 helper 函式 ────────────────────────────────────────────────────────
+
+def _parse_rankings_duration(rankings_raw) -> dict:
+    """從 FIGHTS_QUERY 的 rankings 欄位解析出 {fight_id: duration_ms}。
+
+    rankings 是 FFLogs 回傳的 JSON blob（dict 或字串），
+    duration 是 FFLogs 網頁顯示 rDPS 所用的時間分母，比 endTime-startTime 略短。
+    解析失敗時回傳空 dict，呼叫端會 fallback 至 totalTime-damageDowntime。
+    """
+    if not rankings_raw:
+        return {}
+    try:
+        raw = rankings_raw if isinstance(rankings_raw, dict) else json.loads(rankings_raw)
+        return {f["fightID"]: f["duration"] for f in raw.get("data", []) if "duration" in f}
+    except Exception:
+        return {}
+
 
 def _is_tc(actors: list, servers: Optional[set] = None) -> bool:
     """判斷此 report 是否包含繁中服玩家（至少一名）。

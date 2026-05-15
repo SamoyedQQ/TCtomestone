@@ -63,6 +63,7 @@ query ($code: String) {
       title
       startTime
       masterData { actors(type: "Player") { id name server subType } }
+      rankings
       fights {
         id encounterID name kill startTime endTime friendlyPlayers fightPercentage
       }
@@ -118,6 +119,18 @@ def gql(token: str, query: str, variables: dict) -> dict:
     raise RuntimeError("重試 5 次仍失敗")
 
 
+# ── Rankings duration 解析（與 scraper_core._parse_rankings_duration 相同）────
+
+def _parse_rankings_duration(rankings_raw) -> dict:
+    if not rankings_raw:
+        return {}
+    try:
+        raw = rankings_raw if isinstance(rankings_raw, dict) else json.loads(rankings_raw)
+        return {f["fightID"]: f["duration"] for f in raw.get("data", []) if "duration" in f}
+    except Exception:
+        return {}
+
+
 # ── UCoB 通關判定（與 scraper_core._is_kill 相同）────────────────────────────
 
 def _is_kill(fight: dict) -> bool:
@@ -144,6 +157,7 @@ def patch_report(token: str, code: str, target_fight_ids: list[int] | None,
 
     report_start = rep["startTime"]
     by_id = {a["id"]: a for a in rep["masterData"]["actors"]}
+    rankings_duration = _parse_rankings_duration(rep.get("rankings"))
 
     # 篩選目標場次（通關 + 絕境戰 + 指定 fight_id）
     ult_fights = [f for f in rep["fights"] if f.get("encounterID") in ULTIMATE_IDS]
@@ -175,14 +189,19 @@ def patch_report(token: str, code: str, target_fight_ids: list[int] | None,
         ddata = gql(token, DETAIL_QUERY, {"code": code, "fightIDs": [fid]})
 
         table_data = ddata["reportData"]["report"]["table"]["data"]
-        total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
-        damage_downtime_ms = table_data.get("damageDowntime") or 0
-        effective_ms       = total_time_ms - damage_downtime_ms
+        if fid in rankings_duration:
+            effective_ms = rankings_duration[fid]
+            src = "rankings.duration"
+        else:
+            total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
+            damage_downtime_ms = table_data.get("damageDowntime") or 0
+            effective_ms       = total_time_ms - damage_downtime_ms
+            src = "totalTime-downtime"
         fight_s = effective_ms / 1000 if effective_ms > 0 else (fight["endTime"] - fight["startTime"]) / 1000
 
         table_by_name = {e.get("name", ""): e for e in table_data["entries"]}
         pts_used = ddata["rateLimitData"]["pointsSpentThisHour"]
-        print(f"     有效時長: {fight_s:.1f}s（扣除 downtime {damage_downtime_ms/1000:.0f}s）  [已用 {pts_used}pt]")
+        print(f"     有效時長: {fight_s:.3f}s（{src}）  [已用 {pts_used}pt]")
 
         for p in tc_actors:
             name   = p["name"]
