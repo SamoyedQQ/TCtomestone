@@ -184,6 +184,19 @@ UCoB P5（Golden Bahamut）無法用 NPC gameID 辨識，改用 `fightPercentage
 FFLogs 網頁顯示的 rDPS 使用 `rankings.duration` 作為時間分母，比 `endTime - startTime` 約短 1 秒（精確實測值），導致我們若用 `totalTime` 算出來的 rDPS 系統性偏低（約 +7 rDPS / 1094s fight 的量級）。  
 現行做法：`FIGHTS_QUERY` 加入 `rankings` 欄位（+1pt），`_parse_rankings_duration()` 解析後傳入 `_process_kill_bests()`。`rankings.duration` 不存在時（如私密報告）fallback 至 `totalTime - damageDowntime`。
 
+**Zone 62 內嵌絕境戰的已知問題（2026-05 發現）：**  
+FFLogs 的 `report.rankings` 對於 Savage zone（zone 62）報告中嵌入的絕境戰場次，**不回傳 `duration`**；且 `DETAIL_QUERY` 對這類非主 zone 場次也**不回傳 `damageDowntime`**（或回傳 0）。  
+若兩者都缺失，fallback 會以全程時長（~1133s）為分母，造成 TOP rDPS 嚴重偏低（例如本應 ~6557 算成 ~4970），導致 `update_if_better` 誤判不更新。  
+
+修復：`_ENCOUNTER_DOWNTIME_ESTIMATE`（模組常數）提供各副本的已知 downtime 估算值。當 `damageDowntime = 0` 時自動補入，使分母接近正確有效時長：
+```python
+_ENCOUNTER_DOWNTIME_ESTIMATE = {
+    1077: 274_000,  # TOP：實測 ≈ 274s
+}
+```
+**Log 識別**：正常 fallback 顯示 `[rDPS分母] fallback`；有估算補足顯示 `[rDPS分母] enc=1077: damageDowntime=0，使用估算值 274s`；完全沒資料時顯示 `[⚠ rDPS]` 警告。  
+新增 Savage zone 時若遇到相同問題，需實測 downtime 後加入此常數。
+
 ### D. 多 zone 掃描（Savage 報告混入絕境戰場次）
 FFLogs 的 `reports(zoneID: X)` 依報告主 zone 分類，不看報告內的個別場次 zone。當玩家在同一上傳 session 中混打了 Savage 與絕境戰，報告被歸在 Savage zone，`zoneID: 59` 查不到。  
 
@@ -196,3 +209,14 @@ FFLogs 的 `reports(zoneID: X)` 依報告主 zone 分類，不看報告內的個
 - 已通關 > 未通關（有 clear 的 job 覆蓋 wipe）
 - 通關中：`rdps` 越高越好
 - 團滅中：`boss_hp_pct` 越低越好（fightPercentage，lower = further）
+
+### E. clears.json 有紀錄但 player_bests.json 缺失的診斷
+`clears.json` 以 `friendlyPlayers`（actor 列表）寫入；`player_bests.json` 需玩家出現在 `DETAIL_QUERY` 的 DamageDone table 才會更新。兩者來源不同，可能出現 clears 有但 player_bests 無的情況：
+
+| 原因 | 症狀 | 處理方式 |
+|------|------|---------|
+| 玩家不在 DamageDone table（Log: `[跳過] 不在 DamageDone table`） | clears 的 jobs 欄位顯示 Unknown | 確認 FFLogs 報告是否有該玩家傷害資料 |
+| bests.save() 寫入失敗（CI crash / IO error） | clears 有、player_bests 完全缺失 | 加入 `only_report_codes` 重新處理 |
+| git rebase 覆蓋 player_bests.json | 多名玩家同時消失 | 加入 `only_report_codes` 重新處理受影響報告 |
+
+**注意**：若 clears 的 jobs 欄位顯示正確職業（非 Unknown），代表玩家 WAS 在 DamageDone table，是寫入問題而非資料問題，加入 `only_report_codes` 重新跑即可修復。

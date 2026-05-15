@@ -45,6 +45,14 @@ _ENCOUNTER_NAMES: dict[int, str] = {
     1077: "絕歐米茄",
 }
 
+# 各絕境戰的已知 damageDowntime 估算值（ms）
+# 用於 zone 62（Savage）報告中嵌入的絕境戰場次：DETAIL_QUERY 在非主 zone context
+# 下可能不回傳 damageDowntime，導致 fallback 使用全程時長為分母，rDPS 嚴重偏低。
+# 當 damageDowntime = 0 時，用此估算值補足，使 rDPS 接近 FFLogs 網頁顯示值。
+_ENCOUNTER_DOWNTIME_ESTIMATE: dict[int, int] = {
+    1077: 274_000,   # TOP：實測 ≈ 274s（phase 轉換 + 過場無法輸出時段）
+}
+
 POINT_LIMIT = 3400   # 每次執行最多消耗點數（FFLogs 上限 3600/hr，預留緩衝）
 PAGE_DELAY  = 2      # 每頁 SCAN_QUERY 之間等待秒數（避免頻率過高）
 FIGHT_DELAY = 1      # 每份 report 的 FIGHTS_QUERY 之間等待秒數
@@ -960,7 +968,31 @@ class Scraper:
         else:
             total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
             damage_downtime_ms = table_data.get("damageDowntime") or 0
-            effective_ms       = total_time_ms - damage_downtime_ms
+            # damageDowntime=0 時：DETAIL_QUERY 對非主 zone 場次（如 zone 62 嵌入的絕境戰）
+            # 可能不回傳此欄位。使用已知估算值補足，避免 rDPS 以全程時長為分母而嚴重偏低。
+            if damage_downtime_ms == 0:
+                enc_id    = fight.get("encounterID")
+                estimated = _ENCOUNTER_DOWNTIME_ESTIMATE.get(enc_id, 0)
+                if estimated:
+                    damage_downtime_ms = estimated
+                    self.on_log(
+                        f"    [rDPS分母] enc={enc_id}: damageDowntime=0，"
+                        f"使用估算值 {estimated/1000:.0f}s"
+                    )
+            effective_ms = total_time_ms - damage_downtime_ms
+            raw_ms       = fight["endTime"] - fight["startTime"]
+            if damage_downtime_ms == 0 and effective_ms > raw_ms * 0.9:
+                self.on_log(
+                    f"    [⚠ rDPS] fight#{fight['id']} enc={fight.get('encounterID')}: "
+                    f"rankings無資料且damageDowntime=0（無估算值）→ 分母={effective_ms/1000:.0f}s"
+                    f"（≈原始時長），rDPS 恐嚴重偏低"
+                )
+            else:
+                self.on_log(
+                    f"    [rDPS分母] fallback: "
+                    f"{total_time_ms/1000:.0f}s - {damage_downtime_ms/1000:.0f}s"
+                    f" = {effective_ms/1000:.0f}s"
+                )
         fight_s = effective_ms / 1000 if effective_ms > 0 else \
                   (fight["endTime"] - fight["startTime"]) / 1000
 
@@ -978,7 +1010,8 @@ class Scraper:
             server = p.get("server", "")
             tbl    = table_by_name.get(name)
             if not tbl:
-                continue  # 此玩家在 DamageDone table 中找不到（可能是非輸出職業）
+                self.on_log(f"    [跳過] {name}@{server} 不在 DamageDone table（輔助職或資料缺失）")
+                continue
 
             # 將總傷害量除以有效時間轉為 per-second 數值
             rdps      = tbl.get("totalRDPS", 0.0) / fight_s
