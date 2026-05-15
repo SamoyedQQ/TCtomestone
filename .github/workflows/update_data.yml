@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/
+          git add docs/data/ config/fflogs.json
           if ! git diff --cached --quiet; then
             echo "{\"updated_at\":\"$(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M')\"}" > docs/data/meta.json
             git add docs/data/meta.json

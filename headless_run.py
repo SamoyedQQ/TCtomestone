@@ -365,6 +365,26 @@ def main():
     _write_split_data(DATA_DIR)
     print("分割完成。", flush=True)
 
+    # 8e. 清空 config/fflogs.json 中的一次性欄位（避免下次執行重複處理）
+    if retry_codes or only_codes:
+        _clear_manual_codes(FFLOGS_CFG_PATH)
+
+
+def _clear_manual_codes(cfg_path: Path) -> None:
+    """執行完畢後將 config/fflogs.json 的 retry/only_report_codes 清空為 []。"""
+    try:
+        cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
+        changed = False
+        for key in ("retry_report_codes", "only_report_codes"):
+            if cfg.get(key):
+                cfg[key] = []
+                changed = True
+        if changed:
+            cfg_path.write_text(json.dumps(cfg, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"[設定] retry/only_report_codes 已清空", flush=True)
+    except Exception as e:
+        print(f"[警告] 無法清空 manual codes：{e}", flush=True)
+
 
 def _detect_encounter_id(encounter_name: str):
     """
