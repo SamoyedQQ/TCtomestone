@@ -21542,5 +21542,145 @@
       "寶寶ovo@伊弗利特": "WhiteMage",
       "櫻乂冰@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "nMpzT8dKgA3bjaqX",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "夏日@利維坦",
+      "阿丸@奧汀",
+      "Atri@奧汀",
+      "電子幽靈@奧汀",
+      "Ciel@迦樓羅",
+      "黑獸母雞魁首@奧汀",
+      "Skull@奧汀",
+      "白雪公主@利維坦"
+    ],
+    "fight_id": 22,
+    "duration_ms": 984431,
+    "clear_dt_ms": 1775322787177,
+    "jobs": {
+      "夏日@利維坦": "Dancer",
+      "阿丸@奧汀": "WhiteMage",
+      "Atri@奧汀": "Paladin",
+      "電子幽靈@奧汀": "Dragoon",
+      "Ciel@迦樓羅": "Sage",
+      "黑獸母雞魁首@奧汀": "Gunbreaker",
+      "Skull@奧汀": "Monk",
+      "白雪公主@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "8PX3AH6dLjBgRTKb",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "刻耳柏洛斯@鳳凰",
+      "一杯熱牛奶@利維坦",
+      "Kapa@伊弗利特",
+      "Hiki@伊弗利特",
+      "厄耳特洛斯@鳳凰",
+      "真是一段佳話@利維坦",
+      "Talent@利維坦",
+      "伊卡@伊弗利特"
+    ],
+    "fight_id": 297,
+    "duration_ms": 988113,
+    "clear_dt_ms": 1776450499545,
+    "jobs": {
+      "刻耳柏洛斯@鳳凰": "Dragoon",
+      "一杯熱牛奶@利維坦": "Monk",
+      "Kapa@伊弗利特": "Scholar",
+      "Hiki@伊弗利特": "BlackMage",
+      "厄耳特洛斯@鳳凰": "Astrologian",
+      "真是一段佳話@利維坦": "Warrior",
+      "Talent@利維坦": "Paladin",
+      "伊卡@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "JwqafZtc3nQdDrjG",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "舞川奈富子@奧汀",
+      "Skull@奧汀",
+      "龍蝦小兵@鳳凰",
+      "所以怎麼了嗎@巴哈姆特",
+      "Ciel@迦樓羅",
+      "Kfc炸薯條@奧汀",
+      "Iehtan@奧汀",
+      "電子幽靈@奧汀"
+    ],
+    "fight_id": 72,
+    "duration_ms": 986027,
+    "clear_dt_ms": 1776401344623,
+    "jobs": {
+      "舞川奈富子@奧汀": "Machinist",
+      "Skull@奧汀": "Ninja",
+      "龍蝦小兵@鳳凰": "Paladin",
+      "所以怎麼了嗎@巴哈姆特": "DarkKnight",
+      "Ciel@迦樓羅": "Sage",
+      "Kfc炸薯條@奧汀": "Pictomancer",
+      "Iehtan@奧汀": "WhiteMage",
+      "電子幽靈@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "c3H9WjNByTLrX471",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Liee@奧汀",
+      "星痕丶太陽貓@巴哈姆特",
+      "芙·妮瓦莎@迦樓羅",
+      "我愛木須龍拉@利維坦",
+      "闊刀地雷@伊弗利特",
+      "Arasxi@奧汀",
+      "真塔瑪德劍@巴哈姆特",
+      "沙龍怕鼠@巴哈姆特"
+    ],
+    "fight_id": 46,
+    "duration_ms": 852537,
+    "clear_dt_ms": 1776361368608,
+    "jobs": {
+      "Liee@奧汀": "Sage",
+      "星痕丶太陽貓@巴哈姆特": "Reaper",
+      "芙·妮瓦莎@迦樓羅": "Paladin",
+      "我愛木須龍拉@利維坦": "Astrologian",
+      "闊刀地雷@伊弗利特": "Summoner",
+      "Arasxi@奧汀": "Monk",
+      "真塔瑪德劍@巴哈姆特": "Bard",
+      "沙龍怕鼠@巴哈姆特": "Warrior"
+    }
+  },
+  {
+    "code": "c3H9WjNByTLrX471",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "芙·妮瓦莎@迦樓羅",
+      "Ringo@巴哈姆特",
+      "兔田佩克啦@迦樓羅",
+      "黑皮是隻貓@鳳凰",
+      "琅晞@利維坦",
+      "安全島@奧汀",
+      "鮭魚明太子@迦樓羅",
+      "唐吉訶德@伊弗利特"
+    ],
+    "fight_id": 48,
+    "duration_ms": 866798,
+    "clear_dt_ms": 1776362844103,
+    "jobs": {
+      "芙·妮瓦莎@迦樓羅": "Paladin",
+      "Ringo@巴哈姆特": "Astrologian",
+      "兔田佩克啦@迦樓羅": "Warrior",
+      "黑皮是隻貓@鳳凰": "Dragoon",
+      "琅晞@利維坦": "Summoner",
+      "安全島@奧汀": "Dancer",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "唐吉訶德@伊弗利特": "Monk"
+    }
   }
 ]
