@@ -21402,5 +21402,145 @@
       "偷米@奧汀": "Dancer",
       "影千代@迦樓羅": "Ninja"
     }
+  },
+  {
+    "code": "MNt4pnTkR7AVX6fD",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "木寸民@利維坦",
+      "Seira@利維坦",
+      "人帥何須名跩@奧汀",
+      "蒔@利維坦",
+      "Maruta@奧汀",
+      "此岸魔女@伊弗利特",
+      "Arasxi@奧汀",
+      "青菜老大@利維坦"
+    ],
+    "fight_id": 52,
+    "duration_ms": 967182,
+    "clear_dt_ms": 1778872505497,
+    "jobs": {
+      "木寸民@利維坦": "Dancer",
+      "Seira@利維坦": "Pictomancer",
+      "人帥何須名跩@奧汀": "Gunbreaker",
+      "蒔@利維坦": "DarkKnight",
+      "Maruta@奧汀": "Monk",
+      "此岸魔女@伊弗利特": "Sage",
+      "Arasxi@奧汀": "Samurai",
+      "青菜老大@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "4HjB7fwaZdyncvKz",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "譚仔三哥@利維坦",
+      "柒伍@迦樓羅",
+      "琴葉千草@迦樓羅",
+      "Nekota@鳳凰",
+      "花一匁@伊弗利特",
+      "Jiaozi@伊弗利特",
+      "魔法u柯比u@伊弗利特",
+      "Kami@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1133272,
+    "clear_dt_ms": 1778853542666,
+    "jobs": {
+      "譚仔三哥@利維坦": "Astrologian",
+      "柒伍@迦樓羅": "Viper",
+      "琴葉千草@迦樓羅": "BlackMage",
+      "Nekota@鳳凰": "Paladin",
+      "花一匁@伊弗利特": "Ninja",
+      "Jiaozi@伊弗利特": "Scholar",
+      "魔法u柯比u@伊弗利特": "DarkKnight",
+      "Kami@伊弗利特": "Machinist"
+    }
+  },
+  {
+    "code": "6qJdTzfPtQMgG23w",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "叉燒蘋果派@巴哈姆特",
+      "Koltay@鳳凰",
+      "Tora@巴哈姆特",
+      "社會底層@鳳凰",
+      "Juno@鳳凰",
+      "龍蓮夜華@巴哈姆特",
+      "寶寶ovo@伊弗利特",
+      "櫻乂冰@伊弗利特"
+    ],
+    "fight_id": 217,
+    "duration_ms": 954999,
+    "clear_dt_ms": 1777659820666,
+    "jobs": {
+      "叉燒蘋果派@巴哈姆特": "Dragoon",
+      "Koltay@鳳凰": "Dancer",
+      "Tora@巴哈姆特": "Samurai",
+      "社會底層@鳳凰": "Pictomancer",
+      "Juno@鳳凰": "DarkKnight",
+      "龍蓮夜華@巴哈姆特": "Sage",
+      "寶寶ovo@伊弗利特": "WhiteMage",
+      "櫻乂冰@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "6qJdTzfPtQMgG23w",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路易斯卡爾@鳳凰",
+      "Koltay@鳳凰",
+      "Tora@巴哈姆特",
+      "社會底層@鳳凰",
+      "Juno@鳳凰",
+      "龍蓮夜華@巴哈姆特",
+      "櫻乂冰@伊弗利特",
+      "寶寶ovo@伊弗利特"
+    ],
+    "fight_id": 265,
+    "duration_ms": 966825,
+    "clear_dt_ms": 1777736303279,
+    "jobs": {
+      "路易斯卡爾@鳳凰": "BlackMage",
+      "Koltay@鳳凰": "Dancer",
+      "Tora@巴哈姆特": "Samurai",
+      "社會底層@鳳凰": "Pictomancer",
+      "Juno@鳳凰": "DarkKnight",
+      "龍蓮夜華@巴哈姆特": "Sage",
+      "櫻乂冰@伊弗利特": "Paladin",
+      "寶寶ovo@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "6qJdTzfPtQMgG23w",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路易斯卡爾@鳳凰",
+      "Koltay@鳳凰",
+      "Tora@巴哈姆特",
+      "社會底層@鳳凰",
+      "Juno@鳳凰",
+      "龍蓮夜華@巴哈姆特",
+      "寶寶ovo@伊弗利特",
+      "櫻乂冰@伊弗利特"
+    ],
+    "fight_id": 268,
+    "duration_ms": 945865,
+    "clear_dt_ms": 1777738637680,
+    "jobs": {
+      "路易斯卡爾@鳳凰": "BlackMage",
+      "Koltay@鳳凰": "Dancer",
+      "Tora@巴哈姆特": "Samurai",
+      "社會底層@鳳凰": "Pictomancer",
+      "Juno@鳳凰": "DarkKnight",
+      "龍蓮夜華@巴哈姆特": "Sage",
+      "寶寶ovo@伊弗利特": "WhiteMage",
+      "櫻乂冰@伊弗利特": "Paladin"
+    }
   }
 ]
