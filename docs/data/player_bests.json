@@ -13631,17 +13631,17 @@
     "encounter_id": 1075,
     "encounter": "living liquid / liquid hand / ... ",
     "is_clear": false,
-    "boss_hp_pct": 36.7,
+    "boss_hp_pct": 6.31,
     "rdps": 0.0,
     "adps": 0.0,
     "parse_pct": 0.0,
     "job": "Dragoon",
-    "char_id": 1000167,
-    "report_code": "QjYBAMq7yKLfNc1t",
+    "char_id": 1000091,
+    "report_code": "c8MbJnVdAxNf2pKG",
     "fight_id": 6,
-    "timestamp_ms": 1777211665145,
+    "timestamp_ms": 1778259208982,
     "duration_ms": 0,
-    "phase_reached": 3
+    "phase_reached": 4
   },
   "阿萬音鈴羽@利維坦:1075:Warrior": {
     "name": "阿萬音鈴羽",
