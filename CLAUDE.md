@@ -117,6 +117,14 @@ python ManualBackfill.py <code> <fight_id>    # 單筆
 python ManualBackfill.py <code>               # 整份 report 所有通關
 ```
 
+> **⚠️ 必做：補抓完畢後必須重新產生 leaderboard 分割檔案**，否則網站顯示的仍是舊值：
+>
+> ```python
+> python -c "from headless_run import _write_split_data; from pathlib import Path; _write_split_data(Path('docs/data'))"
+> ```
+>
+> `player_bests.json` 是真實來源；`leaderboard_{eid}.json` 是前端顯示用的快取，兩者必須同步。
+
 **`config/fflogs.json`** 設定後執行爬蟲，完成後**務必清空**對應欄位：
 
 | 模式 | 行為 |
