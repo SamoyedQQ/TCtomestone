@@ -20842,5 +20842,33 @@
       "滌火城鋒@奧汀": "Samurai",
       "安安的素描本@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "fBdhtx2LVXZPRQcq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "Baofis@迦樓羅",
+      "喵爺@迦樓羅",
+      "阿長@迦樓羅",
+      "巴巴@迦樓羅",
+      "小天o聖騎士@迦樓羅",
+      "周周周周@迦樓羅",
+      "沐時雨@迦樓羅",
+      "姒棲@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 880777,
+    "clear_dt_ms": 1778848415085,
+    "jobs": {
+      "Baofis@迦樓羅": "Summoner",
+      "喵爺@迦樓羅": "Monk",
+      "阿長@迦樓羅": "Scholar",
+      "巴巴@迦樓羅": "Warrior",
+      "小天o聖騎士@迦樓羅": "Paladin",
+      "周周周周@迦樓羅": "Dancer",
+      "沐時雨@迦樓羅": "Ninja",
+      "姒棲@迦樓羅": "WhiteMage"
+    }
   }
 ]
