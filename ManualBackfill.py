@@ -10,7 +10,7 @@
   python ManualBackfill.py <code>                # 補抓整份 report 所有通關場次
 
 行為說明：
-  - 強制覆蓋（繞過「只保留最佳」限制），因為是修正錯誤資料而非競爭
+  - 與正常爬蟲相同：通關取更高 rDPS，不覆蓋已有更佳紀錄
   - 只更新 player_bests.json；不修改 clears.json、processed_codes.json
   - 不推進掃描進度
 
@@ -199,8 +199,13 @@ def patch_report(token: str, code: str, target_fight_ids: list[int] | None,
 
             bkey = f"{name}@{server}:{enc_id}:{job}"
             old  = bests.get(bkey)
+            old_rdps = old.get("rdps", 0.0) if old else None
 
-            # 強制更新：修正 FFLogs 重算後的新值（不論高低）
+            # 與正常爬蟲相同：只有新值更高才更新
+            if old is not None and rdps <= old_rdps:
+                print(f"     - {name}@{server} [{job}]  rDPS: {old_rdps:.1f} >= {rdps:.1f}，略過")
+                continue
+
             bests[bkey] = {
                 "name": name, "server": server,
                 "encounter_id": enc_id,
@@ -214,8 +219,7 @@ def patch_report(token: str, code: str, target_fight_ids: list[int] | None,
                 "phase_reached": 0,
             }
 
-            old_rdps = old.get("rdps", 0.0) if old else None
-            delta    = f"{rdps - old_rdps:+.1f}" if old_rdps is not None else "新增"
+            delta = f"{rdps - old_rdps:+.1f}" if old_rdps is not None else "新增"
             print(f"     ★ {name}@{server} [{job}]  rDPS: {old_rdps:.1f} → {rdps:.1f}  ({delta})")
             total_updated += 1
 
