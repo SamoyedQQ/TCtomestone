@@ -78,6 +78,11 @@ FFLogs 不標記 UCoB 為 `kill=true`。判定條件：`fightPercentage == 80` +
 **現在 → 舊**，固定 14 天視窗（`scan_window_days`），每批最多 25 頁（`max_pages_per_batch`）。  
 Early-exit（方法二）：處理頁面**之前**先看首筆 TC → 若重複，probe 下一頁 → 下頁有新 TC 補掃本頁，無則跳過。
 
+**多 zone 掃描**：FFLogs `reports(zoneID: X)` 按報告主 zone 分類。若玩家在同一 session 先打 Savage 再打絕境戰並上傳同一份報告，該報告屬 Savage zone，`zoneID: 59` 查不到它。  
+解法：`config/fflogs.json` 的 `extra_scan_zones` 設定額外掃描的 zone（目前加 62 = AAC Light-Heavyweight）；`run()` 依序掃各 zone，共享 `processed_codes` 防重複；FIGHTS_QUERY 後以 `encounterID` 過濾，只處理絕境戰場次，DETAIL_QUERY 不額外增加。
+
+**log 標籤**：`[淺層 SCAN <zone名>]` = SCAN_QUERY 頁面摘要；`[深層 FIGHTS]` = FIGHTS_QUERY 取戰鬥列表（含副本摘要）；`[深層 DETAIL]` = DETAIL_QUERY 取傷害數據。
+
 ---
 
 ## 5. 資料 JSON 格式
@@ -178,6 +183,14 @@ UCoB P5（Golden Bahamut）無法用 NPC gameID 辨識，改用 `fightPercentage
 ### B. rDPS 分母來源（rankings.duration vs totalTime）
 FFLogs 網頁顯示的 rDPS 使用 `rankings.duration` 作為時間分母，比 `endTime - startTime` 約短 1 秒（精確實測值），導致我們若用 `totalTime` 算出來的 rDPS 系統性偏低（約 +7 rDPS / 1094s fight 的量級）。  
 現行做法：`FIGHTS_QUERY` 加入 `rankings` 欄位（+1pt），`_parse_rankings_duration()` 解析後傳入 `_process_kill_bests()`。`rankings.duration` 不存在時（如私密報告）fallback 至 `totalTime - damageDowntime`。
+
+### D. 多 zone 掃描（Savage 報告混入絕境戰場次）
+FFLogs 的 `reports(zoneID: X)` 依報告主 zone 分類，不看報告內的個別場次 zone。當玩家在同一上傳 session 中混打了 Savage 與絕境戰，報告被歸在 Savage zone，`zoneID: 59` 查不到。  
+
+實作：`SCAN_QUERY` 改為 `$zoneID` 變數；`Scraper._do_scan()` 接受 `zone_id`/`zone_name`/`pts_budget_used`；`run()` 對 `[59] + extra_scan_zones` 依序呼叫，共享 `seen_keys`、`seen_clear_sigs`、`processed_codes`，累計 `pts_budget_used` 確保不超過 `point_limit`。過濾仍在 `ult_fights = [f for f in fights if f["encounterID"] in encounter_ids]`，與主 zone 邏輯完全相同。  
+
+已知 zone ID：`59` = 絕境戰（固定）、`62` = AAC Light-Heavyweight（7.0 Savage）。新 Savage tier 上線時在 `extra_scan_zones` 加入新 zone。  
+**`encounterID` 不可作為 FFLogs reports 查詢的過濾條件**（API 回傳 Unknown argument 錯誤），只能用 `zoneID`。
 
 ### C. Wipe 排行最佳成績規則
 - 已通關 > 未通關（有 clear 的 job 覆蓋 wipe）

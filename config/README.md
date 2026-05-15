@@ -36,6 +36,11 @@
 | `scan_window_days` | 14 | 每個時間批次的視窗大小（天） |
 | `scan_start_date` | 2026-01-01 | 掃描終止時間點，比此日期更舊的報告不處理 |
 
+### 額外掃描 zone
+| 欄位 | 預設值 | 說明 |
+|------|--------|------|
+| `extra_scan_zone_ids` | `[]` | 除 zone 59（絕境戰）外，額外掃描的 FFLogs zoneID 清單。用於捕捉混入 Savage 報告裡的絕境戰場次（如 zone 62 = AAC Light-Heavyweight）。掃到的報告仍只提取 `encounter_ids` 中的場次，不影響現有過濾邏輯。 |
+
 ### 手動補抓
 
 處理完成後**務必清空**，避免排程重複補抓。

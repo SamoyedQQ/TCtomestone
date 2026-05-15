@@ -9,6 +9,10 @@
   "scan_window_days": 14,
   "scan_start_date": "2026-01-01",
 
+  "extra_scan_zones": [
+    {"id": 62, "name": "AAC Light-Heavyweight"}
+  ],
+
   "retry_report_codes": [],
   "only_report_codes": []
 }
