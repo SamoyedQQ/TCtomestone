@@ -22,20 +22,5 @@
     }
   ],
   "retry_report_codes": [],
-  "only_report_codes": [
-    "4HjB7fwaZdyncvKz",
-    "4qcXzL1PtRbVhCBY",
-    "6NTtzn2MAcbwmFyk",
-    "6qJdTzfPtQMgG23w",
-    "8PX3AH6dLjBgRTKb",
-    "ChykKA8MrBWYJpDX",
-    "JwqafZtc3nQdDrjG",
-    "MNt4pnTkR7AVX6fD",
-    "c3H9WjNByTLrX471",
-    "fHARCycG6YkgJ34q",
-    "nMpzT8dKgA3bjaqX",
-    "tgQnRKT3z9fF2kbq",
-    "xrFbPAtZVXHvpMnk",
-    "yTXdK37nmtJ4hpHg"
-  ]
+  "only_report_codes": []
 }
