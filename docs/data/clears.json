@@ -23530,5 +23530,89 @@
       "Wenwen@伊弗利特": "Astrologian",
       "小河狸@伊弗利特": "Dancer"
     }
+  },
+  {
+    "code": "jXDw3vdnBWCJfQA8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "音侍@伊弗利特",
+      "段藏@利維坦",
+      "校長四七@利維坦",
+      "金龍姐姐@利維坦",
+      "Nemo捏摸@利維坦",
+      "Ryou@利維坦",
+      "夢璃@利維坦",
+      "Kaede@利維坦"
+    ],
+    "fight_id": 111,
+    "duration_ms": 883926,
+    "clear_dt_ms": 1778961203909,
+    "jobs": {
+      "音侍@伊弗利特": "Viper",
+      "段藏@利維坦": "Paladin",
+      "校長四七@利維坦": "Warrior",
+      "金龍姐姐@利維坦": "Dancer",
+      "Nemo捏摸@利維坦": "Summoner",
+      "Ryou@利維坦": "Astrologian",
+      "夢璃@利維坦": "Scholar",
+      "Kaede@利維坦": "RedMage"
+    }
+  },
+  {
+    "code": "qbGVKZ6FJ8yW7dNM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "貓玖@巴哈姆特",
+      "卡在原地不動@鳳凰",
+      "鳶仔小饅頭@鳳凰",
+      "八仇武士@鳳凰",
+      "璃津@迦樓羅",
+      "Faeces@伊弗利特",
+      "悠夜雨@鳳凰",
+      "栗米@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 808535,
+    "clear_dt_ms": 1778956218885,
+    "jobs": {
+      "貓玖@巴哈姆特": "Machinist",
+      "卡在原地不動@鳳凰": "DarkKnight",
+      "鳶仔小饅頭@鳳凰": "Summoner",
+      "八仇武士@鳳凰": "Paladin",
+      "璃津@迦樓羅": "Astrologian",
+      "Faeces@伊弗利特": "Dragoon",
+      "悠夜雨@鳳凰": "Sage",
+      "栗米@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "XdjTkGD71Pxmg93A",
+    "title": "绝境战（旧版本）",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "吉村匕刃兔@奧汀",
+      "雪月狐@奧汀",
+      "拉雯妲@利維坦",
+      "Winny@利維坦",
+      "羊仔@利維坦",
+      "U沫@泰坦",
+      "哈傻o@鳳凰",
+      "洗讚小鴨鴨@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 860517,
+    "clear_dt_ms": 1778955037447,
+    "jobs": {
+      "吉村匕刃兔@奧汀": "Paladin",
+      "雪月狐@奧汀": "Summoner",
+      "拉雯妲@利維坦": "DarkKnight",
+      "Winny@利維坦": "WhiteMage",
+      "羊仔@利維坦": "Monk",
+      "U沫@泰坦": "Scholar",
+      "哈傻o@鳳凰": "Samurai",
+      "洗讚小鴨鴨@伊弗利特": "Bard"
+    }
   }
 ]
