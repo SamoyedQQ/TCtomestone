@@ -22158,5 +22158,117 @@
       "疾之日@迦樓羅": "Sage",
       "想睡覺的熊貓@巴哈姆特": "Dragoon"
     }
+  },
+  {
+    "code": "FPzH9vLhcYxwgMyb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "梅露露·梅露@利維坦",
+      "Hesper@鳳凰",
+      "標@泰坦",
+      "Forte@鳳凰",
+      "兔兔兔兔兔兔@泰坦",
+      "玄境浩恩@泰坦",
+      "Hiro@泰坦",
+      "空澄@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 855966,
+    "clear_dt_ms": 1778916561077,
+    "jobs": {
+      "梅露露·梅露@利維坦": "Scholar",
+      "Hesper@鳳凰": "Monk",
+      "標@泰坦": "Dragoon",
+      "Forte@鳳凰": "Warrior",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "玄境浩恩@泰坦": "Dancer",
+      "Hiro@泰坦": "Paladin",
+      "空澄@泰坦": "RedMage"
+    }
+  },
+  {
+    "code": "FPzH9vLhcYxwgMyb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "梅露露·梅露@利維坦",
+      "Hesper@鳳凰",
+      "標@泰坦",
+      "Forte@鳳凰",
+      "兔兔兔兔兔兔@泰坦",
+      "玄境浩恩@泰坦",
+      "Hiro@泰坦",
+      "空澄@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 848093,
+    "clear_dt_ms": 1778918132834,
+    "jobs": {
+      "梅露露·梅露@利維坦": "Scholar",
+      "Hesper@鳳凰": "Monk",
+      "標@泰坦": "Dragoon",
+      "Forte@鳳凰": "Warrior",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "玄境浩恩@泰坦": "Dancer",
+      "Hiro@泰坦": "Paladin",
+      "空澄@泰坦": "RedMage"
+    }
+  },
+  {
+    "code": "cBtyjZfWhr8MpL1k",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "新約能天使@奧汀",
+      "Gabe@巴哈姆特",
+      "普通@利維坦",
+      "無名的玩家@伊弗利特",
+      "阿舒布可@迦樓羅",
+      "噴射阿黃@巴哈姆特",
+      "敘事詩@迦樓羅",
+      "角卷綿芽@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 865789,
+    "clear_dt_ms": 1775271491409,
+    "jobs": {
+      "新約能天使@奧汀": "BlackMage",
+      "Gabe@巴哈姆特": "Monk",
+      "普通@利維坦": "Astrologian",
+      "無名的玩家@伊弗利特": "Dancer",
+      "阿舒布可@迦樓羅": "Scholar",
+      "噴射阿黃@巴哈姆特": "Warrior",
+      "敘事詩@迦樓羅": "Summoner",
+      "角卷綿芽@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "TkZzPK31fjhpMcAd",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Gabe@巴哈姆特",
+      "佐藤麻衣@巴哈姆特",
+      "玉米柴柴粥@巴哈姆特",
+      "白藍樂事人@巴哈姆特",
+      "便當店老闆@巴哈姆特",
+      "蛇蛇征服者@迦樓羅",
+      "Enidnu@奧汀",
+      "Kay@巴哈姆特"
+    ],
+    "fight_id": 24,
+    "duration_ms": 860166,
+    "clear_dt_ms": 1775285929794,
+    "jobs": {
+      "Gabe@巴哈姆特": "Monk",
+      "佐藤麻衣@巴哈姆特": "Paladin",
+      "玉米柴柴粥@巴哈姆特": "Sage",
+      "白藍樂事人@巴哈姆特": "Warrior",
+      "便當店老闆@巴哈姆特": "Dancer",
+      "蛇蛇征服者@迦樓羅": "Summoner",
+      "Enidnu@奧汀": "Astrologian",
+      "Kay@巴哈姆特": "Samurai"
+    }
   }
 ]
