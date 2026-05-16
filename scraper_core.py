@@ -1021,7 +1021,14 @@ class Scraper:
         if rankings_duration is not None and fight["id"] in rankings_duration:
             effective_ms = rankings_duration[fight["id"]]
         else:
-            total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
+            raw_ms             = fight["endTime"] - fight["startTime"]
+            total_time_ms_raw  = table_data.get("totalTime")
+            total_time_ms      = total_time_ms_raw or raw_ms
+            # 診斷：記錄 DETAIL_QUERY 回傳的 totalTime 與 fight 原始時長的差異
+            self.on_log(
+                f"    [rDPS診斷] fight#{fight['id']}: "
+                f"DETAIL totalTime={total_time_ms_raw}ms, fight raw={raw_ms}ms"
+            )
             damage_downtime_ms = table_data.get("damageDowntime") or 0
             # damageDowntime=0 時：DETAIL_QUERY 對非主 zone 場次（如 zone 62 嵌入的絕境戰）
             # 可能不回傳此欄位。使用已知估算值補足，避免 rDPS 以全程時長為分母而嚴重偏低。
@@ -1035,7 +1042,6 @@ class Scraper:
                         f"使用估算值 {estimated/1000:.0f}s"
                     )
             effective_ms = total_time_ms - damage_downtime_ms
-            raw_ms       = fight["endTime"] - fight["startTime"]
             if damage_downtime_ms == 0 and effective_ms > raw_ms * 0.9:
                 self.on_log(
                     f"    [⚠ rDPS] fight#{fight['id']} enc={fight.get('encounterID')}: "
