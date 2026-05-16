@@ -22270,5 +22270,33 @@
       "Enidnu@奧汀": "Astrologian",
       "Kay@巴哈姆特": "Samurai"
     }
+  },
+  {
+    "code": "2vfPYxKN8VX1RyBz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "梅露露·梅露@利維坦",
+      "Hesper@鳳凰",
+      "標@泰坦",
+      "Forte@鳳凰",
+      "吉拉哈提亞@迦樓羅",
+      "兔兔兔兔兔兔@泰坦",
+      "玄境浩恩@泰坦",
+      "Hiro@泰坦"
+    ],
+    "fight_id": 15,
+    "duration_ms": 845203,
+    "clear_dt_ms": 1778922827196,
+    "jobs": {
+      "梅露露·梅露@利維坦": "Scholar",
+      "Hesper@鳳凰": "Monk",
+      "標@泰坦": "Dragoon",
+      "Forte@鳳凰": "Warrior",
+      "吉拉哈提亞@迦樓羅": "Summoner",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "玄境浩恩@泰坦": "Dancer",
+      "Hiro@泰坦": "Paladin"
+    }
   }
 ]
