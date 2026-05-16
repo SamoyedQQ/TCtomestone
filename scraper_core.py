@@ -50,10 +50,10 @@ _ENCOUNTER_NAMES: dict[int, str] = {
 # 下可能不回傳 damageDowntime，導致 fallback 使用全程時長為分母，rDPS 嚴重偏低。
 # 當 damageDowntime = 0 時，用此估算值補足，使 rDPS 接近 FFLogs 網頁顯示值。
 _ENCOUNTER_DOWNTIME_ESTIMATE: dict[int, int] = {
-    # TOP：zone 62 嵌入的絕境戰 rankings.duration 回傳 raw fight time（無扣 downtime），
-    # 需以此估算值偵測並修正。實測 fight#8 actual downtime ≈ 289s（6557.1 rDPS 反推）。
-    # 取整至 290_000 作為估算值；zone 59 正常報告仍使用 rankings.duration（優先）。
-    1077: 290_000,
+    # TOP：zone 62 嵌入的絕境戰 rankings.duration 回傳 raw fight time（無扣 downtime）。
+    # 使用 raw_ms - 275_000 作為分母（反推自 FFLogs 網頁顯示 6557.1 rDPS / fight#8 1133s）。
+    # zone 59 正常報告仍使用 rankings.duration 作為分母（不受此值影響）。
+    1077: 275_000,
 }
 
 POINT_LIMIT = 3400   # 每次執行最多消耗點數（FFLogs 上限 3600/hr，預留緩衝）
