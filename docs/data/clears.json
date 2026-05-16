@@ -22298,5 +22298,33 @@
       "玄境浩恩@泰坦": "Dancer",
       "Hiro@泰坦": "Paladin"
     }
+  },
+  {
+    "code": "1yW8BY76jGPQX4rC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "黑喵喵@利維坦",
+      "夜風@鳳凰",
+      "不要吵@利維坦",
+      "那由多壽司屋@迦樓羅",
+      "Dadada@伊弗利特",
+      "Enidnu@奧汀",
+      "仙草愛玉@鳳凰",
+      "Diaulo@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 978544,
+    "clear_dt_ms": 1778866943630,
+    "jobs": {
+      "黑喵喵@利維坦": "Ninja",
+      "夜風@鳳凰": "RedMage",
+      "不要吵@利維坦": "Machinist",
+      "那由多壽司屋@迦樓羅": "Warrior",
+      "Dadada@伊弗利特": "Paladin",
+      "Enidnu@奧汀": "Astrologian",
+      "仙草愛玉@鳳凰": "Scholar",
+      "Diaulo@迦樓羅": "Samurai"
+    }
   }
 ]
