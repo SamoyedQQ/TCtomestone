@@ -50,7 +50,10 @@ _ENCOUNTER_NAMES: dict[int, str] = {
 # 下可能不回傳 damageDowntime，導致 fallback 使用全程時長為分母，rDPS 嚴重偏低。
 # 當 damageDowntime = 0 時，用此估算值補足，使 rDPS 接近 FFLogs 網頁顯示值。
 _ENCOUNTER_DOWNTIME_ESTIMATE: dict[int, int] = {
-    1077: 274_000,   # TOP：實測 ≈ 274s（phase 轉換 + 過場無法輸出時段）
+    # TOP：DETAIL_QUERY damageDowntime 實測 ≈ 274s；但 rankings.duration 反推顯示
+    # FFLogs 內部計算比 damageDowntime 多扣約 7.5s（1 場實測：281,452ms）。
+    # 使用 281_500 作為 fallback，使 effective_ms 更接近 rankings.duration 真實值。
+    1077: 281_500,
 }
 
 POINT_LIMIT = 3400   # 每次執行最多消耗點數（FFLogs 上限 3600/hr，預留緩衝）
@@ -116,6 +119,18 @@ query ($code: String, $fightIDs: [Int!]) {
   reportData {
     report(code: $code) {
       table(dataType: DamageDone, fightIDs: $fightIDs)
+    }
+  }
+}
+"""
+
+# 針對特定 fightID 補查 rankings.duration（用於 zone 62 嵌入的絕境戰缺少此欄位時）
+RANKINGS_QUERY = """
+query ($code: String, $fightIDs: [Int!]) {
+  rateLimitData { pointsSpentThisHour }
+  reportData {
+    report(code: $code) {
+      rankings(fightIDs: $fightIDs)
     }
   }
 }
@@ -579,6 +594,26 @@ class Scraper:
                 if not tc_in:
                     continue
 
+                # 若此通關場次缺少 rankings.duration（zone 62 嵌入的絕境戰常見），
+                # 額外補查一次以取得正確時間分母；失敗則稍後 fallback 估算值。
+                if fight["id"] not in (rankings_duration or {}):
+                    rq = self._gql(RANKINGS_QUERY, {
+                        "code": code,
+                        "fightIDs": [fight["id"]],
+                    })
+                    if rq:
+                        extra = _parse_rankings_duration(
+                            rq["reportData"]["report"].get("rankings")
+                        )
+                        if extra:
+                            if rankings_duration is None:
+                                rankings_duration = {}
+                            rankings_duration.update(extra)
+                            self.on_log(
+                                f"  [rankings補查] fight#{fight['id']}: "
+                                f"duration={extra.get(fight['id'], '?')}ms"
+                            )
+
                 time.sleep(self._fight_delay)
                 pts_now_raw, _, job_map = self._process_kill_bests(
                     report_obj, fight, tc_in, bests, pts_start or 0,
@@ -839,6 +874,26 @@ class Scraper:
                         tc_in = _tc_actors(fight, by_id, self._tc_servers)
                         if not tc_in:
                             continue
+
+                        # 若此通關場次缺少 rankings.duration（zone 62 嵌入的絕境戰常見），
+                        # 額外補查一次以取得正確時間分母；失敗則稍後 fallback 估算值。
+                        if fight["id"] not in (rankings_duration or {}):
+                            rq = self._gql(RANKINGS_QUERY, {
+                                "code": report["code"],
+                                "fightIDs": [fight["id"]],
+                            })
+                            if rq:
+                                extra = _parse_rankings_duration(
+                                    rq["reportData"]["report"].get("rankings")
+                                )
+                                if extra:
+                                    if rankings_duration is None:
+                                        rankings_duration = {}
+                                    rankings_duration.update(extra)
+                                    self.on_log(
+                                        f"  [rankings補查] fight#{fight['id']}: "
+                                        f"duration={extra.get(fight['id'], '?')}ms"
+                                    )
 
                         pts_now, _, job_map = self._process_kill_bests(
                             report, fight, tc_in, bests, pts_start or 0,
