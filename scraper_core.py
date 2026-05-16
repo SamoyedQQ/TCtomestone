@@ -50,10 +50,10 @@ _ENCOUNTER_NAMES: dict[int, str] = {
 # 下可能不回傳 damageDowntime，導致 fallback 使用全程時長為分母，rDPS 嚴重偏低。
 # 當 damageDowntime = 0 時，用此估算值補足，使 rDPS 接近 FFLogs 網頁顯示值。
 _ENCOUNTER_DOWNTIME_ESTIMATE: dict[int, int] = {
-    # TOP：DETAIL_QUERY damageDowntime 實測 ≈ 274s；但 rankings.duration 反推顯示
-    # FFLogs 內部計算比 damageDowntime 多扣約 7.5s（1 場實測：281,452ms）。
-    # 使用 281_500 作為 fallback，使 effective_ms 更接近 rankings.duration 真實值。
-    1077: 281_500,
+    # TOP：zone 62 嵌入的絕境戰 rankings.duration 回傳 raw fight time（無扣 downtime），
+    # 需以此估算值偵測並修正。實測 fight#8 actual downtime ≈ 289s（6557.1 rDPS 反推）。
+    # 取整至 290_000 作為估算值；zone 59 正常報告仍使用 rankings.duration（優先）。
+    1077: 290_000,
 }
 
 POINT_LIMIT = 3400   # 每次執行最多消耗點數（FFLogs 上限 3600/hr，預留緩衝）
@@ -1019,16 +1019,25 @@ class Scraper:
         # 時間分母：rankings.duration 與 FFLogs 網頁完全一致；
         # 無法取得時退回 totalTime - damageDowntime（TOP downtime 仍可正確處理）
         if rankings_duration is not None and fight["id"] in rankings_duration:
-            effective_ms = rankings_duration[fight["id"]]
+            rd     = rankings_duration[fight["id"]]
+            raw_ms = fight["endTime"] - fight["startTime"]
+            enc_id = fight.get("encounterID")
+            # Zone 62 bug：FFLogs rankings 對嵌入的絕境戰回傳 duration = raw fight time
+            # （未扣 downtime），可由「與原始時長差距 < 50s」偵測。若有已知估算值，改用估算。
+            if rd > raw_ms - 50_000 and _ENCOUNTER_DOWNTIME_ESTIMATE.get(enc_id):
+                estimated    = _ENCOUNTER_DOWNTIME_ESTIMATE[enc_id]
+                effective_ms = raw_ms - estimated
+                self.on_log(
+                    f"    [rDPS分母] rankings.duration={rd/1000:.0f}s ≈ 原始時長 {raw_ms/1000:.0f}s"
+                    f"（zone 62 無效值），改用估算 {estimated/1000:.0f}s"
+                    f" → 分母={effective_ms/1000:.0f}s"
+                )
+            else:
+                effective_ms = rd
         else:
             raw_ms             = fight["endTime"] - fight["startTime"]
             total_time_ms_raw  = table_data.get("totalTime")
             total_time_ms      = total_time_ms_raw or raw_ms
-            # 診斷：記錄 DETAIL_QUERY 回傳的 totalTime 與 fight 原始時長的差異
-            self.on_log(
-                f"    [rDPS診斷] fight#{fight['id']}: "
-                f"DETAIL totalTime={total_time_ms_raw}ms, fight raw={raw_ms}ms"
-            )
             damage_downtime_ms = table_data.get("damageDowntime") or 0
             # damageDowntime=0 時：DETAIL_QUERY 對非主 zone 場次（如 zone 62 嵌入的絕境戰）
             # 可能不回傳此欄位。使用已知估算值補足，避免 rDPS 以全程時長為分母而嚴重偏低。
