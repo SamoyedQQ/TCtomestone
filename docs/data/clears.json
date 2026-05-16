@@ -21682,5 +21682,369 @@
       "鮭魚明太子@迦樓羅": "Scholar",
       "唐吉訶德@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "fHARCycG6YkgJ34q",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "足各人@迦樓羅",
+      "拔絲麻糬@迦樓羅",
+      "Rlin@迦樓羅",
+      "小火柴賣破鞋@迦樓羅",
+      "小桶醬油@迦樓羅",
+      "全糖小利@迦樓羅",
+      "月月虎@迦樓羅",
+      "郭小皮@迦樓羅"
+    ],
+    "fight_id": 85,
+    "duration_ms": 874068,
+    "clear_dt_ms": 1775137609821,
+    "jobs": {
+      "足各人@迦樓羅": "Machinist",
+      "拔絲麻糬@迦樓羅": "WhiteMage",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "小火柴賣破鞋@迦樓羅": "Dancer",
+      "小桶醬油@迦樓羅": "RedMage",
+      "全糖小利@迦樓羅": "Monk",
+      "月月虎@迦樓羅": "Paladin",
+      "郭小皮@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "fHARCycG6YkgJ34q",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "足各人@迦樓羅",
+      "拔絲麻糬@迦樓羅",
+      "小桶醬油@迦樓羅",
+      "全糖小利@迦樓羅",
+      "郭小皮@迦樓羅",
+      "Rlin@迦樓羅",
+      "R卡捏@奧汀",
+      "八八四八四四@迦樓羅"
+    ],
+    "fight_id": 92,
+    "duration_ms": 856802,
+    "clear_dt_ms": 1775142443885,
+    "jobs": {
+      "足各人@迦樓羅": "Machinist",
+      "拔絲麻糬@迦樓羅": "WhiteMage",
+      "小桶醬油@迦樓羅": "RedMage",
+      "全糖小利@迦樓羅": "Monk",
+      "郭小皮@迦樓羅": "Scholar",
+      "Rlin@迦樓羅": "DarkKnight",
+      "R卡捏@奧汀": "Summoner",
+      "八八四八四四@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "fHARCycG6YkgJ34q",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "拔絲麻糬@迦樓羅",
+      "Rlin@迦樓羅",
+      "小火柴賣破鞋@迦樓羅",
+      "尼有貓餅@鳳凰",
+      "月月虎@迦樓羅",
+      "郭小皮@迦樓羅",
+      "R卡捏@奧汀",
+      "寶劍食品@迦樓羅"
+    ],
+    "fight_id": 153,
+    "duration_ms": 878081,
+    "clear_dt_ms": 1775395442379,
+    "jobs": {
+      "拔絲麻糬@迦樓羅": "WhiteMage",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "小火柴賣破鞋@迦樓羅": "Dancer",
+      "尼有貓餅@鳳凰": "Pictomancer",
+      "月月虎@迦樓羅": "Paladin",
+      "郭小皮@迦樓羅": "Scholar",
+      "R卡捏@奧汀": "Summoner",
+      "寶劍食品@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "fHARCycG6YkgJ34q",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "車倫秉@伊弗利特",
+      "樺璘@迦樓羅",
+      "阿秩@利維坦",
+      "Yura@迦樓羅",
+      "Dodo@利維坦",
+      "冰商梅露露@奧汀",
+      "郭小皮@迦樓羅",
+      "蛇蛇征服者@迦樓羅"
+    ],
+    "fight_id": 196,
+    "duration_ms": 872462,
+    "clear_dt_ms": 1775455485530,
+    "jobs": {
+      "車倫秉@伊弗利特": "Samurai",
+      "樺璘@迦樓羅": "Dancer",
+      "阿秩@利維坦": "Warrior",
+      "Yura@迦樓羅": "Gunbreaker",
+      "Dodo@利維坦": "BlackMage",
+      "冰商梅露露@奧汀": "Astrologian",
+      "郭小皮@迦樓羅": "Scholar",
+      "蛇蛇征服者@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "xrFbPAtZVXHvpMnk",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "櫻乂冰@伊弗利特",
+      "Nemo捏摸@利維坦",
+      "火高@迦樓羅",
+      "大王魷魚o@巴哈姆特",
+      "Nolu@利維坦",
+      "Natt@鳳凰",
+      "Poipoi@巴哈姆特",
+      "倉鼠教徒@巴哈姆特"
+    ],
+    "fight_id": 344,
+    "duration_ms": 988577,
+    "clear_dt_ms": 1775319581052,
+    "jobs": {
+      "櫻乂冰@伊弗利特": "Paladin",
+      "Nemo捏摸@利維坦": "Sage",
+      "火高@迦樓羅": "BlackMage",
+      "大王魷魚o@巴哈姆特": "Dragoon",
+      "Nolu@利維坦": "WhiteMage",
+      "Natt@鳳凰": "Ninja",
+      "Poipoi@巴哈姆特": "Dancer",
+      "倉鼠教徒@巴哈姆特": "DarkKnight"
+    }
+  },
+  {
+    "code": "tgQnRKT3z9fF2kbq",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "拉拉菲悠@巴哈姆特",
+      "Lucy@奧汀",
+      "Utt@利維坦",
+      "Bang企鵝@巴哈姆特",
+      "魚工魚@利維坦",
+      "花芷@利維坦",
+      "奇奇@鳳凰",
+      "若葉姬色白織@鳳凰"
+    ],
+    "fight_id": 31,
+    "duration_ms": 996901,
+    "clear_dt_ms": 1775226901742,
+    "jobs": {
+      "拉拉菲悠@巴哈姆特": "Paladin",
+      "Lucy@奧汀": "Dragoon",
+      "Utt@利維坦": "Samurai",
+      "Bang企鵝@巴哈姆特": "Astrologian",
+      "魚工魚@利維坦": "Warrior",
+      "花芷@利維坦": "Sage",
+      "奇奇@鳳凰": "Machinist",
+      "若葉姬色白織@鳳凰": "BlackMage"
+    }
+  },
+  {
+    "code": "tgQnRKT3z9fF2kbq",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "拉拉菲悠@巴哈姆特",
+      "Lucy@奧汀",
+      "Bang企鵝@巴哈姆特",
+      "Utt@利維坦",
+      "魚工魚@利維坦",
+      "花芷@利維坦",
+      "奇奇@鳳凰",
+      "若葉姬色白織@鳳凰"
+    ],
+    "fight_id": 37,
+    "duration_ms": 982069,
+    "clear_dt_ms": 1775229276958,
+    "jobs": {
+      "拉拉菲悠@巴哈姆特": "Paladin",
+      "Lucy@奧汀": "Dragoon",
+      "Bang企鵝@巴哈姆特": "Astrologian",
+      "Utt@利維坦": "Samurai",
+      "魚工魚@利維坦": "Warrior",
+      "花芷@利維坦": "Sage",
+      "奇奇@鳳凰": "Machinist",
+      "若葉姬色白織@鳳凰": "BlackMage"
+    }
+  },
+  {
+    "code": "yTXdK37nmtJ4hpHg",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "慎真@利維坦",
+      "小河狸@伊弗利特",
+      "茜色飄零@巴哈姆特",
+      "詩學少女@利維坦",
+      "Benny@奧汀",
+      "真央@迦樓羅",
+      "舞紗橘@利維坦",
+      "圓形食物@鳳凰"
+    ],
+    "fight_id": 110,
+    "duration_ms": 965925,
+    "clear_dt_ms": 1775233661535,
+    "jobs": {
+      "慎真@利維坦": "Paladin",
+      "小河狸@伊弗利特": "Dancer",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "詩學少女@利維坦": "Astrologian",
+      "Benny@奧汀": "Samurai",
+      "真央@迦樓羅": "DarkKnight",
+      "舞紗橘@利維坦": "RedMage",
+      "圓形食物@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "yTXdK37nmtJ4hpHg",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "慎真@利維坦",
+      "小河狸@伊弗利特",
+      "茜色飄零@巴哈姆特",
+      "詩學少女@利維坦",
+      "Benny@奧汀",
+      "真央@迦樓羅",
+      "舞紗橘@利維坦",
+      "圓形食物@鳳凰"
+    ],
+    "fight_id": 111,
+    "duration_ms": 960890,
+    "clear_dt_ms": 1775235015463,
+    "jobs": {
+      "慎真@利維坦": "Paladin",
+      "小河狸@伊弗利特": "Dancer",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "詩學少女@利維坦": "Astrologian",
+      "Benny@奧汀": "Samurai",
+      "真央@迦樓羅": "DarkKnight",
+      "舞紗橘@利維坦": "RedMage",
+      "圓形食物@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "4qcXzL1PtRbVhCBY",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "詩學少女@利維坦",
+      "舞紗橘@利維坦",
+      "茜色飄零@巴哈姆特",
+      "崩落之旅人@利維坦",
+      "Oreo餅乾@伊弗利特",
+      "Benny@奧汀",
+      "真央@迦樓羅",
+      "慎真@利維坦"
+    ],
+    "fight_id": 33,
+    "duration_ms": 979543,
+    "clear_dt_ms": 1775139065754,
+    "jobs": {
+      "詩學少女@利維坦": "Astrologian",
+      "舞紗橘@利維坦": "RedMage",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "崩落之旅人@利維坦": "Scholar",
+      "Oreo餅乾@伊弗利特": "Machinist",
+      "Benny@奧汀": "Samurai",
+      "真央@迦樓羅": "DarkKnight",
+      "慎真@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "4qcXzL1PtRbVhCBY",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "詩學少女@利維坦",
+      "舞紗橘@利維坦",
+      "茜色飄零@巴哈姆特",
+      "崩落之旅人@利維坦",
+      "Oreo餅乾@伊弗利特",
+      "Benny@奧汀",
+      "真央@迦樓羅",
+      "慎真@利維坦"
+    ],
+    "fight_id": 34,
+    "duration_ms": 975017,
+    "clear_dt_ms": 1775140933394,
+    "jobs": {
+      "詩學少女@利維坦": "Astrologian",
+      "舞紗橘@利維坦": "RedMage",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "崩落之旅人@利維坦": "Scholar",
+      "Oreo餅乾@伊弗利特": "Machinist",
+      "Benny@奧汀": "Samurai",
+      "真央@迦樓羅": "DarkKnight",
+      "慎真@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "4qcXzL1PtRbVhCBY",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Seckil@奧汀",
+      "席德拉拉銀@鳳凰",
+      "希夫特斯@鳳凰",
+      "慎真@利維坦",
+      "石神望@奧汀",
+      "絕喵@伊弗利特",
+      "Nobu卡茲@鳳凰",
+      "阿曼妮西斯@迦樓羅"
+    ],
+    "fight_id": 103,
+    "duration_ms": 848866,
+    "clear_dt_ms": 1775171255327,
+    "jobs": {
+      "Seckil@奧汀": "Machinist",
+      "席德拉拉銀@鳳凰": "Warrior",
+      "希夫特斯@鳳凰": "Dragoon",
+      "慎真@利維坦": "Paladin",
+      "石神望@奧汀": "RedMage",
+      "絕喵@伊弗利特": "BlackMage",
+      "Nobu卡茲@鳳凰": "WhiteMage",
+      "阿曼妮西斯@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "ChykKA8MrBWYJpDX",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Atri@奧汀",
+      "黑獸母雞魁首@奧汀",
+      "Skull@奧汀",
+      "夏日@利維坦",
+      "Ciel@迦樓羅",
+      "電子幽靈@奧汀",
+      "阿丸@奧汀",
+      "白雪公主@利維坦"
+    ],
+    "fight_id": 29,
+    "duration_ms": 984764,
+    "clear_dt_ms": 1775146118437,
+    "jobs": {
+      "Atri@奧汀": "Paladin",
+      "黑獸母雞魁首@奧汀": "Gunbreaker",
+      "Skull@奧汀": "Samurai",
+      "夏日@利維坦": "Dancer",
+      "Ciel@迦樓羅": "Sage",
+      "電子幽靈@奧汀": "Dragoon",
+      "阿丸@奧汀": "WhiteMage",
+      "白雪公主@利維坦": "Pictomancer"
+    }
   }
 ]
