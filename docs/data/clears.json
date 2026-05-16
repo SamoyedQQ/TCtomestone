@@ -22130,5 +22130,33 @@
       "路邊一棵樹@迦樓羅": "Summoner",
       "美花丸@奧汀": "Monk"
     }
+  },
+  {
+    "code": "yLXtn17PbpZ8QvFH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "群青日和@泰坦",
+      "蕾爾緹暮暮@巴哈姆特",
+      "嵐芽@伊弗利特",
+      "發芽馬鈴薯@巴哈姆特",
+      "Zard@巴哈姆特",
+      "Max@伊弗利特",
+      "疾之日@迦樓羅",
+      "想睡覺的熊貓@巴哈姆特"
+    ],
+    "fight_id": 44,
+    "duration_ms": 963961,
+    "clear_dt_ms": 1778684658029,
+    "jobs": {
+      "群青日和@泰坦": "DarkKnight",
+      "蕾爾緹暮暮@巴哈姆特": "Dancer",
+      "嵐芽@伊弗利特": "Paladin",
+      "發芽馬鈴薯@巴哈姆特": "Samurai",
+      "Zard@巴哈姆特": "BlackMage",
+      "Max@伊弗利特": "WhiteMage",
+      "疾之日@迦樓羅": "Sage",
+      "想睡覺的熊貓@巴哈姆特": "Dragoon"
+    }
   }
 ]
