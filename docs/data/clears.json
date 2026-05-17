@@ -23642,5 +23642,89 @@
       "Arasxi@奧汀": "Monk",
       "Sellyy@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "FyVDgbKfWQ8H3tXA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "魔法u柯比u@伊弗利特",
+      "花一匁@伊弗利特",
+      "琴葉千草@迦樓羅",
+      "Jiaozi@伊弗利特",
+      "譚仔三哥@利維坦",
+      "Nekota@鳳凰",
+      "柒伍@迦樓羅",
+      "Kami@伊弗利特"
+    ],
+    "fight_id": 217,
+    "duration_ms": 1134158,
+    "clear_dt_ms": 1779000113464,
+    "jobs": {
+      "魔法u柯比u@伊弗利特": "DarkKnight",
+      "花一匁@伊弗利特": "Ninja",
+      "琴葉千草@迦樓羅": "BlackMage",
+      "Jiaozi@伊弗利特": "Scholar",
+      "譚仔三哥@利維坦": "Astrologian",
+      "Nekota@鳳凰": "Paladin",
+      "柒伍@迦樓羅": "Viper",
+      "Kami@伊弗利特": "Machinist"
+    }
+  },
+  {
+    "code": "FyVDgbKfWQ8H3tXA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "魔法u柯比u@伊弗利特",
+      "花一匁@伊弗利特",
+      "琴葉千草@迦樓羅",
+      "Jiaozi@伊弗利特",
+      "譚仔三哥@利維坦",
+      "Nekota@鳳凰",
+      "柒伍@迦樓羅",
+      "Kami@伊弗利特"
+    ],
+    "fight_id": 218,
+    "duration_ms": 1133344,
+    "clear_dt_ms": 1779001633442,
+    "jobs": {
+      "魔法u柯比u@伊弗利特": "DarkKnight",
+      "花一匁@伊弗利特": "Ninja",
+      "琴葉千草@迦樓羅": "BlackMage",
+      "Jiaozi@伊弗利特": "Scholar",
+      "譚仔三哥@利維坦": "Astrologian",
+      "Nekota@鳳凰": "Paladin",
+      "柒伍@迦樓羅": "Viper",
+      "Kami@伊弗利特": "Machinist"
+    }
+  },
+  {
+    "code": "RAdLC41BMbqQfgDp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "龍龍一起強大@迦樓羅",
+      "弦凱@巴哈姆特",
+      "Second@鳳凰",
+      "Ex咖哩棒@奧汀",
+      "熱到燙的暖男@迦樓羅",
+      "Kouns@奧汀",
+      "Kapa@伊弗利特",
+      "備用馬鈴薯@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 870443,
+    "clear_dt_ms": 1778999292134,
+    "jobs": {
+      "龍龍一起強大@迦樓羅": "Dragoon",
+      "弦凱@巴哈姆特": "BlackMage",
+      "Second@鳳凰": "Warrior",
+      "Ex咖哩棒@奧汀": "Astrologian",
+      "熱到燙的暖男@迦樓羅": "Pictomancer",
+      "Kouns@奧汀": "Summoner",
+      "Kapa@伊弗利特": "Scholar",
+      "備用馬鈴薯@利維坦": "Paladin"
+    }
   }
 ]
