@@ -24538,5 +24538,173 @@
       "奧蘿拉@奧汀": "Astrologian",
       "Nezer@奧汀": "DarkKnight"
     }
+  },
+  {
+    "code": "Z6xR18VPGf2m3raC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "穗曦@伊弗利特",
+      "糟糕@奧汀",
+      "芒果多多檸@奧汀",
+      "蕾爾緹暮暮@巴哈姆特",
+      "想睡覺的熊貓@巴哈姆特",
+      "笭@迦樓羅",
+      "群青日和@泰坦",
+      "Wqw@利維坦"
+    ],
+    "fight_id": 17,
+    "duration_ms": 896598,
+    "clear_dt_ms": 1779046196639,
+    "jobs": {
+      "穗曦@伊弗利特": "Astrologian",
+      "糟糕@奧汀": "Paladin",
+      "芒果多多檸@奧汀": "Sage",
+      "蕾爾緹暮暮@巴哈姆特": "Dancer",
+      "想睡覺的熊貓@巴哈姆特": "Dragoon",
+      "笭@迦樓羅": "RedMage",
+      "群青日和@泰坦": "DarkKnight",
+      "Wqw@利維坦": "Summoner"
+    }
+  },
+  {
+    "code": "8k4rXmMW6nzNPh9f",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "紫夜kido@巴哈姆特",
+      "上安里李長柏@迦樓羅",
+      "老大的最愛@巴哈姆特",
+      "貓羊@迦樓羅",
+      "Yanjan@伊弗利特",
+      "羅剎@伊弗利特",
+      "月月丶@利維坦",
+      "Rejack@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 984523,
+    "clear_dt_ms": 1779040884877,
+    "jobs": {
+      "紫夜kido@巴哈姆特": "Pictomancer",
+      "上安里李長柏@迦樓羅": "Monk",
+      "老大的最愛@巴哈姆特": "Paladin",
+      "貓羊@迦樓羅": "Scholar",
+      "Yanjan@伊弗利特": "Dancer",
+      "羅剎@伊弗利特": "Warrior",
+      "月月丶@利維坦": "Astrologian",
+      "Rejack@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "AyHLJv6pGbVn4aQT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "子勳勳@鳳凰",
+      "Kawayo@巴哈姆特",
+      "Yt陌呱呱@利維坦",
+      "小犬@鳳凰",
+      "深巷迷鹿@迦樓羅",
+      "洋月@巴哈姆特",
+      "神虐兒@巴哈姆特",
+      "羊仔@利維坦"
+    ],
+    "fight_id": 32,
+    "duration_ms": 866953,
+    "clear_dt_ms": 1779044240081,
+    "jobs": {
+      "子勳勳@鳳凰": "Scholar",
+      "Kawayo@巴哈姆特": "Summoner",
+      "Yt陌呱呱@利維坦": "Dragoon",
+      "小犬@鳳凰": "Paladin",
+      "深巷迷鹿@迦樓羅": "WhiteMage",
+      "洋月@巴哈姆特": "Warrior",
+      "神虐兒@巴哈姆特": "Dancer",
+      "羊仔@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "vB8bMF7D3kxptLVa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Wilson@奧汀",
+      "Est@巴哈姆特",
+      "Luz阿驢@奧汀",
+      "Cylian@巴哈姆特",
+      "雅修特拉媽媽@迦樓羅",
+      "怯的不花@巴哈姆特",
+      "瓦蘭忒@奧汀",
+      "什錦羊@鳳凰"
+    ],
+    "fight_id": 10,
+    "duration_ms": 848696,
+    "clear_dt_ms": 1773236175012,
+    "jobs": {
+      "Wilson@奧汀": "Samurai",
+      "Est@巴哈姆特": "Astrologian",
+      "Luz阿驢@奧汀": "Dragoon",
+      "Cylian@巴哈姆特": "Summoner",
+      "雅修特拉媽媽@迦樓羅": "Dancer",
+      "怯的不花@巴哈姆特": "DarkKnight",
+      "瓦蘭忒@奧汀": "Paladin",
+      "什錦羊@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "vB8bMF7D3kxptLVa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Wilson@奧汀",
+      "Est@巴哈姆特",
+      "Luz阿驢@奧汀",
+      "Cylian@巴哈姆特",
+      "雅修特拉媽媽@迦樓羅",
+      "怯的不花@巴哈姆特",
+      "瓦蘭忒@奧汀",
+      "什錦羊@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 845432,
+    "clear_dt_ms": 1773238427196,
+    "jobs": {
+      "Wilson@奧汀": "Samurai",
+      "Est@巴哈姆特": "Astrologian",
+      "Luz阿驢@奧汀": "Dragoon",
+      "Cylian@巴哈姆特": "Summoner",
+      "雅修特拉媽媽@迦樓羅": "Dancer",
+      "怯的不花@巴哈姆特": "DarkKnight",
+      "瓦蘭忒@奧汀": "Paladin",
+      "什錦羊@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "vB8bMF7D3kxptLVa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Wilson@奧汀",
+      "Est@巴哈姆特",
+      "Luz阿驢@奧汀",
+      "Cylian@巴哈姆特",
+      "雅修特拉媽媽@迦樓羅",
+      "怯的不花@巴哈姆特",
+      "瓦蘭忒@奧汀",
+      "什錦羊@鳳凰"
+    ],
+    "fight_id": 18,
+    "duration_ms": 877119,
+    "clear_dt_ms": 1773240534538,
+    "jobs": {
+      "Wilson@奧汀": "Samurai",
+      "Est@巴哈姆特": "Astrologian",
+      "Luz阿驢@奧汀": "Dragoon",
+      "Cylian@巴哈姆特": "Summoner",
+      "雅修特拉媽媽@迦樓羅": "Dancer",
+      "怯的不花@巴哈姆特": "DarkKnight",
+      "瓦蘭忒@奧汀": "Paladin",
+      "什錦羊@鳳凰": "Scholar"
+    }
   }
 ]
