@@ -24174,5 +24174,145 @@
       "星閑desu@利維坦": "Summoner",
       "忠犬八公@泰坦": "Monk"
     }
+  },
+  {
+    "code": "DwXgQFBTpj3xRVtm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "占星堂@迦樓羅",
+      "Jiaozi@伊弗利特",
+      "張員瑛的狗@巴哈姆特",
+      "空条承太郎@伊弗利特",
+      "雪地芝麻糰子@伊弗利特",
+      "小新手@利維坦",
+      "梅吉布拉德@伊弗利特",
+      "蛋捲不捲@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 969160,
+    "clear_dt_ms": 1779031330528,
+    "jobs": {
+      "占星堂@迦樓羅": "Astrologian",
+      "Jiaozi@伊弗利特": "Sage",
+      "張員瑛的狗@巴哈姆特": "BlackMage",
+      "空条承太郎@伊弗利特": "Samurai",
+      "雪地芝麻糰子@伊弗利特": "Monk",
+      "小新手@利維坦": "Paladin",
+      "梅吉布拉德@伊弗利特": "Bard",
+      "蛋捲不捲@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "hMAWyBVrNCZwTtf8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "冷冷吖@利維坦",
+      "嚕啦嚕啦咧@伊弗利特",
+      "Sherry@巴哈姆特",
+      "名字隨時改嗎@利維坦",
+      "米開朗雞肉飯@利維坦",
+      "發芽馬鈴薯@巴哈姆特",
+      "Katze@利維坦",
+      "Lcho@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 962803,
+    "clear_dt_ms": 1779027833696,
+    "jobs": {
+      "冷冷吖@利維坦": "DarkKnight",
+      "嚕啦嚕啦咧@伊弗利特": "Astrologian",
+      "Sherry@巴哈姆特": "BlackMage",
+      "名字隨時改嗎@利維坦": "Dancer",
+      "米開朗雞肉飯@利維坦": "Samurai",
+      "發芽馬鈴薯@巴哈姆特": "Dragoon",
+      "Katze@利維坦": "Sage",
+      "Lcho@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "fFBg21JwabmRGZK9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "最初的聲音@迦樓羅",
+      "靴子裡有蛇w@利維坦",
+      "希夫特斯@鳳凰",
+      "羽鳥@迦樓羅",
+      "笑容不是為我@迦樓羅",
+      "旮旯給木高手@伊弗利特",
+      "Decade@伊弗利特",
+      "Mogu@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1058880,
+    "clear_dt_ms": 1779026672588,
+    "jobs": {
+      "最初的聲音@迦樓羅": "Gunbreaker",
+      "靴子裡有蛇w@利維坦": "WhiteMage",
+      "希夫特斯@鳳凰": "Monk",
+      "羽鳥@迦樓羅": "Scholar",
+      "笑容不是為我@迦樓羅": "Dancer",
+      "旮旯給木高手@伊弗利特": "Paladin",
+      "Decade@伊弗利特": "Summoner",
+      "Mogu@伊弗利特": "Sage"
+    }
+  },
+  {
+    "code": "fFBg21JwabmRGZK9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "靴子裡有蛇w@利維坦",
+      "希夫特斯@鳳凰",
+      "羽鳥@迦樓羅",
+      "笑容不是為我@迦樓羅",
+      "Decade@伊弗利特",
+      "最初的聲音@迦樓羅",
+      "Mogu@伊弗利特",
+      "旮旯給木高手@伊弗利特"
+    ],
+    "fight_id": 15,
+    "duration_ms": 1024023,
+    "clear_dt_ms": 1779029800757,
+    "jobs": {
+      "靴子裡有蛇w@利維坦": "WhiteMage",
+      "希夫特斯@鳳凰": "Monk",
+      "羽鳥@迦樓羅": "Scholar",
+      "笑容不是為我@迦樓羅": "Dancer",
+      "Decade@伊弗利特": "Summoner",
+      "最初的聲音@迦樓羅": "Warrior",
+      "Mogu@伊弗利特": "Sage",
+      "旮旯給木高手@伊弗利特": "Gunbreaker"
+    }
+  },
+  {
+    "code": "CptzfgBmMDFn3k1H",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "悠夜雨@鳳凰",
+      "栗米@利維坦",
+      "鳶仔小饅頭@鳳凰",
+      "鳩可@迦樓羅",
+      "八仇武士@鳳凰",
+      "Yuruia@奧汀",
+      "卡在原地不動@鳳凰",
+      "哈哈傻瓜蛋@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1068148,
+    "clear_dt_ms": 1779027258365,
+    "jobs": {
+      "悠夜雨@鳳凰": "BlackMage",
+      "栗米@利維坦": "Pictomancer",
+      "鳶仔小饅頭@鳳凰": "Warrior",
+      "鳩可@迦樓羅": "Scholar",
+      "八仇武士@鳳凰": "Samurai",
+      "Yuruia@奧汀": "WhiteMage",
+      "卡在原地不動@鳳凰": "DarkKnight",
+      "哈哈傻瓜蛋@利維坦": "Machinist"
+    }
   }
 ]
