@@ -23614,5 +23614,33 @@
       "哈傻o@鳳凰": "Samurai",
       "洗讚小鴨鴨@伊弗利特": "Bard"
     }
+  },
+  {
+    "code": "Vr6YXp2Znmd8QJCA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伊賀栖寅@伊弗利特",
+      "Dadada@伊弗利特",
+      "Nacho@鳳凰",
+      "Loklok@伊弗利特",
+      "抹布@鳳凰",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "Arasxi@奧汀",
+      "Sellyy@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 985044,
+    "clear_dt_ms": 1778996029605,
+    "jobs": {
+      "伊賀栖寅@伊弗利特": "Samurai",
+      "Dadada@伊弗利特": "Paladin",
+      "Nacho@鳳凰": "BlackMage",
+      "Loklok@伊弗利特": "Astrologian",
+      "抹布@鳳凰": "Warrior",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "Arasxi@奧汀": "Monk",
+      "Sellyy@迦樓羅": "Sage"
+    }
   }
 ]
