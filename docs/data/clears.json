@@ -23726,5 +23726,89 @@
       "Kapa@伊弗利特": "Scholar",
       "備用馬鈴薯@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "YyrHpNt3ZbKwT2zJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "勿忘終有一死@巴哈姆特",
+      "吉備團子@巴哈姆特",
+      "千小本@巴哈姆特",
+      "悠貓稟@泰坦",
+      "Izumi@巴哈姆特",
+      "風霜雪月喵@巴哈姆特",
+      "Chuchu@迦樓羅",
+      "Seira@利維坦"
+    ],
+    "fight_id": 20,
+    "duration_ms": 999462,
+    "clear_dt_ms": 1779010505895,
+    "jobs": {
+      "勿忘終有一死@巴哈姆特": "Gunbreaker",
+      "吉備團子@巴哈姆特": "Astrologian",
+      "千小本@巴哈姆特": "BlackMage",
+      "悠貓稟@泰坦": "DarkKnight",
+      "Izumi@巴哈姆特": "Dragoon",
+      "風霜雪月喵@巴哈姆特": "Sage",
+      "Chuchu@迦樓羅": "Samurai",
+      "Seira@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "fKwP8GDp9Txaz2cg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "鳶仔小饅頭@鳳凰",
+      "鳩可@迦樓羅",
+      "御子飯糰@鳳凰",
+      "新約能天使@奧汀",
+      "栗米@利維坦",
+      "殺手佐之助@巴哈姆特",
+      "悠夜雨@鳳凰",
+      "哈哈傻瓜蛋@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1077858,
+    "clear_dt_ms": 1779008795868,
+    "jobs": {
+      "鳶仔小饅頭@鳳凰": "Warrior",
+      "鳩可@迦樓羅": "Astrologian",
+      "御子飯糰@鳳凰": "Gunbreaker",
+      "新約能天使@奧汀": "BlackMage",
+      "栗米@利維坦": "Pictomancer",
+      "殺手佐之助@巴哈姆特": "Sage",
+      "悠夜雨@鳳凰": "Dancer",
+      "哈哈傻瓜蛋@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "mr6MDdpLkQgJ8Y2n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小k@奧汀",
+      "Maruta@奧汀",
+      "此岸魔女@伊弗利特",
+      "舞飛旋@利維坦",
+      "巴爾特@利維坦",
+      "嵐芽@伊弗利特",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "阿吉美眉@巴哈姆特"
+    ],
+    "fight_id": 21,
+    "duration_ms": 982730,
+    "clear_dt_ms": 1779007825167,
+    "jobs": {
+      "小k@奧汀": "BlackMage",
+      "Maruta@奧汀": "Monk",
+      "此岸魔女@伊弗利特": "Sage",
+      "舞飛旋@利維坦": "Samurai",
+      "巴爾特@利維坦": "WhiteMage",
+      "嵐芽@伊弗利特": "Paladin",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "阿吉美眉@巴哈姆特": "Warrior"
+    }
   }
 ]
