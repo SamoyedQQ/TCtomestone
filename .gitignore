@@ -17,6 +17,7 @@ docs/data/config.json
 
 # Node / Vue 前端
 node_modules/
+.vite/
 
 # Claude Code 設定（本機）
 .claude/
