@@ -689,7 +689,7 @@ tbody td {
 .profile-card {
   border: 1px solid var(--border);
   border-radius: 8px;
-  overflow-x: auto;
+  overflow: hidden;
   background: var(--bg-surface);
 }
 
@@ -740,7 +740,8 @@ tbody td {
 
 .profile-stats-grid {
   display: grid;
-  grid-template-columns: repeat(8, 1fr);
+  grid-template-columns: repeat(8, minmax(min-content, 1fr));
+  width: 100%;
 }
 
 .psg-cell {
@@ -749,7 +750,7 @@ tbody td {
   display: flex;
   flex-direction: column;
   gap: 6px;
-  min-width: 110px;
+  overflow: hidden;
 }
 
 .psg-cell:last-child { border-right: none; }
@@ -779,6 +780,8 @@ tbody td {
   font-variant-numeric: tabular-nums;
   color: var(--text);
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .psg-muted { color: var(--text-2); }

@@ -6,10 +6,10 @@ import { DATA_URL } from '../utils/dataUrl.js'
 const PER_PAGE = 30
 
 // ── URL hash routing ─────────────────────────────────────────
-const ENC_SLUG = { 1077: 'top', 1076: 'dsr', 1075: 'tea', 1073: 'ucob', 1074: 'uwu' }
+const ENC_SLUG = { 1077: 'omega', 1076: 'dragonsong', 1075: 'alexander', 1073: 'bahamut', 1074: 'weapon' }
 const SLUG_ENC = Object.fromEntries(Object.entries(ENC_SLUG).map(([k, v]) => [v, +k]))
-const PAGE_SLUG = { leaderboard: '', speed: 'sp', stats: 'st' }
-const SLUG_PAGE = { '': 'leaderboard', sp: 'speed', st: 'stats' }
+const PAGE_SLUG = { leaderboard: '', speed: 'speed', stats: 'stats' }
+const SLUG_PAGE = { '': 'leaderboard', speed: 'speed', stats: 'stats' }
 
 function buildHash(p, e) {
   const enc = ENC_SLUG[e]; if (!enc) return ''
@@ -20,6 +20,12 @@ function buildHash(p, e) {
 function parseHash() {
   const h = window.location.hash.slice(1)
   if (!h) return null
+  if (h.startsWith('player/')) {
+    const rest = h.slice('player/'.length)
+    const at = rest.lastIndexOf('@')
+    if (at < 1) return null
+    return { page: 'player', name: rest.slice(0, at), server: rest.slice(at + 1) }
+  }
   const [encSlug, pageSlug = ''] = h.split('/')
   const e = SLUG_ENC[encSlug]; if (!e) return null
   const p = SLUG_PAGE[pageSlug]; if (!p) return null
@@ -254,6 +260,7 @@ export function useApp() {
     playerName.value   = name
     playerServer.value = srv
     page.value         = 'player'
+    window.location.hash = `player/${name}@${srv}`
 
     // 確保所有副本資料都已載入（才能顯示完整個人資料）
     await Promise.all(ENCOUNTERS.map(e => loadEncounter(e.id)))
@@ -263,16 +270,33 @@ export function useApp() {
   async function init() {
     const parsed = parseHash()
     if (parsed) {
-      eid.value  = parsed.eid
-      page.value = parsed.page
+      if (parsed.page === 'player') {
+        playerName.value   = parsed.name
+        playerServer.value = parsed.server
+        page.value = 'player'
+      } else {
+        eid.value  = parsed.eid
+        page.value = parsed.page
+      }
     }
     window.addEventListener('hashchange', () => {
       const p = parseHash()
       if (!p) return
+      if (p.page === 'player') {
+        if (p.name !== playerName.value || p.server !== playerServer.value) {
+          playerName.value   = p.name
+          playerServer.value = p.server
+          page.value = 'player'
+          Promise.all(ENCOUNTERS.map(e => loadEncounter(e.id)))
+        }
+        return
+      }
       if (p.eid  !== eid.value)  { eid.value  = p.eid;  loadEncounter(p.eid) }
       if (p.page !== page.value)   page.value  = p.page
     })
-    await Promise.all([loadMeta(), loadEncounter(eid.value)])
+    const loads = [loadMeta(), loadEncounter(eid.value)]
+    if (page.value === 'player') loads.push(...ENCOUNTERS.map(e => loadEncounter(e.id)))
+    await Promise.all(loads)
   }
 
   return {
