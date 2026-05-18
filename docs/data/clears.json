@@ -26554,5 +26554,201 @@
       "三條野·春姬@迦樓羅": "Samurai",
       "瘋人願@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "FDYGkZX8zBgAyKd3",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "大餅餅@奧汀",
+      "鮭魚明太子@迦樓羅",
+      "白河螢@利維坦",
+      "白藍樂事人@巴哈姆特",
+      "小維@鳳凰",
+      "潔西卡@迦樓羅",
+      "Arasxi@奧汀",
+      "Iroha@巴哈姆特"
+    ],
+    "fight_id": 58,
+    "duration_ms": 873059,
+    "clear_dt_ms": 1778032899330,
+    "jobs": {
+      "大餅餅@奧汀": "Paladin",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "白河螢@利維坦": "Summoner",
+      "白藍樂事人@巴哈姆特": "Warrior",
+      "小維@鳳凰": "Astrologian",
+      "潔西卡@迦樓羅": "Monk",
+      "Arasxi@奧汀": "Dragoon",
+      "Iroha@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "FDYGkZX8zBgAyKd3",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "大餅餅@奧汀",
+      "鮭魚明太子@迦樓羅",
+      "白河螢@利維坦",
+      "白藍樂事人@巴哈姆特",
+      "潔西卡@迦樓羅",
+      "Arasxi@奧汀",
+      "Iroha@巴哈姆特",
+      "小維@鳳凰"
+    ],
+    "fight_id": 62,
+    "duration_ms": 880999,
+    "clear_dt_ms": 1778035350064,
+    "jobs": {
+      "大餅餅@奧汀": "Paladin",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "白河螢@利維坦": "Summoner",
+      "白藍樂事人@巴哈姆特": "Warrior",
+      "潔西卡@迦樓羅": "Monk",
+      "Arasxi@奧汀": "Dragoon",
+      "Iroha@巴哈姆特": "Dancer",
+      "小維@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "FDYGkZX8zBgAyKd3",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "葉肥ouo@奧汀",
+      "心@巴哈姆特",
+      "淵@鳳凰",
+      "Chuchu@迦樓羅",
+      "Bentou@迦樓羅",
+      "空条承太郎@伊弗利特",
+      "Sellyy@迦樓羅",
+      "小維@鳳凰"
+    ],
+    "fight_id": 90,
+    "duration_ms": 986870,
+    "clear_dt_ms": 1778154534880,
+    "jobs": {
+      "葉肥ouo@奧汀": "Dancer",
+      "心@巴哈姆特": "Warrior",
+      "淵@鳳凰": "Pictomancer",
+      "Chuchu@迦樓羅": "Gunbreaker",
+      "Bentou@迦樓羅": "BlackMage",
+      "空条承太郎@伊弗利特": "Samurai",
+      "Sellyy@迦樓羅": "Sage",
+      "小維@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "bwd6q3KCDj1XfHn8",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "圓貓貓@迦樓羅",
+      "Minami@迦樓羅",
+      "堅係傑克@迦樓羅",
+      "拿墨擬海@迦樓羅",
+      "Ninya@迦樓羅",
+      "樹林游盛閔@迦樓羅",
+      "Woshoe@迦樓羅",
+      "Arting@迦樓羅"
+    ],
+    "fight_id": 23,
+    "duration_ms": 993028,
+    "clear_dt_ms": 1778084919748,
+    "jobs": {
+      "圓貓貓@迦樓羅": "WhiteMage",
+      "Minami@迦樓羅": "BlackMage",
+      "堅係傑克@迦樓羅": "Paladin",
+      "拿墨擬海@迦樓羅": "Scholar",
+      "Ninya@迦樓羅": "Dancer",
+      "樹林游盛閔@迦樓羅": "Monk",
+      "Woshoe@迦樓羅": "Warrior",
+      "Arting@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "PNcTRjbwYXnfQ8W3",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小河狸@伊弗利特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "詩學少女@利維坦",
+      "圓形食物@鳳凰",
+      "茜色飄零@巴哈姆特",
+      "慎真@利維坦",
+      "真央@迦樓羅"
+    ],
+    "fight_id": 204,
+    "duration_ms": 967617,
+    "clear_dt_ms": 1775654689254,
+    "jobs": {
+      "小河狸@伊弗利特": "Dancer",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Samurai",
+      "詩學少女@利維坦": "Astrologian",
+      "圓形食物@鳳凰": "Sage",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "慎真@利維坦": "Paladin",
+      "真央@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "PNcTRjbwYXnfQ8W3",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小河狸@伊弗利特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "詩學少女@利維坦",
+      "圓形食物@鳳凰",
+      "茜色飄零@巴哈姆特",
+      "慎真@利維坦",
+      "真央@迦樓羅"
+    ],
+    "fight_id": 206,
+    "duration_ms": 975082,
+    "clear_dt_ms": 1775655875214,
+    "jobs": {
+      "小河狸@伊弗利特": "Dancer",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Samurai",
+      "詩學少女@利維坦": "Astrologian",
+      "圓形食物@鳳凰": "Sage",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "慎真@利維坦": "Paladin",
+      "真央@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "PNcTRjbwYXnfQ8W3",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小河狸@伊弗利特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "詩學少女@利維坦",
+      "圓形食物@鳳凰",
+      "茜色飄零@巴哈姆特",
+      "慎真@利維坦",
+      "真央@迦樓羅"
+    ],
+    "fight_id": 212,
+    "duration_ms": 962649,
+    "clear_dt_ms": 1775659283806,
+    "jobs": {
+      "小河狸@伊弗利特": "Dancer",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Samurai",
+      "詩學少女@利維坦": "Astrologian",
+      "圓形食物@鳳凰": "Sage",
+      "茜色飄零@巴哈姆特": "Ninja",
+      "慎真@利維坦": "Paladin",
+      "真央@迦樓羅": "DarkKnight"
+    }
   }
 ]
