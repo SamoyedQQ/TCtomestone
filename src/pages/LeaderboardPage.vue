@@ -9,7 +9,7 @@ const props = defineProps({ app: Object })
 const enc = computed(() => ENCOUNTER_MAP[props.app.eid.value])
 
 // 圖示路徑：docs/img/jobs/ 的檔名皆為小寫
-const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : '/img/jobs'
+const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : `${import.meta.env.BASE_URL}img/jobs`
 const jobIcon = (name) => name ? `${JOB_IMG_BASE}/${name.toLowerCase()}.png` : ''
 
 function hexRgb(hex) {

@@ -20,7 +20,7 @@ function hexToRgb(hex) {
   return `${r}, ${g}, ${b}`
 }
 
-const LOGO_SRC = import.meta.env.DEV ? '/docs/img/logo.png' : '/img/logo.png'
+const LOGO_SRC = import.meta.env.DEV ? '/docs/img/logo.png' : `${import.meta.env.BASE_URL}img/logo.png`
 
 function pickEncounter(id) {
   app.selectEncounter(id)

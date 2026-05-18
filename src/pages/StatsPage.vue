@@ -6,7 +6,7 @@ import { fmtDps, fmtDuration } from '../utils/format.js'
 const props = defineProps({ app: Object })
 const app = props.app
 
-const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : '/img/jobs'
+const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : `${import.meta.env.BASE_URL}img/jobs`
 
 const metric   = ref('rdps')
 const rdpsRole = ref('all')

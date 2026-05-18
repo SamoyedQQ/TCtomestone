@@ -8,7 +8,7 @@ const props = defineProps({ app: Object })
 const selectedJob = ref(null)
 const expandedCards = reactive(new Set())
 
-const IMG_BASE = import.meta.env.DEV ? '/docs/img' : '/img'
+const IMG_BASE = import.meta.env.DEV ? '/docs/img' : `${import.meta.env.BASE_URL}img`
 function jobIcon(job) { return `${IMG_BASE}/jobs/${job.toLowerCase()}.png` }
 
 watch(() => props.app.playerName.value, () => {

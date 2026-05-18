@@ -4,7 +4,7 @@ import { fmtDuration, fmtDate } from '../utils/format.js'
 
 const props = defineProps({ app: Object })
 
-const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : '/img/jobs'
+const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : `${import.meta.env.BASE_URL}img/jobs`
 const jobIcon = (name) => name ? `${JOB_IMG_BASE}/${name.toLowerCase()}.png` : ''
 
 function hexRgb(hex) {

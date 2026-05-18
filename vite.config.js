@@ -14,6 +14,7 @@ export default defineConfig({
       },
     },
   ],
+  base: '/TCtomestone/',
   build: {
     outDir: 'docs',
     emptyOutDir: false, // 保留 docs/data/ 和 docs/img/
