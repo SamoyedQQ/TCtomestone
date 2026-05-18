@@ -5,6 +5,27 @@ import { DATA_URL } from '../utils/dataUrl.js'
 
 const PER_PAGE = 30
 
+// ── URL hash routing ─────────────────────────────────────────
+const ENC_SLUG = { 1077: 'top', 1076: 'dsr', 1075: 'tea', 1073: 'ucob', 1074: 'uwu' }
+const SLUG_ENC = Object.fromEntries(Object.entries(ENC_SLUG).map(([k, v]) => [v, +k]))
+const PAGE_SLUG = { leaderboard: '', speed: 'sp', stats: 'st' }
+const SLUG_PAGE = { '': 'leaderboard', sp: 'speed', st: 'stats' }
+
+function buildHash(p, e) {
+  const enc = ENC_SLUG[e]; if (!enc) return ''
+  const pg = PAGE_SLUG[p] ?? ''
+  return enc + (pg ? '/' + pg : '')
+}
+
+function parseHash() {
+  const h = window.location.hash.slice(1)
+  if (!h) return null
+  const [encSlug, pageSlug = ''] = h.split('/')
+  const e = SLUG_ENC[encSlug]; if (!e) return null
+  const p = SLUG_PAGE[pageSlug]; if (!p) return null
+  return { page: p, eid: e }
+}
+
 // ── 資料快取 ────────────────────────────────────────────────
 const cache = reactive({
   meta: null,
@@ -74,6 +95,11 @@ export function useApp() {
     try { cache.playersIdx = await fetchJson(DATA_URL.playersIndex) } catch { /* ok */ }
   }
 
+  function pushHash(p, e) {
+    const h = buildHash(p, e)
+    if (h && window.location.hash !== '#' + h) window.location.hash = h
+  }
+
   // ── 切副本
   async function selectEncounter(id) {
     eid.value   = id
@@ -81,6 +107,7 @@ export function useApp() {
     job.value   = null
     lbPage.value = 1
     spPage.value = 1
+    if (page.value !== 'player') pushHash(page.value, id)
     await loadEncounter(id)
   }
 
@@ -89,12 +116,14 @@ export function useApp() {
     if (tab === 'player' && page.value !== 'player') prevPage.value = page.value
     page.value = tab
     if (tab === 'player') loadPlayersIndex()
+    else pushHash(tab, eid.value)
   }
 
   function goBack() {
     playerName.value = null
     playerServer.value = null
     page.value = prevPage.value
+    pushHash(prevPage.value, eid.value)
   }
 
   // ── 排行榜資料（過濾 + 分頁）
@@ -232,7 +261,18 @@ export function useApp() {
 
   // ── init
   async function init() {
-    await Promise.all([loadMeta(), loadEncounter(DEFAULT_EID)])
+    const parsed = parseHash()
+    if (parsed) {
+      eid.value  = parsed.eid
+      page.value = parsed.page
+    }
+    window.addEventListener('hashchange', () => {
+      const p = parseHash()
+      if (!p) return
+      if (p.eid  !== eid.value)  { eid.value  = p.eid;  loadEncounter(p.eid) }
+      if (p.page !== page.value)   page.value  = p.page
+    })
+    await Promise.all([loadMeta(), loadEncounter(eid.value)])
   }
 
   return {

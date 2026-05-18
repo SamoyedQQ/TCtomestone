@@ -689,7 +689,7 @@ tbody td {
 .profile-card {
   border: 1px solid var(--border);
   border-radius: 8px;
-  overflow: hidden;
+  overflow-x: auto;
   background: var(--bg-surface);
 }
 
@@ -749,7 +749,7 @@ tbody td {
   display: flex;
   flex-direction: column;
   gap: 6px;
-  min-width: 0;
+  min-width: 110px;
 }
 
 .psg-cell:last-child { border-right: none; }
@@ -779,8 +779,6 @@ tbody td {
   font-variant-numeric: tabular-nums;
   color: var(--text);
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .psg-muted { color: var(--text-2); }
