@@ -740,11 +740,11 @@ tbody td {
 
 .profile-stats-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(8, 1fr);
 }
 
 .psg-cell {
-  padding: 14px 16px;
+  padding: 14px 12px;
   border-right: 1px solid var(--border-soft);
   display: flex;
   flex-direction: column;
