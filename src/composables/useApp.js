@@ -24,7 +24,9 @@ function parseHash() {
     const rest = h.slice('player/'.length)
     const at = rest.lastIndexOf('@')
     if (at < 1) return null
-    return { page: 'player', name: rest.slice(0, at), server: rest.slice(at + 1) }
+    try {
+      return { page: 'player', name: decodeURIComponent(rest.slice(0, at)), server: decodeURIComponent(rest.slice(at + 1)) }
+    } catch { return null }
   }
   const [encSlug, pageSlug = ''] = h.split('/')
   const e = SLUG_ENC[encSlug]; if (!e) return null
@@ -260,7 +262,7 @@ export function useApp() {
     playerName.value   = name
     playerServer.value = srv
     page.value         = 'player'
-    window.location.hash = `player/${name}@${srv}`
+    window.location.hash = `player/${encodeURIComponent(name)}@${encodeURIComponent(srv)}`
 
     // 確保所有副本資料都已載入（才能顯示完整個人資料）
     await Promise.all(ENCOUNTERS.map(e => loadEncounter(e.id)))
