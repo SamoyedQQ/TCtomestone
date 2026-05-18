@@ -689,7 +689,6 @@ tbody td {
 .profile-card {
   border: 1px solid var(--border);
   border-radius: 8px;
-  overflow: hidden;
   background: var(--bg-surface);
 }
 
@@ -750,7 +749,6 @@ tbody td {
   display: flex;
   flex-direction: column;
   gap: 6px;
-  overflow: hidden;
 }
 
 .psg-cell:last-child { border-right: none; }
