@@ -24734,5 +24734,33 @@
       "楓塵的漣漪@巴哈姆特": "RedMage",
       "Second@鳳凰": "Warrior"
     }
+  },
+  {
+    "code": "gbnPJxHrqZt893DM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "斃式舞姿@迦樓羅",
+      "風語yc@迦樓羅",
+      "空澄雪奈o@伊弗利特",
+      "冬雨@利維坦",
+      "里斯@巴哈姆特",
+      "狼一@泰坦",
+      "Racook@奧汀",
+      "Wqw@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 832579,
+    "clear_dt_ms": 1779073844213,
+    "jobs": {
+      "斃式舞姿@迦樓羅": "Dancer",
+      "風語yc@迦樓羅": "BlackMage",
+      "空澄雪奈o@伊弗利特": "Gunbreaker",
+      "冬雨@利維坦": "RedMage",
+      "里斯@巴哈姆特": "Sage",
+      "狼一@泰坦": "Monk",
+      "Racook@奧汀": "Paladin",
+      "Wqw@利維坦": "WhiteMage"
+    }
   }
 ]
