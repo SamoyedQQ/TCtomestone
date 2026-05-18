@@ -163,11 +163,10 @@ function getRows(encId, best, jobBests) {
                     <span class="psg-value psg-rank">{{ jb.jobRank ? '#' + jb.jobRank : '—' }}</span>
                   </div>
                   <div class="psg-cell">
-                    <span class="psg-label">繁中PR% <i class="col-hint" data-tip="繁中服同職業通關百分位排名（100 = 第一名）。資料量少時僅供參考。">?</i></span>
+                    <span class="psg-label">繁中PR% <i class="col-hint" :data-tip="`繁中服同職業通關百分位排名（100 = 第一名）。資料量少時僅供參考。${jb.jobTotal && jb.jobRank ? '\n' + jb.jobTotal + '筆數據中的 #' + jb.jobRank : ''}`">?</i></span>
                     <span class="psg-value" :class="jb.jobParsePct != null ? prClass(jb.jobParsePct) : 'psg-muted'">
                       {{ jb.jobParsePct != null ? jb.jobParsePct : '—' }}
                     </span>
-                    <span v-if="jb.jobTotal && jb.jobRank" class="psg-sub">{{ jb.jobTotal }}筆數據中的 #{{ jb.jobRank }}</span>
                   </div>
                   <div class="psg-cell">
                     <span class="psg-label">職業</span>

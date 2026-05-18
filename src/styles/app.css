@@ -420,7 +420,7 @@ tbody td {
   color: var(--text);
   font-size: 0.78rem;
   font-weight: 400;
-  white-space: normal;
+  white-space: pre-line;
   padding: 7px 11px;
   border-radius: 6px;
   width: 230px;
