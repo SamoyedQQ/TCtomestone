@@ -40,7 +40,7 @@ async function headerSearch() {
     <!-- Header -->
     <header class="site-header">
       <div class="container" style="display:flex;align-items:center;gap:16px;height:60px">
-        <a href="/" class="site-logo">
+        <a :href="import.meta.env.BASE_URL" class="site-logo">
           <img :src="LOGO_SRC" alt="logo" @error="$event.target.style.display='none'" />
           <span>FFLogs 繁中服 絕境戰排行</span>
         </a>
