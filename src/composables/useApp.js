@@ -245,7 +245,7 @@ export function useApp() {
         const jRank = ji !== -1 ? ji + 1 : null
         const jTotal = jr.length
         const jPct = jRank === 1 ? 100 : (jRank && jTotal > 1 ? Math.min(99, Math.round(((jTotal - jRank) / jTotal) * 100)) : null)
-        return { ...jb, jobRank: jRank, jobParsePct: jPct }
+        return { ...jb, jobRank: jRank, jobTotal: jTotal, jobParsePct: jPct }
       }).sort((a, b) => (b.jobParsePct ?? -1) - (a.jobParsePct ?? -1) || (b.rdps ?? 0) - (a.rdps ?? 0))
 
       result.push({

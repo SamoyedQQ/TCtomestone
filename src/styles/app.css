@@ -784,6 +784,14 @@ tbody td {
   text-overflow: ellipsis;
 }
 
+.psg-sub {
+  font-size: 0.68rem;
+  color: var(--text-3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .psg-muted { color: var(--text-2); }
 .psg-rank  { color: var(--accent-text); }
 .psg-job   { display: flex; align-items: center; gap: 6px; }
