@@ -24706,5 +24706,33 @@
       "瓦蘭忒@奧汀": "Paladin",
       "什錦羊@鳳凰": "Scholar"
     }
+  },
+  {
+    "code": "FHPGxQzYK92Btcpv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "二月@巴哈姆特",
+      "柊鏡@利維坦",
+      "三色豆佐香菜@利維坦",
+      "泠凌月@利維坦",
+      "Mogg@伊弗利特",
+      "八奈見杏菜o@利維坦",
+      "楓塵的漣漪@巴哈姆特",
+      "Second@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 879364,
+    "clear_dt_ms": 1778983748306,
+    "jobs": {
+      "二月@巴哈姆特": "Viper",
+      "柊鏡@利維坦": "Bard",
+      "三色豆佐香菜@利維坦": "Scholar",
+      "泠凌月@利維坦": "Astrologian",
+      "Mogg@伊弗利特": "Gunbreaker",
+      "八奈見杏菜o@利維坦": "Monk",
+      "楓塵的漣漪@巴哈姆特": "RedMage",
+      "Second@鳳凰": "Warrior"
+    }
   }
 ]
