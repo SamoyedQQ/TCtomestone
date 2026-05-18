@@ -24930,5 +24930,117 @@
       "Sixwin@伊弗利特": "Warrior",
       "Yunai@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "hBHfnDM9wPYtxL8V",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "狗蛙dog@利維坦",
+      "滌火城鋒@奧汀",
+      "啊呀鴨@奧汀",
+      "熱到燙的暖男@迦樓羅",
+      "Yunla@伊弗利特",
+      "Iweasu@迦樓羅",
+      "Souru@利維坦",
+      "小芊醬@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 862339,
+    "clear_dt_ms": 1779097950102,
+    "jobs": {
+      "狗蛙dog@利維坦": "Sage",
+      "滌火城鋒@奧汀": "Ninja",
+      "啊呀鴨@奧汀": "DarkKnight",
+      "熱到燙的暖男@迦樓羅": "Machinist",
+      "Yunla@伊弗利特": "Astrologian",
+      "Iweasu@迦樓羅": "BlackMage",
+      "Souru@利維坦": "Summoner",
+      "小芊醬@伊弗利特": "Gunbreaker"
+    }
+  },
+  {
+    "code": "pbWT7AmVcL63djHa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Komaru@迦樓羅",
+      "寒煙夢@迦樓羅",
+      "Chuchu@迦樓羅",
+      "嘴zui@迦樓羅",
+      "梨某某@利維坦",
+      "璦蘭@迦樓羅",
+      "Kio@鳳凰",
+      "Yoyo柚柚@迦樓羅"
+    ],
+    "fight_id": 31,
+    "duration_ms": 985398,
+    "clear_dt_ms": 1779019754229,
+    "jobs": {
+      "Komaru@迦樓羅": "Astrologian",
+      "寒煙夢@迦樓羅": "Summoner",
+      "Chuchu@迦樓羅": "DarkKnight",
+      "嘴zui@迦樓羅": "Dancer",
+      "梨某某@利維坦": "Warrior",
+      "璦蘭@迦樓羅": "Scholar",
+      "Kio@鳳凰": "Dragoon",
+      "Yoyo柚柚@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "GjP1RgWvyq4QV8Lk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "焦糖的媽@鳳凰",
+      "九筒@鳳凰",
+      "達司喬可雷特@鳳凰",
+      "哈恰恰@迦樓羅",
+      "焦糖的爸@鳳凰",
+      "飽嗝二@巴哈姆特",
+      "幻羽山雀@鳳凰",
+      "生珂@迦樓羅"
+    ],
+    "fight_id": 24,
+    "duration_ms": 872533,
+    "clear_dt_ms": 1779032578488,
+    "jobs": {
+      "焦糖的媽@鳳凰": "BlackMage",
+      "九筒@鳳凰": "Monk",
+      "達司喬可雷特@鳳凰": "WhiteMage",
+      "哈恰恰@迦樓羅": "Summoner",
+      "焦糖的爸@鳳凰": "Paladin",
+      "飽嗝二@巴哈姆特": "Dancer",
+      "幻羽山雀@鳳凰": "Scholar",
+      "生珂@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "GcZYkJRzNBwHnV6m",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "陰暗爬行初華@利維坦",
+      "Yanjan@伊弗利特",
+      "月月丶@利維坦",
+      "羅剎@伊弗利特",
+      "嵐芽@伊弗利特",
+      "舞飛旋@利維坦",
+      "悠羽狐白@利維坦",
+      "ㄇ凹ㄇ凹@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 970132,
+    "clear_dt_ms": 1779091697225,
+    "jobs": {
+      "陰暗爬行初華@利維坦": "BlackMage",
+      "Yanjan@伊弗利特": "Sage",
+      "月月丶@利維坦": "Astrologian",
+      "羅剎@伊弗利特": "Warrior",
+      "嵐芽@伊弗利特": "Paladin",
+      "舞飛旋@利維坦": "Samurai",
+      "悠羽狐白@利維坦": "Ninja",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer"
+    }
   }
 ]
