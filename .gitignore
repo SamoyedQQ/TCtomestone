@@ -14,3 +14,9 @@ docs/data/config.json
 
 # 暫存輸出檔
 *_out.txt
+
+# Node / Vue 前端
+node_modules/
+
+# Claude Code 設定（本機）
+.claude/

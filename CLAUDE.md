@@ -9,9 +9,11 @@
 | 層級 | 職責 | 禁止 |
 |------|------|------|
 | **Python（資料管線）** | FFLogs API 呼叫、限流、TC 伺服器過濾、JSON 寫入 | 不可輸出 UI 聚合格式 |
-| **Vanilla JS（前端）** | 讀靜態 JSON 渲染排行榜 | 不可直接呼叫 FFLogs API |
+| **Vue 3（前端）** | 讀靜態 JSON 渲染排行榜，Vite 建置至 `docs/` | 不可直接呼叫 FFLogs API |
 
-資料流：`FFLogs API → scraper_core.py → headless_run.py（CI）→ docs/data/*.json → docs/index.html`
+資料流：`FFLogs API → scraper_core.py → headless_run.py（CI）→ docs/data/*.json → Vue 前端（docs/）`
+
+前端詳細說明見 [FRONTEND.md](FRONTEND.md)。
 
 ---
 
@@ -170,6 +172,22 @@ python ManualBackfill.py <code>               # 整份 report 所有通關
 - 不可覆寫 `processed_codes.json`（只能累加）
 - 不可在 log / commit 中印出明文憑證
 - 不可未經確認就 force push 或破壞性 git 操作
+- 不可在 `npm run build` 時設定 `emptyOutDir: true`（會刪除 `docs/data/`）
+
+---
+
+## 11. 前端開發
+
+```bash
+npm run dev    # 開發伺服器（自動使用 remote GitHub Pages 資料）
+npm run build  # 建置至 docs/
+```
+
+- Vue 元件：`src/pages/`；狀態：`src/composables/useApp.js`
+- 副本設定（ID、名稱、顏色、排序）：`src/domain/encounters.js`
+- 職業設定（中文縮寫、role、顏色）：`src/domain/jobs.js`
+- 設計系統 + 所有 CSS：`src/styles/app.css`
+- 詳細架構見 [FRONTEND.md](FRONTEND.md)
 
 ---
 
