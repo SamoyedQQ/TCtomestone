@@ -10,8 +10,29 @@ import StatsPage from './pages/StatsPage.vue'
 const app = useApp()
 const showInfo = ref(false)
 const showUpload = ref(false)
+const isDark = ref(true)
 
-onMounted(() => app.init())
+function initTheme() {
+  const saved = localStorage.getItem('theme')
+  isDark.value = saved ? saved === 'dark' : !window.matchMedia('(prefers-color-scheme: light)').matches
+  document.documentElement.setAttribute('data-theme', isDark.value ? 'dark' : 'light')
+}
+
+function toggleTheme() {
+  isDark.value = !isDark.value
+  const theme = isDark.value ? 'dark' : 'light'
+  localStorage.setItem('theme', theme)
+  document.documentElement.setAttribute('data-theme', theme)
+}
+
+onMounted(() => {
+  app.init()
+  initTheme()
+  if (!localStorage.getItem('visited')) {
+    showInfo.value = true
+    localStorage.setItem('visited', '1')
+  }
+})
 
 function hexToRgb(hex) {
   const r = parseInt(hex.slice(1, 3), 16)
@@ -20,7 +41,8 @@ function hexToRgb(hex) {
   return `${r}, ${g}, ${b}`
 }
 
-const LOGO_SRC = import.meta.env.DEV ? '/docs/img/logo.png' : `${import.meta.env.BASE_URL}img/logo.png`
+const BASE_URL = import.meta.env.BASE_URL
+const LOGO_SRC = import.meta.env.DEV ? `${BASE_URL}docs/img/logo.png` : `${BASE_URL}img/logo.png`
 
 function pickEncounter(id) {
   app.selectEncounter(id)
@@ -40,7 +62,7 @@ async function headerSearch() {
     <!-- Header -->
     <header class="site-header">
       <div class="container" style="display:flex;align-items:center;gap:16px;height:60px">
-        <a :href="import.meta.env.BASE_URL" class="site-logo">
+        <a :href="BASE_URL" class="site-logo">
           <img :src="LOGO_SRC" alt="logo" @error="$event.target.style.display='none'" />
           <span>FFLogs 繁中服 絕境戰排行</span>
         </a>
@@ -93,8 +115,13 @@ async function headerSearch() {
             {{ enc.name }}
           </button>
 
-          <!-- 玩家搜尋框（最右邊） -->
+          <!-- 玩家搜尋框 + 主題切換（最右邊） -->
           <div class="enc-search">
+            <button
+              class="theme-toggle"
+              @click="toggleTheme"
+              :title="isDark ? '切換亮色模式' : '切換暗色模式'"
+            >{{ isDark ? '☀' : '☾' }}</button>
             <input
               v-model="app.query.value"
               class="enc-search__input"

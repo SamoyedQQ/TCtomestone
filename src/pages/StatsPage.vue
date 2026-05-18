@@ -6,7 +6,7 @@ import { fmtDps, fmtDuration } from '../utils/format.js'
 const props = defineProps({ app: Object })
 const app = props.app
 
-const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : `${import.meta.env.BASE_URL}img/jobs`
+const JOB_IMG_BASE = import.meta.env.DEV ? `${import.meta.env.BASE_URL}docs/img/jobs` : `${import.meta.env.BASE_URL}img/jobs`
 
 const metric   = ref('rdps')
 const rdpsRole = ref('all')
@@ -274,20 +274,15 @@ function hideTooltip() {
                   <!-- 左鬚臂（wLow → Q1） -->
                   <div class="bp-arm"
                     :style="{left: rdpsPct(stat.wLow)+'%', width: Math.max(0, rdpsPct(stat.q1)-rdpsPct(stat.wLow))+'%', background: stat.color}"></div>
-                  <!-- IQR 色塊左半（Q1→Q2） -->
+                  <!-- IQR 色塊（Q1→Q3） -->
                   <div class="bp-box"
                     :style="{
                       left: rdpsPct(stat.q1)+'%',
-                      right: `calc(${100 - rdpsPct(stat.q2)}% + 1px)`,
-                      background: stat.color,
-                    }"></div>
-                  <!-- IQR 色塊右半（Q2→Q3） -->
-                  <div class="bp-box"
-                    :style="{
-                      left: `calc(${rdpsPct(stat.q2)}% + 1px)`,
                       right: (100 - rdpsPct(stat.q3))+'%',
                       background: stat.color,
                     }"></div>
+                  <!-- 中位數線 -->
+                  <div class="bp-median" :style="{left: rdpsPct(stat.q2)+'%'}"></div>
                   <!-- 右鬚臂（Q3 → wHigh） -->
                   <div class="bp-arm"
                     :style="{left: rdpsPct(stat.q3)+'%', width: Math.max(0, rdpsPct(stat.wHigh)-rdpsPct(stat.q3))+'%', background: stat.color}"></div>
@@ -311,10 +306,10 @@ function hideTooltip() {
             <div class="bp-legend">
               <div class="bp-legend-demo">
                 <div class="bp-track" style="width:80px;flex-shrink:0">
-                  <div class="bp-arm"  style="left:5%;width:23%;background:#6060a0"></div>
-                  <div class="bp-box"  style="left:28%;right:calc(51%+1px);background:#6060a0"></div>
-                  <div class="bp-box"  style="left:calc(50%+1px);right:28%;background:#6060a0"></div>
-                  <div class="bp-arm"  style="left:72%;width:23%;background:#6060a0"></div>
+                  <div class="bp-arm"     style="left:5%;width:23%;background:#6060a0"></div>
+                  <div class="bp-box"     style="left:28%;right:28%;background:#6060a0"></div>
+                  <div class="bp-median"  style="left:50%"></div>
+                  <div class="bp-arm"     style="left:72%;width:23%;background:#6060a0"></div>
                   <div class="bp-cap"     style="left:5%;background:#6060a0"></div>
                   <div class="bp-cap"     style="left:95%;background:#6060a0"></div>
                   <div class="bp-outlier" style="left:2%;background:#6060a0"></div>
@@ -410,20 +405,15 @@ function hideTooltip() {
                     <!-- 左鬚臂（慢端 wHigh → Q3） -->
                     <div class="bp-arm"
                       :style="{left: speedPct(stat.wHigh)+'%', width: Math.max(0, speedPct(stat.q3)-speedPct(stat.wHigh))+'%', background: stat.color}"></div>
-                    <!-- IQR 色塊左半（Q3→Q2，慢→中） -->
+                    <!-- IQR 色塊（Q3→Q1） -->
                     <div class="bp-box"
                       :style="{
                         left: speedPct(stat.q3)+'%',
-                        right: `calc(${100 - speedPct(stat.q2)}% + 1px)`,
-                        background: stat.color,
-                      }"></div>
-                    <!-- IQR 色塊右半（Q2→Q1，中→快） -->
-                    <div class="bp-box"
-                      :style="{
-                        left: `calc(${speedPct(stat.q2)}% + 1px)`,
                         right: (100 - speedPct(stat.q1))+'%',
                         background: stat.color,
                       }"></div>
+                    <!-- 中位數線 -->
+                    <div class="bp-median" :style="{left: speedPct(stat.q2)+'%'}"></div>
                     <!-- 右鬚臂（Q1 → wLow，快端） -->
                     <div class="bp-arm"
                       :style="{left: speedPct(stat.q1)+'%', width: Math.max(0, speedPct(stat.wLow)-speedPct(stat.q1))+'%', background: stat.color}"></div>
@@ -446,7 +436,8 @@ function hideTooltip() {
                 <div class="bp-legend-demo">
                   <div class="bp-track" style="width:80px;flex-shrink:0">
                     <div class="bp-arm"     style="left:5%;width:23%;background:#6060a0"></div>
-                    <div class="bp-box"     style="left:28%;width:44%;background:linear-gradient(to right,#6060a0 calc(55% - 0.8px),#0d0d14 calc(55% - 0.8px),#0d0d14 calc(55% + 0.8px),#6060a0 calc(55% + 0.8px))"></div>
+                    <div class="bp-box"     style="left:28%;right:28%;background:#6060a0"></div>
+                    <div class="bp-median"  style="left:50%"></div>
                     <div class="bp-arm"     style="left:72%;width:23%;background:#6060a0"></div>
                     <div class="bp-cap"     style="left:5%;background:#6060a0"></div>
                     <div class="bp-cap"     style="left:95%;background:#6060a0"></div>

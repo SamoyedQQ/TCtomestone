@@ -4,7 +4,7 @@ import { fmtDuration, fmtDate } from '../utils/format.js'
 
 const props = defineProps({ app: Object })
 
-const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : `${import.meta.env.BASE_URL}img/jobs`
+const JOB_IMG_BASE = import.meta.env.DEV ? `${import.meta.env.BASE_URL}docs/img/jobs` : `${import.meta.env.BASE_URL}img/jobs`
 const jobIcon = (name) => name ? `${JOB_IMG_BASE}/${name.toLowerCase()}.png` : ''
 
 function hexRgb(hex) {
@@ -41,7 +41,9 @@ function sortedPlayers(row) {
           </tr>
         </thead>
         <tbody>
-          <tr v-for="(row, i) in app.spRows.value" :key="`${row.code}-${row.fight_id}`">
+          <tr v-for="(row, i) in app.spRows.value" :key="`${row.code}-${row.fight_id}`"
+            class="lb-row-clickable"
+            @click="row.code && window.open(`https://www.fflogs.com/reports/${row.code}#fight=${row.fight_id}`, '_blank', 'noopener')">
             <td class="rank-cell" :class="i===0?'rank-1':i===1?'rank-2':i===2?'rank-3':'rank-n'">
               #{{ (app.spPage.value - 1) * 30 + i + 1 }}
             </td>
@@ -51,7 +53,7 @@ function sortedPlayers(row) {
             <td class="td-num" style="color:var(--text-2);font-size:0.78rem">
               {{ fmtDate(row.clear_dt_ms) }}
             </td>
-            <td>
+            <td @click.stop>
               <div class="team-list">
                 <button
                   v-for="player in sortedPlayers(row)"
@@ -72,14 +74,14 @@ function sortedPlayers(row) {
                 </button>
               </div>
             </td>
-            <td class="td-num">
+            <td class="td-num" @click.stop>
               <a
                 v-if="row.code"
                 class="report-link"
                 :href="`https://www.fflogs.com/reports/${row.code}#fight=${row.fight_id}`"
                 target="_blank"
                 rel="noopener"
-              >↗</a>
+              >↗ FFLogs</a>
             </td>
           </tr>
         </tbody>

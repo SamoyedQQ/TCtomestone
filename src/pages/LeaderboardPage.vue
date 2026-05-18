@@ -9,7 +9,7 @@ const props = defineProps({ app: Object })
 const enc = computed(() => ENCOUNTER_MAP[props.app.eid.value])
 
 // 圖示路徑：docs/img/jobs/ 的檔名皆為小寫
-const JOB_IMG_BASE = import.meta.env.DEV ? '/docs/img/jobs' : `${import.meta.env.BASE_URL}img/jobs`
+const JOB_IMG_BASE = import.meta.env.DEV ? `${import.meta.env.BASE_URL}docs/img/jobs` : `${import.meta.env.BASE_URL}img/jobs`
 const jobIcon = (name) => name ? `${JOB_IMG_BASE}/${name.toLowerCase()}.png` : ''
 
 function hexRgb(hex) {
@@ -123,42 +123,43 @@ const showableJobs = computed(() => {
           </tr>
         </thead>
         <tbody>
-          <tr v-for="(row, i) in app.lbRows.value" :key="`${row.name}@${row.server}:${row.job}`">
+          <tr v-for="(row, i) in app.lbRows.value" :key="`${row.name}@${row.server}:${row.job}`"
+            class="lb-row-clickable"
+            @click="app.openPlayer(row.name, row.server)">
             <td class="rank-cell" :class="rankClass(i)">{{ fmtRank(globalRank(i)) }}</td>
             <td>
-              <button class="player-btn" @click="app.openPlayer(row.name, row.server)">
-                {{ row.name }}
-              </button>
+              <span class="player-btn">{{ row.name }}</span>
             </td>
-            <td style="color:var(--text-2);font-size:0.78rem">{{ row.server }}</td>
+            <td style="color:var(--text-2)">{{ row.server }}</td>
             <td>
               <span
                 class="job-chip"
                 :style="{
                   background: `rgba(${hexRgb(JOBS[row.job]?.color)}, 0.15)`,
-                  color: JOBS[row.job]?.color ?? '#aaa',
+                  color: JOBS[row.job]?.color ?? 'var(--text-2)',
                 }"
               >
                 <img
+                  v-if="JOBS[row.job]"
                   :src="jobIcon(row.job)"
                   :alt="row.job"
                   style="width:14px;height:14px;object-fit:contain;vertical-align:middle;margin-right:4px"
                   @error="$event.target.style.display='none'"
-                />{{ JOBS[row.job]?.abbr ?? row.job }}
+                />{{ JOBS[row.job]?.abbr ?? '未知' }}
               </span>
             </td>
             <td class="td-num">{{ fmtDps(row.rdps) }}</td>
             <td class="td-num" style="color:var(--text-2)">{{ fmtDps(row.adps) }}</td>
             <td class="td-num" style="color:var(--text-2)">{{ fmtDuration(row.duration_ms) }}</td>
             <td class="td-num" style="color:var(--text-2);font-size:0.78rem">{{ fmtDate(row.timestamp_ms) }}</td>
-            <td class="td-num">
+            <td class="td-num" @click.stop>
               <a
                 v-if="row.report_code"
                 class="report-link"
                 :href="`https://www.fflogs.com/reports/${row.report_code}#fight=${row.fight_id}`"
                 target="_blank" rel="noopener"
                 title="查看 FFLogs 報告"
-              >↗</a>
+              >↗ FFLogs</a>
             </td>
           </tr>
         </tbody>

@@ -8,7 +8,7 @@ const props = defineProps({ app: Object })
 const selectedJob = ref(null)
 const expandedCards = reactive(new Set())
 
-const IMG_BASE = import.meta.env.DEV ? '/docs/img' : `${import.meta.env.BASE_URL}img`
+const IMG_BASE = import.meta.env.DEV ? `${import.meta.env.BASE_URL}docs/img` : `${import.meta.env.BASE_URL}img`
 function jobIcon(job) { return `${IMG_BASE}/jobs/${job.toLowerCase()}.png` }
 
 watch(() => props.app.playerName.value, () => {
@@ -128,7 +128,7 @@ function getRows(encId, best, jobBests) {
         <!-- 副本卡片 -->
         <div class="profile-sections">
           <div
-            v-for="{ enc, best, jobBests } in app.playerProfile.value.encounters"
+            v-for="{ enc, best, jobBests, clearCount } in app.playerProfile.value.encounters"
             :key="enc.id"
             class="profile-card"
           >
@@ -147,6 +147,7 @@ function getRows(encId, best, jobBests) {
                 class="expand-btn"
                 @click="expandedCards.has(enc.id) ? expandedCards.delete(enc.id) : expandedCards.add(enc.id)"
               >{{ expandedCards.has(enc.id) ? '收合 ▲' : '展開 ▼' }}</button>
+              <span v-if="clearCount > 0" class="clear-count" style="margin-left:auto">通關次數：{{ clearCount }}</span>
             </div>
 
             <!-- 通關資料列（篩選模式 or 展開/收合） -->
@@ -170,9 +171,9 @@ function getRows(encId, best, jobBests) {
                   </div>
                   <div class="psg-cell">
                     <span class="psg-label">職業</span>
-                    <span class="psg-value psg-job" :style="{ color: JOBS[jb.job]?.color ?? 'var(--text)' }">
-                      <img :src="jobIcon(jb.job)" class="psg-job-icon" alt="" />
-                      {{ JOBS[jb.job]?.abbr ?? jb.job }}
+                    <span class="psg-value psg-job" :style="{ color: JOBS[jb.job]?.color ?? 'var(--text-2)' }">
+                      <img v-if="JOBS[jb.job]" :src="jobIcon(jb.job)" class="psg-job-icon" alt="" />
+                      {{ JOBS[jb.job]?.abbr ?? '未知' }}
                     </span>
                   </div>
                   <div class="psg-cell">
@@ -214,9 +215,9 @@ function getRows(encId, best, jobBests) {
                 <div class="psg-cell"><span class="psg-label">繁中PR%</span><span class="psg-value psg-muted">—</span></div>
                 <div class="psg-cell">
                   <span class="psg-label">職業</span>
-                  <span class="psg-value psg-job" :style="{ color: JOBS[best.job]?.color ?? 'var(--text)' }">
-                    <img :src="jobIcon(best.job)" class="psg-job-icon" alt="" />
-                    {{ JOBS[best.job]?.abbr ?? best.job }}
+                  <span class="psg-value psg-job" :style="{ color: JOBS[best.job]?.color ?? 'var(--text-2)' }">
+                    <img v-if="JOBS[best.job]" :src="jobIcon(best.job)" class="psg-job-icon" alt="" />
+                    {{ JOBS[best.job]?.abbr ?? '未知' }}
                   </span>
                 </div>
                 <div class="psg-cell"><span class="psg-label">rDPS</span><span class="psg-value psg-muted">—</span></div>

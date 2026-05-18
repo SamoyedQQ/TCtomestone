@@ -248,10 +248,13 @@ export function useApp() {
         return { ...jb, jobRank: jRank, jobTotal: jTotal, jobParsePct: jPct }
       }).sort((a, b) => (b.jobParsePct ?? -1) - (a.jobParsePct ?? -1) || (b.rdps ?? 0) - (a.rdps ?? 0))
 
+      const clearCount = (cache.cl[enc.id] ?? []).filter(c => c.players.includes(key)).length
+
       result.push({
         enc, best, all: rows, jobBests,
         rank:     jobBests[0]?.jobRank     ?? null,
         parsePct: jobBests[0]?.jobParsePct ?? null,
+        clearCount,
       })
     }
     return result.length ? { name: playerName.value, server: playerServer.value, encounters: result } : null

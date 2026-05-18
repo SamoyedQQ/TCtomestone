@@ -44,18 +44,75 @@
   /* Input */
   --input-bg:     #0a0a10;
   --input-border: rgba(255, 255, 255, 0.1);
+
+  /* Header backdrop */
+  --header-bg: rgba(13, 13, 20, 0.90);
+}
+
+/* ── Light theme ────────────────────────────────────────── */
+
+[data-theme="light"] {
+  color-scheme: light;
+
+  --bg:           #e8e8e8;
+  --bg-surface:   #f2f2f2;
+  --bg-raised:    #e0e0e0;
+  --bg-hover:     rgba(0, 0, 0, 0.05);
+
+  --border:       rgba(0, 0, 0, 0.10);
+  --border-soft:  rgba(0, 0, 0, 0.06);
+
+  --text:         #1a1a1a;
+  --text-2:       #505050;
+  --text-3:       #888888;
+
+  --accent-text:  #5b21b6;
+  --accent-dim:   rgba(124, 58, 237, 0.08);
+
+  --input-bg:     #ebebeb;
+  --input-border: rgba(0, 0, 0, 0.14);
+
+  --header-bg:    rgba(232, 232, 232, 0.94);
+}
+
+[data-theme="light"] .bp-row.alt {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+[data-theme="light"] .bp-tooltip {
+  background: #f5f5f5;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="light"] .bp-tooltip__row--hl {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+[data-theme="light"] .page-btn:hover:not(:disabled) {
+  border-color: rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="light"] .expand-btn:hover {
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+[data-theme="light"] .server-select {
+  background: #ffffff;
+  color: var(--text);
 }
 
 /* ── Base ───────────────────────────────────────────────── */
 
 html { color-scheme: dark; }
+[data-theme="light"] { color-scheme: light; }
 
 body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
   font-family: Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', system-ui, sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: -0.01em;
   -webkit-font-smoothing: antialiased;
@@ -85,7 +142,7 @@ input, select { font: inherit; }
   top: 0;
   z-index: 50;
   border-bottom: 1px solid var(--border);
-  background: rgba(13, 13, 20, 0.90);
+  background: var(--header-bg);
   backdrop-filter: blur(12px);
 }
 
@@ -121,7 +178,7 @@ input, select { font: inherit; }
 }
 
 .site-subtitle {
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   color: var(--text-2);
   font-weight: 400;
 }
@@ -230,6 +287,25 @@ input, select { font: inherit; }
   color: var(--accent-text);
   border-color: var(--accent);
   background: var(--accent-dim);
+}
+
+.theme-toggle {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0;
+  color: var(--text-2);
+  background: transparent;
+  font-size: 1rem;
+  line-height: 1;
+  flex-shrink: 0;
+  transition: color 0.12s, border-color 0.12s;
+}
+
+.theme-toggle:hover {
+  color: var(--text);
+  border-color: var(--input-border);
 }
 
 .enc-btn {
@@ -374,6 +450,8 @@ tbody tr {
 tbody tr:last-child { border-bottom: none; }
 
 tbody tr:hover { background: var(--bg-hover); }
+
+.lb-row-clickable { cursor: pointer; }
 
 tbody td {
   padding: 13px 16px;
@@ -716,6 +794,11 @@ tbody td {
 .expand-btn:hover {
   color: var(--text-2);
   border-color: rgba(255,255,255,0.2);
+}
+
+.clear-count {
+  font-size: 0.78rem;
+  color: var(--text-2);
 }
 
 .enc-dot {
@@ -1109,6 +1192,16 @@ tbody td {
   border-radius: 2px;
 }
 
+.bp-median {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 2px;
+  height: 18px;
+  background: var(--bg-surface);
+  z-index: 1;
+}
+
 .bp-cap {
   position: absolute;
   top: 50%;
@@ -1339,11 +1432,30 @@ tbody td {
 
   .speed-summary-grid { grid-template-columns: repeat(3, 1fr); }
 
+  /* 縮小固定欄，讓圖表區盡量寬 */
   .bp-header-row,
-  .bp-row { grid-template-columns: 72px 1fr 90px; }
+  .bp-row { grid-template-columns: 56px 1fr 60px; }
 
+  /* 統計欄改垂直排列，避免中位數值 + n= 並排溢位 */
   .bp-header-row .bp-stats-col,
-  .bp-stats-col { padding-left: 6px; }
+  .bp-stats-col {
+    padding-left: 6px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+  }
 
-  .bp-median-val { font-size: 0.8rem; }
+  /* 職業欄縮小 icon 與字型 */
+  .bp-job-icon { width: 16px; height: 16px; }
+  .bp-job-name { font-size: 0.75rem; }
+
+  .bp-median-val { font-size: 0.76rem; }
+  .bp-count { font-size: 0.65rem; }
+
+  /* 刻度標籤隔一個隱藏，避免窄軌道下重疊 */
+  .bp-axis-ticks .bp-tick:nth-child(even) { display: none; }
+
+  /* legend 允許換行 */
+  .bp-legend { flex-wrap: wrap; gap: 6px 12px; }
+  .bp-legend-count { margin-left: 0; }
 }
