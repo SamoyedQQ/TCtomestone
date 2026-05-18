@@ -26750,5 +26750,61 @@
       "慎真@利維坦": "Paladin",
       "真央@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "8tCRzD2M4FBcNYkx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "我都可以看你@巴哈姆特",
+      "Maple@伊弗利特",
+      "群青日和@泰坦",
+      "Seiko@奧汀",
+      "鮭魚明太子@迦樓羅",
+      "Iroha@巴哈姆特",
+      "Only@伊弗利特",
+      "Tvtian@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 858422,
+    "clear_dt_ms": 1779131723789,
+    "jobs": {
+      "我都可以看你@巴哈姆特": "Paladin",
+      "Maple@伊弗利特": "Monk",
+      "群青日和@泰坦": "Gunbreaker",
+      "Seiko@奧汀": "WhiteMage",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "Iroha@巴哈姆特": "Dancer",
+      "Only@伊弗利特": "Summoner",
+      "Tvtian@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "P9HBz3LDd8bvraqx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "京極@伊弗利特",
+      "滑水@奧汀",
+      "拉肥叉燒@巴哈姆特",
+      "赤界@鳳凰",
+      "琶舞@迦樓羅",
+      "蒼月隱@奧汀",
+      "鴨子丷@泰坦",
+      "抹布@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 862891,
+    "clear_dt_ms": 1779127080585,
+    "jobs": {
+      "京極@伊弗利特": "Samurai",
+      "滑水@奧汀": "Astrologian",
+      "拉肥叉燒@巴哈姆特": "Scholar",
+      "赤界@鳳凰": "Dancer",
+      "琶舞@迦樓羅": "Summoner",
+      "蒼月隱@奧汀": "Dragoon",
+      "鴨子丷@泰坦": "Paladin",
+      "抹布@鳳凰": "Warrior"
+    }
   }
 ]
