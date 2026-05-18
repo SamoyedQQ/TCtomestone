@@ -42,7 +42,7 @@ async function headerSearch() {
       <div class="container" style="display:flex;align-items:center;gap:16px;height:60px">
         <a href="/" class="site-logo">
           <img :src="LOGO_SRC" alt="logo" @error="$event.target.style.display='none'" />
-          <span>FFLogs 繁中服 絕境戰排行榜</span>
+          <span>FFLogs 繁中服 絕境戰排行</span>
         </a>
         <span class="logo-sep"></span>
         <span class="site-subtitle">僅記錄 繁中服 2026-01-01 以後的「公開」數據，可補上傳舊數據。</span>
