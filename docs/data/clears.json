@@ -27590,5 +27590,61 @@
       "Rlu@利維坦": "Summoner",
       "雪的寵兒@利維坦": "Scholar"
     }
+  },
+  {
+    "code": "LTQRwk1V3Jx9rCmh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "Souru@利維坦",
+      "掃把@伊弗利特",
+      "白霧紅塵@伊弗利特",
+      "嵐芽@伊弗利特",
+      "群青日和@泰坦",
+      "Xeno@伊弗利特",
+      "友利奈緒@伊弗利特",
+      "魂魄妖夢@迦樓羅"
+    ],
+    "fight_id": 65,
+    "duration_ms": 989397,
+    "clear_dt_ms": 1779219081730,
+    "jobs": {
+      "Souru@利維坦": "BlackMage",
+      "掃把@伊弗利特": "Scholar",
+      "白霧紅塵@伊弗利特": "Dragoon",
+      "嵐芽@伊弗利特": "Paladin",
+      "群青日和@泰坦": "DarkKnight",
+      "Xeno@伊弗利特": "Astrologian",
+      "友利奈緒@伊弗利特": "Pictomancer",
+      "魂魄妖夢@迦樓羅": "Dancer"
+    }
+  },
+  {
+    "code": "pGQLzak6xfdrVCXM",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "空澄雪奈o@伊弗利特",
+      "破道之九十@迦樓羅",
+      "慎真@利維坦",
+      "段藏@利維坦",
+      "Kaede@利維坦",
+      "扁包@巴哈姆特",
+      "Ryou@利維坦",
+      "夢璃@利維坦"
+    ],
+    "fight_id": 24,
+    "duration_ms": 871271,
+    "clear_dt_ms": 1779220234732,
+    "jobs": {
+      "空澄雪奈o@伊弗利特": "Scholar",
+      "破道之九十@迦樓羅": "Dancer",
+      "慎真@利維坦": "Viper",
+      "段藏@利維坦": "Paladin",
+      "Kaede@利維坦": "RedMage",
+      "扁包@巴哈姆特": "Warrior",
+      "Ryou@利維坦": "Astrologian",
+      "夢璃@利維坦": "Summoner"
+    }
   }
 ]
