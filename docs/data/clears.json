@@ -26974,5 +26974,61 @@
       "煞氣a達克@伊弗利特": "Paladin",
       "樹懶@鳳凰": "Bard"
     }
+  },
+  {
+    "code": "QNHjv1AaBCG7Pw2n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "阿熏@泰坦",
+      "Kfc炸薯條@奧汀",
+      "貝藜詩@伊弗利特",
+      "深昏睡@伊弗利特",
+      "維克·派金克@奧汀",
+      "希姆佐奈@伊弗利特",
+      "空澄雪奈o@伊弗利特",
+      "神影依@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 905085,
+    "clear_dt_ms": 1779168728178,
+    "jobs": {
+      "阿熏@泰坦": "WhiteMage",
+      "Kfc炸薯條@奧汀": "Gunbreaker",
+      "貝藜詩@伊弗利特": "Summoner",
+      "深昏睡@伊弗利特": "Samurai",
+      "維克·派金克@奧汀": "Bard",
+      "希姆佐奈@伊弗利特": "Warrior",
+      "空澄雪奈o@伊弗利特": "Scholar",
+      "神影依@巴哈姆特": "RedMage"
+    }
+  },
+  {
+    "code": "dLqjyxzbGH9JQ6Ag",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "柳如烟@伊弗利特",
+      "詠月@泰坦",
+      "Shano@泰坦",
+      "梅吉布拉德@伊弗利特",
+      "柯基犬@奧汀",
+      "校長四七@利維坦",
+      "Jm@巴哈姆特",
+      "邦邦邦@鳳凰"
+    ],
+    "fight_id": 19,
+    "duration_ms": 863300,
+    "clear_dt_ms": 1778007749680,
+    "jobs": {
+      "柳如烟@伊弗利特": "Monk",
+      "詠月@泰坦": "WhiteMage",
+      "Shano@泰坦": "Sage",
+      "梅吉布拉德@伊弗利特": "Bard",
+      "柯基犬@奧汀": "Paladin",
+      "校長四七@利維坦": "Warrior",
+      "Jm@巴哈姆特": "Ninja",
+      "邦邦邦@鳳凰": "Summoner"
+    }
   }
 ]
