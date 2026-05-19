@@ -1255,6 +1255,8 @@ def _is_tc(actors: list, servers: Optional[set] = None) -> bool:
 
     servers 為 None 時使用模組預設 TC_SERVERS（向後相容 GUI 呼叫）。
     """
+    if not actors:
+        return False
     s = servers if servers is not None else TC_SERVERS
     return any(a.get("server") in s for a in actors)
 
