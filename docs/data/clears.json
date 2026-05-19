@@ -26806,5 +26806,33 @@
       "鴨子丷@泰坦": "Paladin",
       "抹布@鳳凰": "Warrior"
     }
+  },
+  {
+    "code": "dHRB7WNKq4LVbp8y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Wqw@利維坦",
+      "八奈見杏菜@迦樓羅",
+      "呆呆笨笨@迦樓羅",
+      "灰燼@利維坦",
+      "布雷克毛@鳳凰",
+      "潔西卡@迦樓羅",
+      "休機司息室@迦樓羅",
+      "小阿呆@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 871345,
+    "clear_dt_ms": 1779158550861,
+    "jobs": {
+      "Wqw@利維坦": "Dancer",
+      "八奈見杏菜@迦樓羅": "Warrior",
+      "呆呆笨笨@迦樓羅": "Paladin",
+      "灰燼@利維坦": "Astrologian",
+      "布雷克毛@鳳凰": "Sage",
+      "潔西卡@迦樓羅": "Viper",
+      "休機司息室@迦樓羅": "RedMage",
+      "小阿呆@迦樓羅": "Monk"
+    }
   }
 ]
