@@ -28990,5 +28990,145 @@
       "湯少@巴哈姆特": "Machinist",
       "Mrken@巴哈姆特": "BlackMage"
     }
+  },
+  {
+    "code": "PaVgJZWvKqytCQFp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "流苏@伊弗利特",
+      "貓恩@迦樓羅",
+      "懶斯洛特@迦樓羅",
+      "丶yue@迦樓羅",
+      "糜咔@迦樓羅",
+      "蜜糖貓@伊弗利特",
+      "嘎哩@迦樓羅",
+      "檸檬ouo@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 983953,
+    "clear_dt_ms": 1779302280285,
+    "jobs": {
+      "流苏@伊弗利特": "Samurai",
+      "貓恩@迦樓羅": "Paladin",
+      "懶斯洛特@迦樓羅": "Warrior",
+      "丶yue@迦樓羅": "Sage",
+      "糜咔@迦樓羅": "Dancer",
+      "蜜糖貓@伊弗利特": "WhiteMage",
+      "嘎哩@迦樓羅": "BlackMage",
+      "檸檬ouo@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "PaVgJZWvKqytCQFp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "流苏@伊弗利特",
+      "貓恩@迦樓羅",
+      "懶斯洛特@迦樓羅",
+      "丶yue@迦樓羅",
+      "糜咔@迦樓羅",
+      "蜜糖貓@伊弗利特",
+      "嘎哩@迦樓羅",
+      "檸檬ouo@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 960653,
+    "clear_dt_ms": 1779306516258,
+    "jobs": {
+      "流苏@伊弗利特": "Samurai",
+      "貓恩@迦樓羅": "Paladin",
+      "懶斯洛特@迦樓羅": "Warrior",
+      "丶yue@迦樓羅": "Sage",
+      "糜咔@迦樓羅": "Dancer",
+      "蜜糖貓@伊弗利特": "WhiteMage",
+      "嘎哩@迦樓羅": "BlackMage",
+      "檸檬ouo@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "zKP8wL1jtYa3n9qH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "銀三@奧汀",
+      "不要吵@利維坦",
+      "九九@利維坦",
+      "哈基de@利維坦",
+      "千代@利維坦",
+      "大野@利維坦",
+      "晞洛@利維坦",
+      "Mikiya@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 985062,
+    "clear_dt_ms": 1779294243594,
+    "jobs": {
+      "銀三@奧汀": "Monk",
+      "不要吵@利維坦": "Machinist",
+      "九九@利維坦": "BlackMage",
+      "哈基de@利維坦": "DarkKnight",
+      "千代@利維坦": "Paladin",
+      "大野@利維坦": "Dragoon",
+      "晞洛@利維坦": "Sage",
+      "Mikiya@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "zKP8wL1jtYa3n9qH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "銀三@奧汀",
+      "九九@利維坦",
+      "七詩零@利維坦",
+      "哈基de@利維坦",
+      "千代@利維坦",
+      "大野@利維坦",
+      "晞洛@利維坦",
+      "Mikiya@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 972592,
+    "clear_dt_ms": 1779298590717,
+    "jobs": {
+      "銀三@奧汀": "Monk",
+      "九九@利維坦": "BlackMage",
+      "七詩零@利維坦": "Machinist",
+      "哈基de@利維坦": "DarkKnight",
+      "千代@利維坦": "Paladin",
+      "大野@利維坦": "Dragoon",
+      "晞洛@利維坦": "Sage",
+      "Mikiya@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "L8kZDQF6ftmyhvjR",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "梅幽芊@伊弗利特",
+      "芋泥休斯頓@迦樓羅",
+      "咖哩暴龍@迦樓羅",
+      "Dodo@利維坦",
+      "帽子給我好嗎@伊弗利特",
+      "Exsalt@鳳凰",
+      "繆雅菈@鳳凰",
+      "銀鈴@伊弗利特"
+    ],
+    "fight_id": 116,
+    "duration_ms": 862413,
+    "clear_dt_ms": 1773337395097,
+    "jobs": {
+      "梅幽芊@伊弗利特": "Scholar",
+      "芋泥休斯頓@迦樓羅": "Dragoon",
+      "咖哩暴龍@迦樓羅": "Summoner",
+      "Dodo@利維坦": "BlackMage",
+      "帽子給我好嗎@伊弗利特": "Paladin",
+      "Exsalt@鳳凰": "DarkKnight",
+      "繆雅菈@鳳凰": "Dancer",
+      "銀鈴@伊弗利特": "WhiteMage"
+    }
   }
 ]
