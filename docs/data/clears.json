@@ -27646,5 +27646,173 @@
       "Ryou@利維坦": "Astrologian",
       "夢璃@利維坦": "Summoner"
     }
+  },
+  {
+    "code": "Y23XchpMCKAf8k19",
+    "title": "絕神兵第三、第四次消化",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "熱到燙的暖男@迦樓羅",
+      "小芊醬@伊弗利特",
+      "笭@迦樓羅",
+      "Kaede@利維坦",
+      "斯貝德@利維坦",
+      "拉肥叉燒@巴哈姆特",
+      "Winny@利維坦",
+      "塔皮歐卡@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 865653,
+    "clear_dt_ms": 1779266511319,
+    "jobs": {
+      "熱到燙的暖男@迦樓羅": "Machinist",
+      "小芊醬@伊弗利特": "Gunbreaker",
+      "笭@迦樓羅": "BlackMage",
+      "Kaede@利維坦": "RedMage",
+      "斯貝德@利維坦": "Monk",
+      "拉肥叉燒@巴哈姆特": "Scholar",
+      "Winny@利維坦": "WhiteMage",
+      "塔皮歐卡@鳳凰": "DarkKnight"
+    }
+  },
+  {
+    "code": "Y23XchpMCKAf8k19",
+    "title": "絕神兵第三、第四次消化",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "法國我@奧汀",
+      "滑水@奧汀",
+      "Hua'花@伊弗利特",
+      "洋月@巴哈姆特",
+      "斯貝德@利維坦",
+      "Vieg@伊弗利特",
+      "空澄雪奈o@伊弗利特",
+      "柯基犬@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 860125,
+    "clear_dt_ms": 1779270194388,
+    "jobs": {
+      "法國我@奧汀": "Dragoon",
+      "滑水@奧汀": "Astrologian",
+      "Hua'花@伊弗利特": "Dancer",
+      "洋月@巴哈姆特": "DarkKnight",
+      "斯貝德@利維坦": "Monk",
+      "Vieg@伊弗利特": "Summoner",
+      "空澄雪奈o@伊弗利特": "Scholar",
+      "柯基犬@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "7p3Z1KFgmTMdHXBN",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "夢幻o飄@迦樓羅",
+      "Ncat@奧汀",
+      "櫻世@迦樓羅",
+      "星宿及月@迦樓羅",
+      "夜斬風@巴哈姆特",
+      "Supra@奧汀",
+      "Gofy@巴哈姆特",
+      "閻龍@利維坦"
+    ],
+    "fight_id": 106,
+    "duration_ms": 991578,
+    "clear_dt_ms": 1778166552054,
+    "jobs": {
+      "夢幻o飄@迦樓羅": "Bard",
+      "Ncat@奧汀": "Astrologian",
+      "櫻世@迦樓羅": "BlackMage",
+      "星宿及月@迦樓羅": "Ninja",
+      "夜斬風@巴哈姆特": "Paladin",
+      "Supra@奧汀": "Pictomancer",
+      "Gofy@巴哈姆特": "Sage",
+      "閻龍@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "7p3Z1KFgmTMdHXBN",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "兔田配口茶@伊弗利特",
+      "Raiden@鳳凰",
+      "古·拉哈堤婭@伊弗利特",
+      "櫻世@迦樓羅",
+      "夜斬風@巴哈姆特",
+      "Supra@奧汀",
+      "Gofy@巴哈姆特",
+      "閻龍@利維坦"
+    ],
+    "fight_id": 187,
+    "duration_ms": 975655,
+    "clear_dt_ms": 1778251797597,
+    "jobs": {
+      "兔田配口茶@伊弗利特": "Astrologian",
+      "Raiden@鳳凰": "Samurai",
+      "古·拉哈堤婭@伊弗利特": "Bard",
+      "櫻世@迦樓羅": "BlackMage",
+      "夜斬風@巴哈姆特": "Paladin",
+      "Supra@奧汀": "Pictomancer",
+      "Gofy@巴哈姆特": "Sage",
+      "閻龍@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "7p3Z1KFgmTMdHXBN",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "角卷綿芽@伊弗利特",
+      "Raiden@鳳凰",
+      "古·拉哈堤婭@伊弗利特",
+      "櫻世@迦樓羅",
+      "全村希望@伊弗利特",
+      "Supra@奧汀",
+      "Gofy@巴哈姆特",
+      "閻龍@利維坦"
+    ],
+    "fight_id": 237,
+    "duration_ms": 988945,
+    "clear_dt_ms": 1778335571389,
+    "jobs": {
+      "角卷綿芽@伊弗利特": "Paladin",
+      "Raiden@鳳凰": "Samurai",
+      "古·拉哈堤婭@伊弗利特": "Bard",
+      "櫻世@迦樓羅": "BlackMage",
+      "全村希望@伊弗利特": "WhiteMage",
+      "Supra@奧汀": "Pictomancer",
+      "Gofy@巴哈姆特": "Sage",
+      "閻龍@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "7p3Z1KFgmTMdHXBN",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "角卷綿芽@伊弗利特",
+      "Raiden@鳳凰",
+      "古·拉哈堤婭@伊弗利特",
+      "櫻世@迦樓羅",
+      "全村希望@伊弗利特",
+      "Supra@奧汀",
+      "Gofy@巴哈姆特",
+      "閻龍@利維坦"
+    ],
+    "fight_id": 241,
+    "duration_ms": 1000045,
+    "clear_dt_ms": 1778338031717,
+    "jobs": {
+      "角卷綿芽@伊弗利特": "Paladin",
+      "Raiden@鳳凰": "Samurai",
+      "古·拉哈堤婭@伊弗利特": "Bard",
+      "櫻世@迦樓羅": "BlackMage",
+      "全村希望@伊弗利特": "WhiteMage",
+      "Supra@奧汀": "Pictomancer",
+      "Gofy@巴哈姆特": "Sage",
+      "閻龍@利維坦": "DarkKnight"
+    }
   }
 ]
