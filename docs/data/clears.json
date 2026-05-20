@@ -29130,5 +29130,89 @@
       "繆雅菈@鳳凰": "Dancer",
       "銀鈴@伊弗利特": "WhiteMage"
     }
+  },
+  {
+    "code": "6dNw1BaWKGqYcnAb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "補月@利維坦",
+      "光呆典獄長@利維坦",
+      "梅普露@泰坦",
+      "水果糖@奧汀",
+      "飛鴻踏雪@利維坦",
+      "呆萌白@利維坦",
+      "撒咖哪桑@利維坦",
+      "Kada@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 959358,
+    "clear_dt_ms": 1779288266508,
+    "jobs": {
+      "補月@利維坦": "Dragoon",
+      "光呆典獄長@利維坦": "Monk",
+      "梅普露@泰坦": "WhiteMage",
+      "水果糖@奧汀": "Paladin",
+      "飛鴻踏雪@利維坦": "Machinist",
+      "呆萌白@利維坦": "Warrior",
+      "撒咖哪桑@利維坦": "Pictomancer",
+      "Kada@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "6dNw1BaWKGqYcnAb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "補月@利維坦",
+      "光呆典獄長@利維坦",
+      "梅普露@泰坦",
+      "水果糖@奧汀",
+      "飛鴻踏雪@利維坦",
+      "呆萌白@利維坦",
+      "撒咖哪桑@利維坦",
+      "Kada@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 964719,
+    "clear_dt_ms": 1779290289595,
+    "jobs": {
+      "補月@利維坦": "Dragoon",
+      "光呆典獄長@利維坦": "Monk",
+      "梅普露@泰坦": "WhiteMage",
+      "水果糖@奧汀": "Paladin",
+      "飛鴻踏雪@利維坦": "Machinist",
+      "呆萌白@利維坦": "Warrior",
+      "撒咖哪桑@利維坦": "Pictomancer",
+      "Kada@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "6dNw1BaWKGqYcnAb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "補月@利維坦",
+      "光呆典獄長@利維坦",
+      "梅普露@泰坦",
+      "水果糖@奧汀",
+      "飛鴻踏雪@利維坦",
+      "呆萌白@利維坦",
+      "撒咖哪桑@利維坦",
+      "Kada@利維坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 973655,
+    "clear_dt_ms": 1779292576207,
+    "jobs": {
+      "補月@利維坦": "Dragoon",
+      "光呆典獄長@利維坦": "Monk",
+      "梅普露@泰坦": "WhiteMage",
+      "水果糖@奧汀": "Paladin",
+      "飛鴻踏雪@利維坦": "Machinist",
+      "呆萌白@利維坦": "Warrior",
+      "撒咖哪桑@利維坦": "Pictomancer",
+      "Kada@利維坦": "Sage"
+    }
   }
 ]
