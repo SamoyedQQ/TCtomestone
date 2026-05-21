@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write           # 允許 bot 提交並推送資料更新
 
+concurrency:
+  group: update-data
+  cancel-in-progress: false  # 排隊等候，不取消進行中的執行
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -42,6 +46,6 @@ jobs:
             echo "{\"updated_at\":\"$(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M')\"}" > docs/data/meta.json
             git add docs/data/meta.json
             git commit -m "data: auto-update $(date -u '+%Y-%m-%d %H:%M UTC')" &&
-            git pull --rebase origin master &&
+            git pull --no-rebase origin master &&
             git push
           fi
