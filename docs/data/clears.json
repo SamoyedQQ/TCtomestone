@@ -29214,5 +29214,33 @@
       "撒咖哪桑@利維坦": "Pictomancer",
       "Kada@利維坦": "Sage"
     }
+  },
+  {
+    "code": "MTN1qLCY7mKPZG2B",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嵐芽@伊弗利特",
+      "椒麻雞@巴哈姆特",
+      "群青日和@泰坦",
+      "蕾爾緹暮暮@巴哈姆特",
+      "Sherry@巴哈姆特",
+      "想睡覺的熊貓@巴哈姆特",
+      "月月丶@利維坦",
+      "Yanjan@伊弗利特"
+    ],
+    "fight_id": 39,
+    "duration_ms": 964704,
+    "clear_dt_ms": 1779302327318,
+    "jobs": {
+      "嵐芽@伊弗利特": "Paladin",
+      "椒麻雞@巴哈姆特": "Samurai",
+      "群青日和@泰坦": "DarkKnight",
+      "蕾爾緹暮暮@巴哈姆特": "Dancer",
+      "Sherry@巴哈姆特": "BlackMage",
+      "想睡覺的熊貓@巴哈姆特": "Dragoon",
+      "月月丶@利維坦": "Astrologian",
+      "Yanjan@伊弗利特": "Sage"
+    }
   }
 ]
