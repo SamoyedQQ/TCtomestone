@@ -30362,5 +30362,173 @@
       "銀三@奧汀": "RedMage",
       "七詩零@利維坦": "Machinist"
     }
+  },
+  {
+    "code": "pfzJtyF67gYKH8Gm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Arasxi@奧汀",
+      "小落奈@巴哈姆特",
+      "芙莉蓮霧@奧汀",
+      "Sk@迦樓羅",
+      "伊賀栖寅@伊弗利特",
+      "西西西西@巴哈姆特",
+      "Aestus@迦樓羅",
+      "Wacoo@迦樓羅"
+    ],
+    "fight_id": 78,
+    "duration_ms": 987410,
+    "clear_dt_ms": 1779383739352,
+    "jobs": {
+      "Arasxi@奧汀": "Monk",
+      "小落奈@巴哈姆特": "Paladin",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "Sk@迦樓羅": "Dancer",
+      "伊賀栖寅@伊弗利特": "Samurai",
+      "西西西西@巴哈姆特": "DarkKnight",
+      "Aestus@迦樓羅": "Sage",
+      "Wacoo@迦樓羅": "WhiteMage"
+    }
+  },
+  {
+    "code": "BQMvP4xwcL8HDr3n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "愛食素蝦麵@伊弗利特",
+      "拉麵@利維坦",
+      "娜娜漠烏薩奇@巴哈姆特",
+      "雃@巴哈姆特",
+      "牙勒牙哩@巴哈姆特",
+      "Sasa微微@伊弗利特",
+      "拉la@伊弗利特",
+      "夜雨@巴哈姆特"
+    ],
+    "fight_id": 23,
+    "duration_ms": 977727,
+    "clear_dt_ms": 1779382699822,
+    "jobs": {
+      "愛食素蝦麵@伊弗利特": "Warrior",
+      "拉麵@利維坦": "Gunbreaker",
+      "娜娜漠烏薩奇@巴哈姆特": "WhiteMage",
+      "雃@巴哈姆特": "Viper",
+      "牙勒牙哩@巴哈姆特": "BlackMage",
+      "Sasa微微@伊弗利特": "Dancer",
+      "拉la@伊弗利特": "Dragoon",
+      "夜雨@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "TPHzCxXVyvqknYWf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "Xinsa@迦樓羅",
+      "大野@利維坦",
+      "哈基de@利維坦",
+      "銀三@奧汀",
+      "Mikiya@利維坦",
+      "七詩零@利維坦",
+      "千代@利維坦",
+      "晞洛@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 961184,
+    "clear_dt_ms": 1779381889372,
+    "jobs": {
+      "Xinsa@迦樓羅": "BlackMage",
+      "大野@利維坦": "Dragoon",
+      "哈基de@利維坦": "DarkKnight",
+      "銀三@奧汀": "Monk",
+      "Mikiya@利維坦": "Astrologian",
+      "七詩零@利維坦": "Machinist",
+      "千代@利維坦": "Paladin",
+      "晞洛@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "K7WkF9gacCGAwyVP",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "最初的聲音@迦樓羅",
+      "御子飯糰@鳳凰",
+      "Oftum@鳳凰",
+      "梅洛洛@利維坦",
+      "沙龍怕鼠@巴哈姆特",
+      "積美希@利維坦",
+      "龍龍@奧汀",
+      "Soyo虧虧@利維坦"
+    ],
+    "fight_id": 178,
+    "duration_ms": 1058190,
+    "clear_dt_ms": 1779385761387,
+    "jobs": {
+      "最初的聲音@迦樓羅": "Sage",
+      "御子飯糰@鳳凰": "Bard",
+      "Oftum@鳳凰": "Summoner",
+      "梅洛洛@利維坦": "Scholar",
+      "沙龍怕鼠@巴哈姆特": "Paladin",
+      "積美希@利維坦": "Warrior",
+      "龍龍@奧汀": "WhiteMage",
+      "Soyo虧虧@利維坦": "Ninja"
+    }
+  },
+  {
+    "code": "JGRMTjBQydLP3kmg",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "狼少兒@鳳凰",
+      "Foobar@鳳凰",
+      "太一@奧汀",
+      "角卷綿芽@伊弗利特",
+      "夢幻o飄@迦樓羅",
+      "乂罐頭乂@泰坦",
+      "瑪瑪@泰坦",
+      "魔法小靈貓@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 983487,
+    "clear_dt_ms": 1776966959008,
+    "jobs": {
+      "狼少兒@鳳凰": "Monk",
+      "Foobar@鳳凰": "Scholar",
+      "太一@奧汀": "Samurai",
+      "角卷綿芽@伊弗利特": "Paladin",
+      "夢幻o飄@迦樓羅": "Bard",
+      "乂罐頭乂@泰坦": "WhiteMage",
+      "瑪瑪@泰坦": "DarkKnight",
+      "魔法小靈貓@迦樓羅": "RedMage"
+    }
+  },
+  {
+    "code": "NAwhg9rmXfMbnvax",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蘇幽璃@奧汀",
+      "卍乂糯米乂卍@鳳凰",
+      "得到寬恕的憾@鳳凰",
+      "夜小淚@利維坦",
+      "戴達羅斯@迦樓羅",
+      "Lavid@鳳凰",
+      "熊貓@利維坦",
+      "星屑的懶狗卷@伊弗利特"
+    ],
+    "fight_id": 24,
+    "duration_ms": 947946,
+    "clear_dt_ms": 1774541417903,
+    "jobs": {
+      "蘇幽璃@奧汀": "BlackMage",
+      "卍乂糯米乂卍@鳳凰": "Sage",
+      "得到寬恕的憾@鳳凰": "Pictomancer",
+      "夜小淚@利維坦": "Dancer",
+      "戴達羅斯@迦樓羅": "Warrior",
+      "Lavid@鳳凰": "Gunbreaker",
+      "熊貓@利維坦": "WhiteMage",
+      "星屑的懶狗卷@伊弗利特": "Samurai"
+    }
   }
 ]
