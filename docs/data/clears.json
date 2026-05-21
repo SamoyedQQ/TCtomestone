@@ -30530,5 +30530,61 @@
       "熊貓@利維坦": "WhiteMage",
       "星屑的懶狗卷@伊弗利特": "Samurai"
     }
+  },
+  {
+    "code": "3VjMH8vDzALXmn4F",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "月下之影@鳳凰",
+      "樺璘@迦樓羅",
+      "我壞嘛@伊弗利特",
+      "Dreamy@迦樓羅",
+      "D·咕咕嘎嘎@伊弗利特",
+      "塔拉妮絲@巴哈姆特",
+      "阿公穿肚兜跑@利維坦",
+      "Adai@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 863187,
+    "clear_dt_ms": 1777911928533,
+    "jobs": {
+      "月下之影@鳳凰": "Dragoon",
+      "樺璘@迦樓羅": "Dancer",
+      "我壞嘛@伊弗利特": "Monk",
+      "Dreamy@迦樓羅": "Sage",
+      "D·咕咕嘎嘎@伊弗利特": "WhiteMage",
+      "塔拉妮絲@巴哈姆特": "Warrior",
+      "阿公穿肚兜跑@利維坦": "RedMage",
+      "Adai@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "DgRCtwNq3TGP948W",
+    "title": "忘記罪",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Loklok@伊弗利特",
+      "桐生桔梗@迦樓羅",
+      "小雞@鳳凰",
+      "七十七@巴哈姆特",
+      "阿·瓦諾@奧汀",
+      "米t@鳳凰",
+      "星也@迦樓羅",
+      "二v@迦樓羅"
+    ],
+    "fight_id": 31,
+    "duration_ms": 972667,
+    "clear_dt_ms": 1773337488206,
+    "jobs": {
+      "Loklok@伊弗利特": "Sage",
+      "桐生桔梗@迦樓羅": "DarkKnight",
+      "小雞@鳳凰": "Pictomancer",
+      "七十七@巴哈姆特": "BlackMage",
+      "阿·瓦諾@奧汀": "Dancer",
+      "米t@鳳凰": "Paladin",
+      "星也@迦樓羅": "Dragoon",
+      "二v@迦樓羅": "Astrologian"
+    }
   }
 ]
