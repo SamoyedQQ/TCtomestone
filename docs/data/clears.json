@@ -29270,5 +29270,285 @@
       "塔皮歐卡@鳳凰": "DarkKnight",
       "九劈@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "9PTCq1ADXxWQN27y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "貓羊@迦樓羅",
+      "Begin雄@迦樓羅",
+      "Ukaung@迦樓羅",
+      "凡塔希雅@迦樓羅",
+      "Iehtan@奧汀",
+      "賭拉@迦樓羅",
+      "三角初音@伊弗利特",
+      "有生命鮮奶茶@鳳凰"
+    ],
+    "fight_id": 24,
+    "duration_ms": 983745,
+    "clear_dt_ms": 1779358795692,
+    "jobs": {
+      "貓羊@迦樓羅": "Scholar",
+      "Begin雄@迦樓羅": "Paladin",
+      "Ukaung@迦樓羅": "BlackMage",
+      "凡塔希雅@迦樓羅": "DarkKnight",
+      "Iehtan@奧汀": "WhiteMage",
+      "賭拉@迦樓羅": "Pictomancer",
+      "三角初音@伊弗利特": "Dancer",
+      "有生命鮮奶茶@鳳凰": "Samurai"
+    }
+  },
+  {
+    "code": "BZ71xNVmhJKT2pGR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "奶皇包@伊弗利特",
+      "鳩可@迦樓羅",
+      "Eru@利維坦",
+      "哈哈傻瓜蛋@利維坦",
+      "東風谷早苗@鳳凰",
+      "蜜絲彼河@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1130755,
+    "clear_dt_ms": 1772803802972,
+    "jobs": {
+      "奶皇包@伊弗利特": "Reaper",
+      "鳩可@迦樓羅": "Astrologian",
+      "Eru@利維坦": "Dragoon",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "BZ71xNVmhJKT2pGR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "奶皇包@伊弗利特",
+      "鳩可@迦樓羅",
+      "Eru@利維坦",
+      "哈哈傻瓜蛋@利維坦",
+      "東風谷早苗@鳳凰",
+      "蜜絲彼河@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1136603,
+    "clear_dt_ms": 1772805214588,
+    "jobs": {
+      "奶皇包@伊弗利特": "Reaper",
+      "鳩可@迦樓羅": "Astrologian",
+      "Eru@利維坦": "Dragoon",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "N6ghJAPb9YCZ1K4v",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "奶皇包@伊弗利特",
+      "東風谷早苗@鳳凰",
+      "哈哈傻瓜蛋@利維坦",
+      "Eru@利維坦",
+      "鳩可@迦樓羅",
+      "蜜絲彼河@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1136234,
+    "clear_dt_ms": 1772715503527,
+    "jobs": {
+      "奶皇包@伊弗利特": "Reaper",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "Eru@利維坦": "Dragoon",
+      "鳩可@迦樓羅": "Astrologian",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "N6ghJAPb9YCZ1K4v",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "奶皇包@伊弗利特",
+      "路克@迦樓羅",
+      "東風谷早苗@鳳凰",
+      "哈哈傻瓜蛋@利維坦",
+      "Eru@利維坦",
+      "鳩可@迦樓羅",
+      "蜜絲彼河@鳳凰",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1135194,
+    "clear_dt_ms": 1772719932890,
+    "jobs": {
+      "奶皇包@伊弗利特": "Reaper",
+      "路克@迦樓羅": "Paladin",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "Eru@利維坦": "Dragoon",
+      "鳩可@迦樓羅": "Astrologian",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "N6ghJAPb9YCZ1K4v",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "奶皇包@伊弗利特",
+      "東風谷早苗@鳳凰",
+      "哈哈傻瓜蛋@利維坦",
+      "Eru@利維坦",
+      "鳩可@迦樓羅",
+      "蜜絲彼河@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1135243,
+    "clear_dt_ms": 1772722330204,
+    "jobs": {
+      "奶皇包@伊弗利特": "Reaper",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "Eru@利維坦": "Dragoon",
+      "鳩可@迦樓羅": "Astrologian",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "PKpFABCNa3RxWG7q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "Eru@利維坦",
+      "哈哈傻瓜蛋@利維坦",
+      "東風谷早苗@鳳凰",
+      "鳩可@迦樓羅",
+      "蜜絲彼河@鳳凰",
+      "奶皇包@伊弗利特",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1141038,
+    "clear_dt_ms": 1772629004076,
+    "jobs": {
+      "Eru@利維坦": "Dragoon",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "鳩可@迦樓羅": "Astrologian",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "奶皇包@伊弗利特": "Reaper",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "RD7TMg8kvpw3K29A",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "Eru@利維坦",
+      "奶皇包@伊弗利特",
+      "鳩可@迦樓羅",
+      "哈哈傻瓜蛋@利維坦",
+      "蜜絲彼河@鳳凰",
+      "東風谷早苗@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1129904,
+    "clear_dt_ms": 1772886596436,
+    "jobs": {
+      "Eru@利維坦": "Dragoon",
+      "奶皇包@伊弗利特": "Reaper",
+      "鳩可@迦樓羅": "Astrologian",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "RD7TMg8kvpw3K29A",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "Eru@利維坦",
+      "奶皇包@伊弗利特",
+      "鳩可@迦樓羅",
+      "哈哈傻瓜蛋@利維坦",
+      "蜜絲彼河@鳳凰",
+      "東風谷早苗@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1134169,
+    "clear_dt_ms": 1772888014229,
+    "jobs": {
+      "Eru@利維坦": "Dragoon",
+      "奶皇包@伊弗利特": "Reaper",
+      "鳩可@迦樓羅": "Astrologian",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "RD7TMg8kvpw3K29A",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "Eru@利維坦",
+      "奶皇包@伊弗利特",
+      "鳩可@迦樓羅",
+      "哈哈傻瓜蛋@利維坦",
+      "蜜絲彼河@鳳凰",
+      "東風谷早苗@鳳凰",
+      "死人一個@泰坦",
+      "Season@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1129708,
+    "clear_dt_ms": 1772889208326,
+    "jobs": {
+      "Eru@利維坦": "Dragoon",
+      "奶皇包@伊弗利特": "Reaper",
+      "鳩可@迦樓羅": "Astrologian",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "蜜絲彼河@鳳凰": "Gunbreaker",
+      "東風谷早苗@鳳凰": "BlackMage",
+      "死人一個@泰坦": "Paladin",
+      "Season@巴哈姆特": "Scholar"
+    }
   }
 ]
