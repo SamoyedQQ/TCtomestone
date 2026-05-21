@@ -29242,5 +29242,33 @@
       "月月丶@利維坦": "Astrologian",
       "Yanjan@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "W7ChGH6zFqQYfXwL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "哎低@鳳凰",
+      "竹語@鳳凰",
+      "Jam芭樂@鳳凰",
+      "疾之日@迦樓羅",
+      "北達@鳳凰",
+      "永恆詩歌@鳳凰",
+      "塔皮歐卡@鳳凰",
+      "九劈@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 891047,
+    "clear_dt_ms": 1776616973338,
+    "jobs": {
+      "哎低@鳳凰": "Samurai",
+      "竹語@鳳凰": "Sage",
+      "Jam芭樂@鳳凰": "Astrologian",
+      "疾之日@迦樓羅": "Paladin",
+      "北達@鳳凰": "Ninja",
+      "永恆詩歌@鳳凰": "Summoner",
+      "塔皮歐卡@鳳凰": "DarkKnight",
+      "九劈@鳳凰": "Dancer"
+    }
   }
 ]
