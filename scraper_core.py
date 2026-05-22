@@ -768,7 +768,7 @@ class Scraper:
                 # ── Early-exit 機制（方法二：處理前 probe）─────────────────────
                 # 若本頁首筆 TC report 已在 seen_codes → 有機會跳過後續頁面
                 first_tc_rep = next(
-                    (r for r in reps if _is_tc(r["masterData"]["actors"], self._tc_servers)), None
+                    (r for r in reps if r.get("masterData") and _is_tc(r["masterData"]["actors"], self._tc_servers)), None
                 )
                 if (not self._stop.is_set()
                         and first_tc_rep is not None
@@ -792,7 +792,7 @@ class Scraper:
                         probe_reps = probe["reportData"]["reports"]["data"]
                         # 檢查 probe 頁是否有任何新 TC（不只看第一筆）
                         has_new_tc = any(
-                            _is_tc(r["masterData"]["actors"], self._tc_servers)
+                            r.get("masterData") and _is_tc(r["masterData"]["actors"], self._tc_servers)
                             and r["code"] not in seen_codes
                             for r in probe_reps
                         )
