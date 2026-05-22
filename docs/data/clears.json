@@ -30586,5 +30586,117 @@
       "星也@迦樓羅": "Dragoon",
       "二v@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "MtYNbax4rBk8f3mg",
+    "title": "绝境战（旧版本）",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "咖咖哩@迦樓羅",
+      "巴尾的熊@鳳凰",
+      "白藍樂事人@巴哈姆特",
+      "阿公穿肚兜跑@利維坦",
+      "米粉兔子@鳳凰",
+      "佐藤麻衣@巴哈姆特",
+      "Wiee@伊弗利特",
+      "天使之吻@迦樓羅"
+    ],
+    "fight_id": 35,
+    "duration_ms": 971282,
+    "clear_dt_ms": 1779395055963,
+    "jobs": {
+      "咖咖哩@迦樓羅": "Sage",
+      "巴尾的熊@鳳凰": "BlackMage",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "阿公穿肚兜跑@利維坦": "Ninja",
+      "米粉兔子@鳳凰": "WhiteMage",
+      "佐藤麻衣@巴哈姆特": "Dancer",
+      "Wiee@伊弗利特": "Dragoon",
+      "天使之吻@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "6aQcxhRPz4LvHTGb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Nemo捏摸@利維坦",
+      "烏丸丸@巴哈姆特",
+      "神虐兒@巴哈姆特",
+      "夢璃@利維坦",
+      "Kaede@利維坦",
+      "慎真@利維坦",
+      "焦糖的爸@鳳凰",
+      "Jm@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 870708,
+    "clear_dt_ms": 1779390080848,
+    "jobs": {
+      "Nemo捏摸@利維坦": "Sage",
+      "烏丸丸@巴哈姆特": "Monk",
+      "神虐兒@巴哈姆特": "Dancer",
+      "夢璃@利維坦": "Scholar",
+      "Kaede@利維坦": "RedMage",
+      "慎真@利維坦": "Warrior",
+      "焦糖的爸@鳳凰": "Paladin",
+      "Jm@巴哈姆特": "Ninja"
+    }
+  },
+  {
+    "code": "4DHdjGhXKyMqWJPV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "卡卡的我@奧汀",
+      "金金喵@伊弗利特",
+      "聖月@利維坦",
+      "赫龍@迦樓羅",
+      "Cygnus@奧汀",
+      "歐買尬@巴哈姆特",
+      "未來歌姬@迦樓羅",
+      "Alune@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 958267,
+    "clear_dt_ms": 1779378809765,
+    "jobs": {
+      "卡卡的我@奧汀": "Dragoon",
+      "金金喵@伊弗利特": "Dancer",
+      "聖月@利維坦": "Astrologian",
+      "赫龍@迦樓羅": "Sage",
+      "Cygnus@奧汀": "Paladin",
+      "歐買尬@巴哈姆特": "BlackMage",
+      "未來歌姬@迦樓羅": "Monk",
+      "Alune@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "4DHdjGhXKyMqWJPV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "卡卡的我@奧汀",
+      "金金喵@伊弗利特",
+      "聖月@利維坦",
+      "赫龍@迦樓羅",
+      "Cygnus@奧汀",
+      "歐買尬@巴哈姆特",
+      "未來歌姬@迦樓羅",
+      "Alune@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 962441,
+    "clear_dt_ms": 1779380394632,
+    "jobs": {
+      "卡卡的我@奧汀": "Dragoon",
+      "金金喵@伊弗利特": "Dancer",
+      "聖月@利維坦": "Astrologian",
+      "赫龍@迦樓羅": "Sage",
+      "Cygnus@奧汀": "Paladin",
+      "歐買尬@巴哈姆特": "BlackMage",
+      "未來歌姬@迦樓羅": "Monk",
+      "Alune@利維坦": "Warrior"
+    }
   }
 ]
