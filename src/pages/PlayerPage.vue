@@ -95,6 +95,8 @@ function getRows(encId, best, jobBests) {
         >← 返回{{ backLabel }}</button>
       </div>
 
+      <div class="player-profile-inner">
+
       <div v-if="app.loading.value" class="status-msg">載入中…</div>
 
       <template v-else-if="app.playerProfile.value">
@@ -242,6 +244,8 @@ function getRows(encId, best, jobBests) {
       </template>
 
       <div v-else class="status-msg">找不到此玩家的紀錄</div>
+
+      </div> <!-- /player-profile-inner -->
     </template>
 
   </div>

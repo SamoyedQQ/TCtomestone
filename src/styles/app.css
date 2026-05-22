@@ -653,7 +653,11 @@ tbody td {
 /* ── Player Page ────────────────────────────────────────── */
 
 .player-page {
+}
+
+.player-profile-inner {
   max-width: 900px;
+  margin: 0 auto;
 }
 
 .search-row {
