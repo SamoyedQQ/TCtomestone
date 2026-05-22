@@ -30698,5 +30698,33 @@
       "未來歌姬@迦樓羅": "Monk",
       "Alune@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "a91xn3KTkHD4ZLFh",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "戀上十香@迦樓羅",
+      "Sensei@伊弗利特",
+      "Niness@迦樓羅",
+      "絲珥忒@伊弗利特",
+      "汍丸@迦樓羅",
+      "Tkl@伊弗利特",
+      "太初@巴哈姆特",
+      "犬寄咲@伊弗利特"
+    ],
+    "fight_id": 31,
+    "duration_ms": 852263,
+    "clear_dt_ms": 1779379515035,
+    "jobs": {
+      "戀上十香@迦樓羅": "Dancer",
+      "Sensei@伊弗利特": "Summoner",
+      "Niness@迦樓羅": "DarkKnight",
+      "絲珥忒@伊弗利特": "Paladin",
+      "汍丸@迦樓羅": "Sage",
+      "Tkl@伊弗利特": "Samurai",
+      "太初@巴哈姆特": "Dragoon",
+      "犬寄咲@伊弗利特": "WhiteMage"
+    }
   }
 ]
