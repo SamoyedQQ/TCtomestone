@@ -32462,5 +32462,117 @@
       "荔枝羊@伊弗利特": "DarkKnight",
       "拉拉風@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "V8tY1JQ4zTr6BfHg",
+    "title": "0523",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "樹懶@鳳凰",
+      "安迪歐@鳳凰",
+      "夏夕夏景@伊弗利特",
+      "寐瑄@迦樓羅",
+      "乂卍居媽卍乂@鳳凰",
+      "Yukii@利維坦",
+      "Natt@鳳凰",
+      "眾天月靈@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1142184,
+    "clear_dt_ms": 1779542604111,
+    "jobs": {
+      "樹懶@鳳凰": "Bard",
+      "安迪歐@鳳凰": "DarkKnight",
+      "夏夕夏景@伊弗利特": "Sage",
+      "寐瑄@迦樓羅": "Pictomancer",
+      "乂卍居媽卍乂@鳳凰": "Gunbreaker",
+      "Yukii@利維坦": "Monk",
+      "Natt@鳳凰": "Ninja",
+      "眾天月靈@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "pzPK2TGmrJXjf3w7",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "酉星酉星口巴@迦樓羅",
+      "Kinako@鳳凰",
+      "伊妮雅絲@伊弗利特",
+      "黃色小惡魔@利維坦",
+      "虛零@鳳凰",
+      "有生命鮮奶茶@鳳凰",
+      "愛德大魔王@利維坦",
+      "Ayaane@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 996127,
+    "clear_dt_ms": 1779516305941,
+    "jobs": {
+      "酉星酉星口巴@迦樓羅": "Scholar",
+      "Kinako@鳳凰": "DarkKnight",
+      "伊妮雅絲@伊弗利特": "Paladin",
+      "黃色小惡魔@利維坦": "Pictomancer",
+      "虛零@鳳凰": "Astrologian",
+      "有生命鮮奶茶@鳳凰": "Samurai",
+      "愛德大魔王@利維坦": "Ninja",
+      "Ayaane@鳳凰": "Bard"
+    }
+  },
+  {
+    "code": "k4ZnYLDFrMaJpQx6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "可怖呆呆獸@巴哈姆特",
+      "白藍樂事人@巴哈姆特",
+      "暗影牙叉@伊弗利特",
+      "真白瑠璃@伊弗利特",
+      "阿萬音鈴羽@利維坦",
+      "吉備團子@巴哈姆特",
+      "Bbjj@奧汀",
+      "水dd滴@奧汀"
+    ],
+    "fight_id": 41,
+    "duration_ms": 972054,
+    "clear_dt_ms": 1779541582481,
+    "jobs": {
+      "可怖呆呆獸@巴哈姆特": "WhiteMage",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "暗影牙叉@伊弗利特": "Dancer",
+      "真白瑠璃@伊弗利特": "BlackMage",
+      "阿萬音鈴羽@利維坦": "Warrior",
+      "吉備團子@巴哈姆特": "Sage",
+      "Bbjj@奧汀": "Samurai",
+      "水dd滴@奧汀": "Ninja"
+    }
+  },
+  {
+    "code": "aQhfDKFARqX6z2Jd",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "貓焍@迦樓羅",
+      "Ciel希爾@迦樓羅",
+      "篝之霧枝@奧汀",
+      "古·拉哈基米@迦樓羅",
+      "舞飛旋@利維坦",
+      "Mjlinv@鳳凰",
+      "標@泰坦",
+      "是又怎樣@奧汀"
+    ],
+    "fight_id": 307,
+    "duration_ms": 988732,
+    "clear_dt_ms": 1779456353883,
+    "jobs": {
+      "貓焍@迦樓羅": "Paladin",
+      "Ciel希爾@迦樓羅": "Machinist",
+      "篝之霧枝@奧汀": "BlackMage",
+      "古·拉哈基米@迦樓羅": "DarkKnight",
+      "舞飛旋@利維坦": "Samurai",
+      "Mjlinv@鳳凰": "WhiteMage",
+      "標@泰坦": "Dragoon",
+      "是又怎樣@奧汀": "Sage"
+    }
   }
 ]
