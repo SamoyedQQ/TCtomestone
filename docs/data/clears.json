@@ -33666,5 +33666,117 @@
       "Niness@迦樓羅": "DarkKnight",
       "汍丸@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "FBRf91mq7JdjXDwK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "新手一名@伊弗利特",
+      "喵喵醬@奧汀",
+      "波貝先生@奧汀",
+      "結印明日奈@利維坦",
+      "星宿及月@迦樓羅",
+      "歪燕@利維坦",
+      "我不是卡蘇咪@奧汀",
+      "捏米巴@奧汀"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1125749,
+    "clear_dt_ms": 1779572795200,
+    "jobs": {
+      "新手一名@伊弗利特": "Warrior",
+      "喵喵醬@奧汀": "DarkKnight",
+      "波貝先生@奧汀": "Pictomancer",
+      "結印明日奈@利維坦": "Ninja",
+      "星宿及月@迦樓羅": "Astrologian",
+      "歪燕@利維坦": "Sage",
+      "我不是卡蘇咪@奧汀": "Bard",
+      "捏米巴@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "Lv6TXyRK3PFtadZk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "穗曦@伊弗利特",
+      "顧言@奧汀",
+      "菟小可@鳳凰",
+      "藥塵@利維坦",
+      "蒼月隱@奧汀",
+      "小who豬@鳳凰",
+      "富可可@利維坦",
+      "雪蓮貓@利維坦"
+    ],
+    "fight_id": 17,
+    "duration_ms": 842362,
+    "clear_dt_ms": 1779562958723,
+    "jobs": {
+      "穗曦@伊弗利特": "Astrologian",
+      "顧言@奧汀": "Warrior",
+      "菟小可@鳳凰": "Ninja",
+      "藥塵@利維坦": "Gunbreaker",
+      "蒼月隱@奧汀": "Dragoon",
+      "小who豬@鳳凰": "RedMage",
+      "富可可@利維坦": "Sage",
+      "雪蓮貓@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "2mkRPa3Nt6K9CcJg",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Adai@伊弗利特",
+      "阿公穿肚兜跑@利維坦",
+      "樺璘@迦樓羅",
+      "我壞嘛@伊弗利特",
+      "Dreamy@迦樓羅",
+      "月下之影@鳳凰",
+      "D·咕咕嘎嘎@伊弗利特",
+      "塔拉妮絲@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 979388,
+    "clear_dt_ms": 1777565341615,
+    "jobs": {
+      "Adai@伊弗利特": "Paladin",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "樺璘@迦樓羅": "Machinist",
+      "我壞嘛@伊弗利特": "Samurai",
+      "Dreamy@迦樓羅": "Sage",
+      "月下之影@鳳凰": "Dragoon",
+      "D·咕咕嘎嘎@伊弗利特": "WhiteMage",
+      "塔拉妮絲@巴哈姆特": "Warrior"
+    }
+  },
+  {
+    "code": "2mkRPa3Nt6K9CcJg",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Adai@伊弗利特",
+      "阿公穿肚兜跑@利維坦",
+      "樺璘@迦樓羅",
+      "我壞嘛@伊弗利特",
+      "Dreamy@迦樓羅",
+      "月下之影@鳳凰",
+      "D·咕咕嘎嘎@伊弗利特",
+      "塔拉妮絲@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 957758,
+    "clear_dt_ms": 1777567077008,
+    "jobs": {
+      "Adai@伊弗利特": "Paladin",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "樺璘@迦樓羅": "Machinist",
+      "我壞嘛@伊弗利特": "Samurai",
+      "Dreamy@迦樓羅": "Sage",
+      "月下之影@鳳凰": "Dragoon",
+      "D·咕咕嘎嘎@伊弗利特": "WhiteMage",
+      "塔拉妮絲@巴哈姆特": "Warrior"
+    }
   }
 ]
