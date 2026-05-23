@@ -31986,5 +31986,33 @@
       "拉麵戰士@泰坦": "Monk",
       "藥塵@利維坦": "Gunbreaker"
     }
+  },
+  {
+    "code": "QXZF9ygV7T4vajz1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kaede@利維坦",
+      "段藏@利維坦",
+      "校長四七@利維坦",
+      "Kl@利維坦",
+      "舞紗橘@利維坦",
+      "步癡洋蔥@利維坦",
+      "慎真@利維坦",
+      "夢璃@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 861338,
+    "clear_dt_ms": 1778869627925,
+    "jobs": {
+      "Kaede@利維坦": "RedMage",
+      "段藏@利維坦": "Paladin",
+      "校長四七@利維坦": "Warrior",
+      "Kl@利維坦": "BlackMage",
+      "舞紗橘@利維坦": "Astrologian",
+      "步癡洋蔥@利維坦": "Dancer",
+      "慎真@利維坦": "Monk",
+      "夢璃@利維坦": "Scholar"
+    }
   }
 ]
