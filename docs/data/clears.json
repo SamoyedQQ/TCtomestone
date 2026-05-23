@@ -31930,5 +31930,61 @@
       "宸仔@伊弗利特": "Warrior",
       "雪地芝麻糰子@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "rXKfmxVADMzjwBF6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "孟@鳳凰",
+      "粿寧糕@利維坦",
+      "大自然的饋贈@伊弗利特",
+      "藥塵@利維坦",
+      "楓糖蛋糕@奧汀",
+      "舞飛旋@利維坦",
+      "草摩夾@鳳凰",
+      "拉麵戰士@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 879769,
+    "clear_dt_ms": 1779503177078,
+    "jobs": {
+      "孟@鳳凰": "Summoner",
+      "粿寧糕@利維坦": "Warrior",
+      "大自然的饋贈@伊弗利特": "Sage",
+      "藥塵@利維坦": "Gunbreaker",
+      "楓糖蛋糕@奧汀": "Dancer",
+      "舞飛旋@利維坦": "Viper",
+      "草摩夾@鳳凰": "Astrologian",
+      "拉麵戰士@泰坦": "Monk"
+    }
+  },
+  {
+    "code": "TvrHPZCw3MNcnxD2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "孟@鳳凰",
+      "粿寧糕@利維坦",
+      "大自然的饋贈@伊弗利特",
+      "楓糖蛋糕@奧汀",
+      "舞飛旋@利維坦",
+      "草摩夾@鳳凰",
+      "拉麵戰士@泰坦",
+      "藥塵@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 879770,
+    "clear_dt_ms": 1779503177079,
+    "jobs": {
+      "孟@鳳凰": "Summoner",
+      "粿寧糕@利維坦": "Warrior",
+      "大自然的饋贈@伊弗利特": "Sage",
+      "楓糖蛋糕@奧汀": "Dancer",
+      "舞飛旋@利維坦": "Viper",
+      "草摩夾@鳳凰": "Astrologian",
+      "拉麵戰士@泰坦": "Monk",
+      "藥塵@利維坦": "Gunbreaker"
+    }
   }
 ]
