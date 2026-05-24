@@ -33946,5 +33946,145 @@
       "譚雅@巴哈姆特": "Sage",
       "人@伊弗利特": "WhiteMage"
     }
+  },
+  {
+    "code": "8JphAR6mG7bx3BzL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "張員瑛的狗@巴哈姆特",
+      "黑色楓葉@利維坦",
+      "杜野凜世@利維坦",
+      "Dadada@伊弗利特",
+      "青凛@鳳凰",
+      "冰上梅露露@巴哈姆特",
+      "Lhhei@奧汀",
+      "掃把@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 966745,
+    "clear_dt_ms": 1779615284390,
+    "jobs": {
+      "張員瑛的狗@巴哈姆特": "Pictomancer",
+      "黑色楓葉@利維坦": "BlackMage",
+      "杜野凜世@利維坦": "DarkKnight",
+      "Dadada@伊弗利特": "Paladin",
+      "青凛@鳳凰": "WhiteMage",
+      "冰上梅露露@巴哈姆特": "Dancer",
+      "Lhhei@奧汀": "Samurai",
+      "掃把@伊弗利特": "Scholar"
+    }
+  },
+  {
+    "code": "PDFkMWY1mBxAKXHp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Dadada@伊弗利特",
+      "青凛@鳳凰",
+      "冰上梅露露@巴哈姆特",
+      "Lhhei@奧汀",
+      "掃把@伊弗利特",
+      "黑色楓葉@利維坦",
+      "張員瑛的狗@巴哈姆特",
+      "杜野凜世@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 966746,
+    "clear_dt_ms": 1779615284391,
+    "jobs": {
+      "Dadada@伊弗利特": "Paladin",
+      "青凛@鳳凰": "WhiteMage",
+      "冰上梅露露@巴哈姆特": "Dancer",
+      "Lhhei@奧汀": "Samurai",
+      "掃把@伊弗利特": "Scholar",
+      "黑色楓葉@利維坦": "BlackMage",
+      "張員瑛的狗@巴哈姆特": "Pictomancer",
+      "杜野凜世@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "kw14WvYqzcKLATra",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Hotcat@鳳凰",
+      "滌火城鋒@奧汀",
+      "雖然很舒服@利維坦",
+      "如月@鳳凰",
+      "孟@鳳凰",
+      "Valk@鳳凰",
+      "風鈴@奧汀",
+      "旮旯給木高手@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 879048,
+    "clear_dt_ms": 1779611962444,
+    "jobs": {
+      "Hotcat@鳳凰": "DarkKnight",
+      "滌火城鋒@奧汀": "Ninja",
+      "雖然很舒服@利維坦": "Sage",
+      "如月@鳳凰": "WhiteMage",
+      "孟@鳳凰": "Summoner",
+      "Valk@鳳凰": "Bard",
+      "風鈴@奧汀": "BlackMage",
+      "旮旯給木高手@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "jgknFqzW9wbHcfLQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "真白瑠璃@伊弗利特",
+      "希烏斯@利維坦",
+      "芒果草莓果凍@利維坦",
+      "阿空@利維坦",
+      "玖夜丶@利維坦",
+      "火螢@利維坦",
+      "豆腐出沒注意@利維坦",
+      "玥yurio@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 881385,
+    "clear_dt_ms": 1779606643480,
+    "jobs": {
+      "真白瑠璃@伊弗利特": "Samurai",
+      "希烏斯@利維坦": "DarkKnight",
+      "芒果草莓果凍@利維坦": "BlackMage",
+      "阿空@利維坦": "Paladin",
+      "玖夜丶@利維坦": "RedMage",
+      "火螢@利維坦": "Dancer",
+      "豆腐出沒注意@利維坦": "WhiteMage",
+      "玥yurio@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "jgknFqzW9wbHcfLQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "希烏斯@利維坦",
+      "芒果草莓果凍@利維坦",
+      "阿空@利維坦",
+      "玖夜丶@利維坦",
+      "真白瑠璃@伊弗利特",
+      "火螢@利維坦",
+      "豆腐出沒注意@利維坦",
+      "玥yurio@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 881735,
+    "clear_dt_ms": 1779608826221,
+    "jobs": {
+      "希烏斯@利維坦": "DarkKnight",
+      "芒果草莓果凍@利維坦": "BlackMage",
+      "阿空@利維坦": "Paladin",
+      "玖夜丶@利維坦": "RedMage",
+      "真白瑠璃@伊弗利特": "Dragoon",
+      "火螢@利維坦": "Dancer",
+      "豆腐出沒注意@利維坦": "WhiteMage",
+      "玥yurio@利維坦": "Sage"
+    }
   }
 ]
