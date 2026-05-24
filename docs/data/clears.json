@@ -34170,5 +34170,201 @@
       "梨某某@利維坦": "Warrior",
       "巴尾的熊@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "V1A6J4kfMTH8t9rj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "米大斯@迦樓羅",
+      "殺手佐之助@巴哈姆特",
+      "薇薇布@迦樓羅",
+      "結印明日奈@利維坦",
+      "St尼安@迦樓羅",
+      "離夜@泰坦",
+      "若離@迦樓羅",
+      "Radish@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1099108,
+    "clear_dt_ms": 1779628485218,
+    "jobs": {
+      "米大斯@迦樓羅": "Warrior",
+      "殺手佐之助@巴哈姆特": "Sage",
+      "薇薇布@迦樓羅": "Astrologian",
+      "結印明日奈@利維坦": "Ninja",
+      "St尼安@迦樓羅": "Paladin",
+      "離夜@泰坦": "Summoner",
+      "若離@迦樓羅": "Reaper",
+      "Radish@伊弗利特": "Machinist"
+    }
+  },
+  {
+    "code": "AbMB6wFJHZ4T2N1c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "霖ing@迦樓羅",
+      "Banana@迦樓羅",
+      "Star竣@迦樓羅",
+      "藍堡@迦樓羅",
+      "黑鳶尾@迦樓羅",
+      "落葉丸@迦樓羅",
+      "高手貓騎士@迦樓羅",
+      "真香@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 964572,
+    "clear_dt_ms": 1779625259756,
+    "jobs": {
+      "霖ing@迦樓羅": "Astrologian",
+      "Banana@迦樓羅": "Warrior",
+      "Star竣@迦樓羅": "Pictomancer",
+      "藍堡@迦樓羅": "RedMage",
+      "黑鳶尾@迦樓羅": "Dancer",
+      "落葉丸@迦樓羅": "Sage",
+      "高手貓騎士@迦樓羅": "Ninja",
+      "真香@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "AbMB6wFJHZ4T2N1c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "霖ing@迦樓羅",
+      "Banana@迦樓羅",
+      "Star竣@迦樓羅",
+      "藍堡@迦樓羅",
+      "黑鳶尾@迦樓羅",
+      "落葉丸@迦樓羅",
+      "高手貓騎士@迦樓羅",
+      "真香@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 974732,
+    "clear_dt_ms": 1779629498365,
+    "jobs": {
+      "霖ing@迦樓羅": "Astrologian",
+      "Banana@迦樓羅": "Warrior",
+      "Star竣@迦樓羅": "Pictomancer",
+      "藍堡@迦樓羅": "RedMage",
+      "黑鳶尾@迦樓羅": "Dancer",
+      "落葉丸@迦樓羅": "Sage",
+      "高手貓騎士@迦樓羅": "Ninja",
+      "真香@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "AbMB6wFJHZ4T2N1c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "霖ing@迦樓羅",
+      "Banana@迦樓羅",
+      "Star竣@迦樓羅",
+      "藍堡@迦樓羅",
+      "黑鳶尾@迦樓羅",
+      "落葉丸@迦樓羅",
+      "高手貓騎士@迦樓羅",
+      "真香@迦樓羅"
+    ],
+    "fight_id": 13,
+    "duration_ms": 962828,
+    "clear_dt_ms": 1779630775435,
+    "jobs": {
+      "霖ing@迦樓羅": "Astrologian",
+      "Banana@迦樓羅": "Warrior",
+      "Star竣@迦樓羅": "Pictomancer",
+      "藍堡@迦樓羅": "RedMage",
+      "黑鳶尾@迦樓羅": "Dancer",
+      "落葉丸@迦樓羅": "Sage",
+      "高手貓騎士@迦樓羅": "Ninja",
+      "真香@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "HyNW6jBc7XdtbaGw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "緋花逐影@巴哈姆特",
+      "楓雪寒@伊弗利特",
+      "蒼月隱@奧汀",
+      "雨希@伊弗利特",
+      "Kay@巴哈姆特",
+      "Oreo@奧汀",
+      "茜羽@奧汀",
+      "摩洛哥堅果@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 871194,
+    "clear_dt_ms": 1779622962229,
+    "jobs": {
+      "緋花逐影@巴哈姆特": "DarkKnight",
+      "楓雪寒@伊弗利特": "WhiteMage",
+      "蒼月隱@奧汀": "Dragoon",
+      "雨希@伊弗利特": "Paladin",
+      "Kay@巴哈姆特": "Samurai",
+      "Oreo@奧汀": "Sage",
+      "茜羽@奧汀": "Summoner",
+      "摩洛哥堅果@鳳凰": "Dancer"
+    }
+  },
+  {
+    "code": "yAhtVWfCN3crKbMq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "沙龍怕鼠@巴哈姆特",
+      "稲森春@巴哈姆特",
+      "Verso@迦樓羅",
+      "夏目悠希@巴哈姆特",
+      "星楓作浪@迦樓羅",
+      "娜娜皮@利維坦",
+      "滌火城鋒@奧汀",
+      "斯貝德@利維坦"
+    ],
+    "fight_id": 47,
+    "duration_ms": 872973,
+    "clear_dt_ms": 1779628582920,
+    "jobs": {
+      "沙龍怕鼠@巴哈姆特": "Warrior",
+      "稲森春@巴哈姆特": "RedMage",
+      "Verso@迦樓羅": "Dragoon",
+      "夏目悠希@巴哈姆特": "Scholar",
+      "星楓作浪@迦樓羅": "Paladin",
+      "娜娜皮@利維坦": "Dancer",
+      "滌火城鋒@奧汀": "Ninja",
+      "斯貝德@利維坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "gMdY1vGFjcqPJBKf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "九筒@鳳凰",
+      "吉備團子@巴哈姆特",
+      "巴巴耶卡@巴哈姆特",
+      "Levia炭@利維坦",
+      "我的褲子@巴哈姆特",
+      "真白瑠璃@伊弗利特",
+      "木頭海琳@鳳凰",
+      "大肌補師@奧汀"
+    ],
+    "fight_id": 12,
+    "duration_ms": 970028,
+    "clear_dt_ms": 1779626964691,
+    "jobs": {
+      "九筒@鳳凰": "Astrologian",
+      "吉備團子@巴哈姆特": "Sage",
+      "巴巴耶卡@巴哈姆特": "Dancer",
+      "Levia炭@利維坦": "Warrior",
+      "我的褲子@巴哈姆特": "Dragoon",
+      "真白瑠璃@伊弗利特": "BlackMage",
+      "木頭海琳@鳳凰": "Paladin",
+      "大肌補師@奧汀": "Monk"
+    }
   }
 ]
