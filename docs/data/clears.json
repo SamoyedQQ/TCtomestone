@@ -35206,5 +35206,33 @@
       "犬寄咲@伊弗利特": "WhiteMage",
       "戀上十香@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "wH72cxnQmN8pfByb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Equno@迦樓羅",
+      "校長四七@利維坦",
+      "佐藤麻衣@巴哈姆特",
+      "掃把@伊弗利特",
+      "舞紗橘@利維坦",
+      "Diaulo@迦樓羅",
+      "野上奈緒@利維坦",
+      "慎真@利維坦"
+    ],
+    "fight_id": 21,
+    "duration_ms": 943201,
+    "clear_dt_ms": 1779659499485,
+    "jobs": {
+      "Equno@迦樓羅": "WhiteMage",
+      "校長四七@利維坦": "Warrior",
+      "佐藤麻衣@巴哈姆特": "Dancer",
+      "掃把@伊弗利特": "Scholar",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Diaulo@迦樓羅": "Samurai",
+      "野上奈緒@利維坦": "Paladin",
+      "慎真@利維坦": "Dragoon"
+    }
   }
 ]
