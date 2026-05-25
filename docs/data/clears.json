@@ -35542,5 +35542,47 @@
       "楓雪寒@伊弗利特": "Samurai",
       "狗蛙dog@利維坦": "WhiteMage"
     }
+  },
+  {
+    "code": "gwcDpZ4KG82tv9Bf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "伊默爾索@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1130206,
+    "clear_dt_ms": 1779703225045,
+    "jobs": {
+      "伊默爾索@泰坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "R8X3zCy9DdaHfTkN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "夜櫻零@迦樓羅",
+      "海諾@伊弗利特",
+      "腦殘酷天使@巴哈姆特",
+      "皮皮是隻鳥@迦樓羅",
+      "伊默爾索@泰坦",
+      "瑞德@奧汀",
+      "璇月羽芯@伊弗利特",
+      "永遠@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1130206,
+    "clear_dt_ms": 1779703225045,
+    "jobs": {
+      "夜櫻零@迦樓羅": "Monk",
+      "海諾@伊弗利特": "Viper",
+      "腦殘酷天使@巴哈姆特": "BlackMage",
+      "皮皮是隻鳥@迦樓羅": "Machinist",
+      "伊默爾索@泰坦": "WhiteMage",
+      "瑞德@奧汀": "Paladin",
+      "璇月羽芯@伊弗利特": "Scholar",
+      "永遠@泰坦": "DarkKnight"
+    }
   }
 ]
