@@ -35262,5 +35262,33 @@
       "天使之吻@迦樓羅": "Samurai",
       "掃把@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "Vy7Lj1gTXcPFfbt2",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zard@巴哈姆特",
+      "群青日和@泰坦",
+      "想睡覺的熊貓@巴哈姆特",
+      "Grende@迦樓羅",
+      "三角初音@伊弗利特",
+      "嵐芽@伊弗利特",
+      "蒸蛋@伊弗利特",
+      "蕾爾緹暮暮@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 972833,
+    "clear_dt_ms": 1779640659469,
+    "jobs": {
+      "Zard@巴哈姆特": "Pictomancer",
+      "群青日和@泰坦": "DarkKnight",
+      "想睡覺的熊貓@巴哈姆特": "Dragoon",
+      "Grende@迦樓羅": "BlackMage",
+      "三角初音@伊弗利特": "Astrologian",
+      "嵐芽@伊弗利特": "Paladin",
+      "蒸蛋@伊弗利特": "Sage",
+      "蕾爾緹暮暮@巴哈姆特": "Dancer"
+    }
   }
 ]
