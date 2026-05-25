@@ -35234,5 +35234,33 @@
       "野上奈緒@利維坦": "Paladin",
       "慎真@利維坦": "Dragoon"
     }
+  },
+  {
+    "code": "fw2T9ndQyGbtHJzM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "温惢菈@利維坦",
+      "夜風@利維坦",
+      "繪朵@利維坦",
+      "吸管@利維坦",
+      "紅點點@鳳凰",
+      "莎夏kuma@迦樓羅",
+      "天使之吻@迦樓羅",
+      "掃把@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 866385,
+    "clear_dt_ms": 1779667380319,
+    "jobs": {
+      "温惢菈@利維坦": "Pictomancer",
+      "夜風@利維坦": "WhiteMage",
+      "繪朵@利維坦": "Gunbreaker",
+      "吸管@利維坦": "Paladin",
+      "紅點點@鳳凰": "Dancer",
+      "莎夏kuma@迦樓羅": "Scholar",
+      "天使之吻@迦樓羅": "Samurai",
+      "掃把@伊弗利特": "Summoner"
+    }
   }
 ]
