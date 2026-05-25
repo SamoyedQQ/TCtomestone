@@ -36424,5 +36424,117 @@
       "我是天選@泰坦": "WhiteMage",
       "可可藍@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "tzAPQFn2jGWrL9Bk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Sabema@伊弗利特",
+      "西伯@鳳凰",
+      "Yuzusu@鳳凰",
+      "Yuruzi@鳳凰",
+      "小亞@奧汀",
+      "Ctwo@泰坦",
+      "Yze@伊弗利特",
+      "格尼卡@伊弗利特"
+    ],
+    "fight_id": 36,
+    "duration_ms": 977232,
+    "clear_dt_ms": 1779741097758,
+    "jobs": {
+      "Sabema@伊弗利特": "Warrior",
+      "西伯@鳳凰": "Samurai",
+      "Yuzusu@鳳凰": "WhiteMage",
+      "Yuruzi@鳳凰": "Bard",
+      "小亞@奧汀": "Paladin",
+      "Ctwo@泰坦": "Dragoon",
+      "Yze@伊弗利特": "Sage",
+      "格尼卡@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "Ywr8zPvk4KWLXH9n",
+    "title": "绝境战（旧版本）",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "棉花糖@迦樓羅",
+      "果賴咪@巴哈姆特",
+      "小倉吐司@利維坦",
+      "塔塔落@利維坦",
+      "拉妃比亞@迦樓羅",
+      "温惢菈@利維坦",
+      "眼盲果@利維坦",
+      "黑森林裡有鬼@鳳凰"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1136903,
+    "clear_dt_ms": 1779717513566,
+    "jobs": {
+      "棉花糖@迦樓羅": "DarkKnight",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "小倉吐司@利維坦": "BlackMage",
+      "塔塔落@利維坦": "Scholar",
+      "拉妃比亞@迦樓羅": "Machinist",
+      "温惢菈@利維坦": "Reaper",
+      "眼盲果@利維坦": "Gunbreaker",
+      "黑森林裡有鬼@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "pRfZtcm1bPXHYTj4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "莎夏kuma@迦樓羅",
+      "Kaede@利維坦",
+      "誰給你的勇氣@利維坦",
+      "霧華安魂之歌@巴哈姆特",
+      "天使之吻@迦樓羅",
+      "Ryou@利維坦",
+      "哈嚕雷特@迦樓羅",
+      "妃璃雪@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 913076,
+    "clear_dt_ms": 1779741416839,
+    "jobs": {
+      "莎夏kuma@迦樓羅": "Scholar",
+      "Kaede@利維坦": "Summoner",
+      "誰給你的勇氣@利維坦": "Paladin",
+      "霧華安魂之歌@巴哈姆特": "Dancer",
+      "天使之吻@迦樓羅": "DarkKnight",
+      "Ryou@利維坦": "Astrologian",
+      "哈嚕雷特@迦樓羅": "Dragoon",
+      "妃璃雪@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "qDBwyZtTaFj9WJA3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Sniger@利維坦",
+      "Kitune@迦樓羅",
+      "蒼月隱@奧汀",
+      "Arbert@利維坦",
+      "想睡der貓@奧汀",
+      "希利亞@奧汀",
+      "安娜莉絲@奧汀",
+      "古·拉哈基米@迦樓羅"
+    ],
+    "fight_id": 15,
+    "duration_ms": 846347,
+    "clear_dt_ms": 1779006849872,
+    "jobs": {
+      "Sniger@利維坦": "Sage",
+      "Kitune@迦樓羅": "WhiteMage",
+      "蒼月隱@奧汀": "Dragoon",
+      "Arbert@利維坦": "Dancer",
+      "想睡der貓@奧汀": "Summoner",
+      "希利亞@奧汀": "Gunbreaker",
+      "安娜莉絲@奧汀": "Ninja",
+      "古·拉哈基米@迦樓羅": "DarkKnight"
+    }
   }
 ]
