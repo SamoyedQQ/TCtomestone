@@ -36536,5 +36536,33 @@
       "安娜莉絲@奧汀": "Ninja",
       "古·拉哈基米@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "g3X8Q2z6KybPHJ14",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "佐藤麻衣@巴哈姆特",
+      "校長四七@利維坦",
+      "Ukaung@迦樓羅",
+      "未花@利維坦",
+      "Equno@迦樓羅",
+      "雪花抄@泰坦",
+      "為什麼閃到腰@奧汀",
+      "Lhhei@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 980727,
+    "clear_dt_ms": 1779740081607,
+    "jobs": {
+      "佐藤麻衣@巴哈姆特": "Machinist",
+      "校長四七@利維坦": "Warrior",
+      "Ukaung@迦樓羅": "BlackMage",
+      "未花@利維坦": "DarkKnight",
+      "Equno@迦樓羅": "WhiteMage",
+      "雪花抄@泰坦": "Pictomancer",
+      "為什麼閃到腰@奧汀": "Scholar",
+      "Lhhei@奧汀": "Samurai"
+    }
   }
 ]
