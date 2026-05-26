@@ -36564,5 +36564,33 @@
       "為什麼閃到腰@奧汀": "Scholar",
       "Lhhei@奧汀": "Samurai"
     }
+  },
+  {
+    "code": "RJdctFzgyVBxTnmj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "尤吉歐@伊弗利特",
+      "橋本懷奈@伊弗利特",
+      "水無賴@鳳凰",
+      "玖蘭悠@伊弗利特",
+      "Ix整點薯條@鳳凰",
+      "Jm@巴哈姆特",
+      "織娜米@利維坦",
+      "白鳥澪@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 842574,
+    "clear_dt_ms": 1779722527807,
+    "jobs": {
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "橋本懷奈@伊弗利特": "Paladin",
+      "水無賴@鳳凰": "BlackMage",
+      "玖蘭悠@伊弗利特": "Dancer",
+      "Ix整點薯條@鳳凰": "Summoner",
+      "Jm@巴哈姆特": "Ninja",
+      "織娜米@利維坦": "Sage",
+      "白鳥澪@伊弗利特": "DarkKnight"
+    }
   }
 ]
