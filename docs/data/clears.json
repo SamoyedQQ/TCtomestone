@@ -36592,5 +36592,33 @@
       "織娜米@利維坦": "Sage",
       "白鳥澪@伊弗利特": "DarkKnight"
     }
+  },
+  {
+    "code": "WQVPgALwqXzhdMBR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Ringo@巴哈姆特",
+      "蝦抖薩麻@迦樓羅",
+      "笭@迦樓羅",
+      "特依內@鳳凰",
+      "冬雨@利維坦",
+      "Aimyon@泰坦",
+      "吱吱@奧汀",
+      "雨希@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 866049,
+    "clear_dt_ms": 1779882389543,
+    "jobs": {
+      "Ringo@巴哈姆特": "Scholar",
+      "蝦抖薩麻@迦樓羅": "Monk",
+      "笭@迦樓羅": "Warrior",
+      "特依內@鳳凰": "Samurai",
+      "冬雨@利維坦": "Summoner",
+      "Aimyon@泰坦": "Dancer",
+      "吱吱@奧汀": "Astrologian",
+      "雨希@伊弗利特": "Paladin"
+    }
   }
 ]
