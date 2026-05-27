@@ -36620,5 +36620,61 @@
       "吱吱@奧汀": "Astrologian",
       "雨希@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "YmPM1LGgcVAzjXkw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "拿豆腐丟你喔@迦樓羅",
+      "Ao@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "雀喵@迦樓羅",
+      "披口醬@迦樓羅",
+      "小呆瓜@迦樓羅",
+      "下限無底@迦樓羅",
+      "莉露@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 985717,
+    "clear_dt_ms": 1779888197051,
+    "jobs": {
+      "拿豆腐丟你喔@迦樓羅": "RedMage",
+      "Ao@迦樓羅": "DarkKnight",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "雀喵@迦樓羅": "Dragoon",
+      "披口醬@迦樓羅": "Dancer",
+      "小呆瓜@迦樓羅": "BlackMage",
+      "下限無底@迦樓羅": "Paladin",
+      "莉露@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "YmPM1LGgcVAzjXkw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "拿豆腐丟你喔@迦樓羅",
+      "Ao@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "雀喵@迦樓羅",
+      "披口醬@迦樓羅",
+      "小呆瓜@迦樓羅",
+      "下限無底@迦樓羅",
+      "莉露@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 955840,
+    "clear_dt_ms": 1779890005238,
+    "jobs": {
+      "拿豆腐丟你喔@迦樓羅": "RedMage",
+      "Ao@迦樓羅": "DarkKnight",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "雀喵@迦樓羅": "Dragoon",
+      "披口醬@迦樓羅": "Dancer",
+      "小呆瓜@迦樓羅": "BlackMage",
+      "下限無底@迦樓羅": "Paladin",
+      "莉露@迦樓羅": "Sage"
+    }
   }
 ]
