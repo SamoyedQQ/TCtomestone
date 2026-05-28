@@ -37208,5 +37208,145 @@
       "悠太@鳳凰": "Sage",
       "最初的聲音@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "LWpKaXB3Qz89NwDC",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "下限無底@迦樓羅",
+      "拿豆腐丟你喔@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "披口醬@迦樓羅",
+      "小呆瓜@迦樓羅",
+      "雀喵@迦樓羅",
+      "Ao@迦樓羅",
+      "莉露@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 958107,
+    "clear_dt_ms": 1779974956383,
+    "jobs": {
+      "下限無底@迦樓羅": "Paladin",
+      "拿豆腐丟你喔@迦樓羅": "RedMage",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "披口醬@迦樓羅": "Dancer",
+      "小呆瓜@迦樓羅": "BlackMage",
+      "雀喵@迦樓羅": "Dragoon",
+      "Ao@迦樓羅": "DarkKnight",
+      "莉露@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "LWpKaXB3Qz89NwDC",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "下限無底@迦樓羅",
+      "拿豆腐丟你喔@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "披口醬@迦樓羅",
+      "小呆瓜@迦樓羅",
+      "雀喵@迦樓羅",
+      "Ao@迦樓羅",
+      "莉露@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 965183,
+    "clear_dt_ms": 1779976079396,
+    "jobs": {
+      "下限無底@迦樓羅": "Paladin",
+      "拿豆腐丟你喔@迦樓羅": "RedMage",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "披口醬@迦樓羅": "Dancer",
+      "小呆瓜@迦樓羅": "BlackMage",
+      "雀喵@迦樓羅": "Dragoon",
+      "Ao@迦樓羅": "DarkKnight",
+      "莉露@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "2jGPv9NWqF4DhQgn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蔚笙枳@迦樓羅",
+      "繁殖期彈塗魚@利維坦",
+      "貓耳大拉肥@鳳凰",
+      "三零六七八@鳳凰",
+      "Jester@巴哈姆特",
+      "暗嘿鬼屋@巴哈姆特",
+      "玥夏@利維坦",
+      "予情@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 955924,
+    "clear_dt_ms": 1779973025072,
+    "jobs": {
+      "蔚笙枳@迦樓羅": "Dancer",
+      "繁殖期彈塗魚@利維坦": "Paladin",
+      "貓耳大拉肥@鳳凰": "Pictomancer",
+      "三零六七八@鳳凰": "DarkKnight",
+      "Jester@巴哈姆特": "Dragoon",
+      "暗嘿鬼屋@巴哈姆特": "Samurai",
+      "玥夏@利維坦": "Scholar",
+      "予情@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "2jGPv9NWqF4DhQgn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蔚笙枳@迦樓羅",
+      "繁殖期彈塗魚@利維坦",
+      "貓耳大拉肥@鳳凰",
+      "三零六七八@鳳凰",
+      "Jester@巴哈姆特",
+      "暗嘿鬼屋@巴哈姆特",
+      "玥夏@利維坦",
+      "予情@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 957413,
+    "clear_dt_ms": 1779974092303,
+    "jobs": {
+      "蔚笙枳@迦樓羅": "Dancer",
+      "繁殖期彈塗魚@利維坦": "Paladin",
+      "貓耳大拉肥@鳳凰": "Pictomancer",
+      "三零六七八@鳳凰": "DarkKnight",
+      "Jester@巴哈姆特": "Dragoon",
+      "暗嘿鬼屋@巴哈姆特": "Samurai",
+      "玥夏@利維坦": "Scholar",
+      "予情@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "bMxXW1F8VBgD3P9d",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "塔塔落@利維坦",
+      "香澄一生推@利維坦",
+      "光之小企鵝@伊弗利特",
+      "月下之影@鳳凰",
+      "小維@鳳凰",
+      "塔拉妮絲@巴哈姆特",
+      "克洛安布斯特@迦樓羅",
+      "Minib@巴哈姆特"
+    ],
+    "fight_id": 20,
+    "duration_ms": 870903,
+    "clear_dt_ms": 1769101689532,
+    "jobs": {
+      "塔塔落@利維坦": "Sage",
+      "香澄一生推@利維坦": "Dancer",
+      "光之小企鵝@伊弗利特": "Pictomancer",
+      "月下之影@鳳凰": "Monk",
+      "小維@鳳凰": "Astrologian",
+      "塔拉妮絲@巴哈姆特": "Warrior",
+      "克洛安布斯特@迦樓羅": "Paladin",
+      "Minib@巴哈姆特": "Summoner"
+    }
   }
 ]
