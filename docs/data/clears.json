@@ -37656,5 +37656,173 @@
       "坦派斯特@巴哈姆特": "Samurai",
       "大自然的饋贈@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "97RLQGMX1VrzYA4g",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "備用馬鈴薯@利維坦",
+      "小柚@伊弗利特",
+      "狼玥@利維坦",
+      "楓糖水果鬆餅@泰坦",
+      "Rim@利維坦",
+      "檸檬巴菲特@泰坦",
+      "微焦的雞蛋糕@奧汀",
+      "初雪櫻@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 940634,
+    "clear_dt_ms": 1779987970251,
+    "jobs": {
+      "備用馬鈴薯@利維坦": "Paladin",
+      "小柚@伊弗利特": "DarkKnight",
+      "狼玥@利維坦": "Scholar",
+      "楓糖水果鬆餅@泰坦": "Dancer",
+      "Rim@利維坦": "Pictomancer",
+      "檸檬巴菲特@泰坦": "Samurai",
+      "微焦的雞蛋糕@奧汀": "WhiteMage",
+      "初雪櫻@利維坦": "BlackMage"
+    }
+  },
+  {
+    "code": "WYCP9whKJxj3m4nN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "東京愛音@奧汀",
+      "常葉@迦樓羅",
+      "以律@迦樓羅",
+      "Aquaaa@巴哈姆特",
+      "Bonky@迦樓羅",
+      "十王星南@利維坦",
+      "緹厄珊@伊弗利特",
+      "醉曖x光蘿@巴哈姆特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 966500,
+    "clear_dt_ms": 1779986310376,
+    "jobs": {
+      "東京愛音@奧汀": "Monk",
+      "常葉@迦樓羅": "Scholar",
+      "以律@迦樓羅": "DarkKnight",
+      "Aquaaa@巴哈姆特": "BlackMage",
+      "Bonky@迦樓羅": "Samurai",
+      "十王星南@利維坦": "Warrior",
+      "緹厄珊@伊弗利特": "Astrologian",
+      "醉曖x光蘿@巴哈姆特": "Machinist"
+    }
+  },
+  {
+    "code": "nGWHJ36txwjKz1yM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嚕啦嚕啦咧@伊弗利特",
+      "地雷系方程式@伊弗利特",
+      "果汁@奧汀",
+      "Lunsix@泰坦",
+      "Nakeru@泰坦",
+      "白兔糖@泰坦",
+      "Nicklz@巴哈姆特",
+      "阿拉燈神丁@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 954077,
+    "clear_dt_ms": 1779980729170,
+    "jobs": {
+      "嚕啦嚕啦咧@伊弗利特": "Astrologian",
+      "地雷系方程式@伊弗利特": "Samurai",
+      "果汁@奧汀": "Scholar",
+      "Lunsix@泰坦": "DarkKnight",
+      "Nakeru@泰坦": "Paladin",
+      "白兔糖@泰坦": "BlackMage",
+      "Nicklz@巴哈姆特": "Dragoon",
+      "阿拉燈神丁@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "nGWHJ36txwjKz1yM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嚕啦嚕啦咧@伊弗利特",
+      "地雷系方程式@伊弗利特",
+      "果汁@奧汀",
+      "Lunsix@泰坦",
+      "Nakeru@泰坦",
+      "白兔糖@泰坦",
+      "Nicklz@巴哈姆特",
+      "阿拉燈神丁@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 965424,
+    "clear_dt_ms": 1779982994559,
+    "jobs": {
+      "嚕啦嚕啦咧@伊弗利特": "Astrologian",
+      "地雷系方程式@伊弗利特": "Samurai",
+      "果汁@奧汀": "Scholar",
+      "Lunsix@泰坦": "DarkKnight",
+      "Nakeru@泰坦": "Paladin",
+      "白兔糖@泰坦": "BlackMage",
+      "Nicklz@巴哈姆特": "Dragoon",
+      "阿拉燈神丁@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "7tKMFhjak942rCVL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "烏拉穎@利維坦",
+      "Kach@利維坦",
+      "騎很快蘿莉控@利維坦",
+      "Yuina@巴哈姆特",
+      "衫尚優雅@利維坦",
+      "Rei@巴哈姆特",
+      "艾德琳@巴哈姆特",
+      "丹丹真好吃@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 981650,
+    "clear_dt_ms": 1779979888070,
+    "jobs": {
+      "烏拉穎@利維坦": "Scholar",
+      "Kach@利維坦": "Paladin",
+      "騎很快蘿莉控@利維坦": "Warrior",
+      "Yuina@巴哈姆特": "BlackMage",
+      "衫尚優雅@利維坦": "Astrologian",
+      "Rei@巴哈姆特": "Samurai",
+      "艾德琳@巴哈姆特": "Dragoon",
+      "丹丹真好吃@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "7tKMFhjak942rCVL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "烏拉穎@利維坦",
+      "Kach@利維坦",
+      "騎很快蘿莉控@利維坦",
+      "Yuina@巴哈姆特",
+      "衫尚優雅@利維坦",
+      "Rei@巴哈姆特",
+      "艾德琳@巴哈姆特",
+      "丹丹真好吃@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 972918,
+    "clear_dt_ms": 1779981326629,
+    "jobs": {
+      "烏拉穎@利維坦": "Scholar",
+      "Kach@利維坦": "Paladin",
+      "騎很快蘿莉控@利維坦": "Warrior",
+      "Yuina@巴哈姆特": "BlackMage",
+      "衫尚優雅@利維坦": "Astrologian",
+      "Rei@巴哈姆特": "Samurai",
+      "艾德琳@巴哈姆特": "Dragoon",
+      "丹丹真好吃@利維坦": "Dancer"
+    }
   }
 ]
