@@ -37180,5 +37180,33 @@
       "Sealoo@伊弗利特": "Sage",
       "小嘎@伊弗利特": "Warrior"
     }
+  },
+  {
+    "code": "r7kaQCLNPDTgpf4V",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "泰迪@迦樓羅",
+      "殺手佐之助@巴哈姆特",
+      "Nakai@鳳凰",
+      "鳶仔小饅頭@鳳凰",
+      "晞呱owob@鳳凰",
+      "石神望@奧汀",
+      "悠太@鳳凰",
+      "最初的聲音@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1092623,
+    "clear_dt_ms": 1775467370425,
+    "jobs": {
+      "泰迪@迦樓羅": "Ninja",
+      "殺手佐之助@巴哈姆特": "Astrologian",
+      "Nakai@鳳凰": "Summoner",
+      "鳶仔小饅頭@鳳凰": "Dragoon",
+      "晞呱owob@鳳凰": "Bard",
+      "石神望@奧汀": "DarkKnight",
+      "悠太@鳳凰": "Sage",
+      "最初的聲音@迦樓羅": "Paladin"
+    }
   }
 ]
