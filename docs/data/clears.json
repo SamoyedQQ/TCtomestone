@@ -37824,5 +37824,89 @@
       "艾德琳@巴哈姆特": "Dragoon",
       "丹丹真好吃@利維坦": "Dancer"
     }
+  },
+  {
+    "code": "QtLcAVJCZT8W4Mmf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "瑀玥玥·瑀玥@迦樓羅",
+      "悠然誠心@利維坦",
+      "Yongno@伊弗利特",
+      "九巾路跑@鳳凰",
+      "尤吉歐@伊弗利特",
+      "空澄雪奈o@伊弗利特",
+      "雪莉的放大鏡@巴哈姆特",
+      "麥克雞快@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 880597,
+    "clear_dt_ms": 1779997541792,
+    "jobs": {
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "悠然誠心@利維坦": "DarkKnight",
+      "Yongno@伊弗利特": "Paladin",
+      "九巾路跑@鳳凰": "Sage",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "空澄雪奈o@伊弗利特": "Summoner",
+      "雪莉的放大鏡@巴哈姆特": "Ninja",
+      "麥克雞快@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "mv6hrFtnfHg21Tdp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "白霧紅塵@伊弗利特",
+      "Ptcat@利維坦",
+      "Mr刺蝟@迦樓羅",
+      "Lunana@巴哈姆特",
+      "阿爾帕芙@巴哈姆特",
+      "Emilia@迦樓羅",
+      "莉莉蕾娜@奧汀",
+      "Iroha@巴哈姆特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 970647,
+    "clear_dt_ms": 1779994799410,
+    "jobs": {
+      "白霧紅塵@伊弗利特": "Dragoon",
+      "Ptcat@利維坦": "Warrior",
+      "Mr刺蝟@迦樓羅": "Sage",
+      "Lunana@巴哈姆特": "Samurai",
+      "阿爾帕芙@巴哈姆特": "RedMage",
+      "Emilia@迦樓羅": "Astrologian",
+      "莉莉蕾娜@奧汀": "Paladin",
+      "Iroha@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "pfAXTbP9wv1t4YFk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "扁包@巴哈姆特",
+      "Diaulo@迦樓羅",
+      "Ryou@利維坦",
+      "布丁@利維坦",
+      "最初的聲音@迦樓羅",
+      "夜影嵐@伊弗利特",
+      "舞紗橘@利維坦",
+      "慎真@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 964475,
+    "clear_dt_ms": 1779993579996,
+    "jobs": {
+      "扁包@巴哈姆特": "Warrior",
+      "Diaulo@迦樓羅": "Samurai",
+      "Ryou@利維坦": "Astrologian",
+      "布丁@利維坦": "Dancer",
+      "最初的聲音@迦樓羅": "Sage",
+      "夜影嵐@伊弗利特": "Monk",
+      "舞紗橘@利維坦": "Pictomancer",
+      "慎真@利維坦": "Paladin"
+    }
   }
 ]
