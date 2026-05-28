@@ -37124,5 +37124,33 @@
       "澤星@迦樓羅": "Summoner",
       "肉桂捲公爵@利維坦": "Dragoon"
     }
+  },
+  {
+    "code": "vN49rD8KcRMJgnwj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kaede@利維坦",
+      "夢璃@利維坦",
+      "金龍姐姐@利維坦",
+      "段藏@利維坦",
+      "Nemo捏摸@利維坦",
+      "永愛三玖@巴哈姆特",
+      "Ryou@利維坦",
+      "慎真@利維坦"
+    ],
+    "fight_id": 46,
+    "duration_ms": 855161,
+    "clear_dt_ms": 1779906258417,
+    "jobs": {
+      "Kaede@利維坦": "RedMage",
+      "夢璃@利維坦": "Scholar",
+      "金龍姐姐@利維坦": "Dancer",
+      "段藏@利維坦": "Paladin",
+      "Nemo捏摸@利維坦": "Ninja",
+      "永愛三玖@巴哈姆特": "Summoner",
+      "Ryou@利維坦": "Astrologian",
+      "慎真@利維坦": "DarkKnight"
+    }
   }
 ]
