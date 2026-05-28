@@ -37152,5 +37152,33 @@
       "Ryou@利維坦": "Astrologian",
       "慎真@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "T6dZpzyPF1qCgKkb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "傑奇@伊弗利特",
+      "海馬懶人@伊弗利特",
+      "夏日@伊弗利特",
+      "Such@伊弗利特",
+      "Kuasa@伊弗利特",
+      "貝貝魯多@伊弗利特",
+      "Sealoo@伊弗利特",
+      "小嘎@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 809337,
+    "clear_dt_ms": 1777815655816,
+    "jobs": {
+      "傑奇@伊弗利特": "Summoner",
+      "海馬懶人@伊弗利特": "Paladin",
+      "夏日@伊弗利特": "Astrologian",
+      "Such@伊弗利特": "Bard",
+      "Kuasa@伊弗利特": "Ninja",
+      "貝貝魯多@伊弗利特": "BlackMage",
+      "Sealoo@伊弗利特": "Sage",
+      "小嘎@伊弗利特": "Warrior"
+    }
   }
 ]
