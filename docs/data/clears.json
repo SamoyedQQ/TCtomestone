@@ -37936,5 +37936,33 @@
       "莎夏kuma@迦樓羅": "Scholar",
       "如夢初醒獸@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "rk7XDHjKaVwJZyMx",
+    "title": "神乓消化",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Vggg@奧汀",
+      "阿盧@鳳凰",
+      "艾露貓@鳳凰",
+      "鮭魚明太子@迦樓羅",
+      "Peonut@迦樓羅",
+      "牛奶蓮子湯@鳳凰",
+      "南極@利維坦",
+      "以律@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 891118,
+    "clear_dt_ms": 1780055006327,
+    "jobs": {
+      "Vggg@奧汀": "Paladin",
+      "阿盧@鳳凰": "Samurai",
+      "艾露貓@鳳凰": "Bard",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "Peonut@迦樓羅": "Monk",
+      "牛奶蓮子湯@鳳凰": "Astrologian",
+      "南極@利維坦": "Summoner",
+      "以律@迦樓羅": "DarkKnight"
+    }
   }
 ]
