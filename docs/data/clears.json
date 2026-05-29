@@ -38496,5 +38496,89 @@
       "伊比@伊弗利特": "Sage",
       "Kennyt@巴哈姆特": "Monk"
     }
+  },
+  {
+    "code": "DZ91jmhGx2JAwfPn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "發芽馬鈴薯@巴哈姆特",
+      "舞紗橘@利維坦",
+      "春日@迦樓羅",
+      "朝朝如念@巴哈姆特",
+      "將吾@鳳凰",
+      "奈樂司@伊弗利特",
+      "Mizusa@迦樓羅",
+      "Jm@巴哈姆特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 956835,
+    "clear_dt_ms": 1780082917647,
+    "jobs": {
+      "發芽馬鈴薯@巴哈姆特": "Samurai",
+      "舞紗橘@利維坦": "Warrior",
+      "春日@迦樓羅": "WhiteMage",
+      "朝朝如念@巴哈姆特": "Sage",
+      "將吾@鳳凰": "Dancer",
+      "奈樂司@伊弗利特": "Paladin",
+      "Mizusa@迦樓羅": "BlackMage",
+      "Jm@巴哈姆特": "Ninja"
+    }
+  },
+  {
+    "code": "HaTBLbgmp8YtWXfz",
+    "title": "0530絕亞野團通關",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "大餅餅@奧汀",
+      "Maix@奧汀",
+      "我的褲子@巴哈姆特",
+      "Iehtan@泰坦",
+      "小內@巴哈姆特",
+      "Seox@迦樓羅",
+      "阿達@利維坦",
+      "加賀棒茶@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 984483,
+    "clear_dt_ms": 1780081159679,
+    "jobs": {
+      "大餅餅@奧汀": "Paladin",
+      "Maix@奧汀": "Samurai",
+      "我的褲子@巴哈姆特": "Machinist",
+      "Iehtan@泰坦": "Scholar",
+      "小內@巴哈姆特": "Warrior",
+      "Seox@迦樓羅": "Ninja",
+      "阿達@利維坦": "Pictomancer",
+      "加賀棒茶@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "9ptTRN4LCBd3aF7k",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "餡餅@利維坦",
+      "真是一段佳話@利維坦",
+      "白藍樂事人@巴哈姆特",
+      "暗嘿鬼屋@巴哈姆特",
+      "哈基de@利維坦",
+      "Flag@伊弗利特",
+      "佐藤麻衣@巴哈姆特",
+      "Aestus@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 956646,
+    "clear_dt_ms": 1780080543280,
+    "jobs": {
+      "餡餅@利維坦": "Samurai",
+      "真是一段佳話@利維坦": "Warrior",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "暗嘿鬼屋@巴哈姆特": "Dragoon",
+      "哈基de@利維坦": "WhiteMage",
+      "Flag@伊弗利特": "BlackMage",
+      "佐藤麻衣@巴哈姆特": "Dancer",
+      "Aestus@迦樓羅": "Sage"
+    }
   }
 ]
