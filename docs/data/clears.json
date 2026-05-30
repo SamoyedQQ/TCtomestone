@@ -38608,5 +38608,117 @@
       "九巾路跑@鳳凰": "Sage",
       "如月@鳳凰": "WhiteMage"
     }
+  },
+  {
+    "code": "BkH2vNDTXc37Jxgd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Lobird@鳳凰",
+      "我是天選@泰坦",
+      "打補師別打我@鳳凰",
+      "泉@伊弗利特",
+      "墨綠@鳳凰",
+      "冥淵殞落之王@伊弗利特",
+      "Knup@鳳凰",
+      "可可藍@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 834333,
+    "clear_dt_ms": 1779975428475,
+    "jobs": {
+      "Lobird@鳳凰": "Machinist",
+      "我是天選@泰坦": "WhiteMage",
+      "打補師別打我@鳳凰": "Warrior",
+      "泉@伊弗利特": "Summoner",
+      "墨綠@鳳凰": "Paladin",
+      "冥淵殞落之王@伊弗利特": "Ninja",
+      "Knup@鳳凰": "Dancer",
+      "可可藍@伊弗利特": "Sage"
+    }
+  },
+  {
+    "code": "GdXZJQYpWAchTRF4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "無@迦樓羅",
+      "索拉肥@鳳凰",
+      "熱到燙的暖男@迦樓羅",
+      "Verso@迦樓羅",
+      "乂o可樂o乂@鳳凰",
+      "三角初音@伊弗利特",
+      "琶舞@迦樓羅",
+      "伊耶艾琳娜@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 874139,
+    "clear_dt_ms": 1780132149426,
+    "jobs": {
+      "無@迦樓羅": "Gunbreaker",
+      "索拉肥@鳳凰": "DarkKnight",
+      "熱到燙的暖男@迦樓羅": "Machinist",
+      "Verso@迦樓羅": "Dragoon",
+      "乂o可樂o乂@鳳凰": "Samurai",
+      "三角初音@伊弗利特": "Astrologian",
+      "琶舞@迦樓羅": "Summoner",
+      "伊耶艾琳娜@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "KLfZVTbg4N82JxGn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "仙草愛玉@鳳凰",
+      "Gibada@鳳凰",
+      "懶斯洛特@迦樓羅",
+      "小落奈@巴哈姆特",
+      "夢龜@迦樓羅",
+      "芒果冰沙去冰@泰坦",
+      "悠羽狐白@利維坦",
+      "鴨子丷@泰坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1054620,
+    "clear_dt_ms": 1780130552844,
+    "jobs": {
+      "仙草愛玉@鳳凰": "Scholar",
+      "Gibada@鳳凰": "Monk",
+      "懶斯洛特@迦樓羅": "Warrior",
+      "小落奈@巴哈姆特": "WhiteMage",
+      "夢龜@迦樓羅": "Sage",
+      "芒果冰沙去冰@泰坦": "Dancer",
+      "悠羽狐白@利維坦": "Summoner",
+      "鴨子丷@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "3LtNwdyp2TXbf9rW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Sylvia@利維坦",
+      "小果@利維坦",
+      "無敵最開朗@鳳凰",
+      "名取幽奈@鳳凰",
+      "Sylvan@利維坦",
+      "布丁貓貓@利維坦",
+      "古菇菇@鳳凰",
+      "睡覺人@鳳凰"
+    ],
+    "fight_id": 16,
+    "duration_ms": 858529,
+    "clear_dt_ms": 1776096526253,
+    "jobs": {
+      "Sylvia@利維坦": "Astrologian",
+      "小果@利維坦": "Paladin",
+      "無敵最開朗@鳳凰": "Scholar",
+      "名取幽奈@鳳凰": "Viper",
+      "Sylvan@利維坦": "Summoner",
+      "布丁貓貓@利維坦": "Dancer",
+      "古菇菇@鳳凰": "DarkKnight",
+      "睡覺人@鳳凰": "Monk"
+    }
   }
 ]
