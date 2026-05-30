@@ -38580,5 +38580,33 @@
       "佐藤麻衣@巴哈姆特": "Dancer",
       "Aestus@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "jgB29D8qHTxNdGrM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "凌澄@巴哈姆特",
+      "空白@伊弗利特",
+      "繪靈法師@迦樓羅",
+      "只想躺平@利維坦",
+      "慎真@利維坦",
+      "弦凱@巴哈姆特",
+      "九巾路跑@鳳凰",
+      "如月@鳳凰"
+    ],
+    "fight_id": 38,
+    "duration_ms": 867348,
+    "clear_dt_ms": 1780101158096,
+    "jobs": {
+      "凌澄@巴哈姆特": "Paladin",
+      "空白@伊弗利特": "Monk",
+      "繪靈法師@迦樓羅": "RedMage",
+      "只想躺平@利維坦": "Dancer",
+      "慎真@利維坦": "Warrior",
+      "弦凱@巴哈姆特": "Summoner",
+      "九巾路跑@鳳凰": "Sage",
+      "如月@鳳凰": "WhiteMage"
+    }
   }
 ]
