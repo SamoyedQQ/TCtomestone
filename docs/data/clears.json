@@ -39028,5 +39028,33 @@
       "超級拇指喬@鳳凰": "Sage",
       "郭俊秀@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "MGxm1PQvWYczLa4T",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "奏天@巴哈姆特",
+      "維云斯@鳳凰",
+      "坦派斯特@巴哈姆特",
+      "無@迦樓羅",
+      "好想退休@鳳凰",
+      "Kiriyu@伊弗利特",
+      "安迪內德@巴哈姆特",
+      "Wqw@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 870032,
+    "clear_dt_ms": 1780207066082,
+    "jobs": {
+      "奏天@巴哈姆特": "Bard",
+      "維云斯@鳳凰": "WhiteMage",
+      "坦派斯特@巴哈姆特": "Samurai",
+      "無@迦樓羅": "Gunbreaker",
+      "好想退休@鳳凰": "Warrior",
+      "Kiriyu@伊弗利特": "Summoner",
+      "安迪內德@巴哈姆特": "Pictomancer",
+      "Wqw@利維坦": "Sage"
+    }
   }
 ]
