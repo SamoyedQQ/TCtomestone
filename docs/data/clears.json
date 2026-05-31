@@ -39308,5 +39308,89 @@
       "譚仔三哥@利維坦": "Astrologian",
       "魔法u柯比u@伊弗利特": "DarkKnight"
     }
+  },
+  {
+    "code": "8LxktRD9nfpz6VZY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Luche@伊弗利特",
+      "人帥何須名跩@奧汀",
+      "Ryou@利維坦",
+      "登哥@鳳凰",
+      "Xinsa@迦樓羅",
+      "孤獨萊恩@鳳凰",
+      "Nacho@鳳凰",
+      "騎士@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 968699,
+    "clear_dt_ms": 1780223142527,
+    "jobs": {
+      "Luche@伊弗利特": "Pictomancer",
+      "人帥何須名跩@奧汀": "Gunbreaker",
+      "Ryou@利維坦": "Astrologian",
+      "登哥@鳳凰": "Dragoon",
+      "Xinsa@迦樓羅": "Machinist",
+      "孤獨萊恩@鳳凰": "Scholar",
+      "Nacho@鳳凰": "BlackMage",
+      "騎士@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "4bVn6FWtmzcLCw2J",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "標@泰坦",
+      "Hiro@泰坦",
+      "奧斯塔@泰坦",
+      "梅露露·梅露@利維坦",
+      "玄境浩恩@泰坦",
+      "Hesper@鳳凰",
+      "兔兔兔兔兔兔@泰坦",
+      "Forte@鳳凰"
+    ],
+    "fight_id": 20,
+    "duration_ms": 973706,
+    "clear_dt_ms": 1780223318027,
+    "jobs": {
+      "標@泰坦": "Dragoon",
+      "Hiro@泰坦": "Pictomancer",
+      "奧斯塔@泰坦": "Gunbreaker",
+      "梅露露·梅露@利維坦": "Sage",
+      "玄境浩恩@泰坦": "Dancer",
+      "Hesper@鳳凰": "Monk",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "Forte@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "ALHxRKhBCYdWMpVZ",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Nobu卡茲@鳳凰",
+      "卜卜丸@鳳凰",
+      "草peko虐@利維坦",
+      "瑪洛緋玥@奧汀",
+      "條紋胖次@伊弗利特",
+      "阿曼妮西斯@迦樓羅",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "小犬@鳳凰"
+    ],
+    "fight_id": 14,
+    "duration_ms": 837646,
+    "clear_dt_ms": 1779648495723,
+    "jobs": {
+      "Nobu卡茲@鳳凰": "WhiteMage",
+      "卜卜丸@鳳凰": "Summoner",
+      "草peko虐@利維坦": "BlackMage",
+      "瑪洛緋玥@奧汀": "Samurai",
+      "條紋胖次@伊弗利特": "Warrior",
+      "阿曼妮西斯@迦樓羅": "Sage",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "小犬@鳳凰": "Paladin"
+    }
   }
 ]
