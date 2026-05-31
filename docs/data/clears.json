@@ -39532,5 +39532,173 @@
       "Mikiya@利維坦": "Astrologian",
       "七詩零@利維坦": "Machinist"
     }
+  },
+  {
+    "code": "LYhfKkGpNMDT71zC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "將吾@鳳凰",
+      "手殘大叔@鳳凰",
+      "庵德璽@鳳凰",
+      "黑虧@利維坦",
+      "Elian@鳳凰",
+      "兔耳護唇膏@鳳凰",
+      "阿肌蘇丸@奧汀",
+      "豆花三十塊@巴哈姆特"
+    ],
+    "fight_id": 35,
+    "duration_ms": 961011,
+    "clear_dt_ms": 1780240285225,
+    "jobs": {
+      "將吾@鳳凰": "Dancer",
+      "手殘大叔@鳳凰": "Pictomancer",
+      "庵德璽@鳳凰": "Astrologian",
+      "黑虧@利維坦": "Gunbreaker",
+      "Elian@鳳凰": "RedMage",
+      "兔耳護唇膏@鳳凰": "Sage",
+      "阿肌蘇丸@奧汀": "Monk",
+      "豆花三十塊@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "LYhfKkGpNMDT71zC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "將吾@鳳凰",
+      "手殘大叔@鳳凰",
+      "庵德璽@鳳凰",
+      "黑虧@利維坦",
+      "Elian@鳳凰",
+      "兔耳護唇膏@鳳凰",
+      "豆花三十塊@巴哈姆特",
+      "阿肌蘇丸@奧汀"
+    ],
+    "fight_id": 42,
+    "duration_ms": 986279,
+    "clear_dt_ms": 1780243157008,
+    "jobs": {
+      "將吾@鳳凰": "Dancer",
+      "手殘大叔@鳳凰": "Pictomancer",
+      "庵德璽@鳳凰": "Astrologian",
+      "黑虧@利維坦": "Gunbreaker",
+      "Elian@鳳凰": "RedMage",
+      "兔耳護唇膏@鳳凰": "Sage",
+      "豆花三十塊@巴哈姆特": "Paladin",
+      "阿肌蘇丸@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "WfNh4crv86mjKYk1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "恰吉@利維坦",
+      "瑞瑞超人@奧汀",
+      "雅修特拉拉肥@迦樓羅",
+      "Hotaru@泰坦",
+      "苦到沒紙濾茶@巴哈姆特",
+      "沕染@泰坦",
+      "無名的玩家@伊弗利特",
+      "Dino@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1003150,
+    "clear_dt_ms": 1780237893239,
+    "jobs": {
+      "恰吉@利維坦": "WhiteMage",
+      "瑞瑞超人@奧汀": "Gunbreaker",
+      "雅修特拉拉肥@迦樓羅": "Monk",
+      "Hotaru@泰坦": "Scholar",
+      "苦到沒紙濾茶@巴哈姆特": "RedMage",
+      "沕染@泰坦": "DarkKnight",
+      "無名的玩家@伊弗利特": "Dancer",
+      "Dino@鳳凰": "Samurai"
+    }
+  },
+  {
+    "code": "WfNh4crv86mjKYk1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "恰吉@利維坦",
+      "瑞瑞超人@奧汀",
+      "雅修特拉拉肥@迦樓羅",
+      "Hotaru@泰坦",
+      "苦到沒紙濾茶@巴哈姆特",
+      "沕染@泰坦",
+      "無名的玩家@伊弗利特",
+      "Dino@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 982086,
+    "clear_dt_ms": 1780240646071,
+    "jobs": {
+      "恰吉@利維坦": "WhiteMage",
+      "瑞瑞超人@奧汀": "Gunbreaker",
+      "雅修特拉拉肥@迦樓羅": "Monk",
+      "Hotaru@泰坦": "Scholar",
+      "苦到沒紙濾茶@巴哈姆特": "RedMage",
+      "沕染@泰坦": "DarkKnight",
+      "無名的玩家@伊弗利特": "Dancer",
+      "Dino@鳳凰": "Samurai"
+    }
+  },
+  {
+    "code": "8WfDtvHnAzdxMwLp",
+    "title": "绝境战（旧版本）",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "鳩可@迦樓羅",
+      "鮮豆信奈@巴哈姆特",
+      "栗米@利維坦",
+      "鳶仔小饅頭@鳳凰",
+      "哈哈傻瓜蛋@利維坦",
+      "悠夜雨@鳳凰",
+      "Yuruia@奧汀",
+      "Benny@奧汀"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1086340,
+    "clear_dt_ms": 1780236854539,
+    "jobs": {
+      "鳩可@迦樓羅": "Scholar",
+      "鮮豆信奈@巴哈姆特": "Paladin",
+      "栗米@利維坦": "Pictomancer",
+      "鳶仔小饅頭@鳳凰": "Warrior",
+      "哈哈傻瓜蛋@利維坦": "Machinist",
+      "悠夜雨@鳳凰": "BlackMage",
+      "Yuruia@奧汀": "WhiteMage",
+      "Benny@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "vn3JN7W4LMpqhQaB",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "黃泉@利維坦",
+      "快樂小虎鯨@利維坦",
+      "Xufeng@利維坦",
+      "摸斗@伊弗利特",
+      "春日@迦樓羅",
+      "虛擬貓咪@利維坦",
+      "糜小凡@泰坦",
+      "奈奈祈@利維坦"
+    ],
+    "fight_id": 38,
+    "duration_ms": 980407,
+    "clear_dt_ms": 1780242486308,
+    "jobs": {
+      "黃泉@利維坦": "Samurai",
+      "快樂小虎鯨@利維坦": "BlackMage",
+      "Xufeng@利維坦": "DarkKnight",
+      "摸斗@伊弗利特": "Paladin",
+      "春日@迦樓羅": "WhiteMage",
+      "虛擬貓咪@利維坦": "Ninja",
+      "糜小凡@泰坦": "Scholar",
+      "奈奈祈@利維坦": "Dancer"
+    }
   }
 ]
