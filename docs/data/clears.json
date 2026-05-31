@@ -39056,5 +39056,89 @@
       "安迪內德@巴哈姆特": "Pictomancer",
       "Wqw@利維坦": "Sage"
     }
+  },
+  {
+    "code": "rLgD7cRZ8CYbGmhv",
+    "title": "絕神兵 好耶過了",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "只有紅茶可嗎@迦樓羅",
+      "不要吵@利維坦",
+      "大鳥哈利@利維坦",
+      "雪花飄散@利維坦",
+      "祈喵兮兮@利維坦",
+      "名字隨便改@利維坦",
+      "未來不好耶@利維坦",
+      "茶里@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 883250,
+    "clear_dt_ms": 1780213706045,
+    "jobs": {
+      "只有紅茶可嗎@迦樓羅": "Ninja",
+      "不要吵@利維坦": "Machinist",
+      "大鳥哈利@利維坦": "Summoner",
+      "雪花飄散@利維坦": "RedMage",
+      "祈喵兮兮@利維坦": "DarkKnight",
+      "名字隨便改@利維坦": "Paladin",
+      "未來不好耶@利維坦": "Scholar",
+      "茶里@利維坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "9rvpPy1KNgW8qXt4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "恰吉@利維坦",
+      "瑞瑞超人@奧汀",
+      "雅修特拉拉肥@迦樓羅",
+      "Hotaru@泰坦",
+      "苦到沒紙濾茶@巴哈姆特",
+      "沕染@泰坦",
+      "無名的玩家@伊弗利特",
+      "Dino@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 985881,
+    "clear_dt_ms": 1780212290126,
+    "jobs": {
+      "恰吉@利維坦": "WhiteMage",
+      "瑞瑞超人@奧汀": "Gunbreaker",
+      "雅修特拉拉肥@迦樓羅": "Monk",
+      "Hotaru@泰坦": "Scholar",
+      "苦到沒紙濾茶@巴哈姆特": "RedMage",
+      "沕染@泰坦": "DarkKnight",
+      "無名的玩家@伊弗利特": "Dancer",
+      "Dino@鳳凰": "Samurai"
+    }
+  },
+  {
+    "code": "vyPfa9VCRq2YKgxL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "魔石精@伊弗利特",
+      "屁屁大師@利維坦",
+      "烏龍凍飲@奧汀",
+      "三文魚牛寶@伊弗利特",
+      "物理科主任@伊弗利特",
+      "辣味廁所紙@泰坦",
+      "巴隆@泰坦",
+      "金娜莉稼輝歌@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 981553,
+    "clear_dt_ms": 1780212923903,
+    "jobs": {
+      "魔石精@伊弗利特": "BlackMage",
+      "屁屁大師@利維坦": "Sage",
+      "烏龍凍飲@奧汀": "Paladin",
+      "三文魚牛寶@伊弗利特": "Astrologian",
+      "物理科主任@伊弗利特": "Warrior",
+      "辣味廁所紙@泰坦": "Machinist",
+      "巴隆@泰坦": "Dragoon",
+      "金娜莉稼輝歌@利維坦": "Pictomancer"
+    }
   }
 ]
