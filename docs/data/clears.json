@@ -40008,5 +40008,257 @@
       "巴隆@泰坦": "Dragoon",
       "銀三@奧汀": "Monk"
     }
+  },
+  {
+    "code": "Kz9ZJ3CQaDYn7GBg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "煞氣a達克@伊弗利特",
+      "Akinya@迦樓羅",
+      "新葉neko@迦樓羅",
+      "柴貓yuki@迦樓羅",
+      "夜神波波@迦樓羅",
+      "吃飯配口茶@奧汀",
+      "雪飄無音@迦樓羅",
+      "神奇脆脆@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 839089,
+    "clear_dt_ms": 1780322365395,
+    "jobs": {
+      "煞氣a達克@伊弗利特": "Reaper",
+      "Akinya@迦樓羅": "Dragoon",
+      "新葉neko@迦樓羅": "Warrior",
+      "柴貓yuki@迦樓羅": "Sage",
+      "夜神波波@迦樓羅": "DarkKnight",
+      "吃飯配口茶@奧汀": "Dancer",
+      "雪飄無音@迦樓羅": "Summoner",
+      "神奇脆脆@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "rtQyXaHzgYhZxpjR",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "不可@鳳凰",
+      "嚴選豆奶@迦樓羅",
+      "雷雷@伊弗利特",
+      "Jinhsi@迦樓羅",
+      "諾伊庫洛姆@迦樓羅",
+      "伊布布@伊弗利特",
+      "恰比ant@迦樓羅",
+      "捲捲@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 975577,
+    "clear_dt_ms": 1780321644841,
+    "jobs": {
+      "不可@鳳凰": "Monk",
+      "嚴選豆奶@迦樓羅": "Warrior",
+      "雷雷@伊弗利特": "Paladin",
+      "Jinhsi@迦樓羅": "Sage",
+      "諾伊庫洛姆@迦樓羅": "Astrologian",
+      "伊布布@伊弗利特": "Samurai",
+      "恰比ant@迦樓羅": "BlackMage",
+      "捲捲@奧汀": "Bard"
+    }
+  },
+  {
+    "code": "Wj3KDphtywbnCVGP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伊布布@伊弗利特",
+      "嚴選豆奶@迦樓羅",
+      "恰比ant@迦樓羅",
+      "巴隆@泰坦",
+      "諾伊庫洛姆@迦樓羅",
+      "Ethe@迦樓羅",
+      "Ennie@利維坦",
+      "Jinhsi@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 968906,
+    "clear_dt_ms": 1780315933972,
+    "jobs": {
+      "伊布布@伊弗利特": "Samurai",
+      "嚴選豆奶@迦樓羅": "Warrior",
+      "恰比ant@迦樓羅": "BlackMage",
+      "巴隆@泰坦": "Dragoon",
+      "諾伊庫洛姆@迦樓羅": "Astrologian",
+      "Ethe@迦樓羅": "Dancer",
+      "Ennie@利維坦": "Paladin",
+      "Jinhsi@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "DyZ8mCfvJbVAPpg9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Aweida@迦樓羅",
+      "炭烤醬油@泰坦",
+      "沒可能ouo@伊弗利特",
+      "焦糖的媽@鳳凰",
+      "粿寧糕@利維坦",
+      "Micona@利維坦",
+      "焦糖的爸@鳳凰",
+      "皮卡悠@鳳凰"
+    ],
+    "fight_id": 36,
+    "duration_ms": 861620,
+    "clear_dt_ms": 1780315417190,
+    "jobs": {
+      "Aweida@迦樓羅": "Summoner",
+      "炭烤醬油@泰坦": "Dancer",
+      "沒可能ouo@伊弗利特": "WhiteMage",
+      "焦糖的媽@鳳凰": "BlackMage",
+      "粿寧糕@利維坦": "Warrior",
+      "Micona@利維坦": "Scholar",
+      "焦糖的爸@鳳凰": "Paladin",
+      "皮卡悠@鳳凰": "Monk"
+    }
+  },
+  {
+    "code": "1jTAbqV3FDPCkQJ4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿秋@利維坦",
+      "翼神龍@奧汀",
+      "使心免於哀傷@奧汀",
+      "芙蘭@奧汀",
+      "天空龍@奧汀",
+      "豐川祥子@奧汀",
+      "Kenzo@奧汀",
+      "月環小嗚鼠@伊弗利特"
+    ],
+    "fight_id": 19,
+    "duration_ms": 953946,
+    "clear_dt_ms": 1778659752261,
+    "jobs": {
+      "阿秋@利維坦": "Astrologian",
+      "翼神龍@奧汀": "DarkKnight",
+      "使心免於哀傷@奧汀": "Warrior",
+      "芙蘭@奧汀": "BlackMage",
+      "天空龍@奧汀": "Scholar",
+      "豐川祥子@奧汀": "Samurai",
+      "Kenzo@奧汀": "Machinist",
+      "月環小嗚鼠@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "1jTAbqV3FDPCkQJ4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿秋@利維坦",
+      "翼神龍@奧汀",
+      "二七@鳳凰",
+      "芙蘭@奧汀",
+      "天空龍@奧汀",
+      "豐川祥子@奧汀",
+      "Kenzo@奧汀",
+      "月環小嗚鼠@伊弗利特"
+    ],
+    "fight_id": 157,
+    "duration_ms": 963538,
+    "clear_dt_ms": 1778827256881,
+    "jobs": {
+      "阿秋@利維坦": "Astrologian",
+      "翼神龍@奧汀": "DarkKnight",
+      "二七@鳳凰": "Warrior",
+      "芙蘭@奧汀": "BlackMage",
+      "天空龍@奧汀": "Scholar",
+      "豐川祥子@奧汀": "Samurai",
+      "Kenzo@奧汀": "Machinist",
+      "月環小嗚鼠@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "1jTAbqV3FDPCkQJ4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿秋@利維坦",
+      "翼神龍@奧汀",
+      "二七@鳳凰",
+      "芙蘭@奧汀",
+      "天空龍@奧汀",
+      "豐川祥子@奧汀",
+      "Kenzo@奧汀",
+      "月環小嗚鼠@伊弗利特"
+    ],
+    "fight_id": 158,
+    "duration_ms": 965382,
+    "clear_dt_ms": 1778828457630,
+    "jobs": {
+      "阿秋@利維坦": "Astrologian",
+      "翼神龍@奧汀": "DarkKnight",
+      "二七@鳳凰": "Warrior",
+      "芙蘭@奧汀": "BlackMage",
+      "天空龍@奧汀": "Scholar",
+      "豐川祥子@奧汀": "Samurai",
+      "Kenzo@奧汀": "Machinist",
+      "月環小嗚鼠@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "1jTAbqV3FDPCkQJ4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿秋@利維坦",
+      "翼神龍@奧汀",
+      "使心免於哀傷@奧汀",
+      "天空龍@奧汀",
+      "霜月璃音@奧汀",
+      "Kenzo@奧汀",
+      "月環小嗚鼠@伊弗利特",
+      "麻瓜@巴哈姆特"
+    ],
+    "fight_id": 164,
+    "duration_ms": 950294,
+    "clear_dt_ms": 1778831296460,
+    "jobs": {
+      "阿秋@利維坦": "Astrologian",
+      "翼神龍@奧汀": "DarkKnight",
+      "使心免於哀傷@奧汀": "Warrior",
+      "天空龍@奧汀": "Scholar",
+      "霜月璃音@奧汀": "BlackMage",
+      "Kenzo@奧汀": "Machinist",
+      "月環小嗚鼠@伊弗利特": "Bard",
+      "麻瓜@巴哈姆特": "Samurai"
+    }
+  },
+  {
+    "code": "1jTAbqV3FDPCkQJ4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿秋@利維坦",
+      "翼神龍@奧汀",
+      "使心免於哀傷@奧汀",
+      "芙蘭@奧汀",
+      "天空龍@奧汀",
+      "Kenzo@奧汀",
+      "月環小嗚鼠@伊弗利特",
+      "麻瓜@巴哈姆特"
+    ],
+    "fight_id": 167,
+    "duration_ms": 947306,
+    "clear_dt_ms": 1778832892824,
+    "jobs": {
+      "阿秋@利維坦": "Astrologian",
+      "翼神龍@奧汀": "DarkKnight",
+      "使心免於哀傷@奧汀": "Warrior",
+      "芙蘭@奧汀": "BlackMage",
+      "天空龍@奧汀": "Scholar",
+      "Kenzo@奧汀": "Machinist",
+      "月環小嗚鼠@伊弗利特": "Bard",
+      "麻瓜@巴哈姆特": "Samurai"
+    }
   }
 ]
