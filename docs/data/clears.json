@@ -39896,5 +39896,33 @@
       "米爾凱森@迦樓羅": "Dancer",
       "小瓦@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "mdjAvatckHYMyK8G",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "喚靈夜語@伊弗利特",
+      "冰天使@迦樓羅",
+      "希烏斯@利維坦",
+      "路過的@迦樓羅",
+      "棠黎@伊弗利特",
+      "沒可能ouo@伊弗利特",
+      "醉花o@迦樓羅",
+      "貓貓hana@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 854456,
+    "clear_dt_ms": 1780307421065,
+    "jobs": {
+      "喚靈夜語@伊弗利特": "Monk",
+      "冰天使@迦樓羅": "Paladin",
+      "希烏斯@利維坦": "DarkKnight",
+      "路過的@迦樓羅": "BlackMage",
+      "棠黎@伊弗利特": "Scholar",
+      "沒可能ouo@伊弗利特": "WhiteMage",
+      "醉花o@迦樓羅": "Dancer",
+      "貓貓hana@伊弗利特": "Summoner"
+    }
   }
 ]
