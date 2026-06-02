@@ -40708,5 +40708,33 @@
       "夜光閃亮亮@奧汀": "Scholar",
       "空空@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "HZNJqWYtMmzv4w2A",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "黎森@伊弗利特",
+      "巴巴托斯@奧汀",
+      "Nyxra@利維坦",
+      "蘿愛娜@迦樓羅",
+      "特依內@鳳凰",
+      "伊諾@利維坦",
+      "Warpea@鳳凰",
+      "Lova@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 866456,
+    "clear_dt_ms": 1780407260288,
+    "jobs": {
+      "黎森@伊弗利特": "Astrologian",
+      "巴巴托斯@奧汀": "Dancer",
+      "Nyxra@利維坦": "DarkKnight",
+      "蘿愛娜@迦樓羅": "Paladin",
+      "特依內@鳳凰": "Samurai",
+      "伊諾@利維坦": "Summoner",
+      "Warpea@鳳凰": "BlackMage",
+      "Lova@迦樓羅": "Scholar"
+    }
   }
 ]
