@@ -41072,5 +41072,117 @@
       "小小鷗@迦樓羅": "Summoner",
       "真是一段佳話@利維坦": "Dancer"
     }
+  },
+  {
+    "code": "wap7CgYZcjvGqMFk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "友利奈緒@伊弗利特",
+      "小肥嘟嘟@利維坦",
+      "小魚子醬@鳳凰",
+      "阿吉美眉@巴哈姆特",
+      "三角初音@伊弗利特",
+      "Iroha@巴哈姆特",
+      "Aestus@迦樓羅",
+      "異累k@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 960888,
+    "clear_dt_ms": 1780425625165,
+    "jobs": {
+      "友利奈緒@伊弗利特": "Pictomancer",
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "小魚子醬@鳳凰": "Samurai",
+      "阿吉美眉@巴哈姆特": "Warrior",
+      "三角初音@伊弗利特": "Gunbreaker",
+      "Iroha@巴哈姆特": "Dancer",
+      "Aestus@迦樓羅": "Sage",
+      "異累k@迦樓羅": "WhiteMage"
+    }
+  },
+  {
+    "code": "tKBZ3vV2LfDqWwTA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "積美希@利維坦",
+      "赫雨娜希恩@迦樓羅",
+      "Soyo虧虧@利維坦",
+      "梅洛洛@利維坦",
+      "醉花o@迦樓羅",
+      "龍龍@奧汀",
+      "Oftum@鳳凰",
+      "沙龍怕鼠@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1068198,
+    "clear_dt_ms": 1780410422789,
+    "jobs": {
+      "積美希@利維坦": "Warrior",
+      "赫雨娜希恩@迦樓羅": "Sage",
+      "Soyo虧虧@利維坦": "Ninja",
+      "梅洛洛@利維坦": "Scholar",
+      "醉花o@迦樓羅": "Dancer",
+      "龍龍@奧汀": "WhiteMage",
+      "Oftum@鳳凰": "Summoner",
+      "沙龍怕鼠@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "tKBZ3vV2LfDqWwTA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "積美希@利維坦",
+      "赫雨娜希恩@迦樓羅",
+      "Soyo虧虧@利維坦",
+      "梅洛洛@利維坦",
+      "醉花o@迦樓羅",
+      "龍龍@奧汀",
+      "Oftum@鳳凰",
+      "沙龍怕鼠@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1089175,
+    "clear_dt_ms": 1780412710259,
+    "jobs": {
+      "積美希@利維坦": "Warrior",
+      "赫雨娜希恩@迦樓羅": "Sage",
+      "Soyo虧虧@利維坦": "Ninja",
+      "梅洛洛@利維坦": "Scholar",
+      "醉花o@迦樓羅": "Dancer",
+      "龍龍@奧汀": "WhiteMage",
+      "Oftum@鳳凰": "Summoner",
+      "沙龍怕鼠@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "hTa62qpF1L7dRcjt",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Hotcat@鳳凰",
+      "彌里@巴哈姆特",
+      "Only@伊弗利特",
+      "澎湖邊緣人@迦樓羅",
+      "Sakana@伊弗利特",
+      "尼可拉斯地瓜@迦樓羅",
+      "狐同學@奧汀",
+      "天宮凜@鳳凰"
+    ],
+    "fight_id": 34,
+    "duration_ms": 883392,
+    "clear_dt_ms": 1780425013259,
+    "jobs": {
+      "Hotcat@鳳凰": "DarkKnight",
+      "彌里@巴哈姆特": "Astrologian",
+      "Only@伊弗利特": "Summoner",
+      "澎湖邊緣人@迦樓羅": "Monk",
+      "Sakana@伊弗利特": "Dancer",
+      "尼可拉斯地瓜@迦樓羅": "Paladin",
+      "狐同學@奧汀": "Dragoon",
+      "天宮凜@鳳凰": "Sage"
+    }
   }
 ]
