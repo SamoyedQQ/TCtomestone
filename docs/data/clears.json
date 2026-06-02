@@ -40596,5 +40596,61 @@
       "Mikiya@利維坦": "Astrologian",
       "大野@利維坦": "Dragoon"
     }
+  },
+  {
+    "code": "N9LHMndwVKy2Jxp1",
+    "title": "神兵過本",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "琶舞@迦樓羅",
+      "貓頭蜜蜂@迦樓羅",
+      "阿文巴巴大俠@奧汀",
+      "岑進大海@泰坦",
+      "魂仔@伊弗利特",
+      "殘像未來@鳳凰",
+      "Popi@伊弗利特",
+      "空空@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 865676,
+    "clear_dt_ms": 1780385002232,
+    "jobs": {
+      "琶舞@迦樓羅": "Summoner",
+      "貓頭蜜蜂@迦樓羅": "Bard",
+      "阿文巴巴大俠@奧汀": "Dragoon",
+      "岑進大海@泰坦": "Astrologian",
+      "魂仔@伊弗利特": "Sage",
+      "殘像未來@鳳凰": "Samurai",
+      "Popi@伊弗利特": "DarkKnight",
+      "空空@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "gB7yCbzQ6KMRtqHJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "吸管@利維坦",
+      "夜風@利維坦",
+      "莎夏kuma@迦樓羅",
+      "扁包@巴哈姆特",
+      "慎真@利維坦",
+      "阿熏@泰坦",
+      "只有紅茶可嗎@迦樓羅",
+      "小眼睛hd@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 877272,
+    "clear_dt_ms": 1780346425674,
+    "jobs": {
+      "吸管@利維坦": "Paladin",
+      "夜風@利維坦": "Bard",
+      "莎夏kuma@迦樓羅": "Scholar",
+      "扁包@巴哈姆特": "Warrior",
+      "慎真@利維坦": "Summoner",
+      "阿熏@泰坦": "BlackMage",
+      "只有紅茶可嗎@迦樓羅": "Viper",
+      "小眼睛hd@伊弗利特": "WhiteMage"
+    }
   }
 ]
