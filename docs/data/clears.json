@@ -41240,5 +41240,117 @@
       "帥高登坡哥@伊弗利特": "Viper",
       "喚靈夜語@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "8L3VPGpzchv4fZkX",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "時葉@迦樓羅",
+      "哲別@利維坦",
+      "Matty@伊弗利特",
+      "椿椿v@利維坦",
+      "百鬼鈴音@巴哈姆特",
+      "今天還沒練琴@伊弗利特",
+      "Weibb@泰坦",
+      "Ruko@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 990541,
+    "clear_dt_ms": 1780491512648,
+    "jobs": {
+      "時葉@迦樓羅": "Samurai",
+      "哲別@利維坦": "Pictomancer",
+      "Matty@伊弗利特": "Paladin",
+      "椿椿v@利維坦": "DarkKnight",
+      "百鬼鈴音@巴哈姆特": "Sage",
+      "今天還沒練琴@伊弗利特": "Dancer",
+      "Weibb@泰坦": "Ninja",
+      "Ruko@利維坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "MKrVf1m9PFJqzZL3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Bbjj@奧汀",
+      "Ethe@迦樓羅",
+      "哈基de@利維坦",
+      "魔石精@伊弗利特",
+      "裝身baby@伊弗利特",
+      "柒伍@迦樓羅",
+      "大餅餅@奧汀",
+      "騎士@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 965648,
+    "clear_dt_ms": 1780478199150,
+    "jobs": {
+      "Bbjj@奧汀": "Samurai",
+      "Ethe@迦樓羅": "Dancer",
+      "哈基de@利維坦": "Sage",
+      "魔石精@伊弗利特": "BlackMage",
+      "裝身baby@伊弗利特": "Astrologian",
+      "柒伍@迦樓羅": "Dragoon",
+      "大餅餅@奧汀": "Paladin",
+      "騎士@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "kyg7ZfHWNFx1jcQh",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Que@鳳凰",
+      "毛毛貓@利維坦",
+      "多喝熱水@鳳凰",
+      "亞菲斯特@伊弗利特",
+      "佐夜@鳳凰",
+      "Yakubb@巴哈姆特",
+      "殷箋@伊弗利特",
+      "希姆佐奈@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 844643,
+    "clear_dt_ms": 1780490039600,
+    "jobs": {
+      "Que@鳳凰": "BlackMage",
+      "毛毛貓@利維坦": "Summoner",
+      "多喝熱水@鳳凰": "Dragoon",
+      "亞菲斯特@伊弗利特": "Astrologian",
+      "佐夜@鳳凰": "Machinist",
+      "Yakubb@巴哈姆特": "Scholar",
+      "殷箋@伊弗利特": "Paladin",
+      "希姆佐奈@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "kyg7ZfHWNFx1jcQh",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Que@鳳凰",
+      "毛毛貓@利維坦",
+      "多喝熱水@鳳凰",
+      "亞菲斯特@伊弗利特",
+      "佐夜@鳳凰",
+      "Yakubb@巴哈姆特",
+      "殷箋@伊弗利特",
+      "希姆佐奈@伊弗利特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 844805,
+    "clear_dt_ms": 1780495129850,
+    "jobs": {
+      "Que@鳳凰": "BlackMage",
+      "毛毛貓@利維坦": "Summoner",
+      "多喝熱水@鳳凰": "Dragoon",
+      "亞菲斯特@伊弗利特": "Astrologian",
+      "佐夜@鳳凰": "Machinist",
+      "Yakubb@巴哈姆特": "Scholar",
+      "殷箋@伊弗利特": "Paladin",
+      "希姆佐奈@伊弗利特": "Warrior"
+    }
   }
 ]
