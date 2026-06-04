@@ -43228,5 +43228,145 @@
       "百鬼鈴音@巴哈姆特": "Sage",
       "Ruko@利維坦": "WhiteMage"
     }
+  },
+  {
+    "code": "16hN7bcLzZrGnyav",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "無薪@伊弗利特",
+      "冰柏@伊弗利特",
+      "三點準時下班@伊弗利特",
+      "紫薯啵啵@鳳凰",
+      "雪峰日昇@伊弗利特",
+      "十月蘑菇@伊弗利特",
+      "干炒牛河@伊弗利特",
+      "貓貓hana@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 855974,
+    "clear_dt_ms": 1780586211829,
+    "jobs": {
+      "無薪@伊弗利特": "Gunbreaker",
+      "冰柏@伊弗利特": "Scholar",
+      "三點準時下班@伊弗利特": "Monk",
+      "紫薯啵啵@鳳凰": "Dancer",
+      "雪峰日昇@伊弗利特": "WhiteMage",
+      "十月蘑菇@伊弗利特": "Ninja",
+      "干炒牛河@伊弗利特": "Paladin",
+      "貓貓hana@伊弗利特": "Summoner"
+    }
+  },
+  {
+    "code": "qZb9jDpJTMmcPV3Y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "冷血奧斯丁娜@伊弗利特",
+      "顧莉伊@伊弗利特",
+      "維索@利維坦",
+      "亞雷安@伊弗利特",
+      "紅月@迦樓羅",
+      "害惡細菌@伊弗利特",
+      "蒼蓮@伊弗利特",
+      "古菇骨@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 861327,
+    "clear_dt_ms": 1780584094862,
+    "jobs": {
+      "冷血奧斯丁娜@伊弗利特": "Machinist",
+      "顧莉伊@伊弗利特": "Paladin",
+      "維索@利維坦": "Warrior",
+      "亞雷安@伊弗利特": "Sage",
+      "紅月@迦樓羅": "Summoner",
+      "害惡細菌@伊弗利特": "Astrologian",
+      "蒼蓮@伊弗利特": "Monk",
+      "古菇骨@伊弗利特": "Dragoon"
+    }
+  },
+  {
+    "code": "qZb9jDpJTMmcPV3Y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "冷血奧斯丁娜@伊弗利特",
+      "顧莉伊@伊弗利特",
+      "維索@利維坦",
+      "亞雷安@伊弗利特",
+      "紅月@迦樓羅",
+      "害惡細菌@伊弗利特",
+      "蒼蓮@伊弗利特",
+      "古菇骨@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 881619,
+    "clear_dt_ms": 1780585330626,
+    "jobs": {
+      "冷血奧斯丁娜@伊弗利特": "Machinist",
+      "顧莉伊@伊弗利特": "Paladin",
+      "維索@利維坦": "Warrior",
+      "亞雷安@伊弗利特": "Sage",
+      "紅月@迦樓羅": "Summoner",
+      "害惡細菌@伊弗利特": "Astrologian",
+      "蒼蓮@伊弗利特": "Monk",
+      "古菇骨@伊弗利特": "Dragoon"
+    }
+  },
+  {
+    "code": "xLK6P2Cqa41RThFQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Aestus@迦樓羅",
+      "Ethe@迦樓羅",
+      "瑞納@利維坦",
+      "銀三@奧汀",
+      "Mikiya@利維坦",
+      "大野@利維坦",
+      "哈基de@利維坦",
+      "張員瑛的狗@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 951561,
+    "clear_dt_ms": 1780583597768,
+    "jobs": {
+      "Aestus@迦樓羅": "Sage",
+      "Ethe@迦樓羅": "Dancer",
+      "瑞納@利維坦": "Paladin",
+      "銀三@奧汀": "Monk",
+      "Mikiya@利維坦": "Astrologian",
+      "大野@利維坦": "Dragoon",
+      "哈基de@利維坦": "DarkKnight",
+      "張員瑛的狗@巴哈姆特": "Pictomancer"
+    }
+  },
+  {
+    "code": "3LKJNzDb421nqdMC",
+    "title": "神兵0604",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "笭@迦樓羅",
+      "沒可能ouo@伊弗利特",
+      "千早@泰坦",
+      "Dc咕咕嘎嘎@伊弗利特",
+      "Nyxra@利維坦",
+      "琶舞@迦樓羅",
+      "逢魔時王@迦樓羅",
+      "Norn@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 884449,
+    "clear_dt_ms": 1780583161450,
+    "jobs": {
+      "笭@迦樓羅": "Scholar",
+      "沒可能ouo@伊弗利特": "WhiteMage",
+      "千早@泰坦": "Ninja",
+      "Dc咕咕嘎嘎@伊弗利特": "Reaper",
+      "Nyxra@利維坦": "DarkKnight",
+      "琶舞@迦樓羅": "Dancer",
+      "逢魔時王@迦樓羅": "Summoner",
+      "Norn@伊弗利特": "Gunbreaker"
+    }
   }
 ]
