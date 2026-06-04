@@ -43172,5 +43172,61 @@
       "Yolo小威@伊弗利特": "WhiteMage",
       "喚靈夜語@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "1XH2k3FfvLctPYRa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "今天還沒練琴@伊弗利特",
+      "Weibb@泰坦",
+      "椿椿v@利維坦",
+      "哲別@利維坦",
+      "時葉@迦樓羅",
+      "Matty@伊弗利特",
+      "百鬼鈴音@巴哈姆特",
+      "Ruko@利維坦"
+    ],
+    "fight_id": 31,
+    "duration_ms": 975003,
+    "clear_dt_ms": 1780578751651,
+    "jobs": {
+      "今天還沒練琴@伊弗利特": "Dancer",
+      "Weibb@泰坦": "Ninja",
+      "椿椿v@利維坦": "DarkKnight",
+      "哲別@利維坦": "Pictomancer",
+      "時葉@迦樓羅": "Samurai",
+      "Matty@伊弗利特": "Paladin",
+      "百鬼鈴音@巴哈姆特": "Sage",
+      "Ruko@利維坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "1XH2k3FfvLctPYRa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "今天還沒練琴@伊弗利特",
+      "Weibb@泰坦",
+      "椿椿v@利維坦",
+      "哲別@利維坦",
+      "時葉@迦樓羅",
+      "Matty@伊弗利特",
+      "百鬼鈴音@巴哈姆特",
+      "Ruko@利維坦"
+    ],
+    "fight_id": 32,
+    "duration_ms": 985873,
+    "clear_dt_ms": 1780580103464,
+    "jobs": {
+      "今天還沒練琴@伊弗利特": "Dancer",
+      "Weibb@泰坦": "Ninja",
+      "椿椿v@利維坦": "DarkKnight",
+      "哲別@利維坦": "Pictomancer",
+      "時葉@迦樓羅": "Samurai",
+      "Matty@伊弗利特": "Paladin",
+      "百鬼鈴音@巴哈姆特": "Sage",
+      "Ruko@利維坦": "WhiteMage"
+    }
   }
 ]
