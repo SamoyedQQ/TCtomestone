@@ -43788,5 +43788,61 @@
       "瑾@巴哈姆特": "Dragoon",
       "禰@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "k6t4TdYQMGhNXnRD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "Jerky@迦樓羅",
+      "新約不能天使@迦樓羅",
+      "小眼睛hd@伊弗利特",
+      "莎夏kuma@迦樓羅",
+      "天使之吻@迦樓羅",
+      "夜風@利維坦",
+      "魚酥酥酥脆@迦樓羅",
+      "Ryou@利維坦"
+    ],
+    "fight_id": 66,
+    "duration_ms": 890839,
+    "clear_dt_ms": 1780692048004,
+    "jobs": {
+      "Jerky@迦樓羅": "Summoner",
+      "新約不能天使@迦樓羅": "Paladin",
+      "小眼睛hd@伊弗利特": "WhiteMage",
+      "莎夏kuma@迦樓羅": "Scholar",
+      "天使之吻@迦樓羅": "DarkKnight",
+      "夜風@利維坦": "Machinist",
+      "魚酥酥酥脆@迦樓羅": "RedMage",
+      "Ryou@利維坦": "Dragoon"
+    }
+  },
+  {
+    "code": "bGgYvzTX3FdWja1q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "快點端上來罷@奧汀",
+      "祿存@伊弗利特",
+      "雪花@奧汀",
+      "罵丸人@伊弗利特",
+      "鞋貓@伊弗利特",
+      "睿睿@奧汀",
+      "梵妮@利維坦",
+      "超級ot王@奧汀"
+    ],
+    "fight_id": 24,
+    "duration_ms": 865494,
+    "clear_dt_ms": 1780686939143,
+    "jobs": {
+      "快點端上來罷@奧汀": "WhiteMage",
+      "祿存@伊弗利特": "Summoner",
+      "雪花@奧汀": "Sage",
+      "罵丸人@伊弗利特": "Warrior",
+      "鞋貓@伊弗利特": "Dancer",
+      "睿睿@奧汀": "BlackMage",
+      "梵妮@利維坦": "Dragoon",
+      "超級ot王@奧汀": "Gunbreaker"
+    }
   }
 ]
