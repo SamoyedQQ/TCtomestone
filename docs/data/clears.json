@@ -43424,5 +43424,117 @@
       "烤月餅@奧汀": "Dancer",
       "花一匁@伊弗利特": "Ninja"
     }
+  },
+  {
+    "code": "9JjPyf3HBVQkDtMx",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Aestus@迦樓羅",
+      "冷冷吖@利維坦",
+      "銀三@奧汀",
+      "Ethe@迦樓羅",
+      "Mikiya@利維坦",
+      "Jerky@迦樓羅",
+      "哈基de@利維坦",
+      "泥犁三垢@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 935731,
+    "clear_dt_ms": 1780661015453,
+    "jobs": {
+      "Aestus@迦樓羅": "Sage",
+      "冷冷吖@利維坦": "DarkKnight",
+      "銀三@奧汀": "Monk",
+      "Ethe@迦樓羅": "Dancer",
+      "Mikiya@利維坦": "Astrologian",
+      "Jerky@迦樓羅": "Pictomancer",
+      "哈基de@利維坦": "Viper",
+      "泥犁三垢@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "GTBHw1g9FdJfLPQk",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "王豆沙@利維坦",
+      "路邊一條浪浪@利維坦",
+      "哈迪斯@迦樓羅",
+      "哈基de@利維坦",
+      "小阿呆@迦樓羅",
+      "牛奶蓮子湯@鳳凰",
+      "Ethe@迦樓羅",
+      "泥犁三垢@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 969385,
+    "clear_dt_ms": 1780655512713,
+    "jobs": {
+      "王豆沙@利維坦": "BlackMage",
+      "路邊一條浪浪@利維坦": "Sage",
+      "哈迪斯@迦樓羅": "Gunbreaker",
+      "哈基de@利維坦": "Reaper",
+      "小阿呆@迦樓羅": "Monk",
+      "牛奶蓮子湯@鳳凰": "Astrologian",
+      "Ethe@迦樓羅": "Dancer",
+      "泥犁三垢@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "m2Z6Mx8BV9qnhTWN",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Yuu悠@奧汀",
+      "Lova@迦樓羅",
+      "星楓作浪@迦樓羅",
+      "喚靈夜語@伊弗利特",
+      "Dc咕咕嘎嘎@伊弗利特",
+      "笭@迦樓羅",
+      "三角初音@伊弗利特",
+      "桂格大燕麥片@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 884109,
+    "clear_dt_ms": 1780648585637,
+    "jobs": {
+      "Yuu悠@奧汀": "DarkKnight",
+      "Lova@迦樓羅": "Scholar",
+      "星楓作浪@迦樓羅": "Paladin",
+      "喚靈夜語@伊弗利特": "Monk",
+      "Dc咕咕嘎嘎@伊弗利特": "Reaper",
+      "笭@迦樓羅": "Machinist",
+      "三角初音@伊弗利特": "WhiteMage",
+      "桂格大燕麥片@奧汀": "Summoner"
+    }
+  },
+  {
+    "code": "ntahKgYC14c376JT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "阿偉@利維坦",
+      "Elymu@利維坦",
+      "揪卡@利維坦",
+      "結印明日奈@利維坦",
+      "拉拉肥哈比@利維坦",
+      "伊藤@利維坦",
+      "安雅@利維坦",
+      "Obsura@利維坦"
+    ],
+    "fight_id": 50,
+    "duration_ms": 908763,
+    "clear_dt_ms": 1780585585999,
+    "jobs": {
+      "阿偉@利維坦": "Monk",
+      "Elymu@利維坦": "Dragoon",
+      "揪卡@利維坦": "Summoner",
+      "結印明日奈@利維坦": "Warrior",
+      "拉拉肥哈比@利維坦": "Dancer",
+      "伊藤@利維坦": "Gunbreaker",
+      "安雅@利維坦": "WhiteMage",
+      "Obsura@利維坦": "Scholar"
+    }
   }
 ]
