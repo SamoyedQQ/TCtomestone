@@ -43760,5 +43760,33 @@
       "水dd滴@奧汀": "Ninja",
       "輸出型奶媽@奧汀": "Sage"
     }
+  },
+  {
+    "code": "XvDWBLQMa7nxq6ch",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Amesei@巴哈姆特",
+      "Hong乂@巴哈姆特",
+      "懶藍@巴哈姆特",
+      "朔音@巴哈姆特",
+      "輕貓淡寫@巴哈姆特",
+      "青山@巴哈姆特",
+      "瑾@巴哈姆特",
+      "禰@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 901887,
+    "clear_dt_ms": 1780674902377,
+    "jobs": {
+      "Amesei@巴哈姆特": "Astrologian",
+      "Hong乂@巴哈姆特": "Warrior",
+      "懶藍@巴哈姆特": "Summoner",
+      "朔音@巴哈姆特": "Ninja",
+      "輕貓淡寫@巴哈姆特": "Bard",
+      "青山@巴哈姆特": "Paladin",
+      "瑾@巴哈姆特": "Dragoon",
+      "禰@巴哈姆特": "Sage"
+    }
   }
 ]
