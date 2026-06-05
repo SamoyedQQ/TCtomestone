@@ -43536,5 +43536,89 @@
       "安雅@利維坦": "WhiteMage",
       "Obsura@利維坦": "Scholar"
     }
+  },
+  {
+    "code": "KWY1nZxdqv8Nf3pP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "慎真@利維坦",
+      "泥犁三垢@利維坦",
+      "魔石精@伊弗利特",
+      "Jerky@迦樓羅",
+      "麟麟@伊弗利特",
+      "Ethe@迦樓羅",
+      "Nemo捏摸@利維坦",
+      "巴隆@泰坦"
+    ],
+    "fight_id": 36,
+    "duration_ms": 966964,
+    "clear_dt_ms": 1780673014757,
+    "jobs": {
+      "慎真@利維坦": "Paladin",
+      "泥犁三垢@利維坦": "Warrior",
+      "魔石精@伊弗利特": "BlackMage",
+      "Jerky@迦樓羅": "Pictomancer",
+      "麟麟@伊弗利特": "Sage",
+      "Ethe@迦樓羅": "Dancer",
+      "Nemo捏摸@利維坦": "Astrologian",
+      "巴隆@泰坦": "Dragoon"
+    }
+  },
+  {
+    "code": "gjh2Wn3PJBZMz4wC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "麻雀啾啾@鳳凰",
+      "恰比ant@迦樓羅",
+      "Rumomo@鳳凰",
+      "奶油薯泥@伊弗利特",
+      "Jinhsi@迦樓羅",
+      "床上超人@奧汀",
+      "泥犁三垢@利維坦",
+      "諾伊庫洛姆@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 952432,
+    "clear_dt_ms": 1780667170364,
+    "jobs": {
+      "麻雀啾啾@鳳凰": "Paladin",
+      "恰比ant@迦樓羅": "BlackMage",
+      "Rumomo@鳳凰": "Dancer",
+      "奶油薯泥@伊弗利特": "Ninja",
+      "Jinhsi@迦樓羅": "Sage",
+      "床上超人@奧汀": "Samurai",
+      "泥犁三垢@利維坦": "Warrior",
+      "諾伊庫洛姆@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "zAJjKWP9Y1tfMxF6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "麟麟@伊弗利特",
+      "Nemo捏摸@利維坦",
+      "巴隆@泰坦",
+      "Ethe@迦樓羅",
+      "泥犁三垢@利維坦",
+      "Jerky@迦樓羅",
+      "慎真@利維坦",
+      "魔石精@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 966966,
+    "clear_dt_ms": 1780673014759,
+    "jobs": {
+      "麟麟@伊弗利特": "Sage",
+      "Nemo捏摸@利維坦": "Astrologian",
+      "巴隆@泰坦": "Dragoon",
+      "Ethe@迦樓羅": "Dancer",
+      "泥犁三垢@利維坦": "Warrior",
+      "Jerky@迦樓羅": "Pictomancer",
+      "慎真@利維坦": "Paladin",
+      "魔石精@伊弗利特": "BlackMage"
+    }
   }
 ]
