@@ -43844,5 +43844,89 @@
       "梵妮@利維坦": "Dragoon",
       "超級ot王@奧汀": "Gunbreaker"
     }
+  },
+  {
+    "code": "ACfBqtkgh1NFzxw2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Lutz@鳳凰",
+      "銀三@奧汀",
+      "哈基de@利維坦",
+      "白藍樂事人@巴哈姆特",
+      "Sliken@迦樓羅",
+      "譚雅@巴哈姆特",
+      "Ukaung@迦樓羅",
+      "犬圈圈@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 952015,
+    "clear_dt_ms": 1780725017682,
+    "jobs": {
+      "Lutz@鳳凰": "Machinist",
+      "銀三@奧汀": "Monk",
+      "哈基de@利維坦": "Pictomancer",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "Sliken@迦樓羅": "WhiteMage",
+      "譚雅@巴哈姆特": "Sage",
+      "Ukaung@迦樓羅": "BlackMage",
+      "犬圈圈@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "jArbq63TVBpm1nKg",
+    "title": "絕神兵第12次消化(D3舞者)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "水無賴@鳳凰",
+      "無@迦樓羅",
+      "山田蘇蘇@鳳凰",
+      "魚酥酥酥脆@迦樓羅",
+      "Syyndr@奧汀",
+      "阿飆兒@伊弗利特",
+      "薨緹@伊弗利特",
+      "斯貝德@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 900258,
+    "clear_dt_ms": 1780721934727,
+    "jobs": {
+      "水無賴@鳳凰": "BlackMage",
+      "無@迦樓羅": "Gunbreaker",
+      "山田蘇蘇@鳳凰": "Dragoon",
+      "魚酥酥酥脆@迦樓羅": "RedMage",
+      "Syyndr@奧汀": "Scholar",
+      "阿飆兒@伊弗利特": "DarkKnight",
+      "薨緹@伊弗利特": "Astrologian",
+      "斯貝德@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "CwmctaqR7LMT6zjf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "棠黎@伊弗利特",
+      "毛爸@伊弗利特",
+      "葒纓@奧汀",
+      "水寒@伊弗利特",
+      "貓玖@巴哈姆特",
+      "員力喵@迦樓羅",
+      "Ryou@利維坦",
+      "沒可能ouo@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 839707,
+    "clear_dt_ms": 1780686610726,
+    "jobs": {
+      "棠黎@伊弗利特": "Scholar",
+      "毛爸@伊弗利特": "Paladin",
+      "葒纓@奧汀": "Warrior",
+      "水寒@伊弗利特": "Summoner",
+      "貓玖@巴哈姆特": "Bard",
+      "員力喵@迦樓羅": "BlackMage",
+      "Ryou@利維坦": "Dragoon",
+      "沒可能ouo@伊弗利特": "WhiteMage"
+    }
   }
 ]
