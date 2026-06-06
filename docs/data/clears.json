@@ -43928,5 +43928,173 @@
       "Ryou@利維坦": "Dragoon",
       "沒可能ouo@伊弗利特": "WhiteMage"
     }
+  },
+  {
+    "code": "X1xLnJ3aD6dbNMhG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "懶斯洛特@迦樓羅",
+      "Mori@利維坦",
+      "小落奈@巴哈姆特",
+      "夢龜@迦樓羅",
+      "Gibada@鳳凰",
+      "鴨子丷@泰坦",
+      "芒果冰沙去冰@泰坦",
+      "仙草愛玉@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1105195,
+    "clear_dt_ms": 1780734640016,
+    "jobs": {
+      "懶斯洛特@迦樓羅": "Warrior",
+      "Mori@利維坦": "Ninja",
+      "小落奈@巴哈姆特": "WhiteMage",
+      "夢龜@迦樓羅": "Sage",
+      "Gibada@鳳凰": "Monk",
+      "鴨子丷@泰坦": "Paladin",
+      "芒果冰沙去冰@泰坦": "Dancer",
+      "仙草愛玉@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "X1xLnJ3aD6dbNMhG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "懶斯洛特@迦樓羅",
+      "小落奈@巴哈姆特",
+      "夢龜@迦樓羅",
+      "Gibada@鳳凰",
+      "鴨子丷@泰坦",
+      "芒果冰沙去冰@泰坦",
+      "悠羽狐白@利維坦",
+      "仙草愛玉@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1071660,
+    "clear_dt_ms": 1780737787085,
+    "jobs": {
+      "懶斯洛特@迦樓羅": "Warrior",
+      "小落奈@巴哈姆特": "WhiteMage",
+      "夢龜@迦樓羅": "Sage",
+      "Gibada@鳳凰": "Monk",
+      "鴨子丷@泰坦": "Paladin",
+      "芒果冰沙去冰@泰坦": "Dancer",
+      "悠羽狐白@利維坦": "Summoner",
+      "仙草愛玉@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "X1xLnJ3aD6dbNMhG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "懶斯洛特@迦樓羅",
+      "小落奈@巴哈姆特",
+      "夢龜@迦樓羅",
+      "Gibada@鳳凰",
+      "鴨子丷@泰坦",
+      "芒果冰沙去冰@泰坦",
+      "悠羽狐白@利維坦",
+      "仙草愛玉@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1033834,
+    "clear_dt_ms": 1780739025834,
+    "jobs": {
+      "懶斯洛特@迦樓羅": "Warrior",
+      "小落奈@巴哈姆特": "WhiteMage",
+      "夢龜@迦樓羅": "Sage",
+      "Gibada@鳳凰": "Monk",
+      "鴨子丷@泰坦": "Paladin",
+      "芒果冰沙去冰@泰坦": "Dancer",
+      "悠羽狐白@利維坦": "Summoner",
+      "仙草愛玉@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "BM7DrbpGHAJ9jnCF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "悠貓稟@泰坦",
+      "千小本@泰坦",
+      "歪皮@伊弗利特",
+      "白宣@迦樓羅",
+      "星也@泰坦",
+      "彧彧的@鳳凰",
+      "扁平足智蛙@利維坦",
+      "烤月餅@奧汀"
+    ],
+    "fight_id": 27,
+    "duration_ms": 1141394,
+    "clear_dt_ms": 1780685527155,
+    "jobs": {
+      "悠貓稟@泰坦": "Warrior",
+      "千小本@泰坦": "Pictomancer",
+      "歪皮@伊弗利特": "Sage",
+      "白宣@迦樓羅": "Paladin",
+      "星也@泰坦": "Dragoon",
+      "彧彧的@鳳凰": "Ninja",
+      "扁平足智蛙@利維坦": "Scholar",
+      "烤月餅@奧汀": "Dancer"
+    }
+  },
+  {
+    "code": "BM7DrbpGHAJ9jnCF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "悠貓稟@泰坦",
+      "千小本@泰坦",
+      "歪皮@伊弗利特",
+      "白宣@迦樓羅",
+      "星也@泰坦",
+      "彧彧的@鳳凰",
+      "扁平足智蛙@利維坦",
+      "烤月餅@奧汀"
+    ],
+    "fight_id": 33,
+    "duration_ms": 1140492,
+    "clear_dt_ms": 1780729022221,
+    "jobs": {
+      "悠貓稟@泰坦": "Warrior",
+      "千小本@泰坦": "Pictomancer",
+      "歪皮@伊弗利特": "Sage",
+      "白宣@迦樓羅": "Paladin",
+      "星也@泰坦": "Dragoon",
+      "彧彧的@鳳凰": "Ninja",
+      "扁平足智蛙@利維坦": "Scholar",
+      "烤月餅@奧汀": "Machinist"
+    }
+  },
+  {
+    "code": "BM7DrbpGHAJ9jnCF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "悠貓稟@泰坦",
+      "千小本@泰坦",
+      "歪皮@伊弗利特",
+      "白宣@迦樓羅",
+      "星也@泰坦",
+      "彧彧的@鳳凰",
+      "扁平足智蛙@利維坦",
+      "烤月餅@奧汀"
+    ],
+    "fight_id": 46,
+    "duration_ms": 1143354,
+    "clear_dt_ms": 1780736832350,
+    "jobs": {
+      "悠貓稟@泰坦": "Warrior",
+      "千小本@泰坦": "Pictomancer",
+      "歪皮@伊弗利特": "Sage",
+      "白宣@迦樓羅": "Paladin",
+      "星也@泰坦": "Dragoon",
+      "彧彧的@鳳凰": "Ninja",
+      "扁平足智蛙@利維坦": "Scholar",
+      "烤月餅@奧汀": "Dancer"
+    }
   }
 ]
