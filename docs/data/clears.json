@@ -44096,5 +44096,61 @@
       "扁平足智蛙@利維坦": "Scholar",
       "烤月餅@奧汀": "Dancer"
     }
+  },
+  {
+    "code": "h2K9yx4G3YJzcQfR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Gas@巴哈姆特",
+      "狼狼兒@迦樓羅",
+      "Pb@迦樓羅",
+      "覓@利維坦",
+      "黑耀@巴哈姆特",
+      "五體不滿足@巴哈姆特",
+      "Darren@利維坦",
+      "菲莉姬特@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 865961,
+    "clear_dt_ms": 1780758433064,
+    "jobs": {
+      "Gas@巴哈姆特": "Summoner",
+      "狼狼兒@迦樓羅": "WhiteMage",
+      "Pb@迦樓羅": "BlackMage",
+      "覓@利維坦": "Machinist",
+      "黑耀@巴哈姆特": "Sage",
+      "五體不滿足@巴哈姆特": "Warrior",
+      "Darren@利維坦": "Ninja",
+      "菲莉姬特@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "1r6GR3QYnt7L9P8K",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Dj@巴哈姆特",
+      "發票沒中過@利維坦",
+      "米米莉@奧汀",
+      "鮭魚明太子@迦樓羅",
+      "夜影嵐@伊弗利特",
+      "菇包@巴哈姆特",
+      "Rumomo@鳳凰",
+      "Dh@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 875938,
+    "clear_dt_ms": 1776958588749,
+    "jobs": {
+      "Dj@巴哈姆特": "Samurai",
+      "發票沒中過@利維坦": "Warrior",
+      "米米莉@奧汀": "WhiteMage",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "夜影嵐@伊弗利特": "Monk",
+      "菇包@巴哈姆特": "Paladin",
+      "Rumomo@鳳凰": "Dancer",
+      "Dh@伊弗利特": "Summoner"
+    }
   }
 ]
