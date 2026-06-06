@@ -44152,5 +44152,33 @@
       "Rumomo@鳳凰": "Dancer",
       "Dh@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "kHybxt8zqBJR7ZTP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "欸欸欸手摸哪@伊弗利特",
+      "員力喵@迦樓羅",
+      "焦糖的爸@鳳凰",
+      "結束btr@奧汀",
+      "從容有餘@鳳凰",
+      "響念@奧汀",
+      "露露怩雷@迦樓羅",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 891572,
+    "clear_dt_ms": 1780765678222,
+    "jobs": {
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "員力喵@迦樓羅": "Dancer",
+      "焦糖的爸@鳳凰": "Paladin",
+      "結束btr@奧汀": "Dragoon",
+      "從容有餘@鳳凰": "Ninja",
+      "響念@奧汀": "Summoner",
+      "露露怩雷@迦樓羅": "DarkKnight",
+      "三角初音@伊弗利特": "Scholar"
+    }
   }
 ]
