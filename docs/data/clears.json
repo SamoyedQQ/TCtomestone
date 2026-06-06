@@ -44180,5 +44180,33 @@
       "露露怩雷@迦樓羅": "DarkKnight",
       "三角初音@伊弗利特": "Scholar"
     }
+  },
+  {
+    "code": "A2ctG9wpJqFj1Dbd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "克羅賽@迦樓羅",
+      "大餅餅@奧汀",
+      "Aestus@迦樓羅",
+      "上安里李長柏@迦樓羅",
+      "哈基de@利維坦",
+      "七詩零@利維坦",
+      "Mikiya@利維坦",
+      "泥犁三垢@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 951463,
+    "clear_dt_ms": 1780774179098,
+    "jobs": {
+      "克羅賽@迦樓羅": "BlackMage",
+      "大餅餅@奧汀": "Paladin",
+      "Aestus@迦樓羅": "Sage",
+      "上安里李長柏@迦樓羅": "Monk",
+      "哈基de@利維坦": "Dragoon",
+      "七詩零@利維坦": "Machinist",
+      "Mikiya@利維坦": "Astrologian",
+      "泥犁三垢@利維坦": "Warrior"
+    }
   }
 ]
