@@ -44208,5 +44208,61 @@
       "Mikiya@利維坦": "Astrologian",
       "泥犁三垢@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "FyH3j2g49Vm7YtQK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伊布布@伊弗利特",
+      "Ethe@迦樓羅",
+      "Jinhsi@迦樓羅",
+      "巴隆@泰坦",
+      "啾哇喲ouo@泰坦",
+      "樹鼻妹@伊弗利特",
+      "三角初音@伊弗利特",
+      "諾伊庫洛姆@迦樓羅"
+    ],
+    "fight_id": 26,
+    "duration_ms": 962775,
+    "clear_dt_ms": 1780825157320,
+    "jobs": {
+      "伊布布@伊弗利特": "Samurai",
+      "Ethe@迦樓羅": "Dancer",
+      "Jinhsi@迦樓羅": "Sage",
+      "巴隆@泰坦": "Dragoon",
+      "啾哇喲ouo@泰坦": "Paladin",
+      "樹鼻妹@伊弗利特": "Gunbreaker",
+      "三角初音@伊弗利特": "Pictomancer",
+      "諾伊庫洛姆@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "8w69tAWJhyHQgcGB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "火粦@巴哈姆特",
+      "紅點點@鳳凰",
+      "肥滋滋@迦樓羅",
+      "Sisiro@鳳凰",
+      "天狼哥@迦樓羅",
+      "殘像未來@鳳凰",
+      "吸貓貓@迦樓羅",
+      "雪糕糕@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 841349,
+    "clear_dt_ms": 1780714960875,
+    "jobs": {
+      "火粦@巴哈姆特": "Astrologian",
+      "紅點點@鳳凰": "Dancer",
+      "肥滋滋@迦樓羅": "Summoner",
+      "Sisiro@鳳凰": "Scholar",
+      "天狼哥@迦樓羅": "Warrior",
+      "殘像未來@鳳凰": "Samurai",
+      "吸貓貓@迦樓羅": "Gunbreaker",
+      "雪糕糕@奧汀": "RedMage"
+    }
   }
 ]
