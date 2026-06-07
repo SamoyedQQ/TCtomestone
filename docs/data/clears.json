@@ -44264,5 +44264,89 @@
       "吸貓貓@迦樓羅": "Gunbreaker",
       "雪糕糕@奧汀": "RedMage"
     }
+  },
+  {
+    "code": "XCycfF48PrA9dKGq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "佐夜@鳳凰",
+      "殷箋@伊弗利特",
+      "Que@鳳凰",
+      "希姆佐奈@伊弗利特",
+      "Yakubb@巴哈姆特",
+      "毛毛貓@利維坦",
+      "亞菲斯特@伊弗利特",
+      "多喝熱水@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 853708,
+    "clear_dt_ms": 1780837710987,
+    "jobs": {
+      "佐夜@鳳凰": "Machinist",
+      "殷箋@伊弗利特": "Paladin",
+      "Que@鳳凰": "BlackMage",
+      "希姆佐奈@伊弗利特": "Warrior",
+      "Yakubb@巴哈姆特": "Scholar",
+      "毛毛貓@利維坦": "Summoner",
+      "亞菲斯特@伊弗利特": "Astrologian",
+      "多喝熱水@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "XCycfF48PrA9dKGq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "佐夜@鳳凰",
+      "殷箋@伊弗利特",
+      "Que@鳳凰",
+      "希姆佐奈@伊弗利特",
+      "Yakubb@巴哈姆特",
+      "毛毛貓@利維坦",
+      "亞菲斯特@伊弗利特",
+      "多喝熱水@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 845746,
+    "clear_dt_ms": 1780839810147,
+    "jobs": {
+      "佐夜@鳳凰": "Machinist",
+      "殷箋@伊弗利特": "Paladin",
+      "Que@鳳凰": "BlackMage",
+      "希姆佐奈@伊弗利特": "Warrior",
+      "Yakubb@巴哈姆特": "Scholar",
+      "毛毛貓@利維坦": "Summoner",
+      "亞菲斯特@伊弗利特": "Astrologian",
+      "多喝熱水@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "PFy7QX13TgBCHKMG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "雪峰日昇@伊弗利特",
+      "十月蘑菇@伊弗利特",
+      "干炒牛河@伊弗利特",
+      "喬麥麵@鳳凰",
+      "無薪@伊弗利特",
+      "三點準時下班@伊弗利特",
+      "冰柏@伊弗利特",
+      "貓貓hana@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 860089,
+    "clear_dt_ms": 1780846533197,
+    "jobs": {
+      "雪峰日昇@伊弗利特": "WhiteMage",
+      "十月蘑菇@伊弗利特": "Ninja",
+      "干炒牛河@伊弗利特": "Paladin",
+      "喬麥麵@鳳凰": "Dancer",
+      "無薪@伊弗利特": "Gunbreaker",
+      "三點準時下班@伊弗利特": "Monk",
+      "冰柏@伊弗利特": "Scholar",
+      "貓貓hana@伊弗利特": "Summoner"
+    }
   }
 ]
