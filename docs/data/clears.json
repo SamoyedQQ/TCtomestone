@@ -44348,5 +44348,61 @@
       "冰柏@伊弗利特": "Scholar",
       "貓貓hana@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "aWXArygnjV8zDGY6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "綠小蘭@伊弗利特",
+      "墨語澄@伊弗利特",
+      "澄明鏡@伊弗利特",
+      "彬押宏郎淦@伊弗利特",
+      "獅丸@伊弗利特",
+      "東雲@巴哈姆特",
+      "里維坦姿沒開@伊弗利特",
+      "看起來很好吃@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 904468,
+    "clear_dt_ms": 1780845448651,
+    "jobs": {
+      "綠小蘭@伊弗利特": "Dancer",
+      "墨語澄@伊弗利特": "Summoner",
+      "澄明鏡@伊弗利特": "Monk",
+      "彬押宏郎淦@伊弗利特": "Samurai",
+      "獅丸@伊弗利特": "Paladin",
+      "東雲@巴哈姆特": "WhiteMage",
+      "里維坦姿沒開@伊弗利特": "Gunbreaker",
+      "看起來很好吃@奧汀": "Scholar"
+    }
+  },
+  {
+    "code": "ZVz1HXnDBCqpJaLt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "Yolo小威@伊弗利特",
+      "希烏斯@利維坦",
+      "Ringo@巴哈姆特",
+      "睡豬@伊弗利特",
+      "可樂零熱量@利維坦",
+      "血豆@利維坦",
+      "夜纓@利維坦",
+      "Jerky@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 873245,
+    "clear_dt_ms": 1780777173709,
+    "jobs": {
+      "Yolo小威@伊弗利特": "WhiteMage",
+      "希烏斯@利維坦": "DarkKnight",
+      "Ringo@巴哈姆特": "Sage",
+      "睡豬@伊弗利特": "Samurai",
+      "可樂零熱量@利維坦": "Paladin",
+      "血豆@利維坦": "Summoner",
+      "夜纓@利維坦": "Dragoon",
+      "Jerky@迦樓羅": "Machinist"
+    }
   }
 ]
