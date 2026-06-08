@@ -44544,5 +44544,33 @@
       "悠貓稟@泰坦": "Warrior",
       "花一匁@伊弗利特": "Ninja"
     }
+  },
+  {
+    "code": "gJG8q76B4MzZLNDn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "逢魔時王@迦樓羅",
+      "大自然的饋贈@伊弗利特",
+      "睡豬@伊弗利特",
+      "三角初音@伊弗利特",
+      "月環小嗚鼠@伊弗利特",
+      "莎夏kuma@迦樓羅",
+      "Yongno@伊弗利特",
+      "玖玖@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 891921,
+    "clear_dt_ms": 1780942479484,
+    "jobs": {
+      "逢魔時王@迦樓羅": "Summoner",
+      "大自然的饋贈@伊弗利特": "Sage",
+      "睡豬@伊弗利特": "Samurai",
+      "三角初音@伊弗利特": "Gunbreaker",
+      "月環小嗚鼠@伊弗利特": "Machinist",
+      "莎夏kuma@迦樓羅": "Scholar",
+      "Yongno@伊弗利特": "Paladin",
+      "玖玖@迦樓羅": "BlackMage"
+    }
   }
 ]
