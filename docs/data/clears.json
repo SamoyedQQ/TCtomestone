@@ -44572,5 +44572,33 @@
       "Yongno@伊弗利特": "Paladin",
       "玖玖@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "7PGbKrwDjNZzxLgV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "悠然誠心@利維坦",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "沁雪冰心@利維坦",
+      "小小鷗@迦樓羅",
+      "Ryou@利維坦",
+      "Yongno@伊弗利特",
+      "想不到叫什麼@泰坦",
+      "星宿及月@迦樓羅"
+    ],
+    "fight_id": 34,
+    "duration_ms": 869934,
+    "clear_dt_ms": 1780936486398,
+    "jobs": {
+      "悠然誠心@利維坦": "DarkKnight",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "沁雪冰心@利維坦": "Paladin",
+      "小小鷗@迦樓羅": "Summoner",
+      "Ryou@利維坦": "Astrologian",
+      "Yongno@伊弗利特": "Reaper",
+      "想不到叫什麼@泰坦": "Dragoon",
+      "星宿及月@迦樓羅": "Scholar"
+    }
   }
 ]
