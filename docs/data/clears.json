@@ -44656,5 +44656,145 @@
       "葳葳@巴哈姆特": "WhiteMage",
       "狼一@泰坦": "Scholar"
     }
+  },
+  {
+    "code": "Z1N4zfvwt2MFnxdD",
+    "title": "1234",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Gginin@巴哈姆特",
+      "絕命獨獅@巴哈姆特",
+      "狼一@泰坦",
+      "達布洛克塔@巴哈姆特",
+      "小安@巴哈姆特",
+      "巴帝塔洛斯@巴哈姆特",
+      "豹炸@巴哈姆特",
+      "傲翼@巴哈姆特"
+    ],
+    "fight_id": 161,
+    "duration_ms": 846624,
+    "clear_dt_ms": 1780749820414,
+    "jobs": {
+      "Gginin@巴哈姆特": "Warrior",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "狼一@泰坦": "Astrologian",
+      "達布洛克塔@巴哈姆特": "Summoner",
+      "小安@巴哈姆特": "Monk",
+      "巴帝塔洛斯@巴哈姆特": "Machinist",
+      "豹炸@巴哈姆特": "Sage",
+      "傲翼@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "Z1N4zfvwt2MFnxdD",
+    "title": "1234",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Gginin@巴哈姆特",
+      "絕命獨獅@巴哈姆特",
+      "狼一@泰坦",
+      "達布洛克塔@巴哈姆特",
+      "小安@巴哈姆特",
+      "巴帝塔洛斯@巴哈姆特",
+      "豹炸@巴哈姆特",
+      "傲翼@巴哈姆特"
+    ],
+    "fight_id": 259,
+    "duration_ms": 875625,
+    "clear_dt_ms": 1780836570050,
+    "jobs": {
+      "Gginin@巴哈姆特": "Warrior",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "狼一@泰坦": "Scholar",
+      "達布洛克塔@巴哈姆特": "Summoner",
+      "小安@巴哈姆特": "Monk",
+      "巴帝塔洛斯@巴哈姆特": "Machinist",
+      "豹炸@巴哈姆特": "Sage",
+      "傲翼@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "Z1N4zfvwt2MFnxdD",
+    "title": "1234",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Gginin@巴哈姆特",
+      "絕命獨獅@巴哈姆特",
+      "狼一@泰坦",
+      "達布洛克塔@巴哈姆特",
+      "小安@巴哈姆特",
+      "巴帝塔洛斯@巴哈姆特",
+      "豹炸@巴哈姆特",
+      "傲翼@巴哈姆特"
+    ],
+    "fight_id": 264,
+    "duration_ms": 847992,
+    "clear_dt_ms": 1780839416239,
+    "jobs": {
+      "Gginin@巴哈姆特": "Warrior",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "狼一@泰坦": "Scholar",
+      "達布洛克塔@巴哈姆特": "Summoner",
+      "小安@巴哈姆特": "Monk",
+      "巴帝塔洛斯@巴哈姆特": "Machinist",
+      "豹炸@巴哈姆特": "Sage",
+      "傲翼@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "Z1N4zfvwt2MFnxdD",
+    "title": "1234",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Gginin@巴哈姆特",
+      "絕命獨獅@巴哈姆特",
+      "狼一@泰坦",
+      "達布洛克塔@巴哈姆特",
+      "小安@巴哈姆特",
+      "巴帝塔洛斯@巴哈姆特",
+      "豹炸@巴哈姆特",
+      "傲翼@巴哈姆特"
+    ],
+    "fight_id": 368,
+    "duration_ms": 868518,
+    "clear_dt_ms": 1781011415735,
+    "jobs": {
+      "Gginin@巴哈姆特": "Warrior",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "狼一@泰坦": "Scholar",
+      "達布洛克塔@巴哈姆特": "Summoner",
+      "小安@巴哈姆特": "Monk",
+      "巴帝塔洛斯@巴哈姆特": "Machinist",
+      "豹炸@巴哈姆特": "Sage",
+      "傲翼@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "h4KL2ZnFmzVp87dy",
+    "title": "野 絕神兵(D3通關)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "溫聆丷@巴哈姆特",
+      "睡豬@伊弗利特",
+      "墨助@伊弗利特",
+      "夜光閃亮亮@奧汀",
+      "露露怩雷@迦樓羅",
+      "月曦@伊弗利特",
+      "逐工攏睏袂飽@鳳凰",
+      "藏忍忍@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 874959,
+    "clear_dt_ms": 1781027592138,
+    "jobs": {
+      "溫聆丷@巴哈姆特": "DarkKnight",
+      "睡豬@伊弗利特": "Dragoon",
+      "墨助@伊弗利特": "Summoner",
+      "夜光閃亮亮@奧汀": "Astrologian",
+      "露露怩雷@迦樓羅": "Scholar",
+      "月曦@伊弗利特": "Paladin",
+      "逐工攏睏袂飽@鳳凰": "Monk",
+      "藏忍忍@迦樓羅": "Dancer"
+    }
   }
 ]
