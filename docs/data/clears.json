@@ -44796,5 +44796,33 @@
       "逐工攏睏袂飽@鳳凰": "Monk",
       "藏忍忍@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "CB9Ab3KX4YtHDLjq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "百事有可樂@伊弗利特",
+      "安眠@伊弗利特",
+      "黑魔道士@伊弗利特",
+      "洗讚小鴨鴨@伊弗利特",
+      "范太帥@伊弗利特",
+      "拉拉風@伊弗利特",
+      "荔枝羊@伊弗利特",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1087945,
+    "clear_dt_ms": 1781015829744,
+    "jobs": {
+      "百事有可樂@伊弗利特": "Dragoon",
+      "安眠@伊弗利特": "Astrologian",
+      "黑魔道士@伊弗利特": "BlackMage",
+      "洗讚小鴨鴨@伊弗利特": "Bard",
+      "范太帥@伊弗利特": "Scholar",
+      "拉拉風@伊弗利特": "Paladin",
+      "荔枝羊@伊弗利特": "DarkKnight",
+      "輸出型奶媽@奧汀": "Samurai"
+    }
   }
 ]
