@@ -44628,5 +44628,33 @@
       "逢魔時王@迦樓羅": "Summoner",
       "走路草@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "Kmf46WTHaqGL3p1r",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "瑥忒琲里@利維坦",
+      "罵丸人@伊弗利特",
+      "玖菜和子@奧汀",
+      "罐罐罐@利維坦",
+      "笭@迦樓羅",
+      "天雨@泰坦",
+      "葳葳@巴哈姆特",
+      "狼一@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 900080,
+    "clear_dt_ms": 1781000391301,
+    "jobs": {
+      "瑥忒琲里@利維坦": "Summoner",
+      "罵丸人@伊弗利特": "DarkKnight",
+      "玖菜和子@奧汀": "Gunbreaker",
+      "罐罐罐@利維坦": "Dancer",
+      "笭@迦樓羅": "Samurai",
+      "天雨@泰坦": "BlackMage",
+      "葳葳@巴哈姆特": "WhiteMage",
+      "狼一@泰坦": "Scholar"
+    }
   }
 ]
