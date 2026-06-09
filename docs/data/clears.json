@@ -44600,5 +44600,33 @@
       "想不到叫什麼@泰坦": "Dragoon",
       "星宿及月@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "1pxbHrWYfmZ6vjLq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "萊卡o貓巴洛@迦樓羅",
+      "葳葳@巴哈姆特",
+      "喚靈夜語@伊弗利特",
+      "可爾敏優幽@迦樓羅",
+      "Yuu悠@奧汀",
+      "緹里斯·靜@鳳凰",
+      "逢魔時王@迦樓羅",
+      "走路草@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 902949,
+    "clear_dt_ms": 1780991275172,
+    "jobs": {
+      "萊卡o貓巴洛@迦樓羅": "Paladin",
+      "葳葳@巴哈姆特": "WhiteMage",
+      "喚靈夜語@伊弗利特": "Monk",
+      "可爾敏優幽@迦樓羅": "BlackMage",
+      "Yuu悠@奧汀": "Warrior",
+      "緹里斯·靜@鳳凰": "Scholar",
+      "逢魔時王@迦樓羅": "Summoner",
+      "走路草@鳳凰": "Dancer"
+    }
   }
 ]
