@@ -45076,5 +45076,33 @@
       "西莉絲@利維坦": "DarkKnight",
       "酉星酉星口巴@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "PavcALCKtYmZNHr8",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "哈基de@利維坦",
+      "Mikiya@利維坦",
+      "輸出型奶媽@奧汀",
+      "Aestus@迦樓羅",
+      "專業野兔@奧汀",
+      "Ukaung@迦樓羅",
+      "Bbjj@奧汀",
+      "泥犁三垢@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 933605,
+    "clear_dt_ms": 1781119051213,
+    "jobs": {
+      "哈基de@利維坦": "Paladin",
+      "Mikiya@利維坦": "Astrologian",
+      "輸出型奶媽@奧汀": "Samurai",
+      "Aestus@迦樓羅": "Sage",
+      "專業野兔@奧汀": "Dancer",
+      "Ukaung@迦樓羅": "BlackMage",
+      "Bbjj@奧汀": "Dragoon",
+      "泥犁三垢@利維坦": "Warrior"
+    }
   }
 ]
