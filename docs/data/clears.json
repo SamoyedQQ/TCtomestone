@@ -45020,5 +45020,61 @@
       "伊賀栖寅@伊弗利特": "Viper",
       "橘雪莉@伊弗利特": "DarkKnight"
     }
+  },
+  {
+    "code": "jtJBLz9CnkNmXAxh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "花一匁@伊弗利特",
+      "烤月餅@奧汀",
+      "歪皮@伊弗利特",
+      "扁平足智蛙@利維坦",
+      "千小本@泰坦",
+      "星也@泰坦",
+      "悠貓稟@泰坦",
+      "Gptms@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1130373,
+    "clear_dt_ms": 1781112622666,
+    "jobs": {
+      "花一匁@伊弗利特": "Ninja",
+      "烤月餅@奧汀": "Dancer",
+      "歪皮@伊弗利特": "Sage",
+      "扁平足智蛙@利維坦": "Scholar",
+      "千小本@泰坦": "Pictomancer",
+      "星也@泰坦": "Dragoon",
+      "悠貓稟@泰坦": "Warrior",
+      "Gptms@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "96p2m3DvL8yqZrdK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "小肥嘟嘟@利維坦",
+      "葡萄瓜子樹@迦樓羅",
+      "盧森堡@巴哈姆特",
+      "Ariesy@奧汀",
+      "絢香@巴哈姆特",
+      "影月@巴哈姆特",
+      "西莉絲@利維坦",
+      "酉星酉星口巴@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1065621,
+    "clear_dt_ms": 1781106425451,
+    "jobs": {
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "盧森堡@巴哈姆特": "Astrologian",
+      "Ariesy@奧汀": "Sage",
+      "絢香@巴哈姆特": "Dancer",
+      "影月@巴哈姆特": "Samurai",
+      "西莉絲@利維坦": "DarkKnight",
+      "酉星酉星口巴@迦樓羅": "Scholar"
+    }
   }
 ]
