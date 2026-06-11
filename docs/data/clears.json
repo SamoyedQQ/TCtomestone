@@ -45160,5 +45160,61 @@
       "打補師別打我@鳳凰": "Warrior",
       "喚靈夜語@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "JpD7BMrACNnRbxcy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Aimyon@泰坦",
+      "蹦巴鴨@鳳凰",
+      "宅貓@奧汀",
+      "酪梨兔@利維坦",
+      "糖萌@奧汀",
+      "兔田阿貓@利維坦",
+      "沁心紅茶@利維坦",
+      "夷夷寺五一嗣@利維坦"
+    ],
+    "fight_id": 45,
+    "duration_ms": 887741,
+    "clear_dt_ms": 1781190037791,
+    "jobs": {
+      "Aimyon@泰坦": "Dancer",
+      "蹦巴鴨@鳳凰": "BlackMage",
+      "宅貓@奧汀": "Samurai",
+      "酪梨兔@利維坦": "Summoner",
+      "糖萌@奧汀": "Warrior",
+      "兔田阿貓@利維坦": "Sage",
+      "沁心紅茶@利維坦": "Astrologian",
+      "夷夷寺五一嗣@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "gFTht1xVnMXHGAZc",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Obsura@利維坦",
+      "Elymu@利維坦",
+      "結印明日奈@利維坦",
+      "阿偉@利維坦",
+      "安雅@利維坦",
+      "伊藤@利維坦",
+      "拉拉肥哈比@利維坦",
+      "揪卡@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 876450,
+    "clear_dt_ms": 1781188959262,
+    "jobs": {
+      "Obsura@利維坦": "Scholar",
+      "Elymu@利維坦": "Dragoon",
+      "結印明日奈@利維坦": "Warrior",
+      "阿偉@利維坦": "Monk",
+      "安雅@利維坦": "WhiteMage",
+      "伊藤@利維坦": "Gunbreaker",
+      "拉拉肥哈比@利維坦": "Dancer",
+      "揪卡@利維坦": "Summoner"
+    }
   }
 ]
