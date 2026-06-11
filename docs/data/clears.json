@@ -45132,5 +45132,33 @@
       "Imluda@泰坦": "Paladin",
       "喚靈夜語@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "gmc7MpzRFCwhL86r",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "泉@伊弗利特",
+      "郝響稅@迦樓羅",
+      "瑪打法咖@利維坦",
+      "凱拉兔@泰坦",
+      "罐罐罐@利維坦",
+      "Hiki@伊弗利特",
+      "打補師別打我@鳳凰",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 841048,
+    "clear_dt_ms": 1781176700396,
+    "jobs": {
+      "泉@伊弗利特": "Summoner",
+      "郝響稅@迦樓羅": "Sage",
+      "瑪打法咖@利維坦": "BlackMage",
+      "凱拉兔@泰坦": "Paladin",
+      "罐罐罐@利維坦": "Dancer",
+      "Hiki@伊弗利特": "Astrologian",
+      "打補師別打我@鳳凰": "Warrior",
+      "喚靈夜語@伊弗利特": "Monk"
+    }
   }
 ]
