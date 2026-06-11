@@ -45216,5 +45216,117 @@
       "拉拉肥哈比@利維坦": "Dancer",
       "揪卡@利維坦": "Summoner"
     }
+  },
+  {
+    "code": "RB6a4DGzqKkmZdL7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "打電話問功夫@迦樓羅",
+      "檸檬山君@鳳凰",
+      "花落水無月@鳳凰",
+      "攸嵐@鳳凰",
+      "裴恩@鳳凰",
+      "烏涼@鳳凰",
+      "嚕嚕貓uwu@鳳凰",
+      "赫爾維斯@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 848325,
+    "clear_dt_ms": 1781190750873,
+    "jobs": {
+      "打電話問功夫@迦樓羅": "Ninja",
+      "檸檬山君@鳳凰": "Monk",
+      "花落水無月@鳳凰": "Scholar",
+      "攸嵐@鳳凰": "Summoner",
+      "裴恩@鳳凰": "Paladin",
+      "烏涼@鳳凰": "Dancer",
+      "嚕嚕貓uwu@鳳凰": "Astrologian",
+      "赫爾維斯@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "RB6a4DGzqKkmZdL7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "打電話問功夫@迦樓羅",
+      "檸檬山君@鳳凰",
+      "花落水無月@鳳凰",
+      "攸嵐@鳳凰",
+      "裴恩@鳳凰",
+      "烏涼@鳳凰",
+      "嚕嚕貓uwu@鳳凰",
+      "赫爾維斯@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 840751,
+    "clear_dt_ms": 1781192905870,
+    "jobs": {
+      "打電話問功夫@迦樓羅": "Ninja",
+      "檸檬山君@鳳凰": "Monk",
+      "花落水無月@鳳凰": "Scholar",
+      "攸嵐@鳳凰": "Summoner",
+      "裴恩@鳳凰": "Paladin",
+      "烏涼@鳳凰": "Dancer",
+      "嚕嚕貓uwu@鳳凰": "Astrologian",
+      "赫爾維斯@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "RB6a4DGzqKkmZdL7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "打電話問功夫@迦樓羅",
+      "檸檬山君@鳳凰",
+      "花落水無月@鳳凰",
+      "攸嵐@鳳凰",
+      "裴恩@鳳凰",
+      "烏涼@鳳凰",
+      "嚕嚕貓uwu@鳳凰",
+      "赫爾維斯@鳳凰"
+    ],
+    "fight_id": 10,
+    "duration_ms": 856591,
+    "clear_dt_ms": 1781195551722,
+    "jobs": {
+      "打電話問功夫@迦樓羅": "Ninja",
+      "檸檬山君@鳳凰": "Monk",
+      "花落水無月@鳳凰": "Scholar",
+      "攸嵐@鳳凰": "Summoner",
+      "裴恩@鳳凰": "Paladin",
+      "烏涼@鳳凰": "Dancer",
+      "嚕嚕貓uwu@鳳凰": "Astrologian",
+      "赫爾維斯@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "qjAKpyLwPWNkbvZ9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "草丷羽涵@巴哈姆特",
+      "費南雪丷@巴哈姆特",
+      "薩摩耶丷@泰坦",
+      "泉水@巴哈姆特",
+      "潶渦團的鬼@鳳凰",
+      "溫聆丷@巴哈姆特",
+      "理丶@巴哈姆特",
+      "超導呼@伊弗利特"
+    ],
+    "fight_id": 24,
+    "duration_ms": 887980,
+    "clear_dt_ms": 1780840890250,
+    "jobs": {
+      "草丷羽涵@巴哈姆特": "Sage",
+      "費南雪丷@巴哈姆特": "Summoner",
+      "薩摩耶丷@泰坦": "Astrologian",
+      "泉水@巴哈姆特": "Dancer",
+      "潶渦團的鬼@鳳凰": "Ninja",
+      "溫聆丷@巴哈姆特": "DarkKnight",
+      "理丶@巴哈姆特": "Dragoon",
+      "超導呼@伊弗利特": "Paladin"
+    }
   }
 ]
