@@ -45104,5 +45104,33 @@
       "Bbjj@奧汀": "Dragoon",
       "泥犁三垢@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "KrWH7ThNQpxMyf46",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Morii@利維坦",
+      "吸管@利維坦",
+      "笭@迦樓羅",
+      "逢魔時王@迦樓羅",
+      "蝶蝶不修@利維坦",
+      "薨緹@伊弗利特",
+      "Imluda@泰坦",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 882717,
+    "clear_dt_ms": 1781163716725,
+    "jobs": {
+      "Morii@利維坦": "Scholar",
+      "吸管@利維坦": "Warrior",
+      "笭@迦樓羅": "Viper",
+      "逢魔時王@迦樓羅": "Summoner",
+      "蝶蝶不修@利維坦": "Dancer",
+      "薨緹@伊弗利特": "Astrologian",
+      "Imluda@泰坦": "Paladin",
+      "喚靈夜語@伊弗利特": "Monk"
+    }
   }
 ]
