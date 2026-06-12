@@ -45384,5 +45384,33 @@
       "八奈見杏菜@迦樓羅": "BlackMage",
       "友利奈緒@伊弗利特": "Pictomancer"
     }
+  },
+  {
+    "code": "f8dkytb6qQCxPHcM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "繁殖期彈塗魚@利維坦",
+      "Mikiya@利維坦",
+      "克羅賽@迦樓羅",
+      "哈基de@利維坦",
+      "七詩零@利維坦",
+      "Aestus@迦樓羅",
+      "Diaulo@迦樓羅",
+      "泥犁三垢@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 963625,
+    "clear_dt_ms": 1781281933377,
+    "jobs": {
+      "繁殖期彈塗魚@利維坦": "Paladin",
+      "Mikiya@利維坦": "Astrologian",
+      "克羅賽@迦樓羅": "BlackMage",
+      "哈基de@利維坦": "Dragoon",
+      "七詩零@利維坦": "Machinist",
+      "Aestus@迦樓羅": "Sage",
+      "Diaulo@迦樓羅": "Samurai",
+      "泥犁三垢@利維坦": "Warrior"
+    }
   }
 ]
