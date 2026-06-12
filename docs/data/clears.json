@@ -45412,5 +45412,61 @@
       "Diaulo@迦樓羅": "Samurai",
       "泥犁三垢@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "Fy2dGATD39H64Nah",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "煌天月@利維坦",
+      "楠小楓@利維坦",
+      "天宮凜@鳳凰",
+      "Ennie@利維坦",
+      "壓壓雞@利維坦",
+      "菲娜神威@利維坦",
+      "可愛堯堯大人@利維坦",
+      "千小本@泰坦"
+    ],
+    "fight_id": 29,
+    "duration_ms": 974048,
+    "clear_dt_ms": 1781300717749,
+    "jobs": {
+      "煌天月@利維坦": "Bard",
+      "楠小楓@利維坦": "Dragoon",
+      "天宮凜@鳳凰": "Sage",
+      "Ennie@利維坦": "Paladin",
+      "壓壓雞@利維坦": "DarkKnight",
+      "菲娜神威@利維坦": "Pictomancer",
+      "可愛堯堯大人@利維坦": "WhiteMage",
+      "千小本@泰坦": "BlackMage"
+    }
+  },
+  {
+    "code": "x1YzBtfrXaj4FnZ6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "酉星酉星口巴@迦樓羅",
+      "盧森堡@巴哈姆特",
+      "葡萄瓜子樹@迦樓羅",
+      "Ariesy@奧汀",
+      "西莉絲@利維坦",
+      "影月@巴哈姆特",
+      "絢香@巴哈姆特",
+      "小肥嘟嘟@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1066059,
+    "clear_dt_ms": 1781280209439,
+    "jobs": {
+      "酉星酉星口巴@迦樓羅": "Scholar",
+      "盧森堡@巴哈姆特": "Astrologian",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "Ariesy@奧汀": "Sage",
+      "西莉絲@利維坦": "DarkKnight",
+      "影月@巴哈姆特": "Samurai",
+      "絢香@巴哈姆特": "Dancer",
+      "小肥嘟嘟@利維坦": "BlackMage"
+    }
   }
 ]
