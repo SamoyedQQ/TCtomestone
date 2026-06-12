@@ -45356,5 +45356,33 @@
       "冬瓜瓜@鳳凰": "Gunbreaker",
       "阿·瓦諾@奧汀": "Paladin"
     }
+  },
+  {
+    "code": "12VnRbLJKgW9Fjfm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "雷火劍@伊弗利特",
+      "赫絲狄雅@鳳凰",
+      "Ptcat@利維坦",
+      "蕎麥鮮奶茶@伊弗利特",
+      "西·特莉格@鳳凰",
+      "想睡der貓@奧汀",
+      "八奈見杏菜@迦樓羅",
+      "友利奈緒@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 970355,
+    "clear_dt_ms": 1781232972759,
+    "jobs": {
+      "雷火劍@伊弗利特": "Gunbreaker",
+      "赫絲狄雅@鳳凰": "Sage",
+      "Ptcat@利維坦": "Warrior",
+      "蕎麥鮮奶茶@伊弗利特": "WhiteMage",
+      "西·特莉格@鳳凰": "Dancer",
+      "想睡der貓@奧汀": "Samurai",
+      "八奈見杏菜@迦樓羅": "BlackMage",
+      "友利奈緒@伊弗利特": "Pictomancer"
+    }
   }
 ]
