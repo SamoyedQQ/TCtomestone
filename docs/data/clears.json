@@ -45692,5 +45692,89 @@
       "殷箋@伊弗利特": "Paladin",
       "多喝熱水@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "pZgw2RTCa6fHBV3m",
+    "title": "神兵gogo",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "麻糬小八貓@利維坦",
+      "玥之星辰@奧汀",
+      "天宙@伊弗利特",
+      "稀有鮪魚@奧汀",
+      "鮪魚兔@奧汀",
+      "Kawayo@巴哈姆特",
+      "楓雪寒@泰坦",
+      "萌騎士麻吉@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 870477,
+    "clear_dt_ms": 1781372276608,
+    "jobs": {
+      "麻糬小八貓@利維坦": "BlackMage",
+      "玥之星辰@奧汀": "Summoner",
+      "天宙@伊弗利特": "DarkKnight",
+      "稀有鮪魚@奧汀": "Warrior",
+      "鮪魚兔@奧汀": "WhiteMage",
+      "Kawayo@巴哈姆特": "Dancer",
+      "楓雪寒@泰坦": "Sage",
+      "萌騎士麻吉@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "FjpmzZM4AXak9wW2",
+    "title": "絕神兵第13次消化",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "血豆@利維坦",
+      "倉坂神樂@巴哈姆特",
+      "安迪內德@巴哈姆特",
+      "布魯梅克@泰坦",
+      "娜娜皮@利維坦",
+      "光之艾斯@泰坦",
+      "洋月@巴哈姆特",
+      "斯貝德@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 862063,
+    "clear_dt_ms": 1781371929321,
+    "jobs": {
+      "血豆@利維坦": "Summoner",
+      "倉坂神樂@巴哈姆特": "Astrologian",
+      "安迪內德@巴哈姆特": "Pictomancer",
+      "布魯梅克@泰坦": "Gunbreaker",
+      "娜娜皮@利維坦": "Dancer",
+      "光之艾斯@泰坦": "Sage",
+      "洋月@巴哈姆特": "DarkKnight",
+      "斯貝德@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "cyVWZN8dM9rfRQ37",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "倚星細語@鳳凰",
+      "Sneaky@迦樓羅",
+      "小夏@迦樓羅",
+      "栗栗皆辛苦@迦樓羅",
+      "逐工攏睏袂飽@鳳凰",
+      "洗拉崩茲@迦樓羅",
+      "神的傑作@迦樓羅",
+      "夜鷹@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 842509,
+    "clear_dt_ms": 1781366138717,
+    "jobs": {
+      "倚星細語@鳳凰": "BlackMage",
+      "Sneaky@迦樓羅": "Paladin",
+      "小夏@迦樓羅": "Sage",
+      "栗栗皆辛苦@迦樓羅": "Dancer",
+      "逐工攏睏袂飽@鳳凰": "Monk",
+      "洗拉崩茲@迦樓羅": "Summoner",
+      "神的傑作@迦樓羅": "Astrologian",
+      "夜鷹@迦樓羅": "Warrior"
+    }
   }
 ]
