@@ -45776,5 +45776,33 @@
       "神的傑作@迦樓羅": "Astrologian",
       "夜鷹@迦樓羅": "Warrior"
     }
+  },
+  {
+    "code": "1B6RyY7jTmtbX8QF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "小啾啾@巴哈姆特",
+      "Yongno@伊弗利特",
+      "雷恩哈特@鳳凰",
+      "打補師別打我@鳳凰",
+      "乂夜神@巴哈姆特",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "焦糖脆米粒@奧汀",
+      "Hiki@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 907603,
+    "clear_dt_ms": 1781380042405,
+    "jobs": {
+      "小啾啾@巴哈姆特": "Astrologian",
+      "Yongno@伊弗利特": "Paladin",
+      "雷恩哈特@鳳凰": "Samurai",
+      "打補師別打我@鳳凰": "Warrior",
+      "乂夜神@巴哈姆特": "Dragoon",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "焦糖脆米粒@奧汀": "RedMage",
+      "Hiki@伊弗利特": "Scholar"
+    }
   }
 ]
