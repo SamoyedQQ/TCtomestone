@@ -45804,5 +45804,61 @@
       "焦糖脆米粒@奧汀": "RedMage",
       "Hiki@伊弗利特": "Scholar"
     }
+  },
+  {
+    "code": "HVTpZGznc1rRf4Aj",
+    "title": "0613_重傳",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "睡豬@伊弗利特",
+      "趴搭趴搭@伊弗利特",
+      "魚酥酥酥脆@迦樓羅",
+      "Gginin@巴哈姆特",
+      "薨緹@伊弗利特",
+      "跑跑跳跳@伊弗利特",
+      "絕命獨獅@巴哈姆特",
+      "莎夏kuma@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 872181,
+    "clear_dt_ms": 1781324738096,
+    "jobs": {
+      "睡豬@伊弗利特": "Samurai",
+      "趴搭趴搭@伊弗利特": "Dragoon",
+      "魚酥酥酥脆@迦樓羅": "RedMage",
+      "Gginin@巴哈姆特": "Warrior",
+      "薨緹@伊弗利特": "Astrologian",
+      "跑跑跳跳@伊弗利特": "Dancer",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "莎夏kuma@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "HVTpZGznc1rRf4Aj",
+    "title": "0613_重傳",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "睡豬@伊弗利特",
+      "趴搭趴搭@伊弗利特",
+      "魚酥酥酥脆@迦樓羅",
+      "Gginin@巴哈姆特",
+      "薨緹@伊弗利特",
+      "跑跑跳跳@伊弗利特",
+      "絕命獨獅@巴哈姆特",
+      "莎夏kuma@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 875680,
+    "clear_dt_ms": 1781326800794,
+    "jobs": {
+      "睡豬@伊弗利特": "Samurai",
+      "趴搭趴搭@伊弗利特": "Dragoon",
+      "魚酥酥酥脆@迦樓羅": "RedMage",
+      "Gginin@巴哈姆特": "Warrior",
+      "薨緹@伊弗利特": "Astrologian",
+      "跑跑跳跳@伊弗利特": "Dancer",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "莎夏kuma@迦樓羅": "Scholar"
+    }
   }
 ]
