@@ -45888,5 +45888,61 @@
       "音侍@伊弗利特": "Viper",
       "澪燁@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "zXyw8BTqQvYtbF42",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Aestus@迦樓羅",
+      "玖菜和子@奧汀",
+      "Jerky@迦樓羅",
+      "哈基de@利維坦",
+      "菲娜神威@利維坦",
+      "唐吉訶德@伊弗利特",
+      "啊呀鴨@奧汀",
+      "Mikiya@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 969302,
+    "clear_dt_ms": 1781349615622,
+    "jobs": {
+      "Aestus@迦樓羅": "Sage",
+      "玖菜和子@奧汀": "Gunbreaker",
+      "Jerky@迦樓羅": "BlackMage",
+      "哈基de@利維坦": "Dancer",
+      "菲娜神威@利維坦": "Pictomancer",
+      "唐吉訶德@伊弗利特": "Samurai",
+      "啊呀鴨@奧汀": "DarkKnight",
+      "Mikiya@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "AaLV4Q37JRWvhdXy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "冰上梅露露@巴哈姆特",
+      "不可@鳳凰",
+      "魅魅@巴哈姆特",
+      "卡夫卡@巴哈姆特",
+      "黑神遊夜@巴哈姆特",
+      "泉@伊弗利特",
+      "如月@鳳凰",
+      "Re晞忒璐@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 861566,
+    "clear_dt_ms": 1781429718444,
+    "jobs": {
+      "冰上梅露露@巴哈姆特": "Sage",
+      "不可@鳳凰": "Warrior",
+      "魅魅@巴哈姆特": "Astrologian",
+      "卡夫卡@巴哈姆特": "DarkKnight",
+      "黑神遊夜@巴哈姆特": "Dragoon",
+      "泉@伊弗利特": "Summoner",
+      "如月@鳳凰": "Monk",
+      "Re晞忒璐@利維坦": "Dancer"
+    }
   }
 ]
