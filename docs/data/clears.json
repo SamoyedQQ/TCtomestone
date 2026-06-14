@@ -46084,5 +46084,89 @@
       "小小龍@鳳凰": "Paladin",
       "輸出型奶媽@奧汀": "Samurai"
     }
+  },
+  {
+    "code": "N6LGRc7pt4M9jZXx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夜鷺@鳳凰",
+      "星川@利維坦",
+      "青木陽菜老公@奧汀",
+      "企鵝萌萌噠@利維坦",
+      "繧蔀祁挼丶@巴哈姆特",
+      "Baicon@巴哈姆特",
+      "小啾啾@巴哈姆特",
+      "Uon@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 865678,
+    "clear_dt_ms": 1781428105319,
+    "jobs": {
+      "夜鷺@鳳凰": "Paladin",
+      "星川@利維坦": "Gunbreaker",
+      "青木陽菜老公@奧汀": "Sage",
+      "企鵝萌萌噠@利維坦": "RedMage",
+      "繧蔀祁挼丶@巴哈姆特": "Samurai",
+      "Baicon@巴哈姆特": "Bard",
+      "小啾啾@巴哈姆特": "Astrologian",
+      "Uon@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "N6LGRc7pt4M9jZXx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夜鷺@鳳凰",
+      "星川@利維坦",
+      "青木陽菜老公@奧汀",
+      "企鵝萌萌噠@利維坦",
+      "繧蔀祁挼丶@巴哈姆特",
+      "Baicon@巴哈姆特",
+      "小啾啾@巴哈姆特",
+      "Uon@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 907839,
+    "clear_dt_ms": 1781432059241,
+    "jobs": {
+      "夜鷺@鳳凰": "Paladin",
+      "星川@利維坦": "Gunbreaker",
+      "青木陽菜老公@奧汀": "Sage",
+      "企鵝萌萌噠@利維坦": "RedMage",
+      "繧蔀祁挼丶@巴哈姆特": "Samurai",
+      "Baicon@巴哈姆特": "Bard",
+      "小啾啾@巴哈姆特": "Astrologian",
+      "Uon@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "Y1AyDXKgT3wapMnP",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Alpha猴@迦樓羅",
+      "唯燦ouo@利維坦",
+      "赫卡提亞@利維坦",
+      "貓娘賽高@利維坦",
+      "焦糖可可布丁@利維坦",
+      "玩一輩子金碟@利維坦",
+      "上伊那牡丹@利維坦",
+      "光之雀聖@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 859589,
+    "clear_dt_ms": 1781453057652,
+    "jobs": {
+      "Alpha猴@迦樓羅": "Monk",
+      "唯燦ouo@利維坦": "Summoner",
+      "赫卡提亞@利維坦": "DarkKnight",
+      "貓娘賽高@利維坦": "Ninja",
+      "焦糖可可布丁@利維坦": "Astrologian",
+      "玩一輩子金碟@利維坦": "Sage",
+      "上伊那牡丹@利維坦": "Dancer",
+      "光之雀聖@利維坦": "Warrior"
+    }
   }
 ]
