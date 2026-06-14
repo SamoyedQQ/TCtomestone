@@ -45944,5 +45944,145 @@
       "如月@鳳凰": "Monk",
       "Re晞忒璐@利維坦": "Dancer"
     }
+  },
+  {
+    "code": "cPxjT96A3m7NdzMa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kiwi@迦樓羅",
+      "超導呼@伊弗利特",
+      "Kasumi@迦樓羅",
+      "一逼鴉鴉@伊弗利特",
+      "給嫩勾@伊弗利特",
+      "里奇夕賀@泰坦",
+      "Wirewe@奧汀",
+      "兔兔兔兔兔兔@泰坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 847131,
+    "clear_dt_ms": 1781451797625,
+    "jobs": {
+      "Kiwi@迦樓羅": "Sage",
+      "超導呼@伊弗利特": "DarkKnight",
+      "Kasumi@迦樓羅": "Dragoon",
+      "一逼鴉鴉@伊弗利特": "Dancer",
+      "給嫩勾@伊弗利特": "Pictomancer",
+      "里奇夕賀@泰坦": "Paladin",
+      "Wirewe@奧汀": "Summoner",
+      "兔兔兔兔兔兔@泰坦": "Astrologian"
+    }
+  },
+  {
+    "code": "GMPY9f7vJNWXD3At",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "你們都是給@奧汀",
+      "Irdl@利維坦",
+      "Catt@利維坦",
+      "Skull@奧汀",
+      "夏日@利維坦",
+      "黑獸母雞魁首@奧汀",
+      "湊友希那@利維坦",
+      "阿丸@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1050735,
+    "clear_dt_ms": 1781024263627,
+    "jobs": {
+      "你們都是給@奧汀": "Warrior",
+      "Irdl@利維坦": "Monk",
+      "Catt@利維坦": "Summoner",
+      "Skull@奧汀": "Ninja",
+      "夏日@利維坦": "Astrologian",
+      "黑獸母雞魁首@奧汀": "DarkKnight",
+      "湊友希那@利維坦": "Dancer",
+      "阿丸@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "X73yxHT2NzKagkvm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Levia炭@利維坦",
+      "九筒@鳳凰",
+      "金娜莉稼輝歌@利維坦",
+      "加拿大白鵝@巴哈姆特",
+      "芙拉爾帕特@泰坦",
+      "幻羽山雀@鳳凰",
+      "小小龍@鳳凰",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 9,
+    "duration_ms": 976850,
+    "clear_dt_ms": 1781448739002,
+    "jobs": {
+      "Levia炭@利維坦": "Warrior",
+      "九筒@鳳凰": "Astrologian",
+      "金娜莉稼輝歌@利維坦": "BlackMage",
+      "加拿大白鵝@巴哈姆特": "Dancer",
+      "芙拉爾帕特@泰坦": "Monk",
+      "幻羽山雀@鳳凰": "Scholar",
+      "小小龍@鳳凰": "Paladin",
+      "輸出型奶媽@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "X73yxHT2NzKagkvm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Levia炭@利維坦",
+      "九筒@鳳凰",
+      "金娜莉稼輝歌@利維坦",
+      "加拿大白鵝@巴哈姆特",
+      "芙拉爾帕特@泰坦",
+      "幻羽山雀@鳳凰",
+      "小小龍@鳳凰",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 966124,
+    "clear_dt_ms": 1781449863988,
+    "jobs": {
+      "Levia炭@利維坦": "Warrior",
+      "九筒@鳳凰": "Astrologian",
+      "金娜莉稼輝歌@利維坦": "BlackMage",
+      "加拿大白鵝@巴哈姆特": "Dancer",
+      "芙拉爾帕特@泰坦": "Monk",
+      "幻羽山雀@鳳凰": "Scholar",
+      "小小龍@鳳凰": "Paladin",
+      "輸出型奶媽@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "X73yxHT2NzKagkvm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Levia炭@利維坦",
+      "九筒@鳳凰",
+      "金娜莉稼輝歌@利維坦",
+      "加拿大白鵝@巴哈姆特",
+      "芙拉爾帕特@泰坦",
+      "幻羽山雀@鳳凰",
+      "小小龍@鳳凰",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 12,
+    "duration_ms": 968926,
+    "clear_dt_ms": 1781451199882,
+    "jobs": {
+      "Levia炭@利維坦": "Warrior",
+      "九筒@鳳凰": "Astrologian",
+      "金娜莉稼輝歌@利維坦": "BlackMage",
+      "加拿大白鵝@巴哈姆特": "Dancer",
+      "芙拉爾帕特@泰坦": "Monk",
+      "幻羽山雀@鳳凰": "Scholar",
+      "小小龍@鳳凰": "Paladin",
+      "輸出型奶媽@奧汀": "Samurai"
+    }
   }
 ]
