@@ -45860,5 +45860,33 @@
       "絕命獨獅@巴哈姆特": "Paladin",
       "莎夏kuma@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "78Xq1GLwTtajmBdY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "慎真@利維坦",
+      "半島鐵盒@伊弗利特",
+      "Lucina@巴哈姆特",
+      "Yongno@伊弗利特",
+      "庵德璽@鳳凰",
+      "千繪燈@利維坦",
+      "音侍@伊弗利特",
+      "澪燁@利維坦"
+    ],
+    "fight_id": 24,
+    "duration_ms": 866769,
+    "clear_dt_ms": 1781415108675,
+    "jobs": {
+      "慎真@利維坦": "WhiteMage",
+      "半島鐵盒@伊弗利特": "Ninja",
+      "Lucina@巴哈姆特": "Dancer",
+      "Yongno@伊弗利特": "Paladin",
+      "庵德璽@鳳凰": "Sage",
+      "千繪燈@利維坦": "Summoner",
+      "音侍@伊弗利特": "Viper",
+      "澪燁@利維坦": "Warrior"
+    }
   }
 ]
