@@ -46924,5 +46924,61 @@
       "縵霓@利維坦": "Scholar",
       "千穗@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "avYRGNm8p6xLfT7q",
+    "title": "ultima weapon",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Dy小艾@巴哈姆特",
+      "友原伊@伊弗利特",
+      "床上超人@奧汀",
+      "肚子好餓@迦樓羅",
+      "破道之九十@迦樓羅",
+      "Natsum@奧汀",
+      "Iweasu@迦樓羅",
+      "二階堂希蘿@巴哈姆特"
+    ],
+    "fight_id": 40,
+    "duration_ms": 873987,
+    "clear_dt_ms": 1781550385683,
+    "jobs": {
+      "Dy小艾@巴哈姆特": "Reaper",
+      "友原伊@伊弗利特": "Sage",
+      "床上超人@奧汀": "Warrior",
+      "肚子好餓@迦樓羅": "Summoner",
+      "破道之九十@迦樓羅": "Dancer",
+      "Natsum@奧汀": "WhiteMage",
+      "Iweasu@迦樓羅": "BlackMage",
+      "二階堂希蘿@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "Vv1C6WPLtKMF7yz9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Yuu悠@奧汀",
+      "阿加爾塔@奧汀",
+      "土撥鼠@迦樓羅",
+      "柒@迦樓羅",
+      "Nephj@利維坦",
+      "阿韋布斯坦@鳳凰",
+      "萊卡o貓巴洛@迦樓羅",
+      "雪莉的放大鏡@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 855652,
+    "clear_dt_ms": 1781546389866,
+    "jobs": {
+      "Yuu悠@奧汀": "DarkKnight",
+      "阿加爾塔@奧汀": "Summoner",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "柒@迦樓羅": "Dancer",
+      "Nephj@利維坦": "WhiteMage",
+      "阿韋布斯坦@鳳凰": "Scholar",
+      "萊卡o貓巴洛@迦樓羅": "Paladin",
+      "雪莉的放大鏡@巴哈姆特": "Ninja"
+    }
   }
 ]
