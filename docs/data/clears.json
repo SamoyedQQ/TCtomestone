@@ -46224,5 +46224,145 @@
       "靈白@迦樓羅": "Summoner",
       "米津蘆筍汁@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "697RjBCrhGXVy8Tq",
+    "title": "連五絕神兵",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "絕命獨獅@巴哈姆特",
+      "索拉肥@鳳凰",
+      "嘎兵@鳳凰",
+      "可爾敏優幽@迦樓羅",
+      "逢魔時王@迦樓羅",
+      "奏天@巴哈姆特",
+      "拉麵戰士@泰坦",
+      "萬丈龍我@巴哈姆特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 889523,
+    "clear_dt_ms": 1781506512790,
+    "jobs": {
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "索拉肥@鳳凰": "DarkKnight",
+      "嘎兵@鳳凰": "WhiteMage",
+      "可爾敏優幽@迦樓羅": "BlackMage",
+      "逢魔時王@迦樓羅": "Summoner",
+      "奏天@巴哈姆特": "Bard",
+      "拉麵戰士@泰坦": "Sage",
+      "萬丈龍我@巴哈姆特": "Viper"
+    }
+  },
+  {
+    "code": "697RjBCrhGXVy8Tq",
+    "title": "連五絕神兵",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "絕命獨獅@巴哈姆特",
+      "索拉肥@鳳凰",
+      "慎真@利維坦",
+      "嘎兵@鳳凰",
+      "逢魔時王@迦樓羅",
+      "奏天@巴哈姆特",
+      "拉麵戰士@泰坦",
+      "萬丈龍我@巴哈姆特"
+    ],
+    "fight_id": 15,
+    "duration_ms": 879777,
+    "clear_dt_ms": 1781507738108,
+    "jobs": {
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "索拉肥@鳳凰": "DarkKnight",
+      "慎真@利維坦": "Reaper",
+      "嘎兵@鳳凰": "WhiteMage",
+      "逢魔時王@迦樓羅": "Summoner",
+      "奏天@巴哈姆特": "Bard",
+      "拉麵戰士@泰坦": "Sage",
+      "萬丈龍我@巴哈姆特": "Viper"
+    }
+  },
+  {
+    "code": "697RjBCrhGXVy8Tq",
+    "title": "連五絕神兵",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "絕命獨獅@巴哈姆特",
+      "索拉肥@鳳凰",
+      "慎真@利維坦",
+      "嘎兵@鳳凰",
+      "逢魔時王@迦樓羅",
+      "奏天@巴哈姆特",
+      "拉麵戰士@泰坦",
+      "萬丈龍我@巴哈姆特"
+    ],
+    "fight_id": 16,
+    "duration_ms": 862787,
+    "clear_dt_ms": 1781508695014,
+    "jobs": {
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "索拉肥@鳳凰": "DarkKnight",
+      "慎真@利維坦": "Reaper",
+      "嘎兵@鳳凰": "WhiteMage",
+      "逢魔時王@迦樓羅": "Summoner",
+      "奏天@巴哈姆特": "Bard",
+      "拉麵戰士@泰坦": "Sage",
+      "萬丈龍我@巴哈姆特": "Viper"
+    }
+  },
+  {
+    "code": "697RjBCrhGXVy8Tq",
+    "title": "連五絕神兵",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "絕命獨獅@巴哈姆特",
+      "慎真@利維坦",
+      "索拉肥@鳳凰",
+      "嘎兵@鳳凰",
+      "逢魔時王@迦樓羅",
+      "奏天@巴哈姆特",
+      "拉麵戰士@泰坦",
+      "萬丈龍我@巴哈姆特"
+    ],
+    "fight_id": 17,
+    "duration_ms": 862313,
+    "clear_dt_ms": 1781509665296,
+    "jobs": {
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "慎真@利維坦": "Dragoon",
+      "索拉肥@鳳凰": "DarkKnight",
+      "嘎兵@鳳凰": "WhiteMage",
+      "逢魔時王@迦樓羅": "Summoner",
+      "奏天@巴哈姆特": "Bard",
+      "拉麵戰士@泰坦": "Sage",
+      "萬丈龍我@巴哈姆特": "Viper"
+    }
+  },
+  {
+    "code": "697RjBCrhGXVy8Tq",
+    "title": "連五絕神兵",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "絕命獨獅@巴哈姆特",
+      "索拉肥@鳳凰",
+      "嘎兵@鳳凰",
+      "逢魔時王@迦樓羅",
+      "奏天@巴哈姆特",
+      "拉麵戰士@泰坦",
+      "萬丈龍我@巴哈姆特",
+      "慎真@利維坦"
+    ],
+    "fight_id": 20,
+    "duration_ms": 853106,
+    "clear_dt_ms": 1781511990399,
+    "jobs": {
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "索拉肥@鳳凰": "DarkKnight",
+      "嘎兵@鳳凰": "WhiteMage",
+      "逢魔時王@迦樓羅": "Summoner",
+      "奏天@巴哈姆特": "Bard",
+      "拉麵戰士@泰坦": "Sage",
+      "萬丈龍我@巴哈姆特": "Viper",
+      "慎真@利維坦": "BlackMage"
+    }
   }
 ]
