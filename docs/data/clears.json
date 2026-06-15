@@ -46196,5 +46196,33 @@
       "Ryou@利維坦": "Scholar",
       "宵月弦ito@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "VJHdjKD8YNXRBvP7",
+    "title": "0615",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "沁雪冰心@利維坦",
+      "吸管@利維坦",
+      "莎夏kuma@迦樓羅",
+      "但丁zx@奧汀",
+      "如月@鳳凰",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "靈白@迦樓羅",
+      "米津蘆筍汁@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 895011,
+    "clear_dt_ms": 1781468804772,
+    "jobs": {
+      "沁雪冰心@利維坦": "Paladin",
+      "吸管@利維坦": "Warrior",
+      "莎夏kuma@迦樓羅": "Scholar",
+      "但丁zx@奧汀": "Dragoon",
+      "如月@鳳凰": "WhiteMage",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "靈白@迦樓羅": "Summoner",
+      "米津蘆筍汁@迦樓羅": "BlackMage"
+    }
   }
 ]
