@@ -46840,5 +46840,89 @@
       "多拉貢@利維坦": "Paladin",
       "Rikki@巴哈姆特": "DarkKnight"
     }
+  },
+  {
+    "code": "QTzvjBxLMwZVkc6N",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Sakana@伊弗利特",
+      "大鯰大祭主委@利維坦",
+      "莉伊阿歐恩@鳳凰",
+      "貓貓抹茶芭菲@利維坦",
+      "Sokyu@巴哈姆特",
+      "盧卡@鳳凰",
+      "天宮凜@鳳凰",
+      "Fallen@利維坦"
+    ],
+    "fight_id": 44,
+    "duration_ms": 988177,
+    "clear_dt_ms": 1781532471812,
+    "jobs": {
+      "Sakana@伊弗利特": "Machinist",
+      "大鯰大祭主委@利維坦": "WhiteMage",
+      "莉伊阿歐恩@鳳凰": "Paladin",
+      "貓貓抹茶芭菲@利維坦": "Samurai",
+      "Sokyu@巴哈姆特": "BlackMage",
+      "盧卡@鳳凰": "DarkKnight",
+      "天宮凜@鳳凰": "Sage",
+      "Fallen@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "Dx2WhTdZ9qVcCAbB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "野上奈緒@泰坦",
+      "千穗@利維坦",
+      "佐藤綾@利維坦",
+      "Nio@迦樓羅",
+      "慎真@利維坦",
+      "潘內托內@利維坦",
+      "狼一@泰坦",
+      "貓貓hana@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 874773,
+    "clear_dt_ms": 1781532083509,
+    "jobs": {
+      "野上奈緒@泰坦": "Warrior",
+      "千穗@利維坦": "Paladin",
+      "佐藤綾@利維坦": "Reaper",
+      "Nio@迦樓羅": "Samurai",
+      "慎真@利維坦": "WhiteMage",
+      "潘內托內@利維坦": "Machinist",
+      "狼一@泰坦": "Sage",
+      "貓貓hana@伊弗利特": "Summoner"
+    }
+  },
+  {
+    "code": "Dx2WhTdZ9qVcCAbB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "狼狼兒@迦樓羅",
+      "Darren@利維坦",
+      "五體不滿足@巴哈姆特",
+      "覓@利維坦",
+      "Shibai@利維坦",
+      "哈士奇@利維坦",
+      "縵霓@利維坦",
+      "千穗@利維坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 862424,
+    "clear_dt_ms": 1781540360368,
+    "jobs": {
+      "狼狼兒@迦樓羅": "WhiteMage",
+      "Darren@利維坦": "Summoner",
+      "五體不滿足@巴哈姆特": "Warrior",
+      "覓@利維坦": "Machinist",
+      "Shibai@利維坦": "Monk",
+      "哈士奇@利維坦": "Ninja",
+      "縵霓@利維坦": "Scholar",
+      "千穗@利維坦": "Paladin"
+    }
   }
 ]
