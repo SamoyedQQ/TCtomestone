@@ -46364,5 +46364,481 @@
       "萬丈龍我@巴哈姆特": "Viper",
       "慎真@利維坦": "BlackMage"
     }
+  },
+  {
+    "code": "gLBWzVX3xh7Kcf2C",
+    "title": "绝境战（旧版本）",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "西莉絲@利維坦",
+      "盧森堡@巴哈姆特",
+      "葡萄瓜子樹@迦樓羅",
+      "小肥嘟嘟@利維坦",
+      "影月@巴哈姆特",
+      "Ariesy@奧汀",
+      "絢香@巴哈姆特",
+      "酉星酉星口巴@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1065539,
+    "clear_dt_ms": 1781538412995,
+    "jobs": {
+      "西莉絲@利維坦": "DarkKnight",
+      "盧森堡@巴哈姆特": "Astrologian",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "影月@巴哈姆特": "Samurai",
+      "Ariesy@奧汀": "Sage",
+      "絢香@巴哈姆特": "Dancer",
+      "酉星酉星口巴@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "KW6jkc1tQDpd7agN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "可口無尾熊@迦樓羅",
+      "伊諾@利維坦",
+      "海滋@迦樓羅",
+      "雙塔左巴哈右@奧汀",
+      "但雪@利維坦",
+      "雨宮彩鳥@鳳凰",
+      "條紋胖次@伊弗利特",
+      "麻麻鰻魚王@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1039675,
+    "clear_dt_ms": 1781530358946,
+    "jobs": {
+      "可口無尾熊@迦樓羅": "Monk",
+      "伊諾@利維坦": "Sage",
+      "海滋@迦樓羅": "DarkKnight",
+      "雙塔左巴哈右@奧汀": "RedMage",
+      "但雪@利維坦": "Gunbreaker",
+      "雨宮彩鳥@鳳凰": "Dragoon",
+      "條紋胖次@伊弗利特": "Dancer",
+      "麻麻鰻魚王@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "KW6jkc1tQDpd7agN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "可口無尾熊@迦樓羅",
+      "伊諾@利維坦",
+      "海滋@迦樓羅",
+      "雙塔左巴哈右@奧汀",
+      "但雪@利維坦",
+      "雨宮彩鳥@鳳凰",
+      "條紋胖次@伊弗利特",
+      "麻麻鰻魚王@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 991347,
+    "clear_dt_ms": 1781535509344,
+    "jobs": {
+      "可口無尾熊@迦樓羅": "Monk",
+      "伊諾@利維坦": "Sage",
+      "海滋@迦樓羅": "DarkKnight",
+      "雙塔左巴哈右@奧汀": "RedMage",
+      "但雪@利維坦": "Gunbreaker",
+      "雨宮彩鳥@鳳凰": "Dragoon",
+      "條紋胖次@伊弗利特": "Dancer",
+      "麻麻鰻魚王@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "HdVAxWpzFgwt1Dbh",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "Asleep@利維坦",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 971647,
+    "clear_dt_ms": 1781531280558,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "蒼海淵@巴哈姆特": "Sage",
+      "Asleep@利維坦": "Samurai",
+      "天心羽@鳳凰": "Machinist",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "HdVAxWpzFgwt1Dbh",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "Asleep@利維坦",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 978605,
+    "clear_dt_ms": 1781532754037,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "蒼海淵@巴哈姆特": "Sage",
+      "Asleep@利維坦": "Samurai",
+      "天心羽@鳳凰": "Machinist",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "HdVAxWpzFgwt1Dbh",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "Asleep@利維坦",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 974234,
+    "clear_dt_ms": 1781533971241,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "蒼海淵@巴哈姆特": "Sage",
+      "Asleep@利維坦": "Samurai",
+      "天心羽@鳳凰": "Machinist",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "HdVAxWpzFgwt1Dbh",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "Asleep@利維坦",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 975436,
+    "clear_dt_ms": 1781535004463,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "蒼海淵@巴哈姆特": "Sage",
+      "Asleep@利維坦": "Samurai",
+      "天心羽@鳳凰": "Machinist",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "h3zTkX2C9F4RtxGn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Asleep@利維坦",
+      "血兔@迦樓羅",
+      "晚飯@利維坦",
+      "天心羽@鳳凰",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 993818,
+    "clear_dt_ms": 1781441588684,
+    "jobs": {
+      "Asleep@利維坦": "Samurai",
+      "血兔@迦樓羅": "Warrior",
+      "晚飯@利維坦": "Astrologian",
+      "天心羽@鳳凰": "Machinist",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "h3zTkX2C9F4RtxGn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Asleep@利維坦",
+      "血兔@迦樓羅",
+      "晚飯@利維坦",
+      "天心羽@鳳凰",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 983086,
+    "clear_dt_ms": 1781444315181,
+    "jobs": {
+      "Asleep@利維坦": "Samurai",
+      "血兔@迦樓羅": "Warrior",
+      "晚飯@利維坦": "Astrologian",
+      "天心羽@鳳凰": "Machinist",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "h3zTkX2C9F4RtxGn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Asleep@利維坦",
+      "血兔@迦樓羅",
+      "晚飯@利維坦",
+      "天心羽@鳳凰",
+      "押寨夫人@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 995098,
+    "clear_dt_ms": 1781447284592,
+    "jobs": {
+      "Asleep@利維坦": "Samurai",
+      "血兔@迦樓羅": "Warrior",
+      "晚飯@利維坦": "Astrologian",
+      "天心羽@鳳凰": "Machinist",
+      "押寨夫人@迦樓羅": "Monk",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "LPKyXGkHA2nxfFJm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "盧森堡@巴哈姆特",
+      "葡萄瓜子樹@迦樓羅",
+      "影月@巴哈姆特",
+      "絢香@巴哈姆特",
+      "小肥嘟嘟@利維坦",
+      "Ariesy@奧汀",
+      "西莉絲@利維坦",
+      "酉星酉星口巴@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1069831,
+    "clear_dt_ms": 1781536385606,
+    "jobs": {
+      "盧森堡@巴哈姆特": "Astrologian",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "影月@巴哈姆特": "Samurai",
+      "絢香@巴哈姆特": "Dancer",
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "Ariesy@奧汀": "Sage",
+      "西莉絲@利維坦": "DarkKnight",
+      "酉星酉星口巴@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "m6tzMq4PFDcCgybx",
+    "title": "絕亞",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "紅月@迦樓羅",
+      "亞雷孜@伊弗利特",
+      "吹雪@伊弗利特",
+      "問薪吾潰@鳳凰",
+      "能井@奧汀",
+      "維索@利維坦",
+      "·心·@奧汀",
+      "亞雷安@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 976525,
+    "clear_dt_ms": 1781531798111,
+    "jobs": {
+      "紅月@迦樓羅": "Samurai",
+      "亞雷孜@伊弗利特": "Pictomancer",
+      "吹雪@伊弗利特": "Dancer",
+      "問薪吾潰@鳳凰": "Dragoon",
+      "能井@奧汀": "Astrologian",
+      "維索@利維坦": "DarkKnight",
+      "·心·@奧汀": "Gunbreaker",
+      "亞雷安@伊弗利特": "Sage"
+    }
+  },
+  {
+    "code": "Z8aWYwXmD3xBpMzc",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "莉諾亞@迦樓羅",
+      "Asleep@利維坦",
+      "血兔@迦樓羅",
+      "蒼海淵@巴哈姆特",
+      "卯蒙蒙@鳳凰",
+      "天心羽@鳳凰",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 850529,
+    "clear_dt_ms": 1779371378651,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "莉諾亞@迦樓羅": "Summoner",
+      "Asleep@利維坦": "Paladin",
+      "血兔@迦樓羅": "Dancer",
+      "蒼海淵@巴哈姆特": "Sage",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "天心羽@鳳凰": "WhiteMage",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "jhxNVZcdQrWGb47L",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "卯蒙蒙@鳳凰",
+      "Asleep@利維坦",
+      "蒼海淵@巴哈姆特",
+      "押寨夫人@迦樓羅",
+      "天心羽@鳳凰",
+      "Ethe@迦樓羅",
+      "阿陌靠睡覺就@迦樓羅",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 849320,
+    "clear_dt_ms": 1778676342820,
+    "jobs": {
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "Asleep@利維坦": "Paladin",
+      "蒼海淵@巴哈姆特": "Sage",
+      "押寨夫人@迦樓羅": "Monk",
+      "天心羽@鳳凰": "WhiteMage",
+      "Ethe@迦樓羅": "Dancer",
+      "阿陌靠睡覺就@迦樓羅": "Summoner",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "jhxNVZcdQrWGb47L",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "卯蒙蒙@鳳凰",
+      "Asleep@利維坦",
+      "蒼海淵@巴哈姆特",
+      "押寨夫人@迦樓羅",
+      "天心羽@鳳凰",
+      "Ethe@迦樓羅",
+      "阿陌靠睡覺就@迦樓羅",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 866822,
+    "clear_dt_ms": 1778680322541,
+    "jobs": {
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "Asleep@利維坦": "Paladin",
+      "蒼海淵@巴哈姆特": "Sage",
+      "押寨夫人@迦樓羅": "Monk",
+      "天心羽@鳳凰": "WhiteMage",
+      "Ethe@迦樓羅": "Dancer",
+      "阿陌靠睡覺就@迦樓羅": "Summoner",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "g6Vc392tAxL8qJFr",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Asoier@伊弗利特",
+      "倉掛可拉拉@迦樓羅",
+      "阿木木木木木@迦樓羅",
+      "晴陽@伊弗利特",
+      "血光泠@利維坦",
+      "八奈見杏菜o@利維坦",
+      "多拉貢@利維坦",
+      "Rikki@巴哈姆特"
+    ],
+    "fight_id": 19,
+    "duration_ms": 986627,
+    "clear_dt_ms": 1781536796464,
+    "jobs": {
+      "Asoier@伊弗利特": "Dancer",
+      "倉掛可拉拉@迦樓羅": "BlackMage",
+      "阿木木木木木@迦樓羅": "WhiteMage",
+      "晴陽@伊弗利特": "Sage",
+      "血光泠@利維坦": "Ninja",
+      "八奈見杏菜o@利維坦": "Samurai",
+      "多拉貢@利維坦": "Paladin",
+      "Rikki@巴哈姆特": "DarkKnight"
+    }
+  },
+  {
+    "code": "g6Vc392tAxL8qJFr",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Asoier@伊弗利特",
+      "倉掛可拉拉@迦樓羅",
+      "阿木木木木木@迦樓羅",
+      "晴陽@伊弗利特",
+      "血光泠@利維坦",
+      "八奈見杏菜o@利維坦",
+      "多拉貢@利維坦",
+      "Rikki@巴哈姆特"
+    ],
+    "fight_id": 20,
+    "duration_ms": 980038,
+    "clear_dt_ms": 1781537871195,
+    "jobs": {
+      "Asoier@伊弗利特": "Dancer",
+      "倉掛可拉拉@迦樓羅": "BlackMage",
+      "阿木木木木木@迦樓羅": "WhiteMage",
+      "晴陽@伊弗利特": "Sage",
+      "血光泠@利維坦": "Ninja",
+      "八奈見杏菜o@利維坦": "Samurai",
+      "多拉貢@利維坦": "Paladin",
+      "Rikki@巴哈姆特": "DarkKnight"
+    }
   }
 ]
