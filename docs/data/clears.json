@@ -47232,5 +47232,33 @@
       "永愛三玖@巴哈姆特": "RedMage",
       "Wirewe@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "f6bWBncF3VzLv8KZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "土撥鼠博士@迦樓羅",
+      "Yongno@伊弗利特",
+      "薏仁@迦樓羅",
+      "奏天@巴哈姆特",
+      "禰@巴哈姆特",
+      "萊卡o貓巴洛@迦樓羅",
+      "黎森@伊弗利特",
+      "Wirewe@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 876805,
+    "clear_dt_ms": 1781640108764,
+    "jobs": {
+      "土撥鼠博士@迦樓羅": "Dragoon",
+      "Yongno@伊弗利特": "Reaper",
+      "薏仁@迦樓羅": "DarkKnight",
+      "奏天@巴哈姆特": "Bard",
+      "禰@巴哈姆特": "Sage",
+      "萊卡o貓巴洛@迦樓羅": "Paladin",
+      "黎森@伊弗利特": "Astrologian",
+      "Wirewe@奧汀": "Summoner"
+    }
   }
 ]
