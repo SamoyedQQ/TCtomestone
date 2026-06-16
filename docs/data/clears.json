@@ -47064,5 +47064,33 @@
       "雷火劍@伊弗利特": "Gunbreaker",
       "Ptcat@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "P6KRp2rBMkDyt9Jx",
+    "title": "DSR",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Wenwen@伊弗利特",
+      "慎真@利維坦",
+      "黃金熊熊維尼@巴哈姆特",
+      "崩落之旅人@利維坦",
+      "永愛三玖@巴哈姆特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "橘雪莉@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1091535,
+    "clear_dt_ms": 1781595114774,
+    "jobs": {
+      "Wenwen@伊弗利特": "Sage",
+      "慎真@利維坦": "Warrior",
+      "黃金熊熊維尼@巴哈姆特": "Samurai",
+      "崩落之旅人@利維坦": "Scholar",
+      "永愛三玖@巴哈姆特": "Dancer",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Dragoon",
+      "橘雪莉@伊弗利特": "DarkKnight"
+    }
   }
 ]
