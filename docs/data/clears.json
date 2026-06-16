@@ -47036,5 +47036,33 @@
       "血豆@利維坦": "Summoner",
       "打補師別打我@鳳凰": "Warrior"
     }
+  },
+  {
+    "code": "6hFCHc1gAWkay8qx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "西·特莉格@鳳凰",
+      "八奈見杏菜@迦樓羅",
+      "赫絲狄雅@鳳凰",
+      "想睡der貓@奧汀",
+      "友利奈緒@伊弗利特",
+      "蕎麥鮮奶茶@伊弗利特",
+      "雷火劍@伊弗利特",
+      "Ptcat@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 970543,
+    "clear_dt_ms": 1781576385073,
+    "jobs": {
+      "西·特莉格@鳳凰": "Dancer",
+      "八奈見杏菜@迦樓羅": "BlackMage",
+      "赫絲狄雅@鳳凰": "Sage",
+      "想睡der貓@奧汀": "Samurai",
+      "友利奈緒@伊弗利特": "Pictomancer",
+      "蕎麥鮮奶茶@伊弗利特": "WhiteMage",
+      "雷火劍@伊弗利特": "Gunbreaker",
+      "Ptcat@利維坦": "Warrior"
+    }
   }
 ]
