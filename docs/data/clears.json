@@ -47428,5 +47428,229 @@
       "毛毛貓@利維坦": "Summoner",
       "多喝熱水@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "XRbNBJhawdHxvjnD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "Asleep@利維坦",
+      "蒼海淵@巴哈姆特",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 974497,
+    "clear_dt_ms": 1781703216224,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "Asleep@利維坦": "Samurai",
+      "蒼海淵@巴哈姆特": "Sage",
+      "天心羽@鳳凰": "Machinist",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "XRbNBJhawdHxvjnD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "Asleep@利維坦",
+      "蒼海淵@巴哈姆特",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 977864,
+    "clear_dt_ms": 1781706470751,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "Asleep@利維坦": "Samurai",
+      "蒼海淵@巴哈姆特": "Sage",
+      "天心羽@鳳凰": "Dancer",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "XRbNBJhawdHxvjnD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "押寨夫人@迦樓羅",
+      "血兔@迦樓羅",
+      "Asleep@利維坦",
+      "蒼海淵@巴哈姆特",
+      "天心羽@鳳凰",
+      "卯蒙蒙@鳳凰",
+      "晚飯@利維坦",
+      "十六@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 983800,
+    "clear_dt_ms": 1781707598295,
+    "jobs": {
+      "押寨夫人@迦樓羅": "Monk",
+      "血兔@迦樓羅": "Warrior",
+      "Asleep@利維坦": "Samurai",
+      "蒼海淵@巴哈姆特": "Sage",
+      "天心羽@鳳凰": "Dancer",
+      "卯蒙蒙@鳳凰": "Gunbreaker",
+      "晚飯@利維坦": "Astrologian",
+      "十六@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "NgqGRjKMJ9W6dLnf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "麻麻鰻魚王@利維坦",
+      "雨宮彩鳥@鳳凰",
+      "好der船長@奧汀",
+      "伊諾@利維坦",
+      "可口無尾熊@迦樓羅",
+      "海滋@迦樓羅",
+      "條紋胖次@伊弗利特",
+      "但雪@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 984135,
+    "clear_dt_ms": 1781704832554,
+    "jobs": {
+      "麻麻鰻魚王@利維坦": "Astrologian",
+      "雨宮彩鳥@鳳凰": "Dragoon",
+      "好der船長@奧汀": "RedMage",
+      "伊諾@利維坦": "Sage",
+      "可口無尾熊@迦樓羅": "Monk",
+      "海滋@迦樓羅": "DarkKnight",
+      "條紋胖次@伊弗利特": "Dancer",
+      "但雪@利維坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "qAvPgyHwbMh8dKLf",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Baicon@巴哈姆特",
+      "繧蔀祁挼丶@巴哈姆特",
+      "青木陽菜老公@奧汀",
+      "企鵝萌萌噠@利維坦",
+      "夜鷺@鳳凰",
+      "Uon@鳳凰",
+      "星川@利維坦",
+      "小啾啾@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 851134,
+    "clear_dt_ms": 1781707317858,
+    "jobs": {
+      "Baicon@巴哈姆特": "Bard",
+      "繧蔀祁挼丶@巴哈姆特": "Samurai",
+      "青木陽菜老公@奧汀": "Sage",
+      "企鵝萌萌噠@利維坦": "RedMage",
+      "夜鷺@鳳凰": "Paladin",
+      "Uon@鳳凰": "Dragoon",
+      "星川@利維坦": "Gunbreaker",
+      "小啾啾@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "qAvPgyHwbMh8dKLf",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Baicon@巴哈姆特",
+      "繧蔀祁挼丶@巴哈姆特",
+      "青木陽菜老公@奧汀",
+      "企鵝萌萌噠@利維坦",
+      "夜鷺@鳳凰",
+      "Uon@鳳凰",
+      "星川@利維坦",
+      "小啾啾@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 865327,
+    "clear_dt_ms": 1781708498715,
+    "jobs": {
+      "Baicon@巴哈姆特": "Bard",
+      "繧蔀祁挼丶@巴哈姆特": "Samurai",
+      "青木陽菜老公@奧汀": "Sage",
+      "企鵝萌萌噠@利維坦": "RedMage",
+      "夜鷺@鳳凰": "Paladin",
+      "Uon@鳳凰": "Dragoon",
+      "星川@利維坦": "Gunbreaker",
+      "小啾啾@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "yzpFrA3tQqKnPR8x",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "羽丘的怪女生@迦樓羅",
+      "狐狸來也@迦樓羅",
+      "慕蓉凌芸@利維坦",
+      "歐ㄋㄟ醬@鳳凰",
+      "Ufoba@迦樓羅",
+      "仁川小聰明@迦樓羅",
+      "殘夢玥楓@利維坦",
+      "欸八@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1001880,
+    "clear_dt_ms": 1781704593788,
+    "jobs": {
+      "羽丘的怪女生@迦樓羅": "Paladin",
+      "狐狸來也@迦樓羅": "Dancer",
+      "慕蓉凌芸@利維坦": "Monk",
+      "歐ㄋㄟ醬@鳳凰": "Warrior",
+      "Ufoba@迦樓羅": "Sage",
+      "仁川小聰明@迦樓羅": "Dragoon",
+      "殘夢玥楓@利維坦": "Astrologian",
+      "欸八@鳳凰": "BlackMage"
+    }
+  },
+  {
+    "code": "tLJN2TMzkyqH3Z1p",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "泉@伊弗利特",
+      "溫聆丷@巴哈姆特",
+      "潶渦團的鬼@鳳凰",
+      "泉水@巴哈姆特",
+      "費南雪丷@巴哈姆特",
+      "薩摩耶丷@泰坦",
+      "墨綠@鳳凰",
+      "草丷羽涵@巴哈姆特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 873766,
+    "clear_dt_ms": 1781707687265,
+    "jobs": {
+      "泉@伊弗利特": "Reaper",
+      "溫聆丷@巴哈姆特": "DarkKnight",
+      "潶渦團的鬼@鳳凰": "Ninja",
+      "泉水@巴哈姆特": "Dancer",
+      "費南雪丷@巴哈姆特": "Summoner",
+      "薩摩耶丷@泰坦": "Astrologian",
+      "墨綠@鳳凰": "Paladin",
+      "草丷羽涵@巴哈姆特": "Sage"
+    }
   }
 ]
