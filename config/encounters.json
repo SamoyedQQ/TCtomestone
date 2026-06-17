@@ -1,5 +1,14 @@
 [
   {
+    "key": "fru",
+    "name": "絕伊甸",
+    "full": "Futures Rewritten",
+    "encounter_id": 1079,
+    "zone_id": 65,
+    "enabled": true,
+    "scan_start_date": "2026-01-01"
+  },
+  {
     "key": "top",
     "name": "絕歐米茄",
     "full": "The Omega Protocol",

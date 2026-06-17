@@ -34,8 +34,8 @@ API_URL   = "https://www.fflogs.com/api/v2/client"  # FFLogs GraphQL 入口
 # 繁中服七個伺服器（與日/歐同名伺服器的辨識靠 region.id==4 + 伺服器名稱）
 TC_SERVERS = {"奧汀", "伊弗利特", "迦樓羅", "巴哈姆特", "鳳凰", "泰坦", "利維坦"}
 
-# 五大絕境戰 encounterID（zoneID 統一為 59）
-ULTIMATE_IDS = {1073, 1074, 1075, 1076, 1077}
+# 絕境戰 encounterID（zoneID 統一為 59）
+ULTIMATE_IDS = {1073, 1074, 1075, 1076, 1077, 1079}
 
 _ENCOUNTER_NAMES: dict[int, str] = {
     1073: "絕巴哈姆特",
@@ -43,6 +43,7 @@ _ENCOUNTER_NAMES: dict[int, str] = {
     1075: "絕亞歷山大",
     1076: "絕龍詩戰爭",
     1077: "絕歐米茄",
+    1079: "絕伊甸",
 }
 
 # 各絕境戰的已知 damageDowntime 估算值（ms）
@@ -243,7 +244,7 @@ class PlayerBest:
     """
     name:          str    # 角色名稱
     server:        str    # 伺服器（繁中）
-    encounter_id:  int    # FFLogs encounterID（1073–1077）
+    encounter_id:  int    # FFLogs encounterID（1073–1079）
     encounter:     str    # fight.name
     is_clear:      bool   # True = 通關；False = 未通關（團滅）
     boss_hp_pct:   float  # 通關時為 0.0；團滅時為 fightPercentage（越低越好）
@@ -469,6 +470,22 @@ class Scraper:
             (z["id"], z.get("name", f"zone{z['id']}")) for z in raw_extra
         ]
 
+        # scan_zones：完整 zone 列表（由 headless_run.py 從 encounters.json + extra_scan_zones 推導）
+        # 若 cfg 有提供，run() / run_two_phase() 直接使用；否則 fallback 至
+        # 「硬編碼 zone 59 + extra_scan_zones」的舊行為（GUI / 沒升級 caller 用）。
+        raw_scan_zones = _cfg.get("scan_zones")
+        if raw_scan_zones:
+            seen: set[int] = set()
+            self._scan_zones: list[tuple[int, str]] = []
+            for z in raw_scan_zones:
+                zid = int(z["id"])
+                if zid in seen:
+                    continue
+                seen.add(zid)
+                self._scan_zones.append((zid, z.get("name", f"zone{zid}")))
+        else:
+            self._scan_zones = [(59, "絕境戰")] + list(self._extra_zones)
+
     def stop(self):
         """通知掃描執行緒在下一個安全點停止（GUI 停止按鈕使用）。"""
         self._stop.set()
@@ -499,9 +516,7 @@ class Scraper:
         end_lbl   = _fmt_dt(self.end_from_ms) if self.end_from_ms else "現在"
         self.on_log(f"掃描範圍: {start_lbl} → {end_lbl}（API 由新到舊掃描）")
 
-        zone_configs = [{"id": 59, "name": "絕境戰"}] + [
-            {"id": z_id, "name": z_name} for z_id, z_name in self._extra_zones
-        ]
+        zone_configs = [{"id": zid, "name": zname} for zid, zname in self._scan_zones]
         total_pts_used = 0
         last_r = None
 
@@ -529,6 +544,200 @@ class Scraper:
             self.on_log(f"掃描完成。共使用 {total_pts_used}pt")
             self.on_status({"state": "閒置", "points": total_pts_used})
             self.on_done({"reason": "done", "completed": completed, "end_ms": effective_end_ms})
+
+    def run_two_phase(
+        self,
+        history_state: dict,
+        incremental_hours: int = 24,
+        history_window_hours: int = 24,
+        history_recent_gap_hours: int = 6,
+        history_scan_enabled: bool = True,
+    ) -> dict:
+        """兩階段掃描（CI 排程用，取代 run()）。
+
+        Phase 1：必跑。掃描 ``now - incremental_hours → now``，覆蓋全部 zone，
+                 確保每天新增的資料一定被收進來。
+        Phase 2：用剩餘 point 預算做歷史補查，每 zone 各自獨立游標，
+                 以 round-robin 推進，避免高流量 zone（62）吃光低流量 zone（59）的預算。
+                 游標到達範圍尾端時 wrap 回 start_from_ms，並累加 wraps 計數。
+
+        history_state 格式（caller 持久化於 docs/data/state.json）::
+
+            {"<zone_id>": {"cursor_at_ms": int, "cursor_at_iso": str, "wraps": int}, ...}
+
+        回傳更新後的 history_state（caller 寫回檔案）。
+
+        備註：
+          - ``self.start_from_ms`` 同時作為歷史補查範圍的最舊邊界。
+          - ``_do_scan`` 內部已會在處理完一份 report 後即時把 code 寫入
+            ``self.processed_codes``，因此 Phase 2 不會重做 Phase 1 剛抓過的 report。
+        """
+        self._stop.clear()
+        bests           = PlayerBests(self.bests_path)
+        seen_keys       = set(self.seen_keys)
+        seen_clear_sigs = set(self.seen_clear_sigs)
+
+        self.on_status({"state": "執行中", "points": 0})
+        self.on_log("取得 OAuth Token...")
+        try:
+            self._token = self._get_token()
+        except Exception as e:
+            self.on_log(f"Token 失敗: {e}")
+            self.on_done({"reason": "error"})
+            return history_state
+
+        zone_configs = [{"id": zid, "name": zname} for zid, zname in self._scan_zones]
+        now_ms = int(time.time() * 1000)
+        total_pts_used = 0
+
+        # ── Phase 1：近期掃描 ────────────────────────────────────────────
+        phase1_start = max(self.start_from_ms, now_ms - incremental_hours * 60 * 60 * 1000)
+        self.on_log(
+            f"━━ Phase 1：近期掃描 {_fmt_dt(phase1_start)} → 現在"
+            f"（{incremental_hours}h）━━"
+        )
+        for zc in zone_configs:
+            if self._stop.is_set():
+                break
+            if total_pts_used >= self._point_limit:
+                self.on_log(f"[Phase 1] points 已耗盡 ({total_pts_used}/{self._point_limit})")
+                break
+            if len(zone_configs) > 1:
+                self.on_log(f"── [Phase 1] {zc['name']} (zone{zc['id']}) ──")
+            r = self._do_scan(
+                phase1_start, now_ms,
+                seen_keys, seen_clear_sigs, bests,
+                zone_id=zc["id"], zone_name=zc["name"], pts_budget_used=total_pts_used,
+            )
+            total_pts_used += r.pts_used
+        self.on_log(f"━━ Phase 1 完成。累計 {total_pts_used}pt ━━")
+
+        # ── Phase 2：歷史補查（round-robin 逐 zone 推進游標）────────────
+        # 即使 Phase 1 已耗盡 budget，也要把 history_state 內現有 zone 的條目
+        # 帶回去（避免下次跑時 history_state 殘缺）。
+        updated_history: dict = {}
+        for zc in zone_configs:
+            zk = str(zc["id"])
+            updated_history[zk] = dict(history_state.get(zk, {}))
+
+        if not history_scan_enabled:
+            self.on_log("[Phase 2] history_scan_enabled=false，跳過歷史補查")
+        elif self._stop.is_set():
+            self.on_log("[Phase 2] 已停止，跳過歷史補查")
+        elif total_pts_used >= self._point_limit:
+            self.on_log(f"[Phase 2] Phase 1 已耗盡 points，跳過歷史補查")
+        else:
+            history_start_ms = self.start_from_ms
+            history_end_ms = now_ms - history_recent_gap_hours * 60 * 60 * 1000
+            window_ms = history_window_hours * 60 * 60 * 1000
+
+            if history_end_ms <= history_start_ms:
+                self.on_log(
+                    f"[Phase 2] 歷史範圍為空（start={_fmt_dt(history_start_ms)} "
+                    f">= end={_fmt_dt(history_end_ms)}），跳過"
+                )
+            else:
+                self.on_log(
+                    f"━━ Phase 2：歷史補查 "
+                    f"範圍 {_fmt_dt(history_start_ms)} → {_fmt_dt(history_end_ms)}"
+                    f"｜視窗 {history_window_hours}h"
+                    f"｜剩餘預算 {self._point_limit - total_pts_used}pt ━━"
+                )
+
+                cursors: dict[str, int] = {}
+                for zc in zone_configs:
+                    zk = str(zc["id"])
+                    raw = updated_history[zk].get("cursor_at_ms")
+                    try:
+                        c = int(raw) if raw is not None else history_start_ms
+                    except (TypeError, ValueError):
+                        c = history_start_ms
+                    # 範圍外（設定變更等）→ 回到起點重新跑
+                    if c < history_start_ms or c >= history_end_ms:
+                        c = history_start_ms
+                    cursors[zk] = c
+
+                round_idx = 0
+                while True:
+                    if self._stop.is_set():
+                        self.on_log("[Phase 2] 已停止")
+                        break
+                    if total_pts_used >= self._point_limit:
+                        self.on_log(
+                            f"[Phase 2] points 耗盡 "
+                            f"({total_pts_used}/{self._point_limit})"
+                        )
+                        break
+
+                    round_idx += 1
+                    progressed_this_round = False
+
+                    for zc in zone_configs:
+                        if self._stop.is_set():
+                            break
+                        if total_pts_used >= self._point_limit:
+                            break
+
+                        zk = str(zc["id"])
+                        cursor = cursors[zk]
+
+                        if cursor >= history_end_ms:
+                            # 游標到尾 → wrap 回起點
+                            wraps_prev = int(updated_history[zk].get("wraps") or 0)
+                            updated_history[zk]["wraps"] = wraps_prev + 1
+                            cursors[zk] = history_start_ms
+                            cursor = history_start_ms
+                            self.on_log(
+                                f"[Phase 2] {zc['name']} 游標 wrap "
+                                f"→ {_fmt_dt(cursor)}（第 {wraps_prev + 1} 圈）"
+                            )
+
+                        window_end = min(cursor + window_ms - 1, history_end_ms)
+                        self.on_log(
+                            f"── [Phase 2 R{round_idx}] {zc['name']} "
+                            f"{_fmt_dt(cursor)} → {_fmt_dt(window_end)} ──"
+                        )
+                        r = self._do_scan(
+                            cursor, window_end,
+                            seen_keys, seen_clear_sigs, bests,
+                            zone_id=zc["id"], zone_name=zc["name"],
+                            pts_budget_used=total_pts_used,
+                        )
+                        total_pts_used += r.pts_used
+
+                        if r.completed:
+                            cursors[zk] = window_end + 1
+                            updated_history[zk]["cursor_at_ms"] = cursors[zk]
+                            updated_history[zk]["cursor_at_iso"] = _fmt_dt(cursors[zk])
+                            progressed_this_round = True
+                        else:
+                            # 中斷（budget 用盡或 stop）→ 游標不前進，下次重來
+                            self.on_log(
+                                f"[Phase 2] {zc['name']} 視窗中斷於 "
+                                f"{_fmt_dt(cursor)}，下次接續同視窗"
+                            )
+                            # 不更新 cursor_at_ms，但仍寫 iso 讓 state.json 反映目前位置
+                            updated_history[zk].setdefault("cursor_at_ms", cursor)
+                            updated_history[zk].setdefault("cursor_at_iso", _fmt_dt(cursor))
+
+                    if not progressed_this_round:
+                        # 沒有任何 zone 推進 → 不可能再進展，跳出
+                        break
+
+                self.on_log(f"━━ Phase 2 完成。累計 {total_pts_used}pt ━━")
+
+        bests.save()
+
+        if self._stop.is_set():
+            self.on_log(f"已停止。共使用 {total_pts_used}pt")
+            self.on_status({"state": "已停止", "points": total_pts_used})
+            self.on_done({"reason": "stopped"})
+        else:
+            self.on_log(f"掃描完成。共使用 {total_pts_used}pt")
+            self.on_status({"state": "閒置", "points": total_pts_used})
+            self.on_done({"reason": "done", "completed": True})
+
+        return updated_history
 
     def run_manual(self, codes: list) -> None:
         """直接補抓指定 report code，跳過一般掃描。
@@ -979,6 +1188,11 @@ class Scraper:
             # 本批結束：通知 checkpoint（用於更新 processed_codes）
             if self.on_checkpoint:
                 self.on_checkpoint(int(batch_start), new_codes_in_batch)
+            # 同步更新 self.processed_codes：讓同一輪後續 _do_scan 呼叫
+            # （兩階段掃描下 Phase 2 緊接著 Phase 1）能即時看到剛處理的 codes，
+            # 避免歷史補查視窗碰到 Phase 1 才剛抓過的 report 又重做一次。
+            if new_codes_in_batch:
+                self.processed_codes |= new_codes_in_batch
 
             # 若本批已觸底（到達目標日期），掃描完成
             if batch_start <= float(start_ms):

@@ -15,6 +15,10 @@
   "max_batches": 200,
   "scan_window_days": 14,
   "scan_start_date": "2026-01-01",
+  "incremental_hours": 24,
+  "history_scan_enabled": true,
+  "history_window_hours": 24,
+  "history_recent_gap_hours": 6,
   "extra_scan_zones": [
     {
       "id": 62,

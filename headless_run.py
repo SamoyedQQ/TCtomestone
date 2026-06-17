@@ -40,6 +40,7 @@ CLEARS_PATH  = DATA_DIR / "clears.json"       # 通關紀錄（陣列）
 BESTS_PATH   = DATA_DIR / "player_bests.json" # 玩家最佳成績（dict，key = name@server:enc_id:job）
 CODES_PATH   = DATA_DIR / "processed_codes.json"  # 已處理 report code 清單（跨執行持久化）
 META_PATH    = DATA_DIR / "meta.json"         # 最後更新時間戳記
+STATE_PATH   = DATA_DIR / "state.json"        # 兩階段掃描的歷史游標（per-zone）
 
 # config 路徑：非敏感設定，可進 repo
 FFLOGS_CFG_PATH     = ROOT_DIR / "config" / "fflogs.json"      # 爬蟲參數設定
@@ -156,6 +157,40 @@ def _load_processed_codes() -> set:
     return set()
 
 
+def _load_state() -> dict:
+    """
+    從 state.json 載入兩階段掃描的歷史游標狀態。
+
+    格式：
+      {
+        "history": {
+          "<zone_id>": {"cursor_at_ms": int, "cursor_at_iso": str, "wraps": int},
+          ...
+        },
+        "last_run_at_iso": "YYYY-MM-DDTHH:MM:SSZ"
+      }
+
+    首次執行時檔案不存在，回傳空 dict；Scraper 會自動把游標初始化為 scan_start_date。
+    """
+    try:
+        if STATE_PATH.exists():
+            return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[警告] 無法讀取 state.json：{e}", flush=True)
+    return {}
+
+
+def _save_state(state: dict) -> None:
+    """將兩階段掃描狀態寫回 state.json（CI commit 後持久化於 repo）。"""
+    try:
+        STATE_PATH.write_text(
+            json.dumps(state, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+    except Exception as e:
+        print(f"[警告] 無法寫入 state.json：{e}", flush=True)
+
+
 # ── 主程式 ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -206,16 +241,46 @@ def main():
     fflogs_cfg     = _load_fflogs_cfg()
     encounters_cfg = _load_encounters_cfg()
 
-    # ── 步驟 3：從 encounters.json 注入啟用副本的 encounter_id ────────────────
+    # ── 步驟 3：從 encounters.json 注入啟用副本的 encounter_id 與 scan_zones ──
 
-    # encounters.json 是副本的真實來源（Single Source of Truth）
-    # 將已啟用（enabled=true）的副本 ID 注入 fflogs_cfg["encounter_ids"]
-    # 若 encounters.json 為空，Scraper 使用 scraper_core.py 中的硬編碼預設值
+    # encounters.json 是副本的真實來源（Single Source of Truth）：
+    #   - encounter_id：注入 fflogs_cfg["encounter_ids"] 供 _do_scan 過濾 fights
+    #   - zone_id：與 extra_scan_zones 合併，組成完整 scan_zones（Scraper 會跑這個列表）
+    #
+    # 一個 zone 可能對應多副本（例如 zone 59 包含 UCoB/UWU/TEA/DSR/TOP），
+    # 以「該 zone 內第一個啟用的副本名稱」作為 log 顯示名稱；extra_scan_zones
+    # 可覆寫名稱、或加入沒有對應 encounter 的純混錄 zone（例如 zone 62 = 7.0 Savage）。
     if encounters_cfg:
-        enabled_ids = [e["encounter_id"] for e in encounters_cfg if e.get("enabled", True)]
+        enabled = [e for e in encounters_cfg if e.get("enabled", True)]
+        enabled_ids = [e["encounter_id"] for e in enabled]
         if enabled_ids:
             fflogs_cfg["encounter_ids"] = enabled_ids
             print(f"[設定] 已啟用副本 ID：{enabled_ids}", flush=True)
+
+        # 從 enabled encounters 推導 zone_id → display name
+        zone_name_by_id: dict[int, str] = {}
+        for e in enabled:
+            zid = e.get("zone_id")
+            if zid is None:
+                continue
+            zid = int(zid)
+            if zid not in zone_name_by_id:
+                # zone 59 多副本共用，名稱統一叫「絕境戰」；其餘以副本名稱代表
+                zone_name_by_id[zid] = "絕境戰" if zid == 59 else e.get("name", f"zone{zid}")
+
+        # extra_scan_zones 補進來，name 若有設定則覆寫
+        for z in fflogs_cfg.get("extra_scan_zones") or []:
+            zid = int(z["id"])
+            zone_name_by_id[zid] = z.get("name", zone_name_by_id.get(zid, f"zone{zid}"))
+
+        if zone_name_by_id:
+            scan_zones = [{"id": zid, "name": name} for zid, name in zone_name_by_id.items()]
+            fflogs_cfg["scan_zones"] = scan_zones
+            print(
+                f"[設定] 掃描 zone 列表：" +
+                "、".join(f"{z['id']}({z['name']})" for z in scan_zones),
+                flush=True,
+            )
 
     # ── 步驟 4：決定掃描起始時間 ─────────────────────────────────────────────
 
@@ -310,8 +375,23 @@ def main():
         print(f"[only] 手動補抓模式，目標 {len(only_codes)} 個 report：{only_codes}", flush=True)
         scraper.run_manual(only_codes)
     else:
-        # 一般掃描模式：按時間批次向前掃描（含 retry_codes 的重抓）
-        scraper.run()
+        # 兩階段掃描：
+        #   Phase 1（必跑）— 近期 incremental_hours 內的新資料
+        #   Phase 2（剩餘 points）— 歷史補查游標，每 zone 獨立 round-robin 推進
+        state = _load_state()
+        history_state = state.get("history") or {}
+
+        updated_history = scraper.run_two_phase(
+            history_state          = history_state,
+            incremental_hours      = int(fflogs_cfg.get("incremental_hours", 24)),
+            history_window_hours   = int(fflogs_cfg.get("history_window_hours", 24)),
+            history_recent_gap_hours = int(fflogs_cfg.get("history_recent_gap_hours", 6)),
+            history_scan_enabled   = bool(fflogs_cfg.get("history_scan_enabled", True)),
+        )
+
+        state["history"] = updated_history
+        state["last_run_at_iso"] = datetime.now(tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        _save_state(state)
 
     # ── 步驟 8：儲存結果 ─────────────────────────────────────────────────────
 
@@ -402,6 +482,9 @@ def _detect_encounter_id(encounter_name: str):
         return 1076
     if 'omega' in n:
         return 1077
+    if any(kw in n for kw in ('fatebreaker', 'usurper of frost', 'oracle of darkness',
+                               'pandora', 'futures rewritten')):
+        return 1079
     return None
 
 

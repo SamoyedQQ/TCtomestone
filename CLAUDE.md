@@ -76,14 +76,43 @@ rdps = entry["totalRDPS"] / (effective_ms / 1000)
 FFLogs 不標記 UCoB 為 `kill=true`。判定條件：`fightPercentage == 80` + "Bahamut Prime" in name + 時長 ≥ 10 分鐘。  
 見 `scraper_core.py _is_kill()` 與 `ucob.md`。
 
-### 掃描策略
-**現在 → 舊**，固定 14 天視窗（`scan_window_days`），每批最多 25 頁（`max_pages_per_batch`）。  
-Early-exit（方法二）：處理頁面**之前**先看首筆 TC → 若重複，probe 下一頁 → 下頁有新 TC 補掃本頁，無則跳過。
+### 掃描策略（兩階段，2026-06 改版）
+CI 排程（`headless_run.py`）走 **`Scraper.run_two_phase()`**：
 
-**多 zone 掃描**：FFLogs `reports(zoneID: X)` 按報告主 zone 分類。若玩家在同一 session 先打 Savage 再打絕境戰並上傳同一份報告，該報告屬 Savage zone，`zoneID: 59` 查不到它。  
-解法：`config/fflogs.json` 的 `extra_scan_zones` 設定額外掃描的 zone（目前加 62 = AAC Light-Heavyweight）；`run()` 依序掃各 zone，共享 `processed_codes` 防重複；FIGHTS_QUERY 後以 `encounterID` 過濾，只處理絕境戰場次，DETAIL_QUERY 不額外增加。
+| Phase | 範圍 | 何時跑 | 預算 |
+|------|------|--------|------|
+| **1 近期** | `now - incremental_hours (=24h)` → `now` | 必跑（每次排程都做） | 從 0 開始累計 |
+| **2 歷史補查** | `scan_start_date` → `now - history_recent_gap_hours (=6h)` | Phase 1 沒耗盡 budget 才跑 | 剩多少用多少，points 用完即停 |
 
-**log 標籤**：`[淺層 SCAN <zone名>]` = SCAN_QUERY 頁面摘要；`[深層 FIGHTS]` = FIGHTS_QUERY 取戰鬥列表（含副本摘要）；`[深層 DETAIL]` = DETAIL_QUERY 取傷害數據。
+**Phase 2 游標機制**：
+- 游標 **per-zone 獨立**（zone 59、62 各自一個 cursor），存於 `docs/data/state.json`
+- 每輪 round-robin：每個 zone 各掃一個 `history_window_hours (=24h)` 視窗後換下個 zone，避免高流量 zone（62）吃光低流量 zone（59）的預算
+- `_do_scan` 視窗結束時若 `completed=True` 才推進游標（`cursor += window_hours`）；中斷則游標不動，下次接續同視窗
+- 游標到 `history_end_ms` 後 wrap 回 `scan_start_date`，`wraps` 計數 +1（為了補 FFLogs 延遲匯出的舊報告）
+- `processed_codes` 在 `_do_scan` 內部即時併入 `self.processed_codes`，Phase 2 不會重做 Phase 1 剛抓過的 report
+
+**state.json schema**：
+```json
+{
+  "history": {
+    "59": {"cursor_at_ms": 1738368000000, "cursor_at_iso": "2026-02-01 00:00 UTC", "wraps": 0},
+    "62": {"cursor_at_ms": 1741046400000, "cursor_at_iso": "2026-03-04 00:00 UTC", "wraps": 0}
+  },
+  "last_run_at_iso": "2026-06-18T10:00:00Z"
+}
+```
+
+**舊的 `run()` 保留給 GUI（`app.py`）使用，向後相容。** 單視窗內部邏輯不變：Early-exit（方法二）— 處理頁面前先看首筆 TC → 若重複，probe 下一頁 → 下頁有新 TC 補掃本頁，無則跳過。
+
+**多 zone 掃描**：FFLogs `reports(zoneID: X)` 按報告主 zone 分類。同一 session 同時打了零式與絕境戰、或不同絕境戰被歸到不同 zone 的混錄報告，要靠多 zone 掃描才能收齊。  
+**zone 列表的來源（2026-06 改版）**：`headless_run.py` 從 `config/encounters.json` 推導 enabled 副本的 `zone_id`，再合併 `config/fflogs.json` 的 `extra_scan_zones`，組成 `scan_zones` 注入 `Scraper`：
+- 絕境戰：UCoB / UWU / TEA / DSR / TOP → **zone 59**
+- FRU（絕 伊甸）→ **zone 65**（kantai 驗證 FFLogs `worldData.zones` 對應；別寫成 59）
+- AAC Light-Heavyweight Savage（混錄報告補抓）→ **zone 62**（不對應 enabled encounter，靠 `extra_scan_zones` 補入）
+
+Phase 1 與 Phase 2 都按 `scan_zones` 順序處理，共享 `processed_codes` 防重複；FIGHTS_QUERY 後以 `encounterID` 過濾，只處理絕境戰場次，DETAIL_QUERY 不額外增加。若 caller 未提供 `scan_zones`（例如 GUI `app.py`），`Scraper` fallback 至「硬編碼 zone 59 + `extra_scan_zones`」的舊行為。
+
+**log 標籤**：`━━ Phase 1/2 ━━` = 階段分界；`[淺層 SCAN <zone名>]` = SCAN_QUERY 頁面摘要；`[深層 FIGHTS]` = FIGHTS_QUERY 取戰鬥列表（含副本摘要）；`[深層 DETAIL]` = DETAIL_QUERY 取傷害數據。
 
 ---
 
