@@ -6,7 +6,7 @@ import { DATA_URL } from '../utils/dataUrl.js'
 const PER_PAGE = 30
 
 // ── URL hash routing ─────────────────────────────────────────
-const ENC_SLUG = { 1077: 'omega', 1076: 'dragonsong', 1075: 'alexander', 1073: 'bahamut', 1074: 'weapon' }
+const ENC_SLUG = { 1077: 'omega', 1076: 'dragonsong', 1075: 'alexander', 1073: 'bahamut', 1074: 'weapon', 1079: 'eden' }
 const SLUG_ENC = Object.fromEntries(Object.entries(ENC_SLUG).map(([k, v]) => [v, +k]))
 const PAGE_SLUG = { leaderboard: '', speed: 'speed', stats: 'stats' }
 const SLUG_PAGE = { '': 'leaderboard', speed: 'speed', stats: 'stats' }

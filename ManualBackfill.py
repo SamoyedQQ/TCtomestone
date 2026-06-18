@@ -53,7 +53,7 @@ OAUTH_URL = "https://www.fflogs.com/oauth/token"
 API_URL   = "https://www.fflogs.com/api/v2/client"
 
 TC_SERVERS    = {"奧汀", "伊弗利特", "迦樓羅", "巴哈姆特", "鳳凰", "泰坦", "利維坦"}
-ULTIMATE_IDS  = {1073, 1074, 1075, 1076, 1077}
+ULTIMATE_IDS  = {1073, 1074, 1075, 1076, 1077, 1079}
 
 FIGHTS_QUERY = """
 query ($code: String) {
