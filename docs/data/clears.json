@@ -47792,5 +47792,33 @@
       "小平兄@鳳凰": "Pictomancer",
       "猴面雀觀察家@鳳凰": "Gunbreaker"
     }
+  },
+  {
+    "code": "zYrtZNLmnTR2wBK6",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Uiouop@迦樓羅",
+      "深昏睡@伊弗利特",
+      "祈恩夏玥@迦樓羅",
+      "丨zero丨@利維坦",
+      "我不是卡蘇咪@奧汀",
+      "老鴿@伊弗利特",
+      "琴葉千草@迦樓羅",
+      "巴尾的熊@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1122951,
+    "clear_dt_ms": 1781733441697,
+    "jobs": {
+      "Uiouop@迦樓羅": "Sage",
+      "深昏睡@伊弗利特": "Samurai",
+      "祈恩夏玥@迦樓羅": "Paladin",
+      "丨zero丨@利維坦": "Bard",
+      "我不是卡蘇咪@奧汀": "DarkKnight",
+      "老鴿@伊弗利特": "Astrologian",
+      "琴葉千草@迦樓羅": "Pictomancer",
+      "巴尾的熊@鳳凰": "Monk"
+    }
   }
 ]
