@@ -49304,5 +49304,397 @@
       "Loiloi@迦樓羅": "Gunbreaker",
       "里克@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "3wXB8mzkxD1AcTFJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "詩學少女@利維坦",
+      "Oreo餅乾@伊弗利特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "茜色飄零@巴哈姆特",
+      "真央@迦樓羅",
+      "圓形食物@鳳凰",
+      "慎真@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 858322,
+    "clear_dt_ms": 1771770192492,
+    "jobs": {
+      "詩學少女@利維坦": "Astrologian",
+      "Oreo餅乾@伊弗利特": "Dancer",
+      "舞紗橘@利維坦": "RedMage",
+      "Benny@奧汀": "Samurai",
+      "茜色飄零@巴哈姆特": "Summoner",
+      "真央@迦樓羅": "Gunbreaker",
+      "圓形食物@鳳凰": "Sage",
+      "慎真@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "2PHkwcKpbfZMCLyN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "調皮獸@伊弗利特",
+      "莉可@鳳凰",
+      "燁子@鳳凰",
+      "冬天的火腿蛋@巴哈姆特",
+      "彧彧的@鳳凰",
+      "Msizy@伊弗利特",
+      "本間心鈴@利維坦",
+      "緹歐@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 906773,
+    "clear_dt_ms": 1771746751728,
+    "jobs": {
+      "調皮獸@伊弗利特": "Viper",
+      "莉可@鳳凰": "Paladin",
+      "燁子@鳳凰": "Dancer",
+      "冬天的火腿蛋@巴哈姆特": "Astrologian",
+      "彧彧的@鳳凰": "Sage",
+      "Msizy@伊弗利特": "Warrior",
+      "本間心鈴@利維坦": "Machinist",
+      "緹歐@伊弗利特": "Summoner"
+    }
+  },
+  {
+    "code": "2PHkwcKpbfZMCLyN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Bei@伊弗利特",
+      "可可樂可樂@鳳凰",
+      "Wayyee@奧汀",
+      "莉可@鳳凰",
+      "奧利@奧汀",
+      "Yunai@迦樓羅",
+      "彧彧的@鳳凰",
+      "Msizy@伊弗利特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 876805,
+    "clear_dt_ms": 1771854885254,
+    "jobs": {
+      "Bei@伊弗利特": "Dancer",
+      "可可樂可樂@鳳凰": "Summoner",
+      "Wayyee@奧汀": "Astrologian",
+      "莉可@鳳凰": "Paladin",
+      "奧利@奧汀": "Ninja",
+      "Yunai@迦樓羅": "BlackMage",
+      "彧彧的@鳳凰": "Sage",
+      "Msizy@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "3LFPx14zJNDy9ZpH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "高級食材@巴哈姆特",
+      "琴葉千草@迦樓羅",
+      "我不是卡蘇咪@奧汀",
+      "新約能天使@奧汀",
+      "哭哭欸@巴哈姆特",
+      "石川澪@伊弗利特",
+      "寐瑄@迦樓羅",
+      "悠太@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 963998,
+    "clear_dt_ms": 1771769672362,
+    "jobs": {
+      "高級食材@巴哈姆特": "Warrior",
+      "琴葉千草@迦樓羅": "BlackMage",
+      "我不是卡蘇咪@奧汀": "DarkKnight",
+      "新約能天使@奧汀": "Pictomancer",
+      "哭哭欸@巴哈姆特": "WhiteMage",
+      "石川澪@伊弗利特": "Samurai",
+      "寐瑄@迦樓羅": "Machinist",
+      "悠太@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "3LFPx14zJNDy9ZpH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "高級食材@巴哈姆特",
+      "琴葉千草@迦樓羅",
+      "我不是卡蘇咪@奧汀",
+      "新約能天使@奧汀",
+      "哭哭欸@巴哈姆特",
+      "石川澪@伊弗利特",
+      "寐瑄@迦樓羅",
+      "悠太@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 961473,
+    "clear_dt_ms": 1771771890821,
+    "jobs": {
+      "高級食材@巴哈姆特": "Warrior",
+      "琴葉千草@迦樓羅": "BlackMage",
+      "我不是卡蘇咪@奧汀": "DarkKnight",
+      "新約能天使@奧汀": "Pictomancer",
+      "哭哭欸@巴哈姆特": "WhiteMage",
+      "石川澪@伊弗利特": "Samurai",
+      "寐瑄@迦樓羅": "Machinist",
+      "悠太@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "nNxHZCyP4WqzRmXJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Fubuki@奧汀",
+      "米奈娃@奧汀",
+      "真是一段佳話@利維坦",
+      "捏米巴@奧汀",
+      "Altis@迦樓羅",
+      "狗蛙dog@利維坦",
+      "可頌麵包@伊弗利特",
+      "波貝先生@奧汀"
+    ],
+    "fight_id": 70,
+    "duration_ms": 896422,
+    "clear_dt_ms": 1771794932367,
+    "jobs": {
+      "Fubuki@奧汀": "WhiteMage",
+      "米奈娃@奧汀": "Machinist",
+      "真是一段佳話@利維坦": "DarkKnight",
+      "捏米巴@奧汀": "Monk",
+      "Altis@迦樓羅": "Dragoon",
+      "狗蛙dog@利維坦": "Sage",
+      "可頌麵包@伊弗利特": "Paladin",
+      "波貝先生@奧汀": "Summoner"
+    }
+  },
+  {
+    "code": "12rcTK43vmw9zBCd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "小河狸@伊弗利特",
+      "崩落之旅人@利維坦",
+      "Wenwen@伊弗利特",
+      "Sniger@利維坦",
+      "Meiji@迦樓羅",
+      "蛤蜜呱@伊弗利特",
+      "汐王寺@利維坦",
+      "舞紗橘@利維坦"
+    ],
+    "fight_id": 45,
+    "duration_ms": 895480,
+    "clear_dt_ms": 1771785251848,
+    "jobs": {
+      "小河狸@伊弗利特": "Dancer",
+      "崩落之旅人@利維坦": "Sage",
+      "Wenwen@伊弗利特": "Astrologian",
+      "Sniger@利維坦": "RedMage",
+      "Meiji@迦樓羅": "Summoner",
+      "蛤蜜呱@伊弗利特": "Paladin",
+      "汐王寺@利維坦": "Samurai",
+      "舞紗橘@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "B2A4zng9dcH3YLMa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Kana@利維坦",
+      "Mikka@利維坦",
+      "布津乃@利維坦",
+      "Yzzovo@迦樓羅",
+      "薩耶@利維坦",
+      "奧菲@利維坦",
+      "Sinon@利維坦",
+      "阿飯@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 973394,
+    "clear_dt_ms": 1771741094804,
+    "jobs": {
+      "Kana@利維坦": "Warrior",
+      "Mikka@利維坦": "Scholar",
+      "布津乃@利維坦": "Paladin",
+      "Yzzovo@迦樓羅": "Monk",
+      "薩耶@利維坦": "BlackMage",
+      "奧菲@利維坦": "Astrologian",
+      "Sinon@利維坦": "Dragoon",
+      "阿飯@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "FBfMCjtgkyAWxwhq",
+    "title": "消",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Meow@伊弗利特",
+      "Asore@鳳凰",
+      "Minib@巴哈姆特",
+      "殺手佐之助@巴哈姆特",
+      "小雞@鳳凰",
+      "愛梅特賽爾號@巴哈姆特",
+      "伊魯卡豚@鳳凰",
+      "荔枝羊@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 860850,
+    "clear_dt_ms": 1771747030246,
+    "jobs": {
+      "Meow@伊弗利特": "Ninja",
+      "Asore@鳳凰": "BlackMage",
+      "Minib@巴哈姆特": "Summoner",
+      "殺手佐之助@巴哈姆特": "Sage",
+      "小雞@鳳凰": "Dancer",
+      "愛梅特賽爾號@巴哈姆特": "Astrologian",
+      "伊魯卡豚@鳳凰": "Paladin",
+      "荔枝羊@伊弗利特": "DarkKnight"
+    }
+  },
+  {
+    "code": "zc9v1FM6jG7JmNfV",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "舞紗橘@利維坦",
+      "Mayoo@利維坦",
+      "明日的希望@迦樓羅",
+      "崩落之旅人@利維坦",
+      "蛤蜜呱@伊弗利特",
+      "黃金熊熊維尼@巴哈姆特",
+      "Benny@奧汀",
+      "Jacy@伊弗利特"
+    ],
+    "fight_id": 27,
+    "duration_ms": 885626,
+    "clear_dt_ms": 1772291364273,
+    "jobs": {
+      "舞紗橘@利維坦": "Summoner",
+      "Mayoo@利維坦": "Paladin",
+      "明日的希望@迦樓羅": "WhiteMage",
+      "崩落之旅人@利維坦": "Scholar",
+      "蛤蜜呱@伊弗利特": "DarkKnight",
+      "黃金熊熊維尼@巴哈姆特": "Dragoon",
+      "Benny@奧汀": "Samurai",
+      "Jacy@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "3PamwYMhxfQrJVZn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "強運的犬@奧汀",
+      "懶得理你@奧汀",
+      "森海飛霞@利維坦",
+      "星宿及月@迦樓羅",
+      "波貝先生@奧汀",
+      "捏米巴@奧汀",
+      "米米兒@迦樓羅",
+      "米奈娃@奧汀"
+    ],
+    "fight_id": 8,
+    "duration_ms": 955264,
+    "clear_dt_ms": 1772547460209,
+    "jobs": {
+      "強運的犬@奧汀": "Monk",
+      "懶得理你@奧汀": "Warrior",
+      "森海飛霞@利維坦": "Dancer",
+      "星宿及月@迦樓羅": "Astrologian",
+      "波貝先生@奧汀": "BlackMage",
+      "捏米巴@奧汀": "Paladin",
+      "米米兒@迦樓羅": "Samurai",
+      "米奈娃@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "3PamwYMhxfQrJVZn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "強運的犬@奧汀",
+      "懶得理你@奧汀",
+      "森海飛霞@利維坦",
+      "星宿及月@迦樓羅",
+      "波貝先生@奧汀",
+      "捏米巴@奧汀",
+      "米米兒@迦樓羅",
+      "米奈娃@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 962424,
+    "clear_dt_ms": 1772548918562,
+    "jobs": {
+      "強運的犬@奧汀": "Monk",
+      "懶得理你@奧汀": "Warrior",
+      "森海飛霞@利維坦": "Dancer",
+      "星宿及月@迦樓羅": "Astrologian",
+      "波貝先生@奧汀": "BlackMage",
+      "捏米巴@奧汀": "Paladin",
+      "米米兒@迦樓羅": "Samurai",
+      "米奈娃@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "RJrV7CLXzqN3hnAv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "納斯@伊弗利特",
+      "Jiaozi@伊弗利特",
+      "大包包@伊弗利特",
+      "丹鳳@鳳凰",
+      "肥仔@鳳凰",
+      "柚兔兔@伊弗利特",
+      "Deiiez@鳳凰",
+      "麻靈吉@伊弗利特"
+    ],
+    "fight_id": 17,
+    "duration_ms": 887858,
+    "clear_dt_ms": 1772637831824,
+    "jobs": {
+      "納斯@伊弗利特": "RedMage",
+      "Jiaozi@伊弗利特": "Scholar",
+      "大包包@伊弗利特": "Summoner",
+      "丹鳳@鳳凰": "Gunbreaker",
+      "肥仔@鳳凰": "DarkKnight",
+      "柚兔兔@伊弗利特": "Ninja",
+      "Deiiez@鳳凰": "Astrologian",
+      "麻靈吉@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "tK8FPGYykW6z9dgQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Neko@利維坦",
+      "不可@鳳凰",
+      "Foobar@鳳凰",
+      "Wit@巴哈姆特",
+      "燁子@鳳凰",
+      "Univy@鳳凰",
+      "深昏睡@伊弗利特",
+      "Enidnu@奧汀"
+    ],
+    "fight_id": 28,
+    "duration_ms": 865485,
+    "clear_dt_ms": 1772550521168,
+    "jobs": {
+      "Neko@利維坦": "Summoner",
+      "不可@鳳凰": "Warrior",
+      "Foobar@鳳凰": "Scholar",
+      "Wit@巴哈姆特": "Paladin",
+      "燁子@鳳凰": "Dancer",
+      "Univy@鳳凰": "Reaper",
+      "深昏睡@伊弗利特": "Samurai",
+      "Enidnu@奧汀": "Astrologian"
+    }
   }
 ]
