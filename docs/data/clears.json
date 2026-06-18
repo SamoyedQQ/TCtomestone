@@ -51992,5 +51992,89 @@
       "Ivel@鳳凰": "Ninja",
       "夜色楓@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "PbHKq6D19vtAGCkz",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@奧汀",
+      "墨青@鳳凰",
+      "有馬佳奈@利維坦",
+      "阿兔爺@迦樓羅",
+      "范雷諾@巴哈姆特",
+      "里斯@巴哈姆特",
+      "旮旯給木高手@伊弗利特",
+      "Lavid@鳳凰"
+    ],
+    "fight_id": 29,
+    "duration_ms": 1116763,
+    "clear_dt_ms": 1781814298030,
+    "jobs": {
+      "Benny@奧汀": "Dragoon",
+      "墨青@鳳凰": "Dancer",
+      "有馬佳奈@利維坦": "Astrologian",
+      "阿兔爺@迦樓羅": "Pictomancer",
+      "范雷諾@巴哈姆特": "Paladin",
+      "里斯@巴哈姆特": "Scholar",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "Lavid@鳳凰": "Viper"
+    }
+  },
+  {
+    "code": "YFTLQA6Z3BfR2vXH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "Sakra@伊弗利特",
+      "炎火ouo@伊弗利特",
+      "艾拉尼亞·溫@伊弗利特",
+      "Junior@伊弗利特",
+      "瑪瑪@巴哈姆特",
+      "Kami@伊弗利特",
+      "Nina@伊弗利特",
+      "水母·苦拉給@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 883534,
+    "clear_dt_ms": 1774463130742,
+    "jobs": {
+      "Sakra@伊弗利特": "Dancer",
+      "炎火ouo@伊弗利特": "BlackMage",
+      "艾拉尼亞·溫@伊弗利特": "Sage",
+      "Junior@伊弗利特": "Paladin",
+      "瑪瑪@巴哈姆特": "DarkKnight",
+      "Kami@伊弗利特": "Summoner",
+      "Nina@伊弗利特": "Dragoon",
+      "水母·苦拉給@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "L3a2HymqRTGxMBgj",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "銀鈴@伊弗利特",
+      "帽子給我好嗎@伊弗利特",
+      "梅幽芊@伊弗利特",
+      "Exsalt@鳳凰",
+      "陰暗爬行初華@利維坦",
+      "咖哩暴龍@迦樓羅",
+      "繆雅菈@鳳凰",
+      "骯髒毛毯@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1030733,
+    "clear_dt_ms": 1774451497505,
+    "jobs": {
+      "銀鈴@伊弗利特": "WhiteMage",
+      "帽子給我好嗎@伊弗利特": "Paladin",
+      "梅幽芊@伊弗利特": "Sage",
+      "Exsalt@鳳凰": "DarkKnight",
+      "陰暗爬行初華@利維坦": "BlackMage",
+      "咖哩暴龍@迦樓羅": "Viper",
+      "繆雅菈@鳳凰": "Machinist",
+      "骯髒毛毯@伊弗利特": "Monk"
+    }
   }
 ]
