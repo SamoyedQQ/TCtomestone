@@ -54428,5 +54428,33 @@
       "梵塔黑@鳳凰": "Gunbreaker",
       "羽毛貓咪@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "7jkLtfcmNnHwgW8h",
+    "title": "阿卡狄亚登天斗技场 轻量级",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿曼妮西斯@迦樓羅",
+      "Nobu卡茲@鳳凰",
+      "Seckil@奧汀",
+      "里歐@伊弗利特",
+      "絕喵@伊弗利特",
+      "Benny@利維坦",
+      "希夫特斯@鳳凰",
+      "席德拉拉銀@鳳凰"
+    ],
+    "fight_id": 64,
+    "duration_ms": 967935,
+    "clear_dt_ms": 1774992013058,
+    "jobs": {
+      "阿曼妮西斯@迦樓羅": "Samurai",
+      "Nobu卡茲@鳳凰": "WhiteMage",
+      "Seckil@奧汀": "Machinist",
+      "里歐@伊弗利特": "Warrior",
+      "絕喵@伊弗利特": "BlackMage",
+      "Benny@利維坦": "Sage",
+      "希夫特斯@鳳凰": "Dragoon",
+      "席德拉拉銀@鳳凰": "Paladin"
+    }
   }
 ]
