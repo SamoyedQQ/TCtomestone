@@ -54260,5 +54260,173 @@
       "霧守小憩@伊弗利特": "Sage",
       "Seiuuu@泰坦": "Dancer"
     }
+  },
+  {
+    "code": "V1z2A4Qc3nqZGLDb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "拉拉菲悠@巴哈姆特",
+      "Lucy@奧汀",
+      "Utt@利維坦",
+      "魚工魚@利維坦",
+      "花芷@利維坦",
+      "若葉姬色白織@鳳凰",
+      "奇奇@鳳凰",
+      "Bang企鵝@巴哈姆特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 974267,
+    "clear_dt_ms": 1775489190028,
+    "jobs": {
+      "拉拉菲悠@巴哈姆特": "Paladin",
+      "Lucy@奧汀": "Reaper",
+      "Utt@利維坦": "Samurai",
+      "魚工魚@利維坦": "Warrior",
+      "花芷@利維坦": "Sage",
+      "若葉姬色白織@鳳凰": "BlackMage",
+      "奇奇@鳳凰": "Machinist",
+      "Bang企鵝@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "V1z2A4Qc3nqZGLDb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "Arasxi@奧汀",
+      "熊貓仔@巴哈姆特",
+      "甲醛@奧汀",
+      "Risen@鳳凰",
+      "苗栗沈玉琳@巴哈姆特",
+      "涅爾霏@巴哈姆特",
+      "光之馬鈴薯@巴哈姆特",
+      "Bang企鵝@巴哈姆特"
+    ],
+    "fight_id": 162,
+    "duration_ms": 973212,
+    "clear_dt_ms": 1775580538996,
+    "jobs": {
+      "Arasxi@奧汀": "Monk",
+      "熊貓仔@巴哈姆特": "Warrior",
+      "甲醛@奧汀": "Sage",
+      "Risen@鳳凰": "Dancer",
+      "苗栗沈玉琳@巴哈姆特": "DarkKnight",
+      "涅爾霏@巴哈姆特": "BlackMage",
+      "光之馬鈴薯@巴哈姆特": "Summoner",
+      "Bang企鵝@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "hMnYqbp3j1d7wXLR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "素材怪物森森@迦樓羅",
+      "Jerky@迦樓羅",
+      "咪咪冒冒@迦樓羅",
+      "阿兔爺@迦樓羅",
+      "哈嚕雷特@迦樓羅",
+      "深巷迷鹿@迦樓羅",
+      "林木木@迦樓羅",
+      "妃璃雪@迦樓羅"
+    ],
+    "fight_id": 16,
+    "duration_ms": 910497,
+    "clear_dt_ms": 1775507825768,
+    "jobs": {
+      "素材怪物森森@迦樓羅": "Monk",
+      "Jerky@迦樓羅": "Scholar",
+      "咪咪冒冒@迦樓羅": "Warrior",
+      "阿兔爺@迦樓羅": "Summoner",
+      "哈嚕雷特@迦樓羅": "Paladin",
+      "深巷迷鹿@迦樓羅": "WhiteMage",
+      "林木木@迦樓羅": "Bard",
+      "妃璃雪@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "WtfxhFAwJR9K1gXp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "空與白@奧汀",
+      "烏龍凍飲@奧汀",
+      "Azure@伊弗利特",
+      "Hitomi@奧汀",
+      "紅燒蓮霧@奧汀",
+      "Nezer@奧汀",
+      "Kfc炸薯條@奧汀",
+      "Jiaozi@伊弗利特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 999665,
+    "clear_dt_ms": 1775468135753,
+    "jobs": {
+      "空與白@奧汀": "Dancer",
+      "烏龍凍飲@奧汀": "DarkKnight",
+      "Azure@伊弗利特": "Astrologian",
+      "Hitomi@奧汀": "Warrior",
+      "紅燒蓮霧@奧汀": "BlackMage",
+      "Nezer@奧汀": "Monk",
+      "Kfc炸薯條@奧汀": "Pictomancer",
+      "Jiaozi@伊弗利特": "Sage"
+    }
+  },
+  {
+    "code": "VAR8G347xhTPkzbB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "Kfc炸薯條@奧汀",
+      "王燒魚@利維坦",
+      "焦糖大布丁@泰坦",
+      "哈基de@利維坦",
+      "Bedge@迦樓羅",
+      "Ddlc@伊弗利特",
+      "新手一名@伊弗利特",
+      "靴子裡有蛇w@利維坦"
+    ],
+    "fight_id": 51,
+    "duration_ms": 969859,
+    "clear_dt_ms": 1775490151879,
+    "jobs": {
+      "Kfc炸薯條@奧汀": "BlackMage",
+      "王燒魚@利維坦": "Sage",
+      "焦糖大布丁@泰坦": "DarkKnight",
+      "哈基de@利維坦": "Dancer",
+      "Bedge@迦樓羅": "WhiteMage",
+      "Ddlc@伊弗利特": "Monk",
+      "新手一名@伊弗利特": "Warrior",
+      "靴子裡有蛇w@利維坦": "Samurai"
+    }
+  },
+  {
+    "code": "aqYrRDtfp2VLmcPH",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Ifrit / Titan",
+    "players": [
+      "繪夢@鳳凰",
+      "阿卡捏@迦樓羅",
+      "Lu·@鳳凰",
+      "三角初音@伊弗利特",
+      "Gallon@迦樓羅",
+      "集福露@鳳凰",
+      "梵塔黑@鳳凰",
+      "羽毛貓咪@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 875325,
+    "clear_dt_ms": 1775470835281,
+    "jobs": {
+      "繪夢@鳳凰": "WhiteMage",
+      "阿卡捏@迦樓羅": "Summoner",
+      "Lu·@鳳凰": "DarkKnight",
+      "三角初音@伊弗利特": "Machinist",
+      "Gallon@迦樓羅": "Viper",
+      "集福露@鳳凰": "Monk",
+      "梵塔黑@鳳凰": "Gunbreaker",
+      "羽毛貓咪@鳳凰": "Sage"
+    }
   }
 ]
