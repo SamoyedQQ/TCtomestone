@@ -58852,5 +58852,145 @@
       "星聚光輝@巴哈姆特": "Warrior",
       "房屋中介@迦樓羅": "WhiteMage"
     }
+  },
+  {
+    "code": "JgyVzHacD8bjkC9Z",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "里斯@巴哈姆特",
+      "旮旯給木高手@伊弗利特",
+      "綠茶錶@巴哈姆特",
+      "有馬佳奈@利維坦",
+      "Wazir@迦樓羅",
+      "Hgch@利維坦",
+      "恆之風@迦樓羅",
+      "阿兔爺@迦樓羅"
+    ],
+    "fight_id": 27,
+    "duration_ms": 1124194,
+    "clear_dt_ms": 1781970061553,
+    "jobs": {
+      "里斯@巴哈姆特": "Scholar",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "綠茶錶@巴哈姆特": "Bard",
+      "有馬佳奈@利維坦": "Astrologian",
+      "Wazir@迦樓羅": "Monk",
+      "Hgch@利維坦": "Paladin",
+      "恆之風@迦樓羅": "BlackMage",
+      "阿兔爺@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "G7PKRnNHp2QtayV4",
+    "title": "2026/6/20幫路人渡劫成功",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "我的褲子@巴哈姆特",
+      "索拉肥@鳳凰",
+      "肚子好餓@迦樓羅",
+      "生魚片@伊弗利特",
+      "摩洛哥堅果@鳳凰",
+      "小睿@利維坦",
+      "貓奴@伊弗利特",
+      "Diaulo@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 897568,
+    "clear_dt_ms": 1781938863278,
+    "jobs": {
+      "我的褲子@巴哈姆特": "Ninja",
+      "索拉肥@鳳凰": "DarkKnight",
+      "肚子好餓@迦樓羅": "Summoner",
+      "生魚片@伊弗利特": "WhiteMage",
+      "摩洛哥堅果@鳳凰": "Dancer",
+      "小睿@利維坦": "Paladin",
+      "貓奴@伊弗利特": "Scholar",
+      "Diaulo@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "G7PKRnNHp2QtayV4",
+    "title": "2026/6/20幫路人渡劫成功",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "圓舞@鳳凰",
+      "星君@利維坦",
+      "蓮@利維坦",
+      "芬達@利維坦",
+      "Mama桑@迦樓羅",
+      "我的褲子@巴哈姆特",
+      "Cifera@利維坦",
+      "路德@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 978542,
+    "clear_dt_ms": 1781957486341,
+    "jobs": {
+      "圓舞@鳳凰": "WhiteMage",
+      "星君@利維坦": "BlackMage",
+      "蓮@利維坦": "Sage",
+      "芬達@利維坦": "Monk",
+      "Mama桑@迦樓羅": "Dragoon",
+      "我的褲子@巴哈姆特": "Machinist",
+      "Cifera@利維坦": "Paladin",
+      "路德@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "G7PKRnNHp2QtayV4",
+    "title": "2026/6/20幫路人渡劫成功",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "哈基de@利維坦",
+      "伊耶艾琳娜@迦樓羅",
+      "蕎麥奶蓋@奧汀",
+      "韓若@伊弗利特",
+      "我的褲子@巴哈姆特",
+      "飲料少喝點@奧汀",
+      "布蘭妮想怎樣@利維坦",
+      "生珂@迦樓羅"
+    ],
+    "fight_id": 17,
+    "duration_ms": 983998,
+    "clear_dt_ms": 1781968923893,
+    "jobs": {
+      "哈基de@利維坦": "Bard",
+      "伊耶艾琳娜@迦樓羅": "Sage",
+      "蕎麥奶蓋@奧汀": "Astrologian",
+      "韓若@伊弗利特": "Pictomancer",
+      "我的褲子@巴哈姆特": "Dragoon",
+      "飲料少喝點@奧汀": "Paladin",
+      "布蘭妮想怎樣@利維坦": "Warrior",
+      "生珂@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "hkdPtcK19FJDH4WG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Mattyb@伊弗利特",
+      "薇薇安娜@鳳凰",
+      "神人@鳳凰",
+      "Cryus@鳳凰",
+      "夜魔仙@鳳凰",
+      "索伊斯@鳳凰",
+      "弗洛洛ouo@鳳凰",
+      "皮卡悠@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 847796,
+    "clear_dt_ms": 1781965159691,
+    "jobs": {
+      "Mattyb@伊弗利特": "Dragoon",
+      "薇薇安娜@鳳凰": "Warrior",
+      "神人@鳳凰": "Summoner",
+      "Cryus@鳳凰": "Astrologian",
+      "夜魔仙@鳳凰": "Paladin",
+      "索伊斯@鳳凰": "Sage",
+      "弗洛洛ouo@鳳凰": "Dancer",
+      "皮卡悠@鳳凰": "Monk"
+    }
   }
 ]
