@@ -58152,5 +58152,33 @@
       "阿萬音鈴羽@利維坦": "Warrior",
       "再買剁手手@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "ANLKp9TRZghkP2xY",
+    "title": "阿卡狄亚登天斗技场 轻量级",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "星河@巴哈姆特",
+      "咩咩綿芽@巴哈姆特",
+      "珮迦谷@巴哈姆特",
+      "舞紗橘@利維坦",
+      "曉犽伊莉莎@巴哈姆特",
+      "明日的希望@迦樓羅",
+      "曜晞@巴哈姆特",
+      "Mayoo@利維坦"
+    ],
+    "fight_id": 192,
+    "duration_ms": 951479,
+    "clear_dt_ms": 1776098751327,
+    "jobs": {
+      "星河@巴哈姆特": "Samurai",
+      "咩咩綿芽@巴哈姆特": "Sage",
+      "珮迦谷@巴哈姆特": "Warrior",
+      "舞紗橘@利維坦": "Pictomancer",
+      "曉犽伊莉莎@巴哈姆特": "Dancer",
+      "明日的希望@迦樓羅": "Astrologian",
+      "曜晞@巴哈姆特": "Monk",
+      "Mayoo@利維坦": "Paladin"
+    }
   }
 ]
