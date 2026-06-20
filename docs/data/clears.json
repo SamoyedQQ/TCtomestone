@@ -59468,5 +59468,117 @@
       "咪卡@鳳凰": "Scholar",
       "悠太@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "rwxAqDkzYCJQH3Rj",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "二頭肌@伊弗利特",
+      "過場動晝中@迦樓羅",
+      "Ookami@巴哈姆特",
+      "二階堂希羅@伊弗利特",
+      "巴巴博伊恩@泰坦",
+      "阿薩斯斯@迦樓羅",
+      "貓戶籍@巴哈姆特",
+      "Estia@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1114448,
+    "clear_dt_ms": 1780062398172,
+    "jobs": {
+      "二頭肌@伊弗利特": "Paladin",
+      "過場動晝中@迦樓羅": "BlackMage",
+      "Ookami@巴哈姆特": "Scholar",
+      "二階堂希羅@伊弗利特": "Bard",
+      "巴巴博伊恩@泰坦": "Dragoon",
+      "阿薩斯斯@迦樓羅": "Reaper",
+      "貓戶籍@巴哈姆特": "DarkKnight",
+      "Estia@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "hHfpzCWR6JAgryBx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "穗稻絆葉@巴哈姆特",
+      "翼神龍@奧汀",
+      "叛逆a鬼仔@利維坦",
+      "夜櫻零@迦樓羅",
+      "唐給@奧汀",
+      "爆炸喵@奧汀",
+      "麥麥@巴哈姆特",
+      "阿秋@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1115979,
+    "clear_dt_ms": 1780152196925,
+    "jobs": {
+      "穗稻絆葉@巴哈姆特": "Dancer",
+      "翼神龍@奧汀": "DarkKnight",
+      "叛逆a鬼仔@利維坦": "Pictomancer",
+      "夜櫻零@迦樓羅": "Viper",
+      "唐給@奧汀": "Warrior",
+      "爆炸喵@奧汀": "Scholar",
+      "麥麥@巴哈姆特": "Dragoon",
+      "阿秋@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "8DbZm9RYc7NTKqwn",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿萬音鈴羽@利維坦",
+      "Chisa@利維坦",
+      "一個人owo@利維坦",
+      "夜神天祈@伊弗利特",
+      "梅露露·梅露@利維坦",
+      "青菜老大@利維坦",
+      "Soyo虧虧@利維坦",
+      "Seira@利維坦"
+    ],
+    "fight_id": 52,
+    "duration_ms": 960366,
+    "clear_dt_ms": 1780158939528,
+    "jobs": {
+      "阿萬音鈴羽@利維坦": "Warrior",
+      "Chisa@利維坦": "Dragoon",
+      "一個人owo@利維坦": "Gunbreaker",
+      "夜神天祈@伊弗利特": "Pictomancer",
+      "梅露露·梅露@利維坦": "Sage",
+      "青菜老大@利維坦": "Astrologian",
+      "Soyo虧虧@利維坦": "Ninja",
+      "Seira@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "jAq6xWHhvfZPkQLy",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "猴面雀奴隸@鳳凰",
+      "猴面雀達達@鳳凰",
+      "猴面雀禮儀師@鳳凰",
+      "猴面雀飼養員@鳳凰",
+      "恆天@迦樓羅",
+      "猴面雀教教主@鳳凰",
+      "猴面雀的飼料@鳳凰",
+      "猴面雀觀察家@鳳凰"
+    ],
+    "fight_id": 18,
+    "duration_ms": 1124919,
+    "clear_dt_ms": 1780159805255,
+    "jobs": {
+      "猴面雀奴隸@鳳凰": "Dragoon",
+      "猴面雀達達@鳳凰": "Samurai",
+      "猴面雀禮儀師@鳳凰": "BlackMage",
+      "猴面雀飼養員@鳳凰": "Astrologian",
+      "恆天@迦樓羅": "Warrior",
+      "猴面雀教教主@鳳凰": "Scholar",
+      "猴面雀的飼料@鳳凰": "Bard",
+      "猴面雀觀察家@鳳凰": "DarkKnight"
+    }
   }
 ]
