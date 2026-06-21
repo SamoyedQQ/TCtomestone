@@ -61792,5 +61792,89 @@
       "肉小球@伊弗利特": "BlackMage",
       "Wayway@奧汀": "Pictomancer"
     }
+  },
+  {
+    "code": "W6prt7axBMc8FgvQ",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Loklok@伊弗利特",
+      "里宮沙繪@伊弗利特",
+      "赤界@鳳凰",
+      "黑魔道士@伊弗利特",
+      "Dukg@奧汀",
+      "抹布@鳳凰",
+      "Koro@奧汀",
+      "Kua@奧汀"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1119962,
+    "clear_dt_ms": 1782058731685,
+    "jobs": {
+      "Loklok@伊弗利特": "Scholar",
+      "里宮沙繪@伊弗利特": "Samurai",
+      "赤界@鳳凰": "Dancer",
+      "黑魔道士@伊弗利特": "BlackMage",
+      "Dukg@奧汀": "Pictomancer",
+      "抹布@鳳凰": "DarkKnight",
+      "Koro@奧汀": "Astrologian",
+      "Kua@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "ZqBzwcyRXDv34CMF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "假教授@奧汀",
+      "黎森@伊弗利特",
+      "Darker@伊弗利特",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "Lawlie@迦樓羅",
+      "九巾路跑@鳳凰",
+      "沁雪冰心@利維坦",
+      "Yongno@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 862555,
+    "clear_dt_ms": 1782061942954,
+    "jobs": {
+      "假教授@奧汀": "Warrior",
+      "黎森@伊弗利特": "Astrologian",
+      "Darker@伊弗利特": "Summoner",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "Lawlie@迦樓羅": "Ninja",
+      "九巾路跑@鳳凰": "Sage",
+      "沁雪冰心@利維坦": "Paladin",
+      "Yongno@伊弗利特": "Reaper"
+    }
+  },
+  {
+    "code": "vZ2Lf8PntQ6dRG7x",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "霜月貓@迦樓羅",
+      "Azel@巴哈姆特",
+      "挖卡摸都@巴哈姆特",
+      "Watame@巴哈姆特",
+      "瑪打法咖@利維坦",
+      "貓也可以@奧汀",
+      "Gordon@迦樓羅",
+      "Inoeli@巴哈姆特"
+    ],
+    "fight_id": 28,
+    "duration_ms": 872112,
+    "clear_dt_ms": 1782052997895,
+    "jobs": {
+      "霜月貓@迦樓羅": "WhiteMage",
+      "Azel@巴哈姆特": "Dancer",
+      "挖卡摸都@巴哈姆特": "Summoner",
+      "Watame@巴哈姆特": "DarkKnight",
+      "瑪打法咖@利維坦": "BlackMage",
+      "貓也可以@奧汀": "Monk",
+      "Gordon@迦樓羅": "Warrior",
+      "Inoeli@巴哈姆特": "Sage"
+    }
   }
 ]
