@@ -60924,5 +60924,89 @@
       "Guang@迦樓羅": "Gunbreaker",
       "Angi@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "2K7bPBqzQyZcwT86",
+    "title": "Ultimates (Legacy) clear AST",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "無@迦樓羅",
+      "特依內@鳳凰",
+      "笭@迦樓羅",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "逢魔時王@迦樓羅",
+      "楓雪寒@伊弗利特",
+      "路德@利維坦",
+      "露露怩雷@迦樓羅"
+    ],
+    "fight_id": 18,
+    "duration_ms": 880056,
+    "clear_dt_ms": 1780925029331,
+    "jobs": {
+      "無@迦樓羅": "Gunbreaker",
+      "特依內@鳳凰": "Dragoon",
+      "笭@迦樓羅": "Pictomancer",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "逢魔時王@迦樓羅": "Summoner",
+      "楓雪寒@伊弗利特": "Sage",
+      "路德@利維坦": "Warrior",
+      "露露怩雷@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "1Kw6YxnGCpvjWrdA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "安迪內德@巴哈姆特",
+      "萊卡o貓巴洛@迦樓羅",
+      "月見冰@奧汀",
+      "星宿及月@迦樓羅",
+      "阿塔納修斯@伊弗利特",
+      "魅魅@巴哈姆特",
+      "床上超人@奧汀",
+      "雖然很舒服@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 840080,
+    "clear_dt_ms": 1781109676370,
+    "jobs": {
+      "安迪內德@巴哈姆特": "Pictomancer",
+      "萊卡o貓巴洛@迦樓羅": "Paladin",
+      "月見冰@奧汀": "Dancer",
+      "星宿及月@迦樓羅": "Summoner",
+      "阿塔納修斯@伊弗利特": "Samurai",
+      "魅魅@巴哈姆特": "Astrologian",
+      "床上超人@奧汀": "Warrior",
+      "雖然很舒服@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "yfZAHFtYaxrpBzbW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "大鯰大祭委員@利維坦",
+      "大鯰大祭主委@利維坦",
+      "Sokyu@巴哈姆特",
+      "亞米諾馬鈴薯@伊弗利特",
+      "Strela@迦樓羅",
+      "源源兒o@伊弗利特",
+      "莉伊阿歐恩@鳳凰",
+      "Fallen@利維坦"
+    ],
+    "fight_id": 30,
+    "duration_ms": 981510,
+    "clear_dt_ms": 1781289825995,
+    "jobs": {
+      "大鯰大祭委員@利維坦": "Samurai",
+      "大鯰大祭主委@利維坦": "WhiteMage",
+      "Sokyu@巴哈姆特": "BlackMage",
+      "亞米諾馬鈴薯@伊弗利特": "Machinist",
+      "Strela@迦樓羅": "DarkKnight",
+      "源源兒o@伊弗利特": "Sage",
+      "莉伊阿歐恩@鳳凰": "Paladin",
+      "Fallen@利維坦": "Monk"
+    }
   }
 ]
