@@ -61876,5 +61876,33 @@
       "Gordon@迦樓羅": "Warrior",
       "Inoeli@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "1Wxrqzg6j7HmYAXN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "冬瓜瓜@鳳凰",
+      "Aw丶@鳳凰",
+      "道友請留步@伊弗利特",
+      "罐罐黑@鳳凰",
+      "Yamimi@迦樓羅",
+      "狡猾海豹@鳳凰",
+      "穗曦@伊弗利特",
+      "迷路哭@伊弗利特"
+    ],
+    "fight_id": 13,
+    "duration_ms": 994805,
+    "clear_dt_ms": 1770557545068,
+    "jobs": {
+      "冬瓜瓜@鳳凰": "Sage",
+      "Aw丶@鳳凰": "BlackMage",
+      "道友請留步@伊弗利特": "Paladin",
+      "罐罐黑@鳳凰": "Dancer",
+      "Yamimi@迦樓羅": "Monk",
+      "狡猾海豹@鳳凰": "Warrior",
+      "穗曦@伊弗利特": "WhiteMage",
+      "迷路哭@伊弗利特": "Samurai"
+    }
   }
 ]
