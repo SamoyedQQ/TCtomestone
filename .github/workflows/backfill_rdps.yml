@@ -1,0 +1,72 @@
+name: Backfill & Fix-Forward rDPS
+
+# 兩個目的：
+#   1. 歷史回填：把早期在 FFLogs 尚未 ranking 時抓取、分母退回 totalTime 而偏低的舊 rDPS
+#      逐批改用 rankings.duration 重算校正。進度存於 docs/data/backfill_state.json，
+#      跨多個整點分批完成（受 FFLogs 3600pt/hr 限制，全量約需十餘批），完成後自動 no-op。
+#   2. fix-forward：每次重新檢查近 7 天的通關報告，待 FFLogs 完成 ranking 後即時校正，
+#      避免新通關再次以偏低值入庫。
+on:
+  schedule:
+    - cron: '5 * * * *'    # 每小時 :05 觸發（避開每日 02:00 主爬蟲）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data        # 與主爬蟲共用，序列化以避免 git 競態
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fix-forward recent clears
+        env:
+          FFLOGS_CLIENT_ID: ${{ secrets.FFLOGS_CLIENT_ID }}
+          FFLOGS_CLIENT_SECRET: ${{ secrets.FFLOGS_CLIENT_SECRET }}
+        run: |
+          set +e
+          python backfill_rdps.py --recent-days 7
+          code=$?
+          # exit 75 = 預算用盡的正常暫停，不視為失敗
+          if [ $code -ne 0 ] && [ $code -ne 75 ]; then exit $code; fi
+
+      - name: Historical backfill batch
+        env:
+          FFLOGS_CLIENT_ID: ${{ secrets.FFLOGS_CLIENT_ID }}
+          FFLOGS_CLIENT_SECRET: ${{ secrets.FFLOGS_CLIENT_SECRET }}
+        run: |
+          set +e
+          python backfill_rdps.py
+          code=$?
+          if [ $code -ne 0 ] && [ $code -ne 75 ]; then exit $code; fi
+
+      - name: Rebuild leaderboard split files
+        run: python -c "from headless_run import _write_split_data; from pathlib import Path; _write_split_data(Path('docs/data'))"
+
+      - name: Validate data
+        run: python validate_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if ! git diff --cached --quiet; then
+            git commit -m "data: backfill rDPS $(date -u '+%Y-%m-%d %H:%M UTC')" &&
+            git pull --no-rebase origin master &&
+            git push
+          fi
