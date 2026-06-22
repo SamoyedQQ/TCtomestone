@@ -62030,5 +62030,33 @@
       "韓立@利維坦": "Dragoon",
       "蕾帕@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "fJqXZ87wCkmQcMAg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "善子@奧汀",
+      "千穗@利維坦",
+      "搗蛋麻糬@伊弗利特",
+      "墮鳶@利維坦",
+      "神秘夾克姐姐@迦樓羅",
+      "薨緹@伊弗利特",
+      "Azel@巴哈姆特",
+      "Unii@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 858308,
+    "clear_dt_ms": 1782109097550,
+    "jobs": {
+      "善子@奧汀": "Dragoon",
+      "千穗@利維坦": "Paladin",
+      "搗蛋麻糬@伊弗利特": "Warrior",
+      "墮鳶@利維坦": "Monk",
+      "神秘夾克姐姐@迦樓羅": "RedMage",
+      "薨緹@伊弗利特": "Astrologian",
+      "Azel@巴哈姆特": "Dancer",
+      "Unii@伊弗利特": "Sage"
+    }
   }
 ]
