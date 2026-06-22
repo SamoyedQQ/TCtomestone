@@ -62394,5 +62394,33 @@
       "Kotori@伊弗利特": "Sage",
       "煞氣a謝欣達@巴哈姆特": "Dancer"
     }
+  },
+  {
+    "code": "L1Xp9VTfxJW78QNa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "泥犁三垢@利維坦",
+      "我的褲子@巴哈姆特",
+      "姆紀嘟@泰坦",
+      "小芊醬@伊弗利特",
+      "掃把@伊弗利特",
+      "絕刃@利維坦",
+      "玖依@伊弗利特",
+      "太一@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 981973,
+    "clear_dt_ms": 1782129113634,
+    "jobs": {
+      "泥犁三垢@利維坦": "Warrior",
+      "我的褲子@巴哈姆特": "Dragoon",
+      "姆紀嘟@泰坦": "BlackMage",
+      "小芊醬@伊弗利特": "Gunbreaker",
+      "掃把@伊弗利特": "Scholar",
+      "絕刃@利維坦": "WhiteMage",
+      "玖依@伊弗利特": "Ninja",
+      "太一@奧汀": "Dancer"
+    }
   }
 ]
