@@ -1,11 +1,11 @@
 name: Backfill & Fix-Forward rDPS
 
-# 兩個目的：
+# 單一機制同時達成兩個目的（見 backfill_rdps.py）：
 #   1. 歷史回填：把早期在 FFLogs 尚未 ranking 時抓取、分母退回 totalTime 而偏低的舊 rDPS
-#      逐批改用 rankings.duration 重算校正。進度存於 docs/data/backfill_state.json，
+#      逐批改用 rankings.duration 重算。進度存於 docs/data/backfill_state.json，
 #      跨多個整點分批完成（受 FFLogs 3600pt/hr 限制，全量約需十餘批），完成後自動 no-op。
-#   2. fix-forward：每次重新檢查近 7 天的通關報告，待 FFLogs 完成 ranking 後即時校正，
-#      避免新通關再次以偏低值入庫。
+#   2. fix-forward：報告只有在「所有通關場次皆已 ranked」時才標記完成；尚未 ranked 的
+#      （含每日爬蟲新寫入的通關）會保留待下批重抓，待 FFLogs 完成 ranking 後即自動校正。
 on:
   schedule:
     - cron: '5 * * * *'    # 每小時 :05 觸發（避開每日 02:00 主爬蟲）
@@ -33,18 +33,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Fix-forward recent clears
-        env:
-          FFLOGS_CLIENT_ID: ${{ secrets.FFLOGS_CLIENT_ID }}
-          FFLOGS_CLIENT_SECRET: ${{ secrets.FFLOGS_CLIENT_SECRET }}
-        run: |
-          set +e
-          python backfill_rdps.py --recent-days 7
-          code=$?
-          # exit 75 = 預算用盡的正常暫停，不視為失敗
-          if [ $code -ne 0 ] && [ $code -ne 75 ]; then exit $code; fi
-
-      - name: Historical backfill batch
+      - name: Backfill batch
         env:
           FFLOGS_CLIENT_ID: ${{ secrets.FFLOGS_CLIENT_ID }}
           FFLOGS_CLIENT_SECRET: ${{ secrets.FFLOGS_CLIENT_SECRET }}
@@ -52,6 +41,7 @@ jobs:
           set +e
           python backfill_rdps.py
           code=$?
+          # exit 75 = 預算用盡的正常暫停，不視為失敗
           if [ $code -ne 0 ] && [ $code -ne 75 ]; then exit $code; fi
 
       - name: Rebuild leaderboard split files

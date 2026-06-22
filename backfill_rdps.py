@@ -50,9 +50,10 @@ ROOT_DIR   = Path(__file__).parent
 BESTS_PATH = ROOT_DIR / "docs" / "data" / "player_bests.json"
 STATE_PATH = ROOT_DIR / "docs" / "data" / "backfill_state.json"
 
-POINT_SOFT_LIMIT = 3400   # 逼近 FFLogs 3600/hr 時停手，留緩衝給其他流程
-SAVE_EVERY       = 25     # 每處理 N 份報告存一次檔，避免中斷遺失進度
-EXIT_BUDGET      = 75     # 因預算用盡而中止的 exit code（與「全部完成」區隔）
+POINT_SOFT_LIMIT     = 3400  # 逼近 FFLogs 3600/hr 時停手，留緩衝給其他流程
+SAVE_EVERY           = 25    # 每處理 N 份報告存一次檔，避免中斷遺失進度
+EXIT_BUDGET          = 75    # 因預算用盡而中止的 exit code（與「全部完成」區隔）
+MAX_PENDING_RETRIES  = 24    # 報告連續這麼多次仍未 ranked 就放棄等待（每小時一批 ≈ 一天）
 
 
 # ── .env 載入 ─────────────────────────────────────────────────────────────────
@@ -175,37 +176,32 @@ def _save_state(state: dict) -> None:
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def _target_codes(recent_days: int | None = None) -> list[str]:
-    """所有 best 紀錄的來源 report code（去重）。處理這些報告即可校正每一筆既存值。
-
-    recent_days 有值時只回傳「通關時間在近 N 天內」之報告 —— 供 fix-forward 使用：
-    新通關常在 FFLogs 尚未 ranking 時就入庫（分母退回 totalTime 而偏低），
-    每日 CI 重跑近幾天的報告，待 FFLogs 完成 ranking 後即自動校正。
-    """
+def _target_codes() -> list[str]:
+    """所有 best 紀錄的來源 report code（去重）。處理這些報告即可校正每一筆既存值；
+    新通關被每日爬蟲寫入 player_bests 後也會自動成為新的目標（fix-forward）。"""
     raw = json.loads(BESTS_PATH.read_text(encoding="utf-8"))
-    cutoff_ms = None
-    if recent_days is not None:
-        cutoff_ms = int(time.time() * 1000) - recent_days * 86_400_000
     codes: dict[str, None] = {}
     for v in raw.values():
         c = v.get("report_code")
-        if not c:
-            continue
-        if cutoff_ms is not None and (v.get("timestamp_ms") or 0) < cutoff_ms:
-            continue
-        codes.setdefault(c, None)
+        if c:
+            codes.setdefault(c, None)
     return list(codes)
 
 
 # ── 單份報告處理 ──────────────────────────────────────────────────────────────
-def _process_report(token: str, code: str, bests: PlayerBests) -> tuple[int, int]:
-    """重抓單份報告所有通關場次並校正。回傳 (更新筆數, 最新 pointsSpentThisHour)。"""
+def _process_report(token: str, code: str, bests: PlayerBests) -> tuple[int, int, bool]:
+    """重抓單份報告所有通關場次並校正。
+
+    回傳 (更新筆數, 最新 pointsSpentThisHour, all_ranked)。
+    all_ranked=False 代表至少一個繁中服通關場次尚無 rankings.duration（FFLogs 還沒
+    產生 ranking），此次只能用 totalTime fallback，呼叫端應保留待下次重試（fix-forward）。
+    """
     fdata = gql(token, FIGHTS_QUERY, {"code": code})
     points = _points(fdata)
     rep = fdata["reportData"]["report"]
     if rep is None:
         # 報告已私密 / 刪除：無法重算，視為已處理（避免反覆重試）
-        return 0, points
+        return 0, points, True
 
     report_start      = rep["startTime"]
     by_id             = {a["id"]: a for a in rep["masterData"]["actors"]}
@@ -217,7 +213,8 @@ def _process_report(token: str, code: str, bests: PlayerBests) -> tuple[int, int
         if f.get("encounterID") in ULTIMATE_IDS and _is_kill(f)
     ]
 
-    updated = 0
+    updated    = 0
+    all_ranked = True
     for fight in kill_fights:
         fid    = fight["id"]
         enc_id = fight["encounterID"]
@@ -227,6 +224,8 @@ def _process_report(token: str, code: str, bests: PlayerBests) -> tuple[int, int
         ]
         if not tc_actors:
             continue
+        if fid not in rankings_duration:
+            all_ranked = False  # 此場尚未 ranked，本次用 fallback，保留待下次重試
 
         time.sleep(0.25)  # 輕度節流，降低 FFLogs 突發 429 機率
         ddata = gql(token, DETAIL_QUERY, {"code": code, "fightIDs": [fid]})
@@ -262,98 +261,88 @@ def _process_report(token: str, code: str, bests: PlayerBests) -> tuple[int, int
             if bests.update_if_better(pb):
                 updated += 1
 
-    return updated, points
+    return updated, points, all_ranked
 
 
 # ── 主程式 ────────────────────────────────────────────────────────────────────
-def _parse_recent_days() -> int | None:
-    for i, a in enumerate(sys.argv):
-        if a == "--recent-days" and i + 1 < len(sys.argv):
-            try:
-                return max(1, int(sys.argv[i + 1]))
-            except ValueError:
-                return None
-    return None
-
-
 def main() -> None:
     if "--reset" in sys.argv and STATE_PATH.exists():
         STATE_PATH.unlink()
         print("已清除進度，將從頭重跑")
 
-    client_id     = os.environ.get("FFLOGS_CLIENT_ID", "")
-    client_secret = os.environ.get("FFLOGS_CLIENT_SECRET", "")
+    # lstrip('﻿') 移除 GitHub secret 可能帶的 BOM（與 headless_run.py 一致，
+    # 否則 requests 的 latin-1 編碼會在 CI 失敗）
+    client_id     = os.environ.get("FFLOGS_CLIENT_ID", "").lstrip("﻿").strip()
+    client_secret = os.environ.get("FFLOGS_CLIENT_SECRET", "").lstrip("﻿").strip()
     if not client_id or not client_secret:
         print("錯誤：請設定 FFLOGS_CLIENT_ID 與 FFLOGS_CLIENT_SECRET")
         sys.exit(1)
 
-    recent_days = _parse_recent_days()
-    # fix-forward 模式（--recent-days N）：只重跑近 N 天的報告且不使用持久進度，
-    # 因為這些報告的 ranking 可能隨時間更新，需每次重新檢查。
-    persist = recent_days is None
+    bests   = PlayerBests(BESTS_PATH)
+    state   = _load_state()
+    done    = set(state["done_codes"])
+    retries = state.setdefault("retries", {})  # {code: 連續未 ranked 的重試次數}
 
-    bests = PlayerBests(BESTS_PATH)
-    state = _load_state() if persist else {"done_codes": [], "updated": 0}
-    done  = set(state["done_codes"])
-
-    all_codes = _target_codes(recent_days)
+    all_codes = _target_codes()
     todo = [c for c in all_codes if c not in done]
-    mode = "全量回填" if persist else f"fix-forward（近 {recent_days} 天）"
-    print(f"[{mode}] 目標報告 {len(all_codes)} 份，已完成 {len(done)} 份，本批待處理 {len(todo)} 份")
+    print(f"目標報告 {len(all_codes)} 份，已完成 {len(done)} 份，本批待處理 {len(todo)} 份")
     if not todo:
-        print("沒有待處理報告 ✔")
+        print("沒有待處理報告 ✔（皆已 ranked 並校正）")
         bests.save()
         return
 
-    token = get_token(client_id, client_secret)
-    processed_this_run = 0
-    updated_this_run   = 0
+    token         = get_token(client_id, client_secret)
+    processed     = 0
+    updated_total = 0
 
     for i, code in enumerate(todo, 1):
         try:
-            updated, points = _process_report(token, code, bests)
+            updated, points, all_ranked = _process_report(token, code, bests)
         except Exception as e:
-            # 私密 / 已刪除報告會回 permission 錯誤：永久無法重算，標記完成以免每批重試
+            # 私密 / 已刪除報告回 permission 錯誤：永久無法重算，標記完成以免每批重試
             if "permission" in str(e).lower():
-                done.add(code)
-                if persist:
-                    state["done_codes"] = list(done)
+                done.add(code); retries.pop(code, None)
+                state["done_codes"] = list(done)
                 print(f"  [私密] {code}: 無權限，標記為已處理（既存值維持原樣）", flush=True)
             else:
                 print(f"  [錯誤] {code}: {e}（暫時性，不標記完成，下批重試）", flush=True)
             continue
 
-        done.add(code)
-        updated_this_run += updated
-        if persist:
-            state["done_codes"] = list(done)
-            state["updated"]    = state.get("updated", 0) + updated
-        processed_this_run += 1
-        if updated:
-            print(f"  [{i}/{len(todo)}] {code}: 校正 {updated} 筆 (pts={points})", flush=True)
+        processed += 1
+        updated_total += updated
+        state["updated"] = state.get("updated", 0) + updated
 
-        if processed_this_run % SAVE_EVERY == 0:
-            bests.save()
-            if persist:
-                _save_state(state)
-            print(f"  …已存檔（本批 {processed_this_run} 份，本批校正 {updated_this_run} 筆）", flush=True)
+        if all_ranked:
+            # 全場已 ranked，rDPS 已是最終正確值 → 標記完成
+            done.add(code); retries.pop(code, None)
+        else:
+            # 尚有場次未 ranked（本次用 totalTime fallback）→ 保留待下次重試（fix-forward）；
+            # 超過上限就放棄等待，避免永遠 ranked 不了的場次每小時重抓
+            retries[code] = retries.get(code, 0) + 1
+            if retries[code] >= MAX_PENDING_RETRIES:
+                done.add(code); retries.pop(code, None)
+                print(f"  [未ranked] {code}: 重試達上限，先標記完成（暫用 totalTime 值）", flush=True)
+        state["done_codes"] = list(done)
+
+        if updated:
+            tag = "" if all_ranked else " [未ranked,待重試]"
+            print(f"  [{i}/{len(todo)}] {code}: 校正 {updated} 筆 (pts={points}){tag}", flush=True)
+
+        if processed % SAVE_EVERY == 0:
+            bests.save(); _save_state(state)
+            print(f"  …已存檔（本批 {processed} 份，本批校正 {updated_total} 筆）", flush=True)
 
         # 預算守門：逼近上限就收工，留待下批
         if points >= POINT_SOFT_LIMIT:
-            bests.save()
-            if persist:
-                _save_state(state)
-            print(f"\n逼近點數上限（pts={points}），本批處理 {processed_this_run} 份後暫停。"
-                  f"\n剩餘 {len(todo) - i} 份，請於下個整點再次執行。")
+            bests.save(); _save_state(state)
+            print(f"\n逼近點數上限（pts={points}），本批處理 {processed} 份後暫停，剩餘 {len(todo) - i} 份。")
             sys.exit(EXIT_BUDGET)
 
-    bests.save()
-    if persist:
-        _save_state(state)
+    bests.save(); _save_state(state)
     remaining = len(all_codes) - len(done)
-    print(f"\n本批完成 {processed_this_run} 份，本批校正 {updated_this_run} 筆，剩餘 {remaining} 份")
-    if persist and remaining == 0:
-        print("全部報告已回填完成 ✔（記得重建 leaderboard 分割檔）")
+    print(f"\n本批完成 {processed} 份，本批校正 {updated_total} 筆，剩餘待處理 {remaining} 份")
+    if remaining == 0:
+        print("全部報告已 ranked 並校正完成 ✔（記得重建 leaderboard 分割檔）")
 
 
 if __name__ == "__main__":
