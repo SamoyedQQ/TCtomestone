@@ -1,20 +1,20 @@
 {
   "history": {
     "65": {
-      "cursor_at_ms": 1778112000000,
-      "cursor_at_iso": "2026-05-07 00:00 UTC",
+      "cursor_at_ms": 1778716800000,
+      "cursor_at_iso": "2026-05-14 00:00 UTC",
       "wraps": 1
     },
     "59": {
-      "cursor_at_ms": 1776556800000,
-      "cursor_at_iso": "2026-04-19 00:00 UTC",
+      "cursor_at_ms": 1777075200000,
+      "cursor_at_iso": "2026-04-25 00:00 UTC",
       "wraps": 1
     },
     "62": {
-      "cursor_at_ms": 1775001600000,
-      "cursor_at_iso": "2026-04-01 00:00 UTC",
+      "cursor_at_ms": 1775520000000,
+      "cursor_at_iso": "2026-04-07 00:00 UTC",
       "wraps": 1
     }
   },
-  "last_run_at_iso": "2026-06-22T13:04:00Z"
+  "last_run_at_iso": "2026-06-22T15:03:36Z"
 }
