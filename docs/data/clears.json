@@ -61974,5 +61974,61 @@
     "jobs": {
       "狐狸風@奧汀": "BlackMage"
     }
+  },
+  {
+    "code": "qP9BDVZbX8NjQcvL",
+    "title": "絶シリーズ（過去）",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "哈哈傻瓜蛋@利維坦",
+      "繼妹@奧汀",
+      "是又怎樣@奧汀",
+      "小刀@利維坦",
+      "官洛殷@巴哈姆特",
+      "Squash@利維坦",
+      "貓宮水煮蛋@利維坦",
+      "悠雨秋心@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 980140,
+    "clear_dt_ms": 1774368390528,
+    "jobs": {
+      "哈哈傻瓜蛋@利維坦": "Monk",
+      "繼妹@奧汀": "Pictomancer",
+      "是又怎樣@奧汀": "Ninja",
+      "小刀@利維坦": "DarkKnight",
+      "官洛殷@巴哈姆特": "Sage",
+      "Squash@利維坦": "Machinist",
+      "貓宮水煮蛋@利維坦": "Paladin",
+      "悠雨秋心@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "FVdDMmbLXR6cgjaN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "藍職龍奇@伊弗利特",
+      "Kuro彡@奧汀",
+      "Klho@鳳凰",
+      "博麗靈夢@利維坦",
+      "Imp@鳳凰",
+      "莫提斯@利維坦",
+      "韓立@利維坦",
+      "蕾帕@迦樓羅"
+    ],
+    "fight_id": 30,
+    "duration_ms": 961579,
+    "clear_dt_ms": 1774373698491,
+    "jobs": {
+      "藍職龍奇@伊弗利特": "WhiteMage",
+      "Kuro彡@奧汀": "Samurai",
+      "Klho@鳳凰": "Dancer",
+      "博麗靈夢@利維坦": "DarkKnight",
+      "Imp@鳳凰": "Pictomancer",
+      "莫提斯@利維坦": "Warrior",
+      "韓立@利維坦": "Dragoon",
+      "蕾帕@迦樓羅": "Scholar"
+    }
   }
 ]
