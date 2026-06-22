@@ -1,6 +1,7 @@
 export function fmtDps(n) {
   if (n == null) return '—'
-  return Math.round(n).toLocaleString('en-US')
+  // 顯示到小數點後一位（與 FFLogs 網頁一致），保留千分位
+  return n.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
 }
 
 export function fmtDuration(ms) {
