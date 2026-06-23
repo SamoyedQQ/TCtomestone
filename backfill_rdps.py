@@ -110,8 +110,13 @@ def get_token(client_id: str, client_secret: str) -> str:
     return r.json()["access_token"]
 
 
+class BudgetExhausted(Exception):
+    """FFLogs 本小時點數已耗盡（retry-after 過長，多半是主爬蟲正在用）。
+    應優雅結束本批、讓出整小時，待下個整點再跑，而非乾等數十分鐘。"""
+
+
 def gql(token: str, query: str, variables: dict) -> dict:
-    """送出 GraphQL 請求，自動處理 429 限流（讀 retry-after，最多重試 6 次）。"""
+    """送出 GraphQL 請求。短暫 429 退避重試；retry-after 過長則視為預算耗盡。"""
     for _ in range(6):
         r = requests.post(
             API_URL,
@@ -121,6 +126,9 @@ def gql(token: str, query: str, variables: dict) -> dict:
         )
         if r.status_code == 429:
             wait = int(r.headers.get("retry-after", 60))
+            # retry-after 很長 = 本小時點數已用罄；不乾等，直接讓出本批
+            if wait > 180:
+                raise BudgetExhausted(wait)
             print(f"  [429] 限流，等待 {wait}s...", flush=True)
             time.sleep(wait + 2)
             continue
@@ -129,7 +137,7 @@ def gql(token: str, query: str, variables: dict) -> dict:
         if "errors" in d:
             raise RuntimeError(d["errors"])
         return d["data"]
-    raise RuntimeError("429 連續 6 次仍失敗")
+    raise BudgetExhausted(-1)  # 連續 429：同樣視為預算問題，優雅結束
 
 
 def _points(data: dict) -> int:
@@ -295,9 +303,25 @@ def main() -> None:
     processed     = 0
     updated_total = 0
 
+    # 開跑前先看點數：若本小時已逼近上限（多半主爬蟲正在用），直接讓出整小時，
+    # 避免雙方互相 429、也避免長時間乾等後在 commit 階段撞 race
+    try:
+        spent = _points(gql(token, "{ rateLimitData { pointsSpentThisHour } }", {}))
+        if spent >= POINT_SOFT_LIMIT:
+            print(f"本小時點數已用 {spent}/3600，讓出給主爬蟲，下個整點再跑")
+            return
+    except BudgetExhausted:
+        print("本小時點數已耗盡，讓出給主爬蟲，下個整點再跑")
+        return
+
     for i, code in enumerate(todo, 1):
         try:
             updated, points, all_ranked = _process_report(token, code, bests)
+        except BudgetExhausted as e:
+            # 點數中途耗盡：存檔後優雅結束本批（exit 75），下個整點續跑
+            bests.save(); _save_state(state)
+            print(f"\n點數耗盡（retry-after={e}），本批處理 {processed} 份後暫停。")
+            sys.exit(EXIT_BUDGET)
         except Exception as e:
             # 私密 / 已刪除報告回 permission 錯誤：永久無法重算，標記完成以免每批重試
             if "permission" in str(e).lower():
