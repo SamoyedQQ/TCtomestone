@@ -63038,5 +63038,33 @@
       "拉肥叉燒@巴哈姆特": "Monk",
       "Lhhei@奧汀": "Samurai"
     }
+  },
+  {
+    "code": "Vqw9M4XAFkgv18pY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "詩諾@利維坦",
+      "Sokami@利維坦",
+      "艾姆露菲亞@利維坦",
+      "製子@鳳凰",
+      "老大的最愛@巴哈姆特",
+      "破狗@奧汀",
+      "贏逆夢@巴哈姆特",
+      "Kuma醬@迦樓羅"
+    ],
+    "fight_id": 14,
+    "duration_ms": 971004,
+    "clear_dt_ms": 1781534782723,
+    "jobs": {
+      "詩諾@利維坦": "WhiteMage",
+      "Sokami@利維坦": "Scholar",
+      "艾姆露菲亞@利維坦": "Samurai",
+      "製子@鳳凰": "Monk",
+      "老大的最愛@巴哈姆特": "Paladin",
+      "破狗@奧汀": "Warrior",
+      "贏逆夢@巴哈姆特": "Bard",
+      "Kuma醬@迦樓羅": "BlackMage"
+    }
   }
 ]
