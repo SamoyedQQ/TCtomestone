@@ -63010,5 +63010,33 @@
       "Dy小艾@巴哈姆特": "Reaper",
       "··@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "Trg69LAw1XxZWBzt",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Choco@鳳凰",
+      "Koro@奧汀",
+      "布丁蜜豆奶@伊弗利特",
+      "Kua@奧汀",
+      "Dukg@奧汀",
+      "舞川奈富子@奧汀",
+      "拉肥叉燒@巴哈姆特",
+      "Lhhei@奧汀"
+    ],
+    "fight_id": 18,
+    "duration_ms": 1126969,
+    "clear_dt_ms": 1781977933086,
+    "jobs": {
+      "Choco@鳳凰": "DarkKnight",
+      "Koro@奧汀": "Astrologian",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "Kua@奧汀": "Paladin",
+      "Dukg@奧汀": "Pictomancer",
+      "舞川奈富子@奧汀": "Dancer",
+      "拉肥叉燒@巴哈姆特": "Monk",
+      "Lhhei@奧汀": "Samurai"
+    }
   }
 ]
