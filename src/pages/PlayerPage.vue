@@ -24,9 +24,24 @@ function hexRgb(hex) {
   return `${r},${g},${b}`
 }
 
+// FRU（1079）舊 wipe 紀錄沒存 phase_reached（scraper 後來才加 NPC 表），
+// 用 boss_hp_pct 區間近似回推：邊界取自實際 wipe NPC 出現點。
+// P1 Fatebreaker → P2 Usurper(含 Light Rampant) → P3 Oracle → P4 Pandora(含 P5)
+function detectFruPhase(pct) {
+  if (pct >= 95) return 1
+  if (pct >= 75) return 2
+  if (pct >= 32) return 3
+  return 4
+}
+
 function fmtPhase(row) {
   if (row.phase_reached > 0) return `P${row.phase_reached}`
-  if (row.boss_hp_pct > 0) return `${row.boss_hp_pct.toFixed(1)}%`
+  if (row.boss_hp_pct > 0) {
+    if (row.encounter_id === 1079) {
+      return `P${detectFruPhase(row.boss_hp_pct)} (${row.boss_hp_pct.toFixed(1)}%)`
+    }
+    return `${row.boss_hp_pct.toFixed(1)}%`
+  }
   return '—'
 }
 
