@@ -63066,5 +63066,117 @@
       "贏逆夢@巴哈姆特": "Bard",
       "Kuma醬@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "7LJ8b1fNvgaC2tyr",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "舞川奈富子@奧汀",
+      "Choco@鳳凰",
+      "Lhhei@奧汀",
+      "Dukg@奧汀",
+      "Koro@奧汀",
+      "Kua@奧汀",
+      "布丁蜜豆奶@伊弗利特",
+      "Lavid@鳳凰"
+    ],
+    "fight_id": 103,
+    "duration_ms": 1122182,
+    "clear_dt_ms": 1782316958382,
+    "jobs": {
+      "舞川奈富子@奧汀": "Dancer",
+      "Choco@鳳凰": "DarkKnight",
+      "Lhhei@奧汀": "Samurai",
+      "Dukg@奧汀": "Pictomancer",
+      "Koro@奧汀": "Astrologian",
+      "Kua@奧汀": "Paladin",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "Lavid@鳳凰": "Viper"
+    }
+  },
+  {
+    "code": "JQXr4HWGRcVq1k6y",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "玥遙@鳳凰",
+      "Gndd@鳳凰",
+      "眾天月靈@迦樓羅",
+      "布絲@利維坦",
+      "莉可@鳳凰",
+      "梧桐更兼細雨@泰坦",
+      "Q六@利維坦",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1131702,
+    "clear_dt_ms": 1782313801743,
+    "jobs": {
+      "玥遙@鳳凰": "Samurai",
+      "Gndd@鳳凰": "Bard",
+      "眾天月靈@迦樓羅": "Scholar",
+      "布絲@利維坦": "WhiteMage",
+      "莉可@鳳凰": "Paladin",
+      "梧桐更兼細雨@泰坦": "Monk",
+      "Q六@利維坦": "Warrior",
+      "三角初音@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "H4FG1kapXv2Tfxbz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "櫻井雨希@泰坦",
+      "鮪魚兔@奧汀",
+      "Oreo@奧汀",
+      "楓雪寒@泰坦",
+      "霧華安魂之歌@巴哈姆特",
+      "Yuuji@伊弗利特",
+      "Mokino@迦樓羅",
+      "稀有鮪魚@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 879726,
+    "clear_dt_ms": 1782320256617,
+    "jobs": {
+      "櫻井雨希@泰坦": "Warrior",
+      "鮪魚兔@奧汀": "Astrologian",
+      "Oreo@奧汀": "Scholar",
+      "楓雪寒@泰坦": "Bard",
+      "霧華安魂之歌@巴哈姆特": "Summoner",
+      "Yuuji@伊弗利特": "BlackMage",
+      "Mokino@迦樓羅": "Dragoon",
+      "稀有鮪魚@奧汀": "Gunbreaker"
+    }
+  },
+  {
+    "code": "VgRAyxd3cnw1CBtb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "咕菇固@巴哈姆特",
+      "秋霽@迦樓羅",
+      "栗子@鳳凰",
+      "時羽@鳳凰",
+      "阿波波阿呀呀@鳳凰",
+      "迪西@鳳凰",
+      "嘟比嘟拔@鳳凰",
+      "青島煙@鳳凰"
+    ],
+    "fight_id": 23,
+    "duration_ms": 1000152,
+    "clear_dt_ms": 1782316175756,
+    "jobs": {
+      "咕菇固@巴哈姆特": "Astrologian",
+      "秋霽@迦樓羅": "Sage",
+      "栗子@鳳凰": "Dragoon",
+      "時羽@鳳凰": "Dancer",
+      "阿波波阿呀呀@鳳凰": "BlackMage",
+      "迪西@鳳凰": "Pictomancer",
+      "嘟比嘟拔@鳳凰": "Paladin",
+      "青島煙@鳳凰": "DarkKnight"
+    }
   }
 ]
