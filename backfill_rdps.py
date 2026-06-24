@@ -155,9 +155,15 @@ def _effective_seconds(fight: dict, rankings_duration: dict, table_data: dict) -
 
     if rankings_duration and fid in rankings_duration:
         rd = rankings_duration[fid]
-        # Zone-62 嵌入場次：rankings.duration 回傳近似全程（未扣 downtime），改用估算
-        if rd > raw_ms - 50_000 and _ENCOUNTER_DOWNTIME_ESTIMATE.get(enc_id):
-            effective_ms = raw_ms - _ENCOUNTER_DOWNTIME_ESTIMATE[enc_id]
+        # rankings.duration ≈ raw 表示 FFLogs 沒在裡面扣 downtime；
+        # 已知影響：zone 62 嵌入的絕境戰、FRU（1079）在 zone 65。
+        # 此時優先用 DETAIL_QUERY 的真實 damageDowntime；缺值才退回估算表。
+        if rd > raw_ms - 50_000:
+            total_time_ms = table_data.get("totalTime") or raw_ms
+            downtime      = table_data.get("damageDowntime") or 0
+            if downtime == 0:
+                downtime = _ENCOUNTER_DOWNTIME_ESTIMATE.get(enc_id, 0)
+            effective_ms = total_time_ms - downtime if downtime > 0 else rd
         else:
             effective_ms = rd
     else:

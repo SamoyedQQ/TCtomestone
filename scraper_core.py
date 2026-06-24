@@ -47,14 +47,20 @@ _ENCOUNTER_NAMES: dict[int, str] = {
 }
 
 # 各絕境戰的已知 damageDowntime 估算值（ms）
-# 用於 zone 62（Savage）報告中嵌入的絕境戰場次：DETAIL_QUERY 在非主 zone context
-# 下可能不回傳 damageDowntime，導致 fallback 使用全程時長為分母，rDPS 嚴重偏低。
-# 當 damageDowntime = 0 時，用此估算值補足，使 rDPS 接近 FFLogs 網頁顯示值。
+# 用於下列兩種情境（一般情況優先使用 DETAIL_QUERY 真實 damageDowntime，此表只是 fallback）：
+#   (1) zone 62（Savage）報告中嵌入的絕境戰場次：DETAIL_QUERY 在非主 zone context
+#       下可能不回傳 damageDowntime，導致 fallback 使用全程時長為分母，rDPS 嚴重偏低。
+#   (2) FRU 在 zone 65 的 rankings.duration 也未扣 downtime（≈ raw），此時 DETAIL_QUERY
+#       會回傳真實 damageDowntime，本表只在 DETAIL 也缺值時補位。
 _ENCOUNTER_DOWNTIME_ESTIMATE: dict[int, int] = {
     # TOP：zone 62 嵌入的絕境戰 rankings.duration 回傳 raw fight time（無扣 downtime）。
     # 使用 raw_ms - 275_000 作為分母（反推自 FFLogs 網頁顯示 6557.1 rDPS / fight#8 1133s）。
-    # zone 59 正常報告仍使用 rankings.duration 作為分母（不受此值影響）。
+    # zone 59 正常報告 rankings.duration 已扣 downtime（rd 比 raw 少 ~275s），不受此值影響。
     1077: 275_000,
+    # FRU：zone 65 的 rankings.duration 與 raw 僅差約 1 秒（FFLogs 沒在裡面扣 phase
+    # transition downtime）。實測 damageDowntime ≈ 287.5s（佔全程 25%）；
+    # DETAIL_QUERY 回傳值穩定可用，此估算僅作為 DETAIL 缺值時的 fallback。
+    1079: 287_500,
 }
 
 POINT_LIMIT = 3400   # 每次執行最多消耗點數（FFLogs 上限 3600/hr，預留緩衝）
@@ -175,6 +181,11 @@ _WIPE_PHASE_NPCS: dict[int, list[tuple[int, set[int]]]] = {
         (5, {15720}),   # Omega-M（Run: Dynamis，P5）
         (3, {15717}),   # Omega Reconfigured（P3 或 P4）
         (2, {15714}),   # Omega-M（P2 雙人 Duo）
+    ],
+    1079: [  # FRU — 5 phases（P4/P5 共用 Pandora 系列 NPC，統一對應 P4，類似 TOP P3/P4）
+        (4, {17833}),   # Pandora（P4 起，含 P5 Crystallize Time）
+        (3, {17831}),   # Oracle of Darkness（P3）
+        (2, {17823}),   # Usurper of Frost（P2，含 Light Rampant intermission 17827–17829）
     ],
 }
 
@@ -1230,22 +1241,41 @@ class Scraper:
 
         table_data = ddata["reportData"]["report"]["table"]["data"]
 
-        # 時間分母：rankings.duration 與 FFLogs 網頁完全一致；
-        # 無法取得時退回 totalTime - damageDowntime（TOP downtime 仍可正確處理）
+        # 時間分母：rankings.duration 通常與 FFLogs 網頁一致（已扣 downtime），
+        # 但下列兩種情況 rankings.duration 會回傳 ≈ raw fight time（未扣 downtime）：
+        #   (a) zone 62（Savage）報告中嵌入的絕境戰場次
+        #   (b) FRU（1079）在 zone 65：實測 rd 與 raw 僅差約 1 秒，但 damageDowntime≈287s
+        # 偵測訊號：rd > raw - 50_000。命中時優先用 totalTime - damageDowntime
+        # （DETAIL_QUERY 通常有真實值），缺值才退回估算表。
         if rankings_duration is not None and fight["id"] in rankings_duration:
             rd     = rankings_duration[fight["id"]]
             raw_ms = fight["endTime"] - fight["startTime"]
             enc_id = fight.get("encounterID")
-            # Zone 62 bug：FFLogs rankings 對嵌入的絕境戰回傳 duration = raw fight time
-            # （未扣 downtime），可由「與原始時長差距 < 50s」偵測。若有已知估算值，改用估算。
-            if rd > raw_ms - 50_000 and _ENCOUNTER_DOWNTIME_ESTIMATE.get(enc_id):
-                estimated    = _ENCOUNTER_DOWNTIME_ESTIMATE[enc_id]
-                effective_ms = raw_ms - estimated
-                self.on_log(
-                    f"    [rDPS分母] rankings.duration={rd/1000:.0f}s ≈ 原始時長 {raw_ms/1000:.0f}s"
-                    f"（zone 62 無效值），改用估算 {estimated/1000:.0f}s"
-                    f" → 分母={effective_ms/1000:.0f}s"
-                )
+            if rd > raw_ms - 50_000:
+                total_time_ms      = table_data.get("totalTime") or raw_ms
+                damage_downtime_ms = table_data.get("damageDowntime") or 0
+                if damage_downtime_ms > 0:
+                    effective_ms = total_time_ms - damage_downtime_ms
+                    self.on_log(
+                        f"    [rDPS分母] rankings.duration={rd/1000:.0f}s≈raw（未扣downtime），"
+                        f"改用 totalTime-damageDowntime={total_time_ms/1000:.0f}s-"
+                        f"{damage_downtime_ms/1000:.0f}s = {effective_ms/1000:.0f}s"
+                    )
+                else:
+                    estimated = _ENCOUNTER_DOWNTIME_ESTIMATE.get(enc_id, 0)
+                    if estimated:
+                        effective_ms = raw_ms - estimated
+                        self.on_log(
+                            f"    [rDPS分母] rankings.duration={rd/1000:.0f}s≈raw 且 "
+                            f"damageDowntime=0，用估算 {estimated/1000:.0f}s → 分母="
+                            f"{effective_ms/1000:.0f}s"
+                        )
+                    else:
+                        effective_ms = rd
+                        self.on_log(
+                            f"    [⚠ rDPS] enc={enc_id}: rankings.duration≈raw 且無 "
+                            f"damageDowntime/估算 → 分母={effective_ms/1000:.0f}s，rDPS 恐偏低"
+                        )
             else:
                 effective_ms = rd
         else:
