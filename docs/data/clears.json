@@ -63178,5 +63178,33 @@
       "嘟比嘟拔@鳳凰": "Paladin",
       "青島煙@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "n1bLNjMVJk6rWB7y",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Iriss@利維坦",
+      "Rbing@利維坦",
+      "菈菈利帕@鳳凰",
+      "Fazzer@泰坦",
+      "熊貓@利維坦",
+      "熊貓貓@利維坦",
+      "Las@利維坦",
+      "Nanc楠析@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1122463,
+    "clear_dt_ms": 1782323439287,
+    "jobs": {
+      "Iriss@利維坦": "Monk",
+      "Rbing@利維坦": "Paladin",
+      "菈菈利帕@鳳凰": "Astrologian",
+      "Fazzer@泰坦": "Bard",
+      "熊貓@利維坦": "Scholar",
+      "熊貓貓@利維坦": "Pictomancer",
+      "Las@利維坦": "DarkKnight",
+      "Nanc楠析@利維坦": "Dragoon"
+    }
   }
 ]
