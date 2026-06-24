@@ -189,15 +189,30 @@ def patch_report(token: str, code: str, target_fight_ids: list[int] | None,
         ddata = gql(token, DETAIL_QUERY, {"code": code, "fightIDs": [fid]})
 
         table_data = ddata["reportData"]["report"]["table"]["data"]
+        raw_ms = fight["endTime"] - fight["startTime"]
+        # 與 scraper_core._process_kill_bests 同邏輯：
+        # rankings.duration ≈ raw 表示 FFLogs 沒扣 downtime（zone 62 嵌入 / FRU 1079）
+        # → 改用 totalTime - damageDowntime
         if fid in rankings_duration:
-            effective_ms = rankings_duration[fid]
-            src = "rankings.duration"
+            rd = rankings_duration[fid]
+            if rd > raw_ms - 50_000:
+                total_time_ms      = table_data.get("totalTime") or raw_ms
+                damage_downtime_ms = table_data.get("damageDowntime") or 0
+                if damage_downtime_ms > 0:
+                    effective_ms = total_time_ms - damage_downtime_ms
+                    src = "totalTime-downtime（rd≈raw）"
+                else:
+                    effective_ms = rd
+                    src = "rankings.duration（無 downtime 資料）"
+            else:
+                effective_ms = rd
+                src = "rankings.duration"
         else:
-            total_time_ms      = table_data.get("totalTime") or (fight["endTime"] - fight["startTime"])
+            total_time_ms      = table_data.get("totalTime") or raw_ms
             damage_downtime_ms = table_data.get("damageDowntime") or 0
             effective_ms       = total_time_ms - damage_downtime_ms
             src = "totalTime-downtime"
-        fight_s = effective_ms / 1000 if effective_ms > 0 else (fight["endTime"] - fight["startTime"]) / 1000
+        fight_s = effective_ms / 1000 if effective_ms > 0 else raw_ms / 1000
 
         table_by_name = {e.get("name", ""): e for e in table_data["entries"]}
         pts_used = ddata["rateLimitData"]["pointsSpentThisHour"]
