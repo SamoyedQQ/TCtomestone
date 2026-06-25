@@ -63850,5 +63850,89 @@
       "Nephj@利維坦": "WhiteMage",
       "阿韋布斯坦@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "W6HF4vyfB9ZMkwgr",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Ayaka@鳳凰",
+      "神羽@巴哈姆特",
+      "結印明日奈@利維坦",
+      "琴葉千草@迦樓羅",
+      "冰栗子@巴哈姆特",
+      "冬@利維坦",
+      "Maple@伊弗利特",
+      "丨zero丨@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1122292,
+    "clear_dt_ms": 1782405572831,
+    "jobs": {
+      "Ayaka@鳳凰": "Astrologian",
+      "神羽@巴哈姆特": "Paladin",
+      "結印明日奈@利維坦": "Ninja",
+      "琴葉千草@迦樓羅": "Pictomancer",
+      "冰栗子@巴哈姆特": "Sage",
+      "冬@利維坦": "DarkKnight",
+      "Maple@伊弗利特": "Monk",
+      "丨zero丨@利維坦": "Bard"
+    }
+  },
+  {
+    "code": "8b7dvL6PwfQZzram",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "祈靈@鳳凰",
+      "雖然很舒服@利維坦",
+      "Cryus@鳳凰",
+      "墨灑清河@伊弗利特",
+      "虫合罵@巴哈姆特",
+      "夜纓@利維坦",
+      "皮卡悠@鳳凰",
+      "可樂零熱量@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 838352,
+    "clear_dt_ms": 1782409807683,
+    "jobs": {
+      "祈靈@鳳凰": "RedMage",
+      "雖然很舒服@利維坦": "Sage",
+      "Cryus@鳳凰": "Astrologian",
+      "墨灑清河@伊弗利特": "Dancer",
+      "虫合罵@巴哈姆特": "Warrior",
+      "夜纓@利維坦": "BlackMage",
+      "皮卡悠@鳳凰": "Monk",
+      "可樂零熱量@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "mX98PNpqBrbCgtdG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嘟比嘟拔@鳳凰",
+      "阿波波阿呀呀@鳳凰",
+      "時羽@鳳凰",
+      "栗子@鳳凰",
+      "秋霽@迦樓羅",
+      "青島煙@鳳凰",
+      "迪西@鳳凰",
+      "咕菇固@巴哈姆特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 981438,
+    "clear_dt_ms": 1782399402834,
+    "jobs": {
+      "嘟比嘟拔@鳳凰": "Paladin",
+      "阿波波阿呀呀@鳳凰": "BlackMage",
+      "時羽@鳳凰": "Dancer",
+      "栗子@鳳凰": "Dragoon",
+      "秋霽@迦樓羅": "Sage",
+      "青島煙@鳳凰": "DarkKnight",
+      "迪西@鳳凰": "Pictomancer",
+      "咕菇固@巴哈姆特": "Astrologian"
+    }
   }
 ]
