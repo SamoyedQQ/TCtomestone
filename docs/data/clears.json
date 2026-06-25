@@ -63402,5 +63402,89 @@
       "Estia@鳳凰": "Astrologian",
       "麥克雞快@巴哈姆特": "Dragoon"
     }
+  },
+  {
+    "code": "hqprnQvdyfFtZT9Y",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@奧汀",
+      "明日的希望@迦樓羅",
+      "崩落之旅人@利維坦",
+      "Jacy@伊弗利特",
+      "舞紗橘@利維坦",
+      "喵萌蝶@伊弗利特",
+      "圓形食物@鳳凰",
+      "Wenwen@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1112032,
+    "clear_dt_ms": 1782393992374,
+    "jobs": {
+      "Benny@奧汀": "Dragoon",
+      "明日的希望@迦樓羅": "Bard",
+      "崩落之旅人@利維坦": "Scholar",
+      "Jacy@伊弗利特": "Paladin",
+      "舞紗橘@利維坦": "Pictomancer",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Wenwen@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "Tb8d2jpmcQXyk3rf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Yume@迦樓羅",
+      "圓舞@鳳凰",
+      "早麗雯雯@鳳凰",
+      "滌火城鋒@奧汀",
+      "雪狼恩神@鳳凰",
+      "Akito@泰坦",
+      "Mama桑@迦樓羅",
+      "澪月@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 985732,
+    "clear_dt_ms": 1782394572390,
+    "jobs": {
+      "Yume@迦樓羅": "Paladin",
+      "圓舞@鳳凰": "WhiteMage",
+      "早麗雯雯@鳳凰": "Dancer",
+      "滌火城鋒@奧汀": "Sage",
+      "雪狼恩神@鳳凰": "RedMage",
+      "Akito@泰坦": "DarkKnight",
+      "Mama桑@迦樓羅": "Dragoon",
+      "澪月@鳳凰": "Reaper"
+    }
+  },
+  {
+    "code": "kc1rKZAjHXfvFza4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "美蕩甲昏@伊弗利特",
+      "鮭魚明太子@迦樓羅",
+      "Re晞忒璐@利維坦",
+      "Chima@伊弗利特",
+      "Cryus@鳳凰",
+      "響念@奧汀",
+      "貓葉@伊弗利特",
+      "薇薇安娜@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 869625,
+    "clear_dt_ms": 1782320443477,
+    "jobs": {
+      "美蕩甲昏@伊弗利特": "Viper",
+      "鮭魚明太子@迦樓羅": "Scholar",
+      "Re晞忒璐@利維坦": "Gunbreaker",
+      "Chima@伊弗利特": "Dancer",
+      "Cryus@鳳凰": "Astrologian",
+      "響念@奧汀": "Dragoon",
+      "貓葉@伊弗利特": "RedMage",
+      "薇薇安娜@鳳凰": "Warrior"
+    }
   }
 ]
