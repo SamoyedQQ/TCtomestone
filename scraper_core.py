@@ -182,8 +182,9 @@ _WIPE_PHASE_NPCS: dict[int, list[tuple[int, set[int]]]] = {
         (3, {15717}),   # Omega Reconfigured（P3 或 P4）
         (2, {15714}),   # Omega-M（P2 雙人 Duo）
     ],
-    1079: [  # FRU — 5 phases（P4/P5 共用 Pandora 系列 NPC，統一對應 P4，類似 TOP P3/P4）
-        (4, {17833}),   # Pandora（P4 起，含 P5 Crystallize Time）
+    1079: [  # FRU — 5 phases；P4/P5 共用 Pandora 系列 NPC，靠 fightPercentage 細分
+        (4, {17833}),   # Pandora（P4 Akh Rhai 起）；HP<10 視為 P5 Crystallize Time，
+                        # 由 _wipe_phase() 特殊處理
         (3, {17831}),   # Oracle of Darkness（P3）
         (2, {17823}),   # Usurper of Frost（P2，含 Light Rampant intermission 17827–17829）
     ],
@@ -198,10 +199,19 @@ def _wipe_phase(fight: dict, enc_id: int) -> int:
     # 收集本場出現過的所有 NPC gameID
     game_ids = {npc["gameID"] for npc in fight.get("enemyNPCs") or []}
     # 從最高 phase 往下找，第一個有交集的就是當前 phase
-    for phase, markers in table:
+    phase = 1
+    for ph, markers in table:
         if game_ids & markers:
-            return phase
-    return 1  # 沒有比對到高 phase NPC → 仍在 P1
+            phase = ph
+            break
+    # FRU 特殊：P4/P5 共用 Pandora NPC，用 fightPercentage 細分
+    #   HP < 10% 即進入 P5 Crystallize Time
+    #   kill 場 fightPercentage = 0 也視為 P5（已通關 = 最終相位）
+    if enc_id == 1079 and phase == 4:
+        pct = fight.get("fightPercentage")
+        if pct is not None and pct < 10:
+            return 5
+    return phase
 
 
 # ── 資料模型 ──────────────────────────────────────────────────────────────────

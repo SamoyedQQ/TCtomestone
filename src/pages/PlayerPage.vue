@@ -25,13 +25,16 @@ function hexRgb(hex) {
 }
 
 // FRU（1079）舊 wipe 紀錄沒存 phase_reached（scraper 後來才加 NPC 表），
-// 用 boss_hp_pct 區間近似回推：邊界取自實際 wipe NPC 出現點。
-// P1 Fatebreaker → P2 Usurper(含 Light Rampant) → P3 Oracle → P4 Pandora(含 P5)
+// 用 boss_hp_pct 區間近似回推：邊界取自實際 wipe NPC 出現點 + 社群相位點。
+// P1 Fatebreaker → P2 Usurper(含 Light Rampant) → P3 Oracle
+// → P4 Pandora（Akh Rhai 起）→ P5 Crystallize Time（~10% 起）
+// P5 與 P4 共用 Pandora NPC，但 HP < 10% 即 Crystallize Time 後段
 function detectFruPhase(pct) {
   if (pct >= 95) return 1
   if (pct >= 75) return 2
   if (pct >= 32) return 3
-  return 4
+  if (pct >= 10) return 4
+  return 5
 }
 
 function fmtPhase(row) {
