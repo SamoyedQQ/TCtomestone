@@ -182,11 +182,11 @@ _WIPE_PHASE_NPCS: dict[int, list[tuple[int, set[int]]]] = {
         (3, {15717}),   # Omega Reconfigured（P3 或 P4）
         (2, {15714}),   # Omega-M（P2 雙人 Duo）
     ],
-    1079: [  # FRU — 5 phases；P4/P5 共用 Pandora 系列 NPC，靠 fightPercentage 細分
-        (4, {17833}),   # Pandora（P4 Akh Rhai 起）；HP<10 視為 P5 Crystallize Time，
-                        # 由 _wipe_phase() 特殊處理
-        (3, {17831}),   # Oracle of Darkness（P3）
-        (2, {17823}),   # Usurper of Frost（P2，含 Light Rampant intermission 17827–17829）
+    1079: [  # FRU — 5 phases；P3 (暗之巫女 alone) / P4 (米特隆 加入) 共用 17831，靠 HP 細分
+        (5, {17833}),                          # Pandora（P5，動畫轉場後 HP ~32%）
+        (3, {17831}),                          # 暗之巫女 Oracle（P3 alone / P4 與米特隆雙 BOSS）
+                                               # ↑ HP<50 即米特隆加入，_wipe_phase() 特判為 P4
+        (2, {17823, 17827, 17828, 17829}),     # Usurper of Frost（P2，含 Light Rampant intermission）
     ],
 }
 
@@ -204,13 +204,12 @@ def _wipe_phase(fight: dict, enc_id: int) -> int:
         if game_ids & markers:
             phase = ph
             break
-    # FRU 特殊：P4/P5 共用 Pandora NPC，用 fightPercentage 細分
-    #   HP < 10% 即進入 P5 Crystallize Time
-    #   kill 場 fightPercentage = 0 也視為 P5（已通關 = 最終相位）
-    if enc_id == 1079 and phase == 4:
+    # FRU 特殊：P3 (暗之巫女 alone) 與 P4 (米特隆加入雙 BOSS) 共用 17831，
+    # 用 fightPercentage 細分：HP < 50% 即米特隆已加入，視為 P4
+    if enc_id == 1079 and phase == 3:
         pct = fight.get("fightPercentage")
-        if pct is not None and pct < 10:
-            return 5
+        if pct is not None and pct < 50:
+            return 4
     return phase
 
 
