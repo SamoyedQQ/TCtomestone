@@ -63934,5 +63934,33 @@
       "迪西@鳳凰": "Pictomancer",
       "咕菇固@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "kF7mN1yAdqhWXGPg",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Fubuki@奧汀",
+      "里斯@巴哈姆特",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "Dukg@奧汀",
+      "Koro@奧汀",
+      "抹布@鳳凰",
+      "Kua@奧汀",
+      "Lavid@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1121621,
+    "clear_dt_ms": 1782418186074,
+    "jobs": {
+      "Fubuki@奧汀": "BlackMage",
+      "里斯@巴哈姆特": "Scholar",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "Dukg@奧汀": "Pictomancer",
+      "Koro@奧汀": "Astrologian",
+      "抹布@鳳凰": "DarkKnight",
+      "Kua@奧汀": "Paladin",
+      "Lavid@鳳凰": "Viper"
+    }
   }
 ]
