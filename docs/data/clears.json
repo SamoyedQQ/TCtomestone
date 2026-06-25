@@ -63374,5 +63374,33 @@
       "Kok@伊弗利特": "BlackMage",
       "Reiny@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "y3djht7A48vZgCqY",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "載客鳩舵手@伊弗利特",
+      "Amalos@利維坦",
+      "懶斯洛特@迦樓羅",
+      "Wiee@伊弗利特",
+      "無糖綠博士@巴哈姆特",
+      "未花@利維坦",
+      "Estia@鳳凰",
+      "麥克雞快@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1123482,
+    "clear_dt_ms": 1782373938317,
+    "jobs": {
+      "載客鳩舵手@伊弗利特": "DarkKnight",
+      "Amalos@利維坦": "Monk",
+      "懶斯洛特@迦樓羅": "Warrior",
+      "Wiee@伊弗利特": "Pictomancer",
+      "無糖綠博士@巴哈姆特": "Dancer",
+      "未花@利維坦": "Sage",
+      "Estia@鳳凰": "Astrologian",
+      "麥克雞快@巴哈姆特": "Dragoon"
+    }
   }
 ]
