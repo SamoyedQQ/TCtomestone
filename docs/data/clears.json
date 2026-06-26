@@ -64074,5 +64074,145 @@
       "里克@鳳凰": "Dragoon",
       "安迪歐@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "4tjV9RDGzZAQ3r2P",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "焦糖可可布丁@利維坦",
+      "Alpha猴@迦樓羅",
+      "赫卡提亞@利維坦",
+      "貓娘賽高@利維坦",
+      "唯燦ouo@利維坦",
+      "上伊那牡丹@利維坦",
+      "玩一輩子金碟@利維坦",
+      "光之雀聖@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 837579,
+    "clear_dt_ms": 1782485618405,
+    "jobs": {
+      "焦糖可可布丁@利維坦": "Astrologian",
+      "Alpha猴@迦樓羅": "Monk",
+      "赫卡提亞@利維坦": "DarkKnight",
+      "貓娘賽高@利維坦": "Ninja",
+      "唯燦ouo@利維坦": "Summoner",
+      "上伊那牡丹@利維坦": "Dancer",
+      "玩一輩子金碟@利維坦": "Sage",
+      "光之雀聖@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "4tjV9RDGzZAQ3r2P",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "焦糖可可布丁@利維坦",
+      "Alpha猴@迦樓羅",
+      "赫卡提亞@利維坦",
+      "貓娘賽高@利維坦",
+      "唯燦ouo@利維坦",
+      "上伊那牡丹@利維坦",
+      "玩一輩子金碟@利維坦",
+      "光之雀聖@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 860870,
+    "clear_dt_ms": 1782488124851,
+    "jobs": {
+      "焦糖可可布丁@利維坦": "Astrologian",
+      "Alpha猴@迦樓羅": "Monk",
+      "赫卡提亞@利維坦": "DarkKnight",
+      "貓娘賽高@利維坦": "Ninja",
+      "唯燦ouo@利維坦": "Summoner",
+      "上伊那牡丹@利維坦": "Dancer",
+      "玩一輩子金碟@利維坦": "Sage",
+      "光之雀聖@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "MHWqNVk7mYXxF248",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "阿加爾塔@奧汀",
+      "星爆擊@鳳凰",
+      "柒@迦樓羅",
+      "Nephj@利維坦",
+      "小睿@利維坦",
+      "阿韋布斯坦@鳳凰",
+      "土撥鼠@迦樓羅",
+      "小膿泡@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 823072,
+    "clear_dt_ms": 1782484479443,
+    "jobs": {
+      "阿加爾塔@奧汀": "Summoner",
+      "星爆擊@鳳凰": "Monk",
+      "柒@迦樓羅": "Dancer",
+      "Nephj@利維坦": "WhiteMage",
+      "小睿@利維坦": "Paladin",
+      "阿韋布斯坦@鳳凰": "Sage",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "小膿泡@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "MHWqNVk7mYXxF248",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "阿加爾塔@奧汀",
+      "星爆擊@鳳凰",
+      "柒@迦樓羅",
+      "Nephj@利維坦",
+      "小睿@利維坦",
+      "阿韋布斯坦@鳳凰",
+      "土撥鼠@迦樓羅",
+      "小膿泡@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 824241,
+    "clear_dt_ms": 1782485691178,
+    "jobs": {
+      "阿加爾塔@奧汀": "Summoner",
+      "星爆擊@鳳凰": "Monk",
+      "柒@迦樓羅": "Dancer",
+      "Nephj@利維坦": "WhiteMage",
+      "小睿@利維坦": "Paladin",
+      "阿韋布斯坦@鳳凰": "Sage",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "小膿泡@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "Xj4AwWvCdbB9Q6Dn",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嚴選豆奶@迦樓羅",
+      "姆紀嘟@泰坦",
+      "默默momo@泰坦",
+      "弦凱@巴哈姆特",
+      "Ringo@巴哈姆特",
+      "Butter@泰坦",
+      "虎村翔@鳳凰",
+      "諾伊庫洛姆@迦樓羅"
+    ],
+    "fight_id": 17,
+    "duration_ms": 969879,
+    "clear_dt_ms": 1782485778496,
+    "jobs": {
+      "嚴選豆奶@迦樓羅": "Warrior",
+      "姆紀嘟@泰坦": "Samurai",
+      "默默momo@泰坦": "Dancer",
+      "弦凱@巴哈姆特": "BlackMage",
+      "Ringo@巴哈姆特": "Scholar",
+      "Butter@泰坦": "Paladin",
+      "虎村翔@鳳凰": "Monk",
+      "諾伊庫洛姆@迦樓羅": "Astrologian"
+    }
   }
 ]
