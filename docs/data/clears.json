@@ -64214,5 +64214,89 @@
       "虎村翔@鳳凰": "Monk",
       "諾伊庫洛姆@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "7Zh2gyLxKpnFazkV",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "D·咕咕嘎嘎@伊弗利特",
+      "Adai@伊弗利特",
+      "Gereon@利維坦",
+      "七海@巴哈姆特",
+      "米豬@伊弗利特",
+      "彭聖傑傑@利維坦",
+      "塔拉妮絲@巴哈姆特",
+      "阿公穿肚兜跑@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1130018,
+    "clear_dt_ms": 1782489963532,
+    "jobs": {
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "Adai@伊弗利特": "Paladin",
+      "Gereon@利維坦": "Monk",
+      "七海@巴哈姆特": "Bard",
+      "米豬@伊弗利特": "Dragoon",
+      "彭聖傑傑@利維坦": "Sage",
+      "塔拉妮絲@巴哈姆特": "DarkKnight",
+      "阿公穿肚兜跑@利維坦": "BlackMage"
+    }
+  },
+  {
+    "code": "jgB1PQhyqVdm294H",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Glare@鳳凰",
+      "玥@鳳凰",
+      "港都哈基米@奧汀",
+      "瑥忒琲里@利維坦",
+      "草摩夾@鳳凰",
+      "Syun@迦樓羅",
+      "獅心查理王@鳳凰",
+      "我很多魚@鳳凰"
+    ],
+    "fight_id": 14,
+    "duration_ms": 968535,
+    "clear_dt_ms": 1782488297203,
+    "jobs": {
+      "Glare@鳳凰": "BlackMage",
+      "玥@鳳凰": "Warrior",
+      "港都哈基米@奧汀": "Paladin",
+      "瑥忒琲里@利維坦": "Pictomancer",
+      "草摩夾@鳳凰": "WhiteMage",
+      "Syun@迦樓羅": "Sage",
+      "獅心查理王@鳳凰": "Dragoon",
+      "我很多魚@鳳凰": "Machinist"
+    }
+  },
+  {
+    "code": "jgB1PQhyqVdm294H",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Glare@鳳凰",
+      "玥@鳳凰",
+      "港都哈基米@奧汀",
+      "瑥忒琲里@利維坦",
+      "草摩夾@鳳凰",
+      "Syun@迦樓羅",
+      "獅心查理王@鳳凰",
+      "我很多魚@鳳凰"
+    ],
+    "fight_id": 19,
+    "duration_ms": 955079,
+    "clear_dt_ms": 1782491244140,
+    "jobs": {
+      "Glare@鳳凰": "BlackMage",
+      "玥@鳳凰": "Warrior",
+      "港都哈基米@奧汀": "Paladin",
+      "瑥忒琲里@利維坦": "Pictomancer",
+      "草摩夾@鳳凰": "WhiteMage",
+      "Syun@迦樓羅": "Sage",
+      "獅心查理王@鳳凰": "Dragoon",
+      "我很多魚@鳳凰": "Machinist"
+    }
   }
 ]
