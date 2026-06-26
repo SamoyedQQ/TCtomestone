@@ -64298,5 +64298,117 @@
       "獅心查理王@鳳凰": "Dragoon",
       "我很多魚@鳳凰": "Machinist"
     }
+  },
+  {
+    "code": "DN9kd31Y4tpaHJAx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "席德@鳳凰",
+      "黑色楓葉@利維坦",
+      "橋本懷奈@伊弗利特",
+      "補月@利維坦",
+      "碳酸氫鈉@利維坦",
+      "ㄇㄩ@泰坦",
+      "Nutz@泰坦",
+      "梅普露@泰坦"
+    ],
+    "fight_id": 45,
+    "duration_ms": 1130272,
+    "clear_dt_ms": 1782487815074,
+    "jobs": {
+      "席德@鳳凰": "Sage",
+      "黑色楓葉@利維坦": "BlackMage",
+      "橋本懷奈@伊弗利特": "Gunbreaker",
+      "補月@利維坦": "Dragoon",
+      "碳酸氫鈉@利維坦": "Astrologian",
+      "ㄇㄩ@泰坦": "Summoner",
+      "Nutz@泰坦": "Paladin",
+      "梅普露@泰坦": "Dancer"
+    }
+  },
+  {
+    "code": "DN9kd31Y4tpaHJAx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "二v@迦樓羅",
+      "Sixwin@伊弗利特",
+      "Seckil@奧汀",
+      "亮月@迦樓羅",
+      "Bei@伊弗利特",
+      "阿·瓦諾@奧汀",
+      "大自然的饋贈@伊弗利特",
+      "席德@鳳凰"
+    ],
+    "fight_id": 56,
+    "duration_ms": 1126401,
+    "clear_dt_ms": 1782496941091,
+    "jobs": {
+      "二v@迦樓羅": "Astrologian",
+      "Sixwin@伊弗利特": "Samurai",
+      "Seckil@奧汀": "BlackMage",
+      "亮月@迦樓羅": "Ninja",
+      "Bei@伊弗利特": "Dancer",
+      "阿·瓦諾@奧汀": "Paladin",
+      "大自然的饋贈@伊弗利特": "Scholar",
+      "席德@鳳凰": "DarkKnight"
+    }
+  },
+  {
+    "code": "HCjVMXpAP4L1hrva",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Hawroj@伊弗利特",
+      "Ringo@巴哈姆特",
+      "戚秦氏十三口@鳳凰",
+      "芫潼@鳳凰",
+      "阿塔納修斯@伊弗利特",
+      "桑吉爾win@伊弗利特",
+      "莯祈@鳳凰",
+      "拉拉肥瞬息@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 898580,
+    "clear_dt_ms": 1782479608017,
+    "jobs": {
+      "Hawroj@伊弗利特": "Summoner",
+      "Ringo@巴哈姆特": "Sage",
+      "戚秦氏十三口@鳳凰": "Paladin",
+      "芫潼@鳳凰": "RedMage",
+      "阿塔納修斯@伊弗利特": "Samurai",
+      "桑吉爾win@伊弗利特": "Dancer",
+      "莯祈@鳳凰": "Astrologian",
+      "拉拉肥瞬息@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "HCjVMXpAP4L1hrva",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Hawroj@伊弗利特",
+      "桑吉爾win@伊弗利特",
+      "Ringo@巴哈姆特",
+      "戚秦氏十三口@鳳凰",
+      "芫潼@鳳凰",
+      "阿塔納修斯@伊弗利特",
+      "莯祈@鳳凰",
+      "拉拉肥瞬息@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 916504,
+    "clear_dt_ms": 1782481773349,
+    "jobs": {
+      "Hawroj@伊弗利特": "Summoner",
+      "桑吉爾win@伊弗利特": "Bard",
+      "Ringo@巴哈姆特": "Scholar",
+      "戚秦氏十三口@鳳凰": "Paladin",
+      "芫潼@鳳凰": "RedMage",
+      "阿塔納修斯@伊弗利特": "Samurai",
+      "莯祈@鳳凰": "Astrologian",
+      "拉拉肥瞬息@鳳凰": "Warrior"
+    }
   }
 ]
