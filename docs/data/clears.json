@@ -64606,5 +64606,33 @@
       "虎村翔@鳳凰": "Monk",
       "鮭魚明太子@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "P3QbjpHXALwYmNTh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Gptms@鳳凰",
+      "阿爾帕芙@巴哈姆特",
+      "派保@迦樓羅",
+      "葉子是也@迦樓羅",
+      "Ryou@利維坦",
+      "米爾凱森@迦樓羅",
+      "小肥嘟嘟@利維坦",
+      "夜羽o@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 979799,
+    "clear_dt_ms": 1780843812444,
+    "jobs": {
+      "Gptms@鳳凰": "Paladin",
+      "阿爾帕芙@巴哈姆特": "RedMage",
+      "派保@迦樓羅": "Scholar",
+      "葉子是也@迦樓羅": "Gunbreaker",
+      "Ryou@利維坦": "Astrologian",
+      "米爾凱森@迦樓羅": "Dancer",
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "夜羽o@迦樓羅": "Samurai"
+    }
   }
 ]
