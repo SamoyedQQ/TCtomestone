@@ -64522,5 +64522,61 @@
       "結束btr@奧汀": "Dragoon",
       "弗雷克托@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "yxDzjVXM6c9nNa3H",
+    "title": "Futures Rewritten",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "呼呼泥·呼泥@利維坦",
+      "香菜漢堡@迦樓羅",
+      "初冬微雪@迦樓羅",
+      "夢璃@利維坦",
+      "乂夜神@巴哈姆特",
+      "Ryou@利維坦",
+      "祈靈@鳳凰",
+      "音侍@伊弗利特"
+    ],
+    "fight_id": 75,
+    "duration_ms": 875387,
+    "clear_dt_ms": 1782483781037,
+    "jobs": {
+      "呼呼泥·呼泥@利維坦": "Paladin",
+      "香菜漢堡@迦樓羅": "DarkKnight",
+      "初冬微雪@迦樓羅": "Dancer",
+      "夢璃@利維坦": "Sage",
+      "乂夜神@巴哈姆特": "Dragoon",
+      "Ryou@利維坦": "Astrologian",
+      "祈靈@鳳凰": "RedMage",
+      "音侍@伊弗利特": "Summoner"
+    }
+  },
+  {
+    "code": "3pWxZLt9mkVYHQqv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "石川澪@伊弗利特",
+      "Koro@奧汀",
+      "百事有可樂@伊弗利特",
+      "洗讚小鴨鴨@伊弗利特",
+      "黑魔道士@伊弗利特",
+      "Loklok@伊弗利特",
+      "我不是卡蘇咪@奧汀",
+      "Kua@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1121373,
+    "clear_dt_ms": 1782490919335,
+    "jobs": {
+      "石川澪@伊弗利特": "Pictomancer",
+      "Koro@奧汀": "Astrologian",
+      "百事有可樂@伊弗利特": "Dragoon",
+      "洗讚小鴨鴨@伊弗利特": "Bard",
+      "黑魔道士@伊弗利特": "BlackMage",
+      "Loklok@伊弗利特": "Scholar",
+      "我不是卡蘇咪@奧汀": "DarkKnight",
+      "Kua@奧汀": "Paladin"
+    }
   }
 ]
