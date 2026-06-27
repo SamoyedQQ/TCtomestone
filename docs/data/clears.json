@@ -64634,5 +64634,61 @@
       "小肥嘟嘟@利維坦": "BlackMage",
       "夜羽o@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "CxT6zwMhvm3Wr4tZ",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "咲@利維坦",
+      "雨宮響@利維坦",
+      "伊卡@利維坦",
+      "蓮@利維坦",
+      "路德@利維坦",
+      "昨夜@鳳凰",
+      "Cifera@利維坦",
+      "君澤@利維坦"
+    ],
+    "fight_id": 32,
+    "duration_ms": 996764,
+    "clear_dt_ms": 1782569477851,
+    "jobs": {
+      "咲@利維坦": "Astrologian",
+      "雨宮響@利維坦": "Samurai",
+      "伊卡@利維坦": "Machinist",
+      "蓮@利維坦": "Sage",
+      "路德@利維坦": "Warrior",
+      "昨夜@鳳凰": "BlackMage",
+      "Cifera@利維坦": "Paladin",
+      "君澤@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "qMnTjQyRF629m4Lw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "金龍姐姐@利維坦",
+      "Ryou@利維坦",
+      "愛與包容@伊弗利特",
+      "藏棋術士@伊弗利特",
+      "Cym@迦樓羅",
+      "卡特@泰坦",
+      "慎真@利維坦",
+      "Cryus@鳳凰"
+    ],
+    "fight_id": 16,
+    "duration_ms": 854619,
+    "clear_dt_ms": 1782154271580,
+    "jobs": {
+      "金龍姐姐@利維坦": "Dancer",
+      "Ryou@利維坦": "Dragoon",
+      "愛與包容@伊弗利特": "DarkKnight",
+      "藏棋術士@伊弗利特": "Warrior",
+      "Cym@迦樓羅": "RedMage",
+      "卡特@泰坦": "BlackMage",
+      "慎真@利維坦": "Sage",
+      "Cryus@鳳凰": "Astrologian"
+    }
   }
 ]
