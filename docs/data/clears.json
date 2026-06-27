@@ -64718,5 +64718,117 @@
       "師匠的狗@奧汀": "RedMage",
       "可樂零熱量@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "8dzvtPH93VfW1YkC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zhilyu@泰坦",
+      "晨星@泰坦",
+      "空澄@泰坦",
+      "姆紀嘟@泰坦",
+      "芙莉露@泰坦",
+      "羅貝爾塔@奧汀",
+      "Leemur@泰坦",
+      "希瓦娜格爾@泰坦"
+    ],
+    "fight_id": 36,
+    "duration_ms": 972706,
+    "clear_dt_ms": 1782581596203,
+    "jobs": {
+      "Zhilyu@泰坦": "Paladin",
+      "晨星@泰坦": "Dancer",
+      "空澄@泰坦": "BlackMage",
+      "姆紀嘟@泰坦": "Samurai",
+      "芙莉露@泰坦": "Astrologian",
+      "羅貝爾塔@奧汀": "Monk",
+      "Leemur@泰坦": "Sage",
+      "希瓦娜格爾@泰坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "8dzvtPH93VfW1YkC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zhilyu@泰坦",
+      "Hua'花@伊弗利特",
+      "空澄@泰坦",
+      "姆紀嘟@泰坦",
+      "芙莉露@泰坦",
+      "羅貝爾塔@奧汀",
+      "Leemur@泰坦",
+      "希瓦娜格爾@泰坦"
+    ],
+    "fight_id": 45,
+    "duration_ms": 976381,
+    "clear_dt_ms": 1782585740381,
+    "jobs": {
+      "Zhilyu@泰坦": "Paladin",
+      "Hua'花@伊弗利特": "Dancer",
+      "空澄@泰坦": "BlackMage",
+      "姆紀嘟@泰坦": "Samurai",
+      "芙莉露@泰坦": "Astrologian",
+      "羅貝爾塔@奧汀": "Monk",
+      "Leemur@泰坦": "Sage",
+      "希瓦娜格爾@泰坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "8dzvtPH93VfW1YkC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zhilyu@泰坦",
+      "Hua'花@伊弗利特",
+      "柯基犬@奧汀",
+      "希瓦娜格爾@泰坦",
+      "Sylphy@奧汀",
+      "空澄@泰坦",
+      "姆紀嘟@泰坦",
+      "羅貝爾塔@奧汀"
+    ],
+    "fight_id": 55,
+    "duration_ms": 995548,
+    "clear_dt_ms": 1782591746992,
+    "jobs": {
+      "Zhilyu@泰坦": "Paladin",
+      "Hua'花@伊弗利特": "Dancer",
+      "柯基犬@奧汀": "WhiteMage",
+      "希瓦娜格爾@泰坦": "DarkKnight",
+      "Sylphy@奧汀": "Sage",
+      "空澄@泰坦": "BlackMage",
+      "姆紀嘟@泰坦": "Samurai",
+      "羅貝爾塔@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "fLCB7NPYayrWhbp2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "九九@利維坦",
+      "黑白沒有建模@迦樓羅",
+      "小白@鳳凰",
+      "哈基de@利維坦",
+      "銀三@奧汀",
+      "溫溫獸@伊弗利特",
+      "相赫咪咪@泰坦",
+      "七詩零@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 966599,
+    "clear_dt_ms": 1782581010211,
+    "jobs": {
+      "九九@利維坦": "BlackMage",
+      "黑白沒有建模@迦樓羅": "DarkKnight",
+      "小白@鳳凰": "WhiteMage",
+      "哈基de@利維坦": "Paladin",
+      "銀三@奧汀": "Monk",
+      "溫溫獸@伊弗利特": "Sage",
+      "相赫咪咪@泰坦": "Dragoon",
+      "七詩零@利維坦": "Machinist"
+    }
   }
 ]
