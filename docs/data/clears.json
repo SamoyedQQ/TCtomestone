@@ -64578,5 +64578,33 @@
       "我不是卡蘇咪@奧汀": "DarkKnight",
       "Kua@奧汀": "Paladin"
     }
+  },
+  {
+    "code": "tcnZbY1DqFTfHhQ2",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "弦凱@巴哈姆特",
+      "圓舞@鳳凰",
+      "錦木千束的狗@巴哈姆特",
+      "黑白沒有建模@迦樓羅",
+      "玖依@伊弗利特",
+      "Zhilyu@泰坦",
+      "虎村翔@鳳凰",
+      "鮭魚明太子@迦樓羅"
+    ],
+    "fight_id": 45,
+    "duration_ms": 987261,
+    "clear_dt_ms": 1782558817098,
+    "jobs": {
+      "弦凱@巴哈姆特": "BlackMage",
+      "圓舞@鳳凰": "WhiteMage",
+      "錦木千束的狗@巴哈姆特": "Dancer",
+      "黑白沒有建模@迦樓羅": "DarkKnight",
+      "玖依@伊弗利特": "Ninja",
+      "Zhilyu@泰坦": "Paladin",
+      "虎村翔@鳳凰": "Monk",
+      "鮭魚明太子@迦樓羅": "Sage"
+    }
   }
 ]
