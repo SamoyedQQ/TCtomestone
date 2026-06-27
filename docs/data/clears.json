@@ -64438,5 +64438,89 @@
       "索拉肥@鳳凰": "DarkKnight",
       "Ryou@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "jMHgy81WpcLx7Z4n",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "阿爾博德之門@利維坦",
+      "秋@迦樓羅",
+      "麻油@巴哈姆特",
+      "醉仙月月@利維坦",
+      "法國我@奧汀",
+      "暗影牙叉@伊弗利特",
+      "洛賽特@巴哈姆特",
+      "Yuki醬@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1124942,
+    "clear_dt_ms": 1782551368776,
+    "jobs": {
+      "阿爾博德之門@利維坦": "Sage",
+      "秋@迦樓羅": "Paladin",
+      "麻油@巴哈姆特": "Astrologian",
+      "醉仙月月@利維坦": "DarkKnight",
+      "法國我@奧汀": "Dragoon",
+      "暗影牙叉@伊弗利特": "Dancer",
+      "洛賽特@巴哈姆特": "Pictomancer",
+      "Yuki醬@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "PrYaXb7p3948JRBN",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "呆萌白@利維坦",
+      "貓翼@伊弗利特",
+      "弗雷克托@巴哈姆特",
+      "Edsel@伊弗利特",
+      "骨折@利維坦",
+      "Uiouop@迦樓羅",
+      "夢幻o飄@迦樓羅",
+      "是又怎樣@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1124362,
+    "clear_dt_ms": 1782539547141,
+    "jobs": {
+      "呆萌白@利維坦": "Pictomancer",
+      "貓翼@伊弗利特": "DarkKnight",
+      "弗雷克托@巴哈姆特": "Scholar",
+      "Edsel@伊弗利特": "Monk",
+      "骨折@利維坦": "Paladin",
+      "Uiouop@迦樓羅": "WhiteMage",
+      "夢幻o飄@迦樓羅": "Bard",
+      "是又怎樣@奧汀": "Ninja"
+    }
+  },
+  {
+    "code": "18pzjDFVvTXmQHxC",
+    "title": "絕亞消化第12把 D1武士初通關",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Leemur@泰坦",
+      "斯貝德@利維坦",
+      "Zhilyu@泰坦",
+      "錦木千束的狗@巴哈姆特",
+      "啊呀鴨@奧汀",
+      "Ringo@巴哈姆特",
+      "結束btr@奧汀",
+      "弗雷克托@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 982919,
+    "clear_dt_ms": 1782552005960,
+    "jobs": {
+      "Leemur@泰坦": "BlackMage",
+      "斯貝德@利維坦": "Samurai",
+      "Zhilyu@泰坦": "Paladin",
+      "錦木千束的狗@巴哈姆特": "Dancer",
+      "啊呀鴨@奧汀": "DarkKnight",
+      "Ringo@巴哈姆特": "Scholar",
+      "結束btr@奧汀": "Dragoon",
+      "弗雷克托@巴哈姆特": "Sage"
+    }
   }
 ]
