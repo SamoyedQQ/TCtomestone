@@ -64914,5 +64914,89 @@
       "昨夜@鳳凰": "BlackMage",
       "Cifera@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "61ypXHxdjPfqzGaL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Yoake@巴哈姆特",
+      "洋月@巴哈姆特",
+      "焦糖的爸@鳳凰",
+      "灰塵zzz@巴哈姆特",
+      "焦糖的媽@鳳凰",
+      "Joe大仙@泰坦",
+      "薇艾絲@泰坦",
+      "Lucina@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 887082,
+    "clear_dt_ms": 1782658569108,
+    "jobs": {
+      "Yoake@巴哈姆特": "Ninja",
+      "洋月@巴哈姆特": "Warrior",
+      "焦糖的爸@鳳凰": "Paladin",
+      "灰塵zzz@巴哈姆特": "WhiteMage",
+      "焦糖的媽@鳳凰": "BlackMage",
+      "Joe大仙@泰坦": "Sage",
+      "薇艾絲@泰坦": "Summoner",
+      "Lucina@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "LpT2z4hPGcrwv1XB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "弦凱@巴哈姆特",
+      "夏目悠希@巴哈姆特",
+      "娜娜皮@利維坦",
+      "Neero@迦樓羅",
+      "墨筑@巴哈姆特",
+      "桂格大燕麥片@奧汀",
+      "錦木千束的狗@巴哈姆特",
+      "Re晞忒璐@利維坦"
+    ],
+    "fight_id": 63,
+    "duration_ms": 989210,
+    "clear_dt_ms": 1782660765140,
+    "jobs": {
+      "弦凱@巴哈姆特": "BlackMage",
+      "夏目悠希@巴哈姆特": "WhiteMage",
+      "娜娜皮@利維坦": "Samurai",
+      "Neero@迦樓羅": "Warrior",
+      "墨筑@巴哈姆特": "Sage",
+      "桂格大燕麥片@奧汀": "Pictomancer",
+      "錦木千束的狗@巴哈姆特": "Dancer",
+      "Re晞忒璐@利維坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "B6ZpnyxFrVz23AKQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "橘青燕@鳳凰",
+      "水心沁@利維坦",
+      "楊巴巴@巴哈姆特",
+      "昀@利維坦",
+      "Ascano@伊弗利特",
+      "虎村翔@鳳凰",
+      "Tasty@利維坦",
+      "泥犁三垢@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 975414,
+    "clear_dt_ms": 1782658680099,
+    "jobs": {
+      "橘青燕@鳳凰": "Sage",
+      "水心沁@利維坦": "Samurai",
+      "楊巴巴@巴哈姆特": "Paladin",
+      "昀@利維坦": "WhiteMage",
+      "Ascano@伊弗利特": "Dancer",
+      "虎村翔@鳳凰": "Monk",
+      "Tasty@利維坦": "Pictomancer",
+      "泥犁三垢@利維坦": "Warrior"
+    }
   }
 ]
