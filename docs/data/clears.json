@@ -65026,5 +65026,33 @@
       "沁雪冰心@利維坦": "Paladin",
       "四月七日@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "yVaJ2GL8Rv3wZjgm",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "甜甜的小仙女@巴哈姆特",
+      "Radish@伊弗利特",
+      "小倉吐司@利維坦",
+      "小冰@奧汀",
+      "夏洛洛@奧汀",
+      "Nacho@鳳凰",
+      "Umi@奧汀",
+      "火仔@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1121980,
+    "clear_dt_ms": 1782677968630,
+    "jobs": {
+      "甜甜的小仙女@巴哈姆特": "Samurai",
+      "Radish@伊弗利特": "Machinist",
+      "小倉吐司@利維坦": "Astrologian",
+      "小冰@奧汀": "Paladin",
+      "夏洛洛@奧汀": "BlackMage",
+      "Nacho@鳳凰": "Reaper",
+      "Umi@奧汀": "Scholar",
+      "火仔@奧汀": "Warrior"
+    }
   }
 ]
