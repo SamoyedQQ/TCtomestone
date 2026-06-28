@@ -64830,5 +64830,33 @@
       "相赫咪咪@泰坦": "Dragoon",
       "七詩零@利維坦": "Machinist"
     }
+  },
+  {
+    "code": "kvpmYwaVAL21HyxT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "深雪烏冬@鳳凰",
+      "Ivel@鳳凰",
+      "九五二七@利維坦",
+      "斷月之光@鳳凰",
+      "小倉吐司@利維坦",
+      "米奈娃@奧汀",
+      "蕎麥鮮奶茶@伊弗利特",
+      "大肌補師@奧汀"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1128130,
+    "clear_dt_ms": 1782600884188,
+    "jobs": {
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "Ivel@鳳凰": "Ninja",
+      "九五二七@利維坦": "Pictomancer",
+      "斷月之光@鳳凰": "Bard",
+      "小倉吐司@利維坦": "Astrologian",
+      "米奈娃@奧汀": "Paladin",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "大肌補師@奧汀": "Monk"
+    }
   }
 ]
