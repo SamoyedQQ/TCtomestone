@@ -64998,5 +64998,33 @@
       "Tasty@利維坦": "Pictomancer",
       "泥犁三垢@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "RWdQD48VqZpYzLN3",
+    "title": "2026Jun29am",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "路過的@迦樓羅",
+      "亞蘭姆@迦樓羅",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "楓焦凍@伊弗利特",
+      "悠然誠心@利維坦",
+      "Yongno@伊弗利特",
+      "沁雪冰心@利維坦",
+      "四月七日@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 893516,
+    "clear_dt_ms": 1782667608544,
+    "jobs": {
+      "路過的@迦樓羅": "BlackMage",
+      "亞蘭姆@迦樓羅": "Astrologian",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "楓焦凍@伊弗利特": "Summoner",
+      "悠然誠心@利維坦": "DarkKnight",
+      "Yongno@伊弗利特": "Reaper",
+      "沁雪冰心@利維坦": "Paladin",
+      "四月七日@鳳凰": "Sage"
+    }
   }
 ]
