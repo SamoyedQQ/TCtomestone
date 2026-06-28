@@ -64886,5 +64886,33 @@
       "不要吵@利維坦": "Dragoon",
       "結印明日奈@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "VXgdQNMT2qGFfvbL",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "君澤@利維坦",
+      "路德@利維坦",
+      "米開朗雞肉飯@利維坦",
+      "蓮@利維坦",
+      "伊卡@利維坦",
+      "詩學少女@利維坦",
+      "昨夜@鳳凰",
+      "Cifera@利維坦"
+    ],
+    "fight_id": 40,
+    "duration_ms": 987971,
+    "clear_dt_ms": 1782635986092,
+    "jobs": {
+      "君澤@利維坦": "Pictomancer",
+      "路德@利維坦": "Warrior",
+      "米開朗雞肉飯@利維坦": "Samurai",
+      "蓮@利維坦": "Sage",
+      "伊卡@利維坦": "Machinist",
+      "詩學少女@利維坦": "Astrologian",
+      "昨夜@鳳凰": "BlackMage",
+      "Cifera@利維坦": "Paladin"
+    }
   }
 ]
