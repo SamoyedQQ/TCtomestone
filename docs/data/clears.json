@@ -65464,5 +65464,33 @@
       "Oscar@巴哈姆特": "BlackMage",
       "艾瑪的炙燒瓶@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "Mz6DbLAJHVdgmXKr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "弦凱@巴哈姆特",
+      "打補師別打我@鳳凰",
+      "九日日@迦樓羅",
+      "Uboo@利維坦",
+      "露露怩雷@迦樓羅",
+      "慎真@利維坦",
+      "小p噗噗@伊弗利特",
+      "空空@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 873492,
+    "clear_dt_ms": 1782760971341,
+    "jobs": {
+      "弦凱@巴哈姆特": "Paladin",
+      "打補師別打我@鳳凰": "Warrior",
+      "九日日@迦樓羅": "Astrologian",
+      "Uboo@利維坦": "Sage",
+      "露露怩雷@迦樓羅": "RedMage",
+      "慎真@利維坦": "Dancer",
+      "小p噗噗@伊弗利特": "Summoner",
+      "空空@迦樓羅": "Dragoon"
+    }
   }
 ]
