@@ -65156,5 +65156,33 @@
       "伊娜莉·尼亞@伊弗利特": "WhiteMage",
       "Iweasu@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "qzBVfZNHhX4y2Dkc",
+    "title": "re神兵過本",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "雪月@迦樓羅",
+      "二呱@迦樓羅",
+      "焦糖地瓜rj@迦樓羅",
+      "Mayui@迦樓羅",
+      "Yabi@迦樓羅",
+      "P豚@迦樓羅",
+      "白檸@迦樓羅",
+      "空空@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 872636,
+    "clear_dt_ms": 1782736570919,
+    "jobs": {
+      "雪月@迦樓羅": "Monk",
+      "二呱@迦樓羅": "Ninja",
+      "焦糖地瓜rj@迦樓羅": "Bard",
+      "Mayui@迦樓羅": "Sage",
+      "Yabi@迦樓羅": "Summoner",
+      "P豚@迦樓羅": "Gunbreaker",
+      "白檸@迦樓羅": "WhiteMage",
+      "空空@迦樓羅": "Paladin"
+    }
   }
 ]
