@@ -65054,5 +65054,33 @@
       "Umi@奧汀": "Scholar",
       "火仔@奧汀": "Warrior"
     }
+  },
+  {
+    "code": "yLcGXbPkYRhJ1z7t",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "覓@利維坦",
+      "黑耀@巴哈姆特",
+      "菲莉姬特@鳳凰",
+      "五體不滿足@巴哈姆特",
+      "狼狼兒@迦樓羅",
+      "Pb@迦樓羅",
+      "Gas@巴哈姆特",
+      "Darren@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 871214,
+    "clear_dt_ms": 1780756788506,
+    "jobs": {
+      "覓@利維坦": "Machinist",
+      "黑耀@巴哈姆特": "Sage",
+      "菲莉姬特@鳳凰": "Paladin",
+      "五體不滿足@巴哈姆特": "Warrior",
+      "狼狼兒@迦樓羅": "WhiteMage",
+      "Pb@迦樓羅": "BlackMage",
+      "Gas@巴哈姆特": "Summoner",
+      "Darren@利維坦": "Ninja"
+    }
   }
 ]
