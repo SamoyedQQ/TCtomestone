@@ -65082,5 +65082,79 @@
       "Gas@巴哈姆特": "Summoner",
       "Darren@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "ptRd8L7zD3WfqBnA",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "青菜老大@利維坦",
+      "一個劍術師@泰坦",
+      "Mjlinv@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1122040,
+    "clear_dt_ms": 1782728795484,
+    "jobs": {
+      "青菜老大@利維坦": "Astrologian",
+      "一個劍術師@泰坦": "Paladin",
+      "Mjlinv@鳳凰": "Pictomancer"
+    }
+  },
+  {
+    "code": "dVgRj148qBhZx32W",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Bdo水余月@鳳凰",
+      "琶舞@迦樓羅",
+      "貓頭蜜蜂@迦樓羅",
+      "法蘭西恩@利維坦",
+      "Mama桑@迦樓羅",
+      "Eve@鳳凰",
+      "虎村翔@鳳凰",
+      "熙瑪@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 970364,
+    "clear_dt_ms": 1782733389146,
+    "jobs": {
+      "Bdo水余月@鳳凰": "Paladin",
+      "琶舞@迦樓羅": "Dancer",
+      "貓頭蜜蜂@迦樓羅": "BlackMage",
+      "法蘭西恩@利維坦": "Warrior",
+      "Mama桑@迦樓羅": "Dragoon",
+      "Eve@鳳凰": "WhiteMage",
+      "虎村翔@鳳凰": "Monk",
+      "熙瑪@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "6QkWTjg7xfKq1H94",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墨灑清河@伊弗利特",
+      "哭哭拉肥爾@奧汀",
+      "月曦@伊弗利特",
+      "啦哩吼@迦樓羅",
+      "師匠的狗@奧汀",
+      "慎真@利維坦",
+      "伊娜莉·尼亞@伊弗利特",
+      "Iweasu@迦樓羅"
+    ],
+    "fight_id": 30,
+    "duration_ms": 884573,
+    "clear_dt_ms": 1782318908839,
+    "jobs": {
+      "墨灑清河@伊弗利特": "Dancer",
+      "哭哭拉肥爾@奧汀": "Sage",
+      "月曦@伊弗利特": "Dragoon",
+      "啦哩吼@迦樓羅": "Paladin",
+      "師匠的狗@奧汀": "RedMage",
+      "慎真@利維坦": "Warrior",
+      "伊娜莉·尼亞@伊弗利特": "WhiteMage",
+      "Iweasu@迦樓羅": "BlackMage"
+    }
   }
 ]
