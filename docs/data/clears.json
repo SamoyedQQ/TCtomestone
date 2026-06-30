@@ -65520,5 +65520,33 @@
       "花芷@利維坦": "Sage",
       "Utt@利維坦": "Samurai"
     }
+  },
+  {
+    "code": "ncFN261wMLTHrBmQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "阿兔爺@迦樓羅",
+      "Fubuki@奧汀",
+      "艾華@迦樓羅",
+      "Uiouop@迦樓羅",
+      "Arasxi@奧汀",
+      "新手一名@伊弗利特",
+      "骨折@利維坦",
+      "小夢幻@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1127231,
+    "clear_dt_ms": 1782819838965,
+    "jobs": {
+      "阿兔爺@迦樓羅": "Pictomancer",
+      "Fubuki@奧汀": "BlackMage",
+      "艾華@迦樓羅": "Dancer",
+      "Uiouop@迦樓羅": "WhiteMage",
+      "Arasxi@奧汀": "Samurai",
+      "新手一名@伊弗利特": "DarkKnight",
+      "骨折@利維坦": "Paladin",
+      "小夢幻@奧汀": "Sage"
+    }
   }
 ]
