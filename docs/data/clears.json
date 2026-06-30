@@ -65660,5 +65660,33 @@
       "琶舞@迦樓羅": "Dancer",
       "月見冰@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "NA1qaJ3trDyYvkBR",
+    "title": "決歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Harii@奧汀",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Mabian@迦樓羅",
+      "Makua@奧汀",
+      "東玄@鳳凰",
+      "寧缺勿濫@利維坦",
+      "Kotori@伊弗利特",
+      "芋泥休斯頓@迦樓羅"
+    ],
+    "fight_id": 38,
+    "duration_ms": 1131624,
+    "clear_dt_ms": 1782836758396,
+    "jobs": {
+      "Harii@奧汀": "Dancer",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Mabian@迦樓羅": "Paladin",
+      "Makua@奧汀": "Monk",
+      "東玄@鳳凰": "WhiteMage",
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "Kotori@伊弗利特": "Scholar",
+      "芋泥休斯頓@迦樓羅": "Dragoon"
+    }
   }
 ]
