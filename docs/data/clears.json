@@ -65548,5 +65548,117 @@
       "骨折@利維坦": "Paladin",
       "小夢幻@奧汀": "Sage"
     }
+  },
+  {
+    "code": "BHXvr9whbYJdjyfZ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Souru@利維坦",
+      "旮旯給木高手@伊弗利特",
+      "Lavid@鳳凰",
+      "騎士長@巴哈姆特",
+      "青菜老大@利維坦",
+      "狐狸風@奧汀",
+      "Sellyy@迦樓羅",
+      "愛莉夢夢@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1129116,
+    "clear_dt_ms": 1782828056625,
+    "jobs": {
+      "Souru@利維坦": "Reaper",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "Lavid@鳳凰": "Viper",
+      "騎士長@巴哈姆特": "Paladin",
+      "青菜老大@利維坦": "Astrologian",
+      "狐狸風@奧汀": "BlackMage",
+      "Sellyy@迦樓羅": "Dancer",
+      "愛莉夢夢@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "wNtBvfGyg3pC68mR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "流承@迦樓羅",
+      "Seckil@奧汀",
+      "亮月@迦樓羅",
+      "Sixwin@伊弗利特",
+      "阿·瓦諾@奧汀",
+      "席德@鳳凰",
+      "大自然的饋贈@伊弗利特",
+      "Bei@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1126707,
+    "clear_dt_ms": 1782831339766,
+    "jobs": {
+      "流承@迦樓羅": "Astrologian",
+      "Seckil@奧汀": "Pictomancer",
+      "亮月@迦樓羅": "Ninja",
+      "Sixwin@伊弗利特": "Samurai",
+      "阿·瓦諾@奧汀": "Paladin",
+      "席德@鳳凰": "DarkKnight",
+      "大自然的饋贈@伊弗利特": "Scholar",
+      "Bei@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "tJfDRKQ4yT2MpxbZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "狼魚咬咬@鳳凰",
+      "Bdo水余月@鳳凰",
+      "豪@鳳凰",
+      "垮頌@利維坦",
+      "星界微光@鳳凰",
+      "嘎嘎ovo@鳳凰",
+      "羅仔@鳳凰",
+      "小乳子@利維坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 992851,
+    "clear_dt_ms": 1782830663798,
+    "jobs": {
+      "狼魚咬咬@鳳凰": "Scholar",
+      "Bdo水余月@鳳凰": "Paladin",
+      "豪@鳳凰": "Dancer",
+      "垮頌@利維坦": "DarkKnight",
+      "星界微光@鳳凰": "Dragoon",
+      "嘎嘎ovo@鳳凰": "WhiteMage",
+      "羅仔@鳳凰": "Pictomancer",
+      "小乳子@利維坦": "Samurai"
+    }
+  },
+  {
+    "code": "t9CDdrpZnkfQa7vJ",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路德@利維坦",
+      "鮭魚明太子@迦樓羅",
+      "蹲蹲dun@迦樓羅",
+      "熙瑪@利維坦",
+      "Tvtian@迦樓羅",
+      "櫻澤咲@鳳凰",
+      "琶舞@迦樓羅",
+      "月見冰@奧汀"
+    ],
+    "fight_id": 76,
+    "duration_ms": 976674,
+    "clear_dt_ms": 1782819513740,
+    "jobs": {
+      "路德@利維坦": "Warrior",
+      "鮭魚明太子@迦樓羅": "BlackMage",
+      "蹲蹲dun@迦樓羅": "Dragoon",
+      "熙瑪@利維坦": "Sage",
+      "Tvtian@迦樓羅": "Ninja",
+      "櫻澤咲@鳳凰": "Paladin",
+      "琶舞@迦樓羅": "Dancer",
+      "月見冰@奧汀": "Astrologian"
+    }
   }
 ]
