@@ -65912,5 +65912,75 @@
       "U沫@泰坦": "Scholar",
       "雪月狐@奧汀": "BlackMage"
     }
+  },
+  {
+    "code": "g89GMACh1Z6vJBmD",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "噗蒂乳液猫@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1117921,
+    "clear_dt_ms": 1782899211528,
+    "jobs": {
+      "噗蒂乳液猫@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "PmfyGQnFNTkLBRq9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "慎真@利維坦",
+      "Nemo捏摸@利維坦",
+      "百鬼鈴音@巴哈姆特",
+      "逢魔時王@迦樓羅",
+      "低優低優@利維坦",
+      "路邊一條浪浪@利維坦",
+      "揍敵客家人@奧汀",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 964022,
+    "clear_dt_ms": 1782927280333,
+    "jobs": {
+      "慎真@利維坦": "Warrior",
+      "Nemo捏摸@利維坦": "Samurai",
+      "百鬼鈴音@巴哈姆特": "Sage",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "低優低優@利維坦": "Dancer",
+      "路邊一條浪浪@利維坦": "WhiteMage",
+      "揍敵客家人@奧汀": "Paladin",
+      "輸出型奶媽@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "wj2cfv91aJtRFzK3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Shiuna@迦樓羅",
+      "防彈乳牛@伊弗利特",
+      "影子z@伊弗利特",
+      "Toto@伊弗利特",
+      "水無月@伊弗利特",
+      "路過的狼@迦樓羅",
+      "光之雀士@伊弗利特",
+      "Subaru@伊弗利特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 899477,
+    "clear_dt_ms": 1782924498303,
+    "jobs": {
+      "Shiuna@迦樓羅": "Bard",
+      "防彈乳牛@伊弗利特": "Summoner",
+      "影子z@伊弗利特": "Astrologian",
+      "Toto@伊弗利特": "Scholar",
+      "水無月@伊弗利特": "Monk",
+      "路過的狼@迦樓羅": "Gunbreaker",
+      "光之雀士@伊弗利特": "Paladin",
+      "Subaru@伊弗利特": "Samurai"
+    }
   }
 ]
