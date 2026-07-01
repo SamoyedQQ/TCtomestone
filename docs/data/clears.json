@@ -65716,5 +65716,61 @@
       "彭聖傑傑@利維坦": "Sage",
       "Adai@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "qw1fzTm6rtgcxaMY",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "二v@迦樓羅",
+      "墨青@鳳凰",
+      "神羽@巴哈姆特",
+      "兔兔兔兔兔兔@泰坦",
+      "Arasxi@奧汀",
+      "Dukg@奧汀",
+      "標@泰坦",
+      "冬@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1125983,
+    "clear_dt_ms": 1782891336686,
+    "jobs": {
+      "二v@迦樓羅": "Sage",
+      "墨青@鳳凰": "Dancer",
+      "神羽@巴哈姆特": "Paladin",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "Arasxi@奧汀": "Samurai",
+      "Dukg@奧汀": "Pictomancer",
+      "標@泰坦": "Dragoon",
+      "冬@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "nwHT6ag7txmZhYGv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "赤雪豹@鳳凰",
+      "熙瑪@利維坦",
+      "不要吵@利維坦",
+      "載客鳩舵手@伊弗利特",
+      "木之葉上忍逼@奧汀",
+      "Eve@鳳凰",
+      "魚fish@利維坦",
+      "名字隨便改@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 974754,
+    "clear_dt_ms": 1782888244106,
+    "jobs": {
+      "赤雪豹@鳳凰": "BlackMage",
+      "熙瑪@利維坦": "Sage",
+      "不要吵@利維坦": "Dragoon",
+      "載客鳩舵手@伊弗利特": "DarkKnight",
+      "木之葉上忍逼@奧汀": "Dancer",
+      "Eve@鳳凰": "WhiteMage",
+      "魚fish@利維坦": "Samurai",
+      "名字隨便改@利維坦": "Gunbreaker"
+    }
   }
 ]
