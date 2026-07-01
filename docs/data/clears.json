@@ -65772,5 +65772,33 @@
       "魚fish@利維坦": "Samurai",
       "名字隨便改@利維坦": "Gunbreaker"
     }
+  },
+  {
+    "code": "f3Q2Mcd84N96ZqFD",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "哭哭欸@巴哈姆特",
+      "琴葉千草@迦樓羅",
+      "里宮沙繪@伊弗利特",
+      "小冰@奧汀",
+      "小隻的烈風@巴哈姆特",
+      "我不是洗ㄅㄚ@利維坦",
+      "載客鳩舵手@伊弗利特",
+      "丨zero丨@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1121929,
+    "clear_dt_ms": 1782898525555,
+    "jobs": {
+      "哭哭欸@巴哈姆特": "Astrologian",
+      "琴葉千草@迦樓羅": "Pictomancer",
+      "里宮沙繪@伊弗利特": "Samurai",
+      "小冰@奧汀": "Paladin",
+      "小隻的烈風@巴哈姆特": "Monk",
+      "我不是洗ㄅㄚ@利維坦": "Scholar",
+      "載客鳩舵手@伊弗利特": "DarkKnight",
+      "丨zero丨@利維坦": "Bard"
+    }
   }
 ]
