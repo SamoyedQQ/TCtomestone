@@ -66206,5 +66206,117 @@
       "穗曦@伊弗利特": "WhiteMage",
       "奧爾古斯塔斯@伊弗利特": "Dancer"
     }
+  },
+  {
+    "code": "qzTRkmF49Cw7M2dr",
+    "title": "DSR",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Benny@奧汀",
+      "Wenwen@伊弗利特",
+      "橘雪莉@伊弗利特",
+      "明日的希望@迦樓羅",
+      "永愛三玖@巴哈姆特",
+      "黃金熊熊維尼@巴哈姆特",
+      "不凋花@伊弗利特",
+      "蛤蜜呱@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1101065,
+    "clear_dt_ms": 1783008112564,
+    "jobs": {
+      "Benny@奧汀": "Pictomancer",
+      "Wenwen@伊弗利特": "Sage",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "明日的希望@迦樓羅": "Warrior",
+      "永愛三玖@巴哈姆特": "Dancer",
+      "黃金熊熊維尼@巴哈姆特": "Samurai",
+      "不凋花@伊弗利特": "Monk",
+      "蛤蜜呱@伊弗利特": "Scholar"
+    }
+  },
+  {
+    "code": "QMPjYxHBTaV86pW1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "伽藍影日@巴哈姆特",
+      "海獺小偷@奧汀",
+      "滿天焰星@鳳凰",
+      "Chima@伊弗利特",
+      "一隻拉拉@巴哈姆特",
+      "乂夜神@巴哈姆特",
+      "比斯吉@巴哈姆特",
+      "影子z@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 868669,
+    "clear_dt_ms": 1783003824571,
+    "jobs": {
+      "伽藍影日@巴哈姆特": "Sage",
+      "海獺小偷@奧汀": "DarkKnight",
+      "滿天焰星@鳳凰": "Summoner",
+      "Chima@伊弗利特": "Dancer",
+      "一隻拉拉@巴哈姆特": "Paladin",
+      "乂夜神@巴哈姆特": "Dragoon",
+      "比斯吉@巴哈姆特": "BlackMage",
+      "影子z@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "3XmHqjQtzGLWRx8B",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "毛毛狐狐望月@巴哈姆特",
+      "歡樂小手套@巴哈姆特",
+      "草狼@迦樓羅",
+      "寄葉二號e型@鳳凰",
+      "睡飽飽@鳳凰",
+      "蝕雪寒@巴哈姆特",
+      "Yahoo@鳳凰",
+      "我是劉肥@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 883476,
+    "clear_dt_ms": 1783000683955,
+    "jobs": {
+      "毛毛狐狐望月@巴哈姆特": "DarkKnight",
+      "歡樂小手套@巴哈姆特": "Summoner",
+      "草狼@迦樓羅": "Gunbreaker",
+      "寄葉二號e型@鳳凰": "Pictomancer",
+      "睡飽飽@鳳凰": "WhiteMage",
+      "蝕雪寒@巴哈姆特": "Scholar",
+      "Yahoo@鳳凰": "Samurai",
+      "我是劉肥@巴哈姆特": "Dancer"
+    }
+  },
+  {
+    "code": "ykQmnqKVTz67F9Xg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "楠小楓@利維坦",
+      "壓壓雞@利維坦",
+      "可愛堯堯大人@利維坦",
+      "雪兔辣@利維坦",
+      "煌天月@利維坦",
+      "涼水@利維坦",
+      "Ennie@利維坦",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 888388,
+    "clear_dt_ms": 1783001587346,
+    "jobs": {
+      "楠小楓@利維坦": "Dragoon",
+      "壓壓雞@利維坦": "Warrior",
+      "可愛堯堯大人@利維坦": "Sage",
+      "雪兔辣@利維坦": "Dancer",
+      "煌天月@利維坦": "Astrologian",
+      "涼水@利維坦": "RedMage",
+      "Ennie@利維坦": "Paladin",
+      "喚靈夜語@伊弗利特": "Monk"
+    }
   }
 ]
