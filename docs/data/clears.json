@@ -66010,5 +66010,33 @@
       "U沫@泰坦": "Scholar",
       "如月@鳳凰": "Samurai"
     }
+  },
+  {
+    "code": "twjay37JLh6YRWQD",
+    "title": "DSR",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Wenwen@伊弗利特",
+      "慎真@利維坦",
+      "Benny@奧汀",
+      "崩落之旅人@利維坦",
+      "橘雪莉@伊弗利特",
+      "舞紗橘@利維坦",
+      "黃金熊熊維尼@巴哈姆特",
+      "永愛三玖@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1097733,
+    "clear_dt_ms": 1782977595913,
+    "jobs": {
+      "Wenwen@伊弗利特": "Sage",
+      "慎真@利維坦": "Warrior",
+      "Benny@奧汀": "Samurai",
+      "崩落之旅人@利維坦": "Scholar",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "舞紗橘@利維坦": "Pictomancer",
+      "黃金熊熊維尼@巴哈姆特": "Monk",
+      "永愛三玖@巴哈姆特": "Dancer"
+    }
   }
 ]
