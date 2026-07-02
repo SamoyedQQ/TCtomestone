@@ -66178,5 +66178,33 @@
       "綠茶加檸檬@鳳凰": "Summoner",
       "海獺小偷@奧汀": "DarkKnight"
     }
+  },
+  {
+    "code": "cMrpWGg1RZDkwJH3",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Aw丶@鳳凰",
+      "迷路哭@伊弗利特",
+      "Yamimi@迦樓羅",
+      "席德@鳳凰",
+      "狡猾海豹@鳳凰",
+      "道友請留步@伊弗利特",
+      "穗曦@伊弗利特",
+      "奧爾古斯塔斯@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1119956,
+    "clear_dt_ms": 1783002247728,
+    "jobs": {
+      "Aw丶@鳳凰": "Pictomancer",
+      "迷路哭@伊弗利特": "Reaper",
+      "Yamimi@迦樓羅": "Monk",
+      "席德@鳳凰": "Paladin",
+      "狡猾海豹@鳳凰": "DarkKnight",
+      "道友請留步@伊弗利特": "Scholar",
+      "穗曦@伊弗利特": "WhiteMage",
+      "奧爾古斯塔斯@伊弗利特": "Dancer"
+    }
   }
 ]
