@@ -65982,5 +65982,33 @@
       "光之雀士@伊弗利特": "Paladin",
       "Subaru@伊弗利特": "Samurai"
     }
+  },
+  {
+    "code": "khtdNafzbK8wrPHG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "有糖綠茶@伊弗利特",
+      "拉雯妲@利維坦",
+      "雪月狐@奧汀",
+      "詠春愛迪生@利維坦",
+      "吉村匕刃兔@奧汀",
+      "喲呵呵呵@巴哈姆特",
+      "U沫@泰坦",
+      "如月@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 978280,
+    "clear_dt_ms": 1782057306304,
+    "jobs": {
+      "有糖綠茶@伊弗利特": "Dancer",
+      "拉雯妲@利維坦": "Gunbreaker",
+      "雪月狐@奧汀": "BlackMage",
+      "詠春愛迪生@利維坦": "WhiteMage",
+      "吉村匕刃兔@奧汀": "Warrior",
+      "喲呵呵呵@巴哈姆特": "Dragoon",
+      "U沫@泰坦": "Scholar",
+      "如月@鳳凰": "Samurai"
+    }
   }
 ]
