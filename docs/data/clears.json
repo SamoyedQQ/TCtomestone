@@ -66570,5 +66570,89 @@
       "赫斯媞雅@迦樓羅": "Pictomancer",
       "貓翼@伊弗利特": "DarkKnight"
     }
+  },
+  {
+    "code": "C6AgFbdZBVLTt3rM",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Wenwen@伊弗利特",
+      "喵萌蝶@伊弗利特",
+      "崩落之旅人@利維坦",
+      "Jacy@伊弗利特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "明日的希望@迦樓羅",
+      "圓形食物@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1119963,
+    "clear_dt_ms": 1783091486979,
+    "jobs": {
+      "Wenwen@伊弗利特": "Astrologian",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "崩落之旅人@利維坦": "Scholar",
+      "Jacy@伊弗利特": "Paladin",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Viper",
+      "明日的希望@迦樓羅": "Bard",
+      "圓形食物@鳳凰": "DarkKnight"
+    }
+  },
+  {
+    "code": "2qPFzyKtaHm9b37f",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "貓丸丸@鳳凰",
+      "老鴿@伊弗利特",
+      "我不是凱薩雄@利維坦",
+      "騎士長@巴哈姆特",
+      "Lavid@鳳凰",
+      "里斯@巴哈姆特",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "深昏睡@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1122425,
+    "clear_dt_ms": 1783090633856,
+    "jobs": {
+      "貓丸丸@鳳凰": "Pictomancer",
+      "老鴿@伊弗利特": "Scholar",
+      "我不是凱薩雄@利維坦": "DarkKnight",
+      "騎士長@巴哈姆特": "Paladin",
+      "Lavid@鳳凰": "Viper",
+      "里斯@巴哈姆特": "Astrologian",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "深昏睡@伊弗利特": "Samurai"
+    }
+  },
+  {
+    "code": "yA3RHqKg6hw1ZPJQ",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "黑洛肥@巴哈姆特",
+      "Nacho@鳳凰",
+      "Memory@利維坦",
+      "找不到該玩家@利維坦",
+      "Mimika@利維坦",
+      "我不是洗ㄅㄚ@利維坦",
+      "普yeee@迦樓羅",
+      "麥克雞快@巴哈姆特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1117940,
+    "clear_dt_ms": 1783088843667,
+    "jobs": {
+      "黑洛肥@巴哈姆特": "Dancer",
+      "Nacho@鳳凰": "Reaper",
+      "Memory@利維坦": "Pictomancer",
+      "找不到該玩家@利維坦": "Paladin",
+      "Mimika@利維坦": "DarkKnight",
+      "我不是洗ㄅㄚ@利維坦": "Scholar",
+      "普yeee@迦樓羅": "Astrologian",
+      "麥克雞快@巴哈姆特": "Dragoon"
+    }
   }
 ]
