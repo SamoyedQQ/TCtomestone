@@ -66374,5 +66374,61 @@
       "栗子@鳳凰": "Dragoon",
       "咕菇固@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "86F1PdtMDYCnyw2T",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "米粉兔子@鳳凰",
+      "奶刀文文@利維坦",
+      "巴尾的熊@鳳凰",
+      "有隻鳥@迦樓羅",
+      "威力豹@利維坦",
+      "梨某某@利維坦",
+      "Wiee@伊弗利特",
+      "咖咖哩@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1120597,
+    "clear_dt_ms": 1783084784742,
+    "jobs": {
+      "米粉兔子@鳳凰": "Scholar",
+      "奶刀文文@利維坦": "Dragoon",
+      "巴尾的熊@鳳凰": "Monk",
+      "有隻鳥@迦樓羅": "Dancer",
+      "威力豹@利維坦": "Paladin",
+      "梨某某@利維坦": "DarkKnight",
+      "Wiee@伊弗利特": "Pictomancer",
+      "咖咖哩@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "4gTHPAwfBC7dmvZD",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "弦凱@巴哈姆特",
+      "琶舞@迦樓羅",
+      "源源兒o@伊弗利特",
+      "Bdo水余月@鳳凰",
+      "教宗沙立萬@奧汀",
+      "Miyano@伊弗利特",
+      "賣萌gg@迦樓羅",
+      "桂格大燕麥片@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 964472,
+    "clear_dt_ms": 1783082951639,
+    "jobs": {
+      "弦凱@巴哈姆特": "BlackMage",
+      "琶舞@迦樓羅": "Dancer",
+      "源源兒o@伊弗利特": "Sage",
+      "Bdo水余月@鳳凰": "Paladin",
+      "教宗沙立萬@奧汀": "Dragoon",
+      "Miyano@伊弗利特": "DarkKnight",
+      "賣萌gg@迦樓羅": "WhiteMage",
+      "桂格大燕麥片@奧汀": "Pictomancer"
+    }
   }
 ]
