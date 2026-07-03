@@ -66430,5 +66430,145 @@
       "賣萌gg@迦樓羅": "WhiteMage",
       "桂格大燕麥片@奧汀": "Pictomancer"
     }
+  },
+  {
+    "code": "xmgXKLBPbHMcDyaT",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "愛食素蝦麵@伊弗利特",
+      "雃@巴哈姆特",
+      "娜娜漠烏薩奇@巴哈姆特",
+      "牙勒牙哩@巴哈姆特",
+      "夜綾@伊弗利特",
+      "夜雨@巴哈姆特",
+      "Sasa微微@伊弗利特",
+      "拉麵@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 978132,
+    "clear_dt_ms": 1783087633894,
+    "jobs": {
+      "愛食素蝦麵@伊弗利特": "Warrior",
+      "雃@巴哈姆特": "Ninja",
+      "娜娜漠烏薩奇@巴哈姆特": "WhiteMage",
+      "牙勒牙哩@巴哈姆特": "BlackMage",
+      "夜綾@伊弗利特": "Samurai",
+      "夜雨@巴哈姆特": "Sage",
+      "Sasa微微@伊弗利特": "Dancer",
+      "拉麵@利維坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "xmgXKLBPbHMcDyaT",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "夜綾@伊弗利特",
+      "愛食素蝦麵@伊弗利特",
+      "雃@巴哈姆特",
+      "娜娜漠烏薩奇@巴哈姆特",
+      "牙勒牙哩@巴哈姆特",
+      "夜雨@巴哈姆特",
+      "Sasa微微@伊弗利特",
+      "拉麵@利維坦"
+    ],
+    "fight_id": 24,
+    "duration_ms": 946156,
+    "clear_dt_ms": 1783091755666,
+    "jobs": {
+      "夜綾@伊弗利特": "Dragoon",
+      "愛食素蝦麵@伊弗利特": "Warrior",
+      "雃@巴哈姆特": "Ninja",
+      "娜娜漠烏薩奇@巴哈姆特": "WhiteMage",
+      "牙勒牙哩@巴哈姆特": "BlackMage",
+      "夜雨@巴哈姆特": "Sage",
+      "Sasa微微@伊弗利特": "Dancer",
+      "拉麵@利維坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "VNfbCm1J9QgxGhaM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "水杯杯@奧汀",
+      "絕刃@利維坦",
+      "More@伊弗利特",
+      "小男爵@利維坦",
+      "超級可口超人@利維坦",
+      "貝藜詩@伊弗利特",
+      "Vieg@伊弗利特",
+      "Jc@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 969811,
+    "clear_dt_ms": 1783086655588,
+    "jobs": {
+      "水杯杯@奧汀": "Samurai",
+      "絕刃@利維坦": "WhiteMage",
+      "More@伊弗利特": "Ninja",
+      "小男爵@利維坦": "Warrior",
+      "超級可口超人@利維坦": "Paladin",
+      "貝藜詩@伊弗利特": "Scholar",
+      "Vieg@伊弗利特": "BlackMage",
+      "Jc@奧汀": "Dancer"
+    }
+  },
+  {
+    "code": "kv672GgDXfHnbzBT",
+    "title": "絕神通關",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "梅露彌亞@伊弗利特",
+      "朝花暮暮@巴哈姆特",
+      "Wegone@奧汀",
+      "Jayy@奧汀",
+      "一一大吉一一@奧汀",
+      "小p噗噗@伊弗利特",
+      "虹怨@泰坦",
+      "刷億場水晶塔@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 880962,
+    "clear_dt_ms": 1783089311110,
+    "jobs": {
+      "梅露彌亞@伊弗利特": "Bard",
+      "朝花暮暮@巴哈姆特": "Astrologian",
+      "Wegone@奧汀": "Ninja",
+      "Jayy@奧汀": "Paladin",
+      "一一大吉一一@奧汀": "Gunbreaker",
+      "小p噗噗@伊弗利特": "Summoner",
+      "虹怨@泰坦": "Sage",
+      "刷億場水晶塔@伊弗利特": "RedMage"
+    }
+  },
+  {
+    "code": "Jz37mpfc8wPQhBND",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Edsel@伊弗利特",
+      "未花@利維坦",
+      "伊卡@伊弗利特",
+      "Kua@奧汀",
+      "星宿及月@迦樓羅",
+      "結印明日奈@利維坦",
+      "赫斯媞雅@迦樓羅",
+      "貓翼@伊弗利特"
+    ],
+    "fight_id": 97,
+    "duration_ms": 1123608,
+    "clear_dt_ms": 1782998532962,
+    "jobs": {
+      "Edsel@伊弗利特": "Monk",
+      "未花@利維坦": "Sage",
+      "伊卡@伊弗利特": "Bard",
+      "Kua@奧汀": "Paladin",
+      "星宿及月@迦樓羅": "Astrologian",
+      "結印明日奈@利維坦": "Ninja",
+      "赫斯媞雅@迦樓羅": "Pictomancer",
+      "貓翼@伊弗利特": "DarkKnight"
+    }
   }
 ]
