@@ -66710,5 +66710,61 @@
       "旮旯給木高手@伊弗利特": "DarkKnight",
       "Hgch@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "jzwmABKPNC6pZHy3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "豬排歐姆蛋@巴哈姆特",
+      "三色豆佐香菜@利維坦",
+      "夢璃@奧汀",
+      "我的褲子@巴哈姆特",
+      "易銘@利維坦",
+      "路邊一條浪浪@利維坦",
+      "咕噠咕噠@巴哈姆特",
+      "Bdo水余月@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 983081,
+    "clear_dt_ms": 1783147161606,
+    "jobs": {
+      "豬排歐姆蛋@巴哈姆特": "Warrior",
+      "三色豆佐香菜@利維坦": "Scholar",
+      "夢璃@奧汀": "Machinist",
+      "我的褲子@巴哈姆特": "Ninja",
+      "易銘@利維坦": "Dragoon",
+      "路邊一條浪浪@利維坦": "WhiteMage",
+      "咕噠咕噠@巴哈姆特": "BlackMage",
+      "Bdo水余月@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "hrxy4P79RbGFZH28",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "醉仙月月@利維坦",
+      "蕎麥鮮奶茶@伊弗利特",
+      "米奈娃@奧汀",
+      "零零陸@利維坦",
+      "亮月@迦樓羅",
+      "繪靈法師@迦樓羅",
+      "Mogg@伊弗利特",
+      "二v@迦樓羅"
+    ],
+    "fight_id": 397,
+    "duration_ms": 1123091,
+    "clear_dt_ms": 1782933012489,
+    "jobs": {
+      "醉仙月月@利維坦": "DarkKnight",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "米奈娃@奧汀": "Paladin",
+      "零零陸@利維坦": "Pictomancer",
+      "亮月@迦樓羅": "Ninja",
+      "繪靈法師@迦樓羅": "Dancer",
+      "Mogg@伊弗利特": "Reaper",
+      "二v@迦樓羅": "Astrologian"
+    }
   }
 ]
