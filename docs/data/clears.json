@@ -67914,5 +67914,61 @@
       "布丁蜜豆奶@伊弗利特": "Scholar",
       "Koro@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "9QyaqVmdRwAXGgh1",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "李丁路哲@迦樓羅",
+      "星宿及月@迦樓羅",
+      "二v@迦樓羅",
+      "Bernie@巴哈姆特",
+      "真尋兒@利維坦",
+      "亮月@迦樓羅",
+      "星街彗星@鳳凰",
+      "舉舉@利維坦"
+    ],
+    "fight_id": 32,
+    "duration_ms": 1124322,
+    "clear_dt_ms": 1783181572282,
+    "jobs": {
+      "李丁路哲@迦樓羅": "Samurai",
+      "星宿及月@迦樓羅": "Astrologian",
+      "二v@迦樓羅": "DarkKnight",
+      "Bernie@巴哈姆特": "Scholar",
+      "真尋兒@利維坦": "BlackMage",
+      "亮月@迦樓羅": "Ninja",
+      "星街彗星@鳳凰": "Paladin",
+      "舉舉@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "dq9wn8FPgVkKGHYR",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "Noma@伊弗利特",
+      "麥塊啟動器@伊弗利特",
+      "筱楓a黑兔@迦樓羅",
+      "純屬意外@伊弗利特",
+      "夙月@巴哈姆特",
+      "旮旯給木高手@伊弗利特",
+      "波騎士k@泰坦",
+      "暗影牙叉@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1124003,
+    "clear_dt_ms": 1783182649735,
+    "jobs": {
+      "Noma@伊弗利特": "WhiteMage",
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "筱楓a黑兔@迦樓羅": "Sage",
+      "純屬意外@伊弗利特": "Paladin",
+      "夙月@巴哈姆特": "Monk",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "波騎士k@泰坦": "Samurai",
+      "暗影牙叉@伊弗利特": "Dancer"
+    }
   }
 ]
