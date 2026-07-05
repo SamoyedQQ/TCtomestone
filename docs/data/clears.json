@@ -67746,5 +67746,173 @@
       "Tvtian@迦樓羅": "Ninja",
       "哈密瓜@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "6gzkBM3V1HDG7mht",
+    "title": "Futures Rewritten",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "不凋花@伊弗利特",
+      "永愛三玖@巴哈姆特",
+      "Benny@奧汀",
+      "Wenwen@伊弗利特",
+      "橘雪莉@伊弗利特",
+      "明日的希望@迦樓羅",
+      "蛤蜜呱@伊弗利特",
+      "舞紗橘@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1084644,
+    "clear_dt_ms": 1783271531028,
+    "jobs": {
+      "不凋花@伊弗利特": "Monk",
+      "永愛三玖@巴哈姆特": "Dancer",
+      "Benny@奧汀": "Samurai",
+      "Wenwen@伊弗利特": "Sage",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "明日的希望@迦樓羅": "Warrior",
+      "蛤蜜呱@伊弗利特": "Scholar",
+      "舞紗橘@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "FAXTkncrjwgG28qh",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "舞川奈富子@奧汀",
+      "秣璃@泰坦",
+      "拉肥叉燒@巴哈姆特",
+      "Choco@鳳凰",
+      "布丁蜜豆奶@伊弗利特",
+      "是又怎樣@奧汀",
+      "Koro@奧汀",
+      "Kfc炸薯條@泰坦"
+    ],
+    "fight_id": 20,
+    "duration_ms": 1122200,
+    "clear_dt_ms": 1783271059543,
+    "jobs": {
+      "舞川奈富子@奧汀": "Dancer",
+      "秣璃@泰坦": "Paladin",
+      "拉肥叉燒@巴哈姆特": "Monk",
+      "Choco@鳳凰": "DarkKnight",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "是又怎樣@奧汀": "Ninja",
+      "Koro@奧汀": "Astrologian",
+      "Kfc炸薯條@泰坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "P8J3TX74BrZdfChV",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "雅·修的啦@利維坦",
+      "極光@迦樓羅",
+      "未花@利維坦",
+      "Arting@迦樓羅",
+      "Sellyy@迦樓羅",
+      "Yamimi@迦樓羅",
+      "麥塊啟動器@伊弗利特",
+      "星宿及月@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1121495,
+    "clear_dt_ms": 1783269627227,
+    "jobs": {
+      "雅·修的啦@利維坦": "Reaper",
+      "極光@迦樓羅": "Paladin",
+      "未花@利維坦": "Sage",
+      "Arting@迦樓羅": "DarkKnight",
+      "Sellyy@迦樓羅": "Dancer",
+      "Yamimi@迦樓羅": "Monk",
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "星宿及月@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "nTHyVXdK12QPjA3m",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "芬達@利維坦",
+      "春日@迦樓羅",
+      "逢魔時王@迦樓羅",
+      "蜜蜜柑·蜜柑@利維坦",
+      "朝朝如念@巴哈姆特",
+      "新鮮急凍魚乾@奧汀",
+      "Absui@迦樓羅",
+      "莫塔里小土豆@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 975667,
+    "clear_dt_ms": 1783266540495,
+    "jobs": {
+      "芬達@利維坦": "Monk",
+      "春日@迦樓羅": "Bard",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "蜜蜜柑·蜜柑@利維坦": "WhiteMage",
+      "朝朝如念@巴哈姆特": "Sage",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "Absui@迦樓羅": "Paladin",
+      "莫塔里小土豆@奧汀": "DarkKnight"
+    }
+  },
+  {
+    "code": "fQH21tJb6zFxLd9h",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "楠小楓@利維坦",
+      "血豆@利維坦",
+      "天宮凜@鳳凰",
+      "佐藤和希@利維坦",
+      "可愛堯堯大人@利維坦",
+      "凡塔希雅@迦樓羅",
+      "煌天月@利維坦",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 984988,
+    "clear_dt_ms": 1783266904144,
+    "jobs": {
+      "楠小楓@利維坦": "Dragoon",
+      "血豆@利維坦": "Pictomancer",
+      "天宮凜@鳳凰": "Sage",
+      "佐藤和希@利維坦": "Paladin",
+      "可愛堯堯大人@利維坦": "WhiteMage",
+      "凡塔希雅@迦樓羅": "DarkKnight",
+      "煌天月@利維坦": "Bard",
+      "輸出型奶媽@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "mvL3cNQZXkyHDPBG",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Choco@鳳凰",
+      "是又怎樣@奧汀",
+      "舞川奈富子@奧汀",
+      "Dukg@奧汀",
+      "Fubuki@奧汀",
+      "Kua@奧汀",
+      "布丁蜜豆奶@伊弗利特",
+      "Koro@奧汀"
+    ],
+    "fight_id": 75,
+    "duration_ms": 1120154,
+    "clear_dt_ms": 1783004833900,
+    "jobs": {
+      "Choco@鳳凰": "DarkKnight",
+      "是又怎樣@奧汀": "Ninja",
+      "舞川奈富子@奧汀": "Dancer",
+      "Dukg@奧汀": "Pictomancer",
+      "Fubuki@奧汀": "BlackMage",
+      "Kua@奧汀": "Paladin",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "Koro@奧汀": "Astrologian"
+    }
   }
 ]
