@@ -67354,5 +67354,89 @@
       "噗噗小霸王@奧汀": "Ninja",
       "桂格大燕麥片@奧汀": "Pictomancer"
     }
+  },
+  {
+    "code": "MJbfrPG2mYRVLhq9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Himeri@鳳凰",
+      "夜櫻巫姬@利維坦",
+      "希夫特斯@鳳凰",
+      "霸總哥布林@巴哈姆特",
+      "絕喵@伊弗利特",
+      "野貓@鳳凰",
+      "席德@鳳凰",
+      "阿曼妮西斯@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1113231,
+    "clear_dt_ms": 1783236240135,
+    "jobs": {
+      "Himeri@鳳凰": "Warrior",
+      "夜櫻巫姬@利維坦": "Ninja",
+      "希夫特斯@鳳凰": "Dragoon",
+      "霸總哥布林@巴哈姆特": "WhiteMage",
+      "絕喵@伊弗利特": "BlackMage",
+      "野貓@鳳凰": "Gunbreaker",
+      "席德@鳳凰": "Bard",
+      "阿曼妮西斯@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "FVyhxf6P48YqLzvn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "氵每豸勺火宣@利維坦",
+      "More@伊弗利特",
+      "艾德魯@伊弗利特",
+      "床上超人@奧汀",
+      "旮旯給木高手@伊弗利特",
+      "海滋@迦樓羅",
+      "路邊一條浪浪@利維坦",
+      "黑皮是隻貓@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 968822,
+    "clear_dt_ms": 1783233172976,
+    "jobs": {
+      "氵每豸勺火宣@利維坦": "Pictomancer",
+      "More@伊弗利特": "Ninja",
+      "艾德魯@伊弗利特": "Scholar",
+      "床上超人@奧汀": "Samurai",
+      "旮旯給木高手@伊弗利特": "Paladin",
+      "海滋@迦樓羅": "DarkKnight",
+      "路邊一條浪浪@利維坦": "Astrologian",
+      "黑皮是隻貓@鳳凰": "Dancer"
+    }
+  },
+  {
+    "code": "JZBHKz4RhvjfkMaV",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Loklok@伊弗利特",
+      "零零陸@利維坦",
+      "大肌補師@奧汀",
+      "弗雷克托@巴哈姆特",
+      "Radish@伊弗利特",
+      "火仔@奧汀",
+      "Lavid@鳳凰",
+      "小不點來囉@奧汀"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1121492,
+    "clear_dt_ms": 1783236596340,
+    "jobs": {
+      "Loklok@伊弗利特": "WhiteMage",
+      "零零陸@利維坦": "Pictomancer",
+      "大肌補師@奧汀": "Monk",
+      "弗雷克托@巴哈姆特": "Sage",
+      "Radish@伊弗利特": "Machinist",
+      "火仔@奧汀": "Warrior",
+      "Lavid@鳳凰": "Viper",
+      "小不點來囉@奧汀": "Paladin"
+    }
   }
 ]
