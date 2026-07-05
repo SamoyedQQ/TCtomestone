@@ -67438,5 +67438,89 @@
       "Lavid@鳳凰": "Viper",
       "小不點來囉@奧汀": "Paladin"
     }
+  },
+  {
+    "code": "4ACQhrBLGWx7tMNn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "鮭魚明太子@迦樓羅",
+      "桐生茉優@利維坦",
+      "Wayway@奧汀",
+      "我都可以看你@巴哈姆特",
+      "肉小球@伊弗利特",
+      "月見冰@奧汀",
+      "Tvtian@迦樓羅",
+      "哈密瓜@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 966579,
+    "clear_dt_ms": 1783251917919,
+    "jobs": {
+      "鮭魚明太子@迦樓羅": "Sage",
+      "桐生茉優@利維坦": "Machinist",
+      "Wayway@奧汀": "Pictomancer",
+      "我都可以看你@巴哈姆特": "Paladin",
+      "肉小球@伊弗利特": "BlackMage",
+      "月見冰@奧汀": "Astrologian",
+      "Tvtian@迦樓羅": "Ninja",
+      "哈密瓜@利維坦": "DarkKnight"
+    }
+  },
+  {
+    "code": "w8GRd3qxVmbvhg4D",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "昀@利維坦",
+      "二v@迦樓羅",
+      "真塔瑪德劍@巴哈姆特",
+      "篝之霧枝@泰坦",
+      "Kfc炸薯條@泰坦",
+      "緹歐@奧汀",
+      "Ascano@伊弗利特",
+      "名字隨便改@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 978424,
+    "clear_dt_ms": 1783246992121,
+    "jobs": {
+      "昀@利維坦": "WhiteMage",
+      "二v@迦樓羅": "Sage",
+      "真塔瑪德劍@巴哈姆特": "Samurai",
+      "篝之霧枝@泰坦": "BlackMage",
+      "Kfc炸薯條@泰坦": "Pictomancer",
+      "緹歐@奧汀": "DarkKnight",
+      "Ascano@伊弗利特": "Dancer",
+      "名字隨便改@利維坦": "Gunbreaker"
+    }
+  },
+  {
+    "code": "tA4myr3QCqkbYGc6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "鐵骨茶@鳳凰",
+      "影紗星蕾@迦樓羅",
+      "罪惡的肉球@奧汀",
+      "香菜漢堡@迦樓羅",
+      "Ayano@鳳凰",
+      "神話只是傳說@巴哈姆特",
+      "神秘夾克姐姐@迦樓羅",
+      "鉄鎧·陸肆式@迦樓羅"
+    ],
+    "fight_id": 24,
+    "duration_ms": 887512,
+    "clear_dt_ms": 1783246611980,
+    "jobs": {
+      "鐵骨茶@鳳凰": "Reaper",
+      "影紗星蕾@迦樓羅": "Astrologian",
+      "罪惡的肉球@奧汀": "Dancer",
+      "香菜漢堡@迦樓羅": "DarkKnight",
+      "Ayano@鳳凰": "Scholar",
+      "神話只是傳說@巴哈姆特": "Paladin",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "鉄鎧·陸肆式@迦樓羅": "RedMage"
+    }
   }
 ]
