@@ -67970,5 +67970,33 @@
       "波騎士k@泰坦": "Samurai",
       "暗影牙叉@伊弗利特": "Dancer"
     }
+  },
+  {
+    "code": "Va1FXnjq9yRNMKf8",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "心@巴哈姆特",
+      "Seckil@奧汀",
+      "席德@鳳凰",
+      "安祖卡@迦樓羅",
+      "Second@鳳凰",
+      "筱楓a黑兔@迦樓羅",
+      "小倉吐司@利維坦",
+      "夢幻o飄@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1117831,
+    "clear_dt_ms": 1783319140415,
+    "jobs": {
+      "心@巴哈姆特": "Paladin",
+      "Seckil@奧汀": "Pictomancer",
+      "席德@鳳凰": "Dragoon",
+      "安祖卡@迦樓羅": "Samurai",
+      "Second@鳳凰": "DarkKnight",
+      "筱楓a黑兔@迦樓羅": "Sage",
+      "小倉吐司@利維坦": "Astrologian",
+      "夢幻o飄@迦樓羅": "Bard"
+    }
   }
 ]
