@@ -68446,5 +68446,89 @@
       "雨宮彩鳥@鳳凰": "Dragoon",
       "麻麻鰻魚王@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "XztPhr7RZNC9x8fp",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "冬@利維坦",
+      "龍井春茶@鳳凰",
+      "夏夕夏景@伊弗利特",
+      "香蕉皇@伊弗利特",
+      "梅吉布拉德@伊弗利特",
+      "神羽@巴哈姆特",
+      "Natt@鳳凰",
+      "里克@鳳凰"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1127227,
+    "clear_dt_ms": 1783356553145,
+    "jobs": {
+      "冬@利維坦": "DarkKnight",
+      "龍井春茶@鳳凰": "Pictomancer",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "香蕉皇@伊弗利特": "WhiteMage",
+      "梅吉布拉德@伊弗利特": "Bard",
+      "神羽@巴哈姆特": "Paladin",
+      "Natt@鳳凰": "Viper",
+      "里克@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "jwzWmXfFy4CqgAt6",
+    "title": "絕亞07063",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "雪莉的放大鏡@巴哈姆特",
+      "Nephj@利維坦",
+      "新鮮急凍魚乾@奧汀",
+      "朝朝如念@巴哈姆特",
+      "菲娜神威@利維坦",
+      "西百利亞騎士@迦樓羅",
+      "緹歐@奧汀",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 947862,
+    "clear_dt_ms": 1783360156378,
+    "jobs": {
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "Nephj@利維坦": "WhiteMage",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "朝朝如念@巴哈姆特": "Sage",
+      "菲娜神威@利維坦": "Pictomancer",
+      "西百利亞騎士@迦樓羅": "Paladin",
+      "緹歐@奧汀": "DarkKnight",
+      "逢魔時王@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "rpZKTCdPjFqgGYJ9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Yaron@利維坦",
+      "蘋果茉莉@伊弗利特",
+      "Yolo小威@伊弗利特",
+      "易銘@利維坦",
+      "哈基咪會曼波@巴哈姆特",
+      "咕噠咕噠@巴哈姆特",
+      "Dne@鳳凰",
+      "大空翔太@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 974715,
+    "clear_dt_ms": 1783257799073,
+    "jobs": {
+      "Yaron@利維坦": "Sage",
+      "蘋果茉莉@伊弗利特": "Machinist",
+      "Yolo小威@伊弗利特": "WhiteMage",
+      "易銘@利維坦": "Dragoon",
+      "哈基咪會曼波@巴哈姆特": "Paladin",
+      "咕噠咕噠@巴哈姆特": "BlackMage",
+      "Dne@鳳凰": "Warrior",
+      "大空翔太@鳳凰": "Samurai"
+    }
   }
 ]
