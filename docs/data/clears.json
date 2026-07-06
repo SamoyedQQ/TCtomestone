@@ -68530,5 +68530,33 @@
       "Dne@鳳凰": "Warrior",
       "大空翔太@鳳凰": "Samurai"
     }
+  },
+  {
+    "code": "PnGg4F7tA6B2CyYX",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Mystra@利維坦",
+      "二v@迦樓羅",
+      "影子z@伊弗利特",
+      "萊茵哈魯特@巴哈姆特",
+      "響念@奧汀",
+      "虹怨@泰坦",
+      "草灰妲@伊弗利特",
+      "米米帽帽@伊弗利特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 885473,
+    "clear_dt_ms": 1783361994441,
+    "jobs": {
+      "Mystra@利維坦": "Monk",
+      "二v@迦樓羅": "Gunbreaker",
+      "影子z@伊弗利特": "BlackMage",
+      "萊茵哈魯特@巴哈姆特": "Paladin",
+      "響念@奧汀": "Dancer",
+      "虹怨@泰坦": "Sage",
+      "草灰妲@伊弗利特": "Astrologian",
+      "米米帽帽@伊弗利特": "RedMage"
+    }
   }
 ]
