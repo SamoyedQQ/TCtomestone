@@ -68026,5 +68026,61 @@
       "Yooyu@迦樓羅": "WhiteMage",
       "逢魔時王@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "1HmQWADcdxqhZ2k4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "哈利owo@奧汀",
+      "小男娘@鳳凰",
+      "炒蛋@伊弗利特",
+      "不可@鳳凰",
+      "希夫特斯@鳳凰",
+      "Kapa@伊弗利特",
+      "美蒂森@泰坦",
+      "阿吉美眉@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1130255,
+    "clear_dt_ms": 1783344858514,
+    "jobs": {
+      "哈利owo@奧汀": "Dragoon",
+      "小男娘@鳳凰": "Scholar",
+      "炒蛋@伊弗利特": "DarkKnight",
+      "不可@鳳凰": "Monk",
+      "希夫特斯@鳳凰": "BlackMage",
+      "Kapa@伊弗利特": "WhiteMage",
+      "美蒂森@泰坦": "Dancer",
+      "阿吉美眉@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "pXcLQhmf64bZjWyt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "蒼蒼橋@鳳凰",
+      "謝新達沒有死@奧汀",
+      "大雪紛飛@泰坦",
+      "員力喵@迦樓羅",
+      "一一大吉一一@奧汀",
+      "師匠的狗@奧汀",
+      "影子z@伊弗利特",
+      "海獺小偷@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 879341,
+    "clear_dt_ms": 1783340163739,
+    "jobs": {
+      "蒼蒼橋@鳳凰": "Scholar",
+      "謝新達沒有死@奧汀": "Dragoon",
+      "大雪紛飛@泰坦": "WhiteMage",
+      "員力喵@迦樓羅": "Summoner",
+      "一一大吉一一@奧汀": "Paladin",
+      "師匠的狗@奧汀": "Dancer",
+      "影子z@伊弗利特": "BlackMage",
+      "海獺小偷@奧汀": "DarkKnight"
+    }
   }
 ]
