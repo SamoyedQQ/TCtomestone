@@ -68670,5 +68670,33 @@
       "席德@鳳凰": "Bard",
       "Himeri@鳳凰": "Warrior"
     }
+  },
+  {
+    "code": "adVGpq1JN6cLBM3h",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Jacy@伊弗利特",
+      "Wenwen@伊弗利特",
+      "喵萌蝶@伊弗利特",
+      "舞紗橘@利維坦",
+      "明日的希望@迦樓羅",
+      "崩落之旅人@利維坦",
+      "圓形食物@鳳凰",
+      "Benny@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1119802,
+    "clear_dt_ms": 1783430322923,
+    "jobs": {
+      "Jacy@伊弗利特": "Paladin",
+      "Wenwen@伊弗利特": "Astrologian",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "舞紗橘@利維坦": "Pictomancer",
+      "明日的希望@迦樓羅": "Bard",
+      "崩落之旅人@利維坦": "Scholar",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Benny@奧汀": "Viper"
+    }
   }
 ]
