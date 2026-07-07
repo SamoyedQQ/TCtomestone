@@ -69314,5 +69314,89 @@
       "嘟比嘟拔@鳳凰": "Paladin",
       "咕菇固@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "B9jy1Wnv2G7d6bcx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Ayaka@鳳凰",
+      "踏踏@伊弗利特",
+      "新手一名@伊弗利特",
+      "Natt@鳳凰",
+      "寐瑄@迦樓羅",
+      "Edsel@伊弗利特",
+      "綠玩@奧汀",
+      "Neso@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1132490,
+    "clear_dt_ms": 1783448335352,
+    "jobs": {
+      "Ayaka@鳳凰": "Astrologian",
+      "踏踏@伊弗利特": "Scholar",
+      "新手一名@伊弗利特": "DarkKnight",
+      "Natt@鳳凰": "Viper",
+      "寐瑄@迦樓羅": "Pictomancer",
+      "Edsel@伊弗利特": "Monk",
+      "綠玩@奧汀": "Paladin",
+      "Neso@利維坦": "Machinist"
+    }
+  },
+  {
+    "code": "dymwgPRTVpMtbJNX",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "玖玖@迦樓羅",
+      "蕎麥鮮奶茶@伊弗利特",
+      "Koro@奧汀",
+      "九五二七@利維坦",
+      "斷月之光@鳳凰",
+      "烏龍丸@伊弗利特",
+      "Ivel@鳳凰",
+      "小新手@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1125549,
+    "clear_dt_ms": 1783448658975,
+    "jobs": {
+      "玖玖@迦樓羅": "BlackMage",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "Koro@奧汀": "Astrologian",
+      "九五二七@利維坦": "Monk",
+      "斷月之光@鳳凰": "Bard",
+      "烏龍丸@伊弗利特": "DarkKnight",
+      "Ivel@鳳凰": "Ninja",
+      "小新手@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "qMVhnZRGdxPpgjrk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "芬達@利維坦",
+      "朝朝如念@巴哈姆特",
+      "阿謝爾@迦樓羅",
+      "新鮮急凍魚乾@奧汀",
+      "白藍樂事人@巴哈姆特",
+      "低優低優@利維坦",
+      "逢魔時王@迦樓羅",
+      "蜜蜜柑·蜜柑@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 972725,
+    "clear_dt_ms": 1783446921913,
+    "jobs": {
+      "芬達@利維坦": "Monk",
+      "朝朝如念@巴哈姆特": "Sage",
+      "阿謝爾@迦樓羅": "DarkKnight",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "低優低優@利維坦": "Dancer",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "蜜蜜柑·蜜柑@利維坦": "WhiteMage"
+    }
   }
 ]
