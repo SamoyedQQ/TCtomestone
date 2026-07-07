@@ -68558,5 +68558,33 @@
       "草灰妲@伊弗利特": "Astrologian",
       "米米帽帽@伊弗利特": "RedMage"
     }
+  },
+  {
+    "code": "VnfqXGBCjNrd24ZK",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "赫斯媞雅@迦樓羅",
+      "水星星@迦樓羅",
+      "烏爾加特林@泰坦",
+      "Uiouop@迦樓羅",
+      "破曉金風@迦樓羅",
+      "Yamimi@迦樓羅",
+      "Arting@迦樓羅",
+      "極光@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1126310,
+    "clear_dt_ms": 1783358745934,
+    "jobs": {
+      "赫斯媞雅@迦樓羅": "Pictomancer",
+      "水星星@迦樓羅": "Dragoon",
+      "烏爾加特林@泰坦": "Dancer",
+      "Uiouop@迦樓羅": "Astrologian",
+      "破曉金風@迦樓羅": "Sage",
+      "Yamimi@迦樓羅": "Monk",
+      "Arting@迦樓羅": "DarkKnight",
+      "極光@迦樓羅": "Paladin"
+    }
   }
 ]
