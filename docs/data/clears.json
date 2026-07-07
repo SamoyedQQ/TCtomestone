@@ -68642,5 +68642,33 @@
       "小夢幻@奧汀": "Sage",
       "旮旯給木高手@伊弗利特": "DarkKnight"
     }
+  },
+  {
+    "code": "ndDPhr9YyRMLzV8k",
+    "title": "絶シリーズ（過去）",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "絕喵@伊弗利特",
+      "安祖卡@迦樓羅",
+      "霸總哥布林@巴哈姆特",
+      "阿曼妮西斯@迦樓羅",
+      "野貓@鳳凰",
+      "夜櫻巫姬@利維坦",
+      "席德@鳳凰",
+      "Himeri@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1094817,
+    "clear_dt_ms": 1783412927878,
+    "jobs": {
+      "絕喵@伊弗利特": "BlackMage",
+      "安祖卡@迦樓羅": "Samurai",
+      "霸總哥布林@巴哈姆特": "WhiteMage",
+      "阿曼妮西斯@迦樓羅": "Sage",
+      "野貓@鳳凰": "Gunbreaker",
+      "夜櫻巫姬@利維坦": "Ninja",
+      "席德@鳳凰": "Bard",
+      "Himeri@鳳凰": "Warrior"
+    }
   }
 ]
