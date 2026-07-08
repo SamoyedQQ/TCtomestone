@@ -69398,5 +69398,61 @@
       "逢魔時王@迦樓羅": "BlackMage",
       "蜜蜜柑·蜜柑@利維坦": "WhiteMage"
     }
+  },
+  {
+    "code": "rDL6PA7v4RTjaCgb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "嘉加家架@泰坦",
+      "二月@巴哈姆特",
+      "艾拉妮亞@巴哈姆特",
+      "大雪紛飛@泰坦",
+      "奏天@巴哈姆特",
+      "秋夜an@泰坦",
+      "小宇宇@泰坦",
+      "千御@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 846832,
+    "clear_dt_ms": 1783433089143,
+    "jobs": {
+      "嘉加家架@泰坦": "Monk",
+      "二月@巴哈姆特": "Viper",
+      "艾拉妮亞@巴哈姆特": "Warrior",
+      "大雪紛飛@泰坦": "Scholar",
+      "奏天@巴哈姆特": "Bard",
+      "秋夜an@泰坦": "Astrologian",
+      "小宇宇@泰坦": "Paladin",
+      "千御@伊弗利特": "Summoner"
+    }
+  },
+  {
+    "code": "rDL6PA7v4RTjaCgb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "嘉加家架@泰坦",
+      "二月@巴哈姆特",
+      "艾拉妮亞@巴哈姆特",
+      "大雪紛飛@泰坦",
+      "奏天@巴哈姆特",
+      "秋夜an@泰坦",
+      "小宇宇@泰坦",
+      "千御@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 845093,
+    "clear_dt_ms": 1783434817853,
+    "jobs": {
+      "嘉加家架@泰坦": "Monk",
+      "二月@巴哈姆特": "Viper",
+      "艾拉妮亞@巴哈姆特": "Warrior",
+      "大雪紛飛@泰坦": "Scholar",
+      "奏天@巴哈姆特": "Bard",
+      "秋夜an@泰坦": "Astrologian",
+      "小宇宇@泰坦": "Paladin",
+      "千御@伊弗利特": "Summoner"
+    }
   }
 ]
