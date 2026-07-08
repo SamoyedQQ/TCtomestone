@@ -69930,5 +69930,61 @@
       "巴尾的熊@鳳凰": "Monk",
       "Wiee@伊弗利特": "Pictomancer"
     }
+  },
+  {
+    "code": "rnb2LBtFgT4kWX7H",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Seckil@奧汀",
+      "大自然的饋贈@伊弗利特",
+      "扁平足智蛙@利維坦",
+      "二v@迦樓羅",
+      "席德@鳳凰",
+      "阿·瓦諾@奧汀",
+      "Sixwin@伊弗利特",
+      "Bei@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1124598,
+    "clear_dt_ms": 1783529275347,
+    "jobs": {
+      "Seckil@奧汀": "Pictomancer",
+      "大自然的饋贈@伊弗利特": "Scholar",
+      "扁平足智蛙@利維坦": "Monk",
+      "二v@迦樓羅": "Astrologian",
+      "席德@鳳凰": "DarkKnight",
+      "阿·瓦諾@奧汀": "Paladin",
+      "Sixwin@伊弗利特": "Samurai",
+      "Bei@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "4yv8q193wdFA7anZ",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "舞川奈富子@奧汀",
+      "是又怎樣@奧汀",
+      "Koro@奧汀",
+      "Dukg@奧汀",
+      "Kua@奧汀",
+      "Choco@鳳凰",
+      "布丁蜜豆奶@伊弗利特",
+      "Fubuki@奧汀"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1123179,
+    "clear_dt_ms": 1783520032715,
+    "jobs": {
+      "舞川奈富子@奧汀": "Bard",
+      "是又怎樣@奧汀": "Ninja",
+      "Koro@奧汀": "Astrologian",
+      "Dukg@奧汀": "Pictomancer",
+      "Kua@奧汀": "Paladin",
+      "Choco@鳳凰": "DarkKnight",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "Fubuki@奧汀": "BlackMage"
+    }
   }
 ]
