@@ -69482,5 +69482,61 @@
       "熊貓貓@利維坦": "Pictomancer",
       "Lavid@鳳凰": "Paladin"
     }
+  },
+  {
+    "code": "Jj3tdYRzBZKnxMc7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "朝朝如念@巴哈姆特",
+      "法蘭西恩@利維坦",
+      "逢魔時王@迦樓羅",
+      "Nephj@利維坦",
+      "梅洛洛@利維坦",
+      "Desinc@奧汀",
+      "Diaulo@迦樓羅",
+      "醉花o@迦樓羅"
+    ],
+    "fight_id": 16,
+    "duration_ms": 954288,
+    "clear_dt_ms": 1783501131241,
+    "jobs": {
+      "朝朝如念@巴哈姆特": "Sage",
+      "法蘭西恩@利維坦": "Warrior",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "Nephj@利維坦": "WhiteMage",
+      "梅洛洛@利維坦": "Paladin",
+      "Desinc@奧汀": "Dragoon",
+      "Diaulo@迦樓羅": "Samurai",
+      "醉花o@迦樓羅": "Dancer"
+    }
+  },
+  {
+    "code": "Jj3tdYRzBZKnxMc7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "法蘭西恩@利維坦",
+      "朝朝如念@巴哈姆特",
+      "逢魔時王@迦樓羅",
+      "梅洛洛@利維坦",
+      "路邊一條浪浪@利維坦",
+      "菲娜神威@利維坦",
+      "Arasxi@奧汀",
+      "醉花o@迦樓羅"
+    ],
+    "fight_id": 17,
+    "duration_ms": 952897,
+    "clear_dt_ms": 1783504054030,
+    "jobs": {
+      "法蘭西恩@利維坦": "Warrior",
+      "朝朝如念@巴哈姆特": "Sage",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "梅洛洛@利維坦": "Paladin",
+      "路邊一條浪浪@利維坦": "Astrologian",
+      "菲娜神威@利維坦": "Pictomancer",
+      "Arasxi@奧汀": "Monk",
+      "醉花o@迦樓羅": "Dancer"
+    }
   }
 ]
