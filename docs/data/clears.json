@@ -69454,5 +69454,33 @@
       "小宇宇@泰坦": "Paladin",
       "千御@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "nZrca64hqLKtGFRy",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "梅吉布拉德@伊弗利特",
+      "Uiouop@迦樓羅",
+      "旮旯給木高手@伊弗利特",
+      "里宮沙繪@伊弗利特",
+      "熊貓@利維坦",
+      "亮月@迦樓羅",
+      "熊貓貓@利維坦",
+      "Lavid@鳳凰"
+    ],
+    "fight_id": 60,
+    "duration_ms": 1122567,
+    "clear_dt_ms": 1783491026677,
+    "jobs": {
+      "梅吉布拉德@伊弗利特": "Bard",
+      "Uiouop@迦樓羅": "Astrologian",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "里宮沙繪@伊弗利特": "Samurai",
+      "熊貓@利維坦": "Scholar",
+      "亮月@迦樓羅": "Ninja",
+      "熊貓貓@利維坦": "Pictomancer",
+      "Lavid@鳳凰": "Paladin"
+    }
   }
 ]
