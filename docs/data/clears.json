@@ -69762,5 +69762,173 @@
       "Hoshi星@巴哈姆特": "Astrologian",
       "果凍柴@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "gjxcrw1CnWyR4kYv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lunsix@泰坦",
+      "秣璃@泰坦",
+      "安祖卡@迦樓羅",
+      "賽伊@迦樓羅",
+      "殤魂@奧汀",
+      "赤界@鳳凰",
+      "拉哈不累阿@泰坦",
+      "欸紗@巴哈姆特"
+    ],
+    "fight_id": 16,
+    "duration_ms": 1124693,
+    "clear_dt_ms": 1783526113263,
+    "jobs": {
+      "Lunsix@泰坦": "DarkKnight",
+      "秣璃@泰坦": "Paladin",
+      "安祖卡@迦樓羅": "Samurai",
+      "賽伊@迦樓羅": "Scholar",
+      "殤魂@奧汀": "Pictomancer",
+      "赤界@鳳凰": "Dancer",
+      "拉哈不累阿@泰坦": "Reaper",
+      "欸紗@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "aBKypz3H4cfW7DYF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "羽丶@巴哈姆特",
+      "曉春日和@利維坦",
+      "Suuuzz@利維坦",
+      "Baki@伊弗利特",
+      "零殤@巴哈姆特",
+      "Leia@巴哈姆特",
+      "姑且算王者@伊弗利特",
+      "花閃閃@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 853504,
+    "clear_dt_ms": 1783519119117,
+    "jobs": {
+      "羽丶@巴哈姆特": "Dancer",
+      "曉春日和@利維坦": "Astrologian",
+      "Suuuzz@利維坦": "Paladin",
+      "Baki@伊弗利特": "Ninja",
+      "零殤@巴哈姆特": "Scholar",
+      "Leia@巴哈姆特": "Dragoon",
+      "姑且算王者@伊弗利特": "Summoner",
+      "花閃閃@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "x9P2qHmZfJMFng3K",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Sasa微微@伊弗利特",
+      "娜娜漠烏薩奇@巴哈姆特",
+      "雃@巴哈姆特",
+      "牙勒牙哩@巴哈姆特",
+      "拉麵@利維坦",
+      "愛食素蝦麵@伊弗利特",
+      "夜綾@伊弗利特",
+      "夜雨@巴哈姆特"
+    ],
+    "fight_id": 32,
+    "duration_ms": 969052,
+    "clear_dt_ms": 1783524777355,
+    "jobs": {
+      "Sasa微微@伊弗利特": "Dancer",
+      "娜娜漠烏薩奇@巴哈姆特": "Sage",
+      "雃@巴哈姆特": "Monk",
+      "牙勒牙哩@巴哈姆特": "BlackMage",
+      "拉麵@利維坦": "Gunbreaker",
+      "愛食素蝦麵@伊弗利特": "Warrior",
+      "夜綾@伊弗利特": "Dragoon",
+      "夜雨@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "CTGH7zvmnfYrAgyp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "烏薩基@利維坦",
+      "鳥@奧汀",
+      "Sarene@利維坦",
+      "風城煙雨@奧汀",
+      "Q·ming@奧汀",
+      "細粒細@奧汀",
+      "木之葉上忍逼@奧汀",
+      "奧爾菲@巴哈姆特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 977663,
+    "clear_dt_ms": 1783522033164,
+    "jobs": {
+      "烏薩基@利維坦": "Astrologian",
+      "鳥@奧汀": "Monk",
+      "Sarene@利維坦": "Paladin",
+      "風城煙雨@奧汀": "Summoner",
+      "Q·ming@奧汀": "Warrior",
+      "細粒細@奧汀": "Scholar",
+      "木之葉上忍逼@奧汀": "Dancer",
+      "奧爾菲@巴哈姆特": "Samurai"
+    }
+  },
+  {
+    "code": "QgxcmX8D6HKWbGdp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "貓餅餅@泰坦",
+      "長風序@迦樓羅",
+      "提比@奧汀",
+      "八八八@巴哈姆特",
+      "祈月@鳳凰",
+      "祈玥@鳳凰",
+      "萊特尼@鳳凰",
+      "艾文man果@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 976309,
+    "clear_dt_ms": 1783521011493,
+    "jobs": {
+      "貓餅餅@泰坦": "Paladin",
+      "長風序@迦樓羅": "Astrologian",
+      "提比@奧汀": "Warrior",
+      "八八八@巴哈姆特": "Sage",
+      "祈月@鳳凰": "Summoner",
+      "祈玥@鳳凰": "Dancer",
+      "萊特尼@鳳凰": "Samurai",
+      "艾文man果@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "PYZBD78xwmzJr2X6",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "咖咖哩@迦樓羅",
+      "烏骨雞@伊弗利特",
+      "米粉兔子@鳳凰",
+      "奶刀文文@利維坦",
+      "威力豹@利維坦",
+      "有隻鳥@迦樓羅",
+      "巴尾的熊@鳳凰",
+      "Wiee@伊弗利特"
+    ],
+    "fight_id": 103,
+    "duration_ms": 1120512,
+    "clear_dt_ms": 1783435113739,
+    "jobs": {
+      "咖咖哩@迦樓羅": "Astrologian",
+      "烏骨雞@伊弗利特": "DarkKnight",
+      "米粉兔子@鳳凰": "Scholar",
+      "奶刀文文@利維坦": "Dragoon",
+      "威力豹@利維坦": "Paladin",
+      "有隻鳥@迦樓羅": "Dancer",
+      "巴尾的熊@鳳凰": "Monk",
+      "Wiee@伊弗利特": "Pictomancer"
+    }
   }
 ]
