@@ -69706,5 +69706,61 @@
       "嘟比嘟拔@鳳凰": "Paladin",
       "栗子@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "X46fwycNRg9av2Kb",
+    "title": "絕亞 渡劫終於成功了",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "龍龍@奧汀",
+      "墨綠@鳳凰",
+      "Ukaung@迦樓羅",
+      "未來不好耶@利維坦",
+      "Ascano@伊弗利特",
+      "緹歐@奧汀",
+      "積美希@利維坦",
+      "長濱蜜璃@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 976970,
+    "clear_dt_ms": 1783516466057,
+    "jobs": {
+      "龍龍@奧汀": "WhiteMage",
+      "墨綠@鳳凰": "Paladin",
+      "Ukaung@迦樓羅": "BlackMage",
+      "未來不好耶@利維坦": "Samurai",
+      "Ascano@伊弗利特": "Dancer",
+      "緹歐@奧汀": "DarkKnight",
+      "積美希@利維坦": "Scholar",
+      "長濱蜜璃@巴哈姆特": "Monk"
+    }
+  },
+  {
+    "code": "rKL76P3VRAmWzJGC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Terami@巴哈姆特",
+      "Ouo獵火@利維坦",
+      "飛鳥r克魯茲@迦樓羅",
+      "愛亂玩的月@巴哈姆特",
+      "星alpha@泰坦",
+      "超級ㄌㄌㄎ@巴哈姆特",
+      "Hoshi星@巴哈姆特",
+      "果凍柴@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 869017,
+    "clear_dt_ms": 1783437619612,
+    "jobs": {
+      "Terami@巴哈姆特": "Paladin",
+      "Ouo獵火@利維坦": "Dancer",
+      "飛鳥r克魯茲@迦樓羅": "DarkKnight",
+      "愛亂玩的月@巴哈姆特": "Dragoon",
+      "星alpha@泰坦": "Summoner",
+      "超級ㄌㄌㄎ@巴哈姆特": "Viper",
+      "Hoshi星@巴哈姆特": "Astrologian",
+      "果凍柴@巴哈姆特": "Sage"
+    }
   }
 ]
