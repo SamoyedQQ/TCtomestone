@@ -70462,5 +70462,33 @@
       "Ascano@伊弗利特": "Dancer",
       "滌火城鋒@奧汀": "Sage"
     }
+  },
+  {
+    "code": "Xa1V4BY6mhZkfWQL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "落淚成花@利維坦",
+      "紫翼@奧汀",
+      "低調白兔@迦樓羅",
+      "Star芭@鳳凰",
+      "希哲@鳳凰",
+      "泰勒@鳳凰",
+      "沕染@泰坦",
+      "阿狼@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 879090,
+    "clear_dt_ms": 1783596553129,
+    "jobs": {
+      "落淚成花@利維坦": "Monk",
+      "紫翼@奧汀": "Summoner",
+      "低調白兔@迦樓羅": "Astrologian",
+      "Star芭@鳳凰": "Sage",
+      "希哲@鳳凰": "Paladin",
+      "泰勒@鳳凰": "RedMage",
+      "沕染@泰坦": "Warrior",
+      "阿狼@鳳凰": "Dancer"
+    }
   }
 ]
