@@ -70350,5 +70350,61 @@
       "唐吉訶德@伊弗利特": "Monk",
       "輸出型奶媽@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "XQDJBjgrPykM9WFw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "一三八@迦樓羅",
+      "異世界@利維坦",
+      "Wegone@奧汀",
+      "刷億場水晶塔@伊弗利特",
+      "一一大吉一一@奧汀",
+      "梅露彌亞@伊弗利特",
+      "Hakka@利維坦",
+      "留多@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 864579,
+    "clear_dt_ms": 1783535014993,
+    "jobs": {
+      "一三八@迦樓羅": "Scholar",
+      "異世界@利維坦": "Summoner",
+      "Wegone@奧汀": "Ninja",
+      "刷億場水晶塔@伊弗利特": "BlackMage",
+      "一一大吉一一@奧汀": "DarkKnight",
+      "梅露彌亞@伊弗利特": "Bard",
+      "Hakka@利維坦": "Paladin",
+      "留多@鳳凰": "WhiteMage"
+    }
+  },
+  {
+    "code": "XQDJBjgrPykM9WFw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "一三八@迦樓羅",
+      "異世界@利維坦",
+      "Wegone@奧汀",
+      "Cd比命還長@奧汀",
+      "一一大吉一一@奧汀",
+      "梅露彌亞@伊弗利特",
+      "留多@鳳凰",
+      "Hakka@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 882889,
+    "clear_dt_ms": 1783537770242,
+    "jobs": {
+      "一三八@迦樓羅": "Scholar",
+      "異世界@利維坦": "Summoner",
+      "Wegone@奧汀": "Ninja",
+      "Cd比命還長@奧汀": "Viper",
+      "一一大吉一一@奧汀": "DarkKnight",
+      "梅露彌亞@伊弗利特": "Bard",
+      "留多@鳳凰": "WhiteMage",
+      "Hakka@利維坦": "Paladin"
+    }
   }
 ]
