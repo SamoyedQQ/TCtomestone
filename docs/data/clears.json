@@ -70294,5 +70294,61 @@
       "祈@利維坦": "Bard",
       "小醫仙@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "bRTMBJfX9Z2hGKrq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "亞爾@伊弗利特",
+      "藥塵@利維坦",
+      "細粒杰@伊弗利特",
+      "巧克胖取@伊弗利特",
+      "史嘉蕾特@巴哈姆特",
+      "輸出型奶媽@奧汀",
+      "顧言@奧汀",
+      "拔絲麻糬@迦樓羅"
+    ],
+    "fight_id": 16,
+    "duration_ms": 860812,
+    "clear_dt_ms": 1776330551199,
+    "jobs": {
+      "亞爾@伊弗利特": "Monk",
+      "藥塵@利維坦": "Gunbreaker",
+      "細粒杰@伊弗利特": "Machinist",
+      "巧克胖取@伊弗利特": "Scholar",
+      "史嘉蕾特@巴哈姆特": "Bard",
+      "輸出型奶媽@奧汀": "Summoner",
+      "顧言@奧汀": "Warrior",
+      "拔絲麻糬@迦樓羅": "WhiteMage"
+    }
+  },
+  {
+    "code": "dGZgbkQLj3JVWw6P",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "水心沁@利維坦",
+      "Iehtan@奧汀",
+      "切糕刺客吉伊@鳳凰",
+      "Ringo@巴哈姆特",
+      "阿秩@利維坦",
+      "黑皮是隻貓@鳳凰",
+      "唐吉訶德@伊弗利特",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 17,
+    "duration_ms": 873067,
+    "clear_dt_ms": 1776435530727,
+    "jobs": {
+      "水心沁@利維坦": "Paladin",
+      "Iehtan@奧汀": "WhiteMage",
+      "切糕刺客吉伊@鳳凰": "Dancer",
+      "Ringo@巴哈姆特": "Sage",
+      "阿秩@利維坦": "Warrior",
+      "黑皮是隻貓@鳳凰": "Dragoon",
+      "唐吉訶德@伊弗利特": "Monk",
+      "輸出型奶媽@奧汀": "Summoner"
+    }
   }
 ]
