@@ -70238,5 +70238,61 @@
       "妃咲@利維坦": "Pictomancer",
       "糖醋鱈魚子@利維坦": "Dancer"
     }
+  },
+  {
+    "code": "Lb47CmTyt8JZ9Xca",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小乳子@利維坦",
+      "Cyla@利維坦",
+      "希妲菈@利維坦",
+      "千夢奈@利維坦",
+      "海鹽奶蓋@利維坦",
+      "天使@巴哈姆特",
+      "兔兔綿@利維坦",
+      "今川悠一@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 981809,
+    "clear_dt_ms": 1783522676159,
+    "jobs": {
+      "小乳子@利維坦": "Samurai",
+      "Cyla@利維坦": "DarkKnight",
+      "希妲菈@利維坦": "BlackMage",
+      "千夢奈@利維坦": "Sage",
+      "海鹽奶蓋@利維坦": "Paladin",
+      "天使@巴哈姆特": "Dancer",
+      "兔兔綿@利維坦": "Scholar",
+      "今川悠一@利維坦": "Dragoon"
+    }
+  },
+  {
+    "code": "yJrkANm6cqTZdx1Y",
+    "title": "绝境战（旧版本）",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kagrra@利維坦",
+      "沫依mooi@利維坦",
+      "貓宮水煮蛋@利維坦",
+      "白痕歐@利維坦",
+      "Sp咩咩醬@利維坦",
+      "黑噗噗@利維坦",
+      "祈@利維坦",
+      "小醫仙@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 866463,
+    "clear_dt_ms": 1783525936021,
+    "jobs": {
+      "Kagrra@利維坦": "Samurai",
+      "沫依mooi@利維坦": "Astrologian",
+      "貓宮水煮蛋@利維坦": "Paladin",
+      "白痕歐@利維坦": "Summoner",
+      "Sp咩咩醬@利維坦": "Scholar",
+      "黑噗噗@利維坦": "BlackMage",
+      "祈@利維坦": "Bard",
+      "小醫仙@利維坦": "Warrior"
+    }
   }
 ]
