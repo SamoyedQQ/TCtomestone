@@ -70798,5 +70798,61 @@
       "紫翼@奧汀": "Summoner",
       "Star芭@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "qdHZkmnVc8YDCXwF",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "老麵@鳳凰",
+      "名字還沒想@利維坦",
+      "七喜@利維坦",
+      "溫溫@利維坦",
+      "未散@利維坦",
+      "敝魚可可@巴哈姆特",
+      "Haneko@利維坦",
+      "冬苳@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1123729,
+    "clear_dt_ms": 1783617672408,
+    "jobs": {
+      "老麵@鳳凰": "Scholar",
+      "名字還沒想@利維坦": "Dragoon",
+      "七喜@利維坦": "Pictomancer",
+      "溫溫@利維坦": "WhiteMage",
+      "未散@利維坦": "DarkKnight",
+      "敝魚可可@巴哈姆特": "Paladin",
+      "Haneko@利維坦": "Dancer",
+      "冬苳@利維坦": "Samurai"
+    }
+  },
+  {
+    "code": "Rxv8rgZmXt4AJMb9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "洋月@巴哈姆特",
+      "楓焦凍@伊弗利特",
+      "Yongno@伊弗利特",
+      "嵐翼熾光@巴哈姆特",
+      "Mattyb@伊弗利特",
+      "刷億場水晶塔@伊弗利特",
+      "來億趟沙之家@伊弗利特",
+      "朝花暮暮@巴哈姆特"
+    ],
+    "fight_id": 19,
+    "duration_ms": 864921,
+    "clear_dt_ms": 1783618066785,
+    "jobs": {
+      "洋月@巴哈姆特": "Scholar",
+      "楓焦凍@伊弗利特": "Summoner",
+      "Yongno@伊弗利特": "Paladin",
+      "嵐翼熾光@巴哈姆特": "DarkKnight",
+      "Mattyb@伊弗利特": "Dragoon",
+      "刷億場水晶塔@伊弗利特": "BlackMage",
+      "來億趟沙之家@伊弗利特": "Dancer",
+      "朝花暮暮@巴哈姆特": "WhiteMage"
+    }
   }
 ]
