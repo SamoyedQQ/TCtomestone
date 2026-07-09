@@ -70406,5 +70406,61 @@
       "留多@鳳凰": "WhiteMage",
       "Hakka@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "cWtxG93zdKAVLmyr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "朝花暮暮@巴哈姆特",
+      "登出鍵不見了@迦樓羅",
+      "Hiki@伊弗利特",
+      "梧刻@迦樓羅",
+      "奶豬@伊弗利特",
+      "Darker@伊弗利特",
+      "Serin@泰坦",
+      "洋月@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 880799,
+    "clear_dt_ms": 1783589163759,
+    "jobs": {
+      "朝花暮暮@巴哈姆特": "Dancer",
+      "登出鍵不見了@迦樓羅": "Dragoon",
+      "Hiki@伊弗利特": "Astrologian",
+      "梧刻@迦樓羅": "DarkKnight",
+      "奶豬@伊弗利特": "Viper",
+      "Darker@伊弗利特": "Summoner",
+      "Serin@泰坦": "Sage",
+      "洋月@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "Zm6AtB2YNpWrn7Lc",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "虎村翔@鳳凰",
+      "Bdo水余月@鳳凰",
+      "法蘭西恩@利維坦",
+      "空澄@泰坦",
+      "Yooyu@迦樓羅",
+      "Kevin@迦樓羅",
+      "Ascano@伊弗利特",
+      "滌火城鋒@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 960744,
+    "clear_dt_ms": 1783583865986,
+    "jobs": {
+      "虎村翔@鳳凰": "Monk",
+      "Bdo水余月@鳳凰": "Paladin",
+      "法蘭西恩@利維坦": "Warrior",
+      "空澄@泰坦": "BlackMage",
+      "Yooyu@迦樓羅": "WhiteMage",
+      "Kevin@迦樓羅": "Samurai",
+      "Ascano@伊弗利特": "Dancer",
+      "滌火城鋒@奧汀": "Sage"
+    }
   }
 ]
