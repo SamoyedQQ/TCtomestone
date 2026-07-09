@@ -70490,5 +70490,33 @@
       "沕染@泰坦": "Warrior",
       "阿狼@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "fkgAZCvF6H8Ky2TB",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "未花@利維坦",
+      "標@泰坦",
+      "呆萌白@利維坦",
+      "璃津@迦樓羅",
+      "烏爾加特林@泰坦",
+      "發芽馬鈴薯@巴哈姆特",
+      "小妹@利維坦",
+      "韓立@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1114976,
+    "clear_dt_ms": 1783604497102,
+    "jobs": {
+      "未花@利維坦": "Sage",
+      "標@泰坦": "Dragoon",
+      "呆萌白@利維坦": "Pictomancer",
+      "璃津@迦樓羅": "Astrologian",
+      "烏爾加特林@泰坦": "Dancer",
+      "發芽馬鈴薯@巴哈姆特": "DarkKnight",
+      "小妹@利維坦": "Paladin",
+      "韓立@利維坦": "Ninja"
+    }
   }
 ]
