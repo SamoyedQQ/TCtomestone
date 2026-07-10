@@ -71666,5 +71666,61 @@
       "大餅餅@奧汀": "Paladin",
       "楓雪@利維坦": "Summoner"
     }
+  },
+  {
+    "code": "CDQPYmarZFTkgfAH",
+    "title": "絕亞0711",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路邊一條浪浪@利維坦",
+      "新鮮急凍魚乾@奧汀",
+      "雪地咚咚鼠@利維坦",
+      "朝朝如念@巴哈姆特",
+      "低優低優@利維坦",
+      "虎村翔@鳳凰",
+      "Koiii@巴哈姆特",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 977788,
+    "clear_dt_ms": 1783707254433,
+    "jobs": {
+      "路邊一條浪浪@利維坦": "Astrologian",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "雪地咚咚鼠@利維坦": "Warrior",
+      "朝朝如念@巴哈姆特": "Sage",
+      "低優低優@利維坦": "Dancer",
+      "虎村翔@鳳凰": "Monk",
+      "Koiii@巴哈姆特": "Paladin",
+      "逢魔時王@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "qmvZWYVtxTcjMnHb",
+    "title": "7/11 固團絕神兵過本紀錄",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "梅露彌亞@伊弗利特",
+      "刷億場水晶塔@伊弗利特",
+      "Hakka@利維坦",
+      "小p噗噗@伊弗利特",
+      "留多@鳳凰",
+      "自雲中來@利維坦",
+      "Serin@泰坦",
+      "于里昂熱@鳳凰"
+    ],
+    "fight_id": 10,
+    "duration_ms": 881158,
+    "clear_dt_ms": 1783701198866,
+    "jobs": {
+      "梅露彌亞@伊弗利特": "Bard",
+      "刷億場水晶塔@伊弗利特": "RedMage",
+      "Hakka@利維坦": "Paladin",
+      "小p噗噗@伊弗利特": "Summoner",
+      "留多@鳳凰": "WhiteMage",
+      "自雲中來@利維坦": "Gunbreaker",
+      "Serin@泰坦": "Sage",
+      "于里昂熱@鳳凰": "Ninja"
+    }
   }
 ]
