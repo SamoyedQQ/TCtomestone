@@ -71722,5 +71722,61 @@
       "Serin@泰坦": "Sage",
       "于里昂熱@鳳凰": "Ninja"
     }
+  },
+  {
+    "code": "8Wqfcn41R7Y6Mz9C",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "藏忍忍@迦樓羅",
+      "盧瑟·潘德拉@奧汀",
+      "艾達·甘乃迪@奧汀",
+      "薪水很高@奧汀",
+      "伯爵奶茶誇鬆@鳳凰",
+      "Altor@奧汀",
+      "Engner@迦樓羅",
+      "Coyeee@奧汀"
+    ],
+    "fight_id": 54,
+    "duration_ms": 888028,
+    "clear_dt_ms": 1783705615947,
+    "jobs": {
+      "藏忍忍@迦樓羅": "Monk",
+      "盧瑟·潘德拉@奧汀": "Dragoon",
+      "艾達·甘乃迪@奧汀": "Dancer",
+      "薪水很高@奧汀": "Gunbreaker",
+      "伯爵奶茶誇鬆@鳳凰": "Warrior",
+      "Altor@奧汀": "Scholar",
+      "Engner@迦樓羅": "RedMage",
+      "Coyeee@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "8Wqfcn41R7Y6Mz9C",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "藏忍忍@迦樓羅",
+      "盧瑟·潘德拉@奧汀",
+      "艾達·甘乃迪@奧汀",
+      "薪水很高@奧汀",
+      "伯爵奶茶誇鬆@鳳凰",
+      "Altor@奧汀",
+      "Engner@迦樓羅",
+      "Coyeee@奧汀"
+    ],
+    "fight_id": 60,
+    "duration_ms": 876309,
+    "clear_dt_ms": 1783711766408,
+    "jobs": {
+      "藏忍忍@迦樓羅": "Monk",
+      "盧瑟·潘德拉@奧汀": "Dragoon",
+      "艾達·甘乃迪@奧汀": "Dancer",
+      "薪水很高@奧汀": "Gunbreaker",
+      "伯爵奶茶誇鬆@鳳凰": "Warrior",
+      "Altor@奧汀": "Scholar",
+      "Engner@迦樓羅": "RedMage",
+      "Coyeee@奧汀": "WhiteMage"
+    }
   }
 ]
