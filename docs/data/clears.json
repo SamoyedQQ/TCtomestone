@@ -71386,5 +71386,145 @@
       "逢魔時王@迦樓羅": "BlackMage",
       "虎村翔@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "DhjQa8bdKM9r6Yyp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "艾文man果@迦樓羅",
+      "長風序@迦樓羅",
+      "祈月@鳳凰",
+      "提比@奧汀",
+      "八八八@巴哈姆特",
+      "祈玥@鳳凰",
+      "萊特尼@鳳凰",
+      "貓餅餅@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 973701,
+    "clear_dt_ms": 1783607531451,
+    "jobs": {
+      "艾文man果@迦樓羅": "Monk",
+      "長風序@迦樓羅": "Astrologian",
+      "祈月@鳳凰": "Summoner",
+      "提比@奧汀": "Warrior",
+      "八八八@巴哈姆特": "Sage",
+      "祈玥@鳳凰": "Dancer",
+      "萊特尼@鳳凰": "Samurai",
+      "貓餅餅@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "DhjQa8bdKM9r6Yyp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "艾文man果@迦樓羅",
+      "長風序@迦樓羅",
+      "祈月@鳳凰",
+      "提比@奧汀",
+      "八八八@巴哈姆特",
+      "祈玥@鳳凰",
+      "萊特尼@鳳凰",
+      "貓餅餅@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 968178,
+    "clear_dt_ms": 1783609351575,
+    "jobs": {
+      "艾文man果@迦樓羅": "Monk",
+      "長風序@迦樓羅": "Astrologian",
+      "祈月@鳳凰": "Summoner",
+      "提比@奧汀": "Warrior",
+      "八八八@巴哈姆特": "Sage",
+      "祈玥@鳳凰": "Dancer",
+      "萊特尼@鳳凰": "Samurai",
+      "貓餅餅@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "DhjQa8bdKM9r6Yyp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "艾文man果@迦樓羅",
+      "長風序@迦樓羅",
+      "祈月@鳳凰",
+      "提比@奧汀",
+      "八八八@巴哈姆特",
+      "祈玥@鳳凰",
+      "萊特尼@鳳凰",
+      "貓餅餅@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 966237,
+    "clear_dt_ms": 1783689659121,
+    "jobs": {
+      "艾文man果@迦樓羅": "Monk",
+      "長風序@迦樓羅": "Astrologian",
+      "祈月@鳳凰": "Summoner",
+      "提比@奧汀": "Warrior",
+      "八八八@巴哈姆特": "Sage",
+      "祈玥@鳳凰": "Dancer",
+      "萊特尼@鳳凰": "Samurai",
+      "貓餅餅@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "DhjQa8bdKM9r6Yyp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "艾文man果@迦樓羅",
+      "長風序@迦樓羅",
+      "祈月@鳳凰",
+      "提比@奧汀",
+      "八八八@巴哈姆特",
+      "祈玥@鳳凰",
+      "萊特尼@鳳凰",
+      "貓餅餅@泰坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 960495,
+    "clear_dt_ms": 1783690724337,
+    "jobs": {
+      "艾文man果@迦樓羅": "Monk",
+      "長風序@迦樓羅": "Astrologian",
+      "祈月@鳳凰": "Summoner",
+      "提比@奧汀": "Warrior",
+      "八八八@巴哈姆特": "Sage",
+      "祈玥@鳳凰": "Dancer",
+      "萊特尼@鳳凰": "Samurai",
+      "貓餅餅@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "rbWK7pgRdxLAHzC6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "落淚成花@利維坦",
+      "Star芭@鳳凰",
+      "希哲@鳳凰",
+      "泰勒@鳳凰",
+      "紫翼@奧汀",
+      "低調白兔@迦樓羅",
+      "沕染@泰坦",
+      "阿狼@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 863107,
+    "clear_dt_ms": 1783682495435,
+    "jobs": {
+      "落淚成花@利維坦": "Monk",
+      "Star芭@鳳凰": "Sage",
+      "希哲@鳳凰": "Paladin",
+      "泰勒@鳳凰": "RedMage",
+      "紫翼@奧汀": "Summoner",
+      "低調白兔@迦樓羅": "Astrologian",
+      "沕染@泰坦": "Warrior",
+      "阿狼@鳳凰": "Dancer"
+    }
   }
 ]
