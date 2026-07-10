@@ -71106,5 +71106,89 @@
       "白宣@泰坦": "Warrior",
       "夢幻o飄@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "NaFLXhwB2GRpj1gZ",
+    "title": "絕亞0710",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路邊一條浪浪@利維坦",
+      "朝朝如念@巴哈姆特",
+      "雪地咚咚鼠@利維坦",
+      "易銘@利維坦",
+      "米伊@迦樓羅",
+      "虎村翔@鳳凰",
+      "Matty@伊弗利特",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 946840,
+    "clear_dt_ms": 1783668785079,
+    "jobs": {
+      "路邊一條浪浪@利維坦": "Astrologian",
+      "朝朝如念@巴哈姆特": "Sage",
+      "雪地咚咚鼠@利維坦": "Warrior",
+      "易銘@利維坦": "Dragoon",
+      "米伊@迦樓羅": "Dancer",
+      "虎村翔@鳳凰": "Monk",
+      "Matty@伊弗利特": "Paladin",
+      "逢魔時王@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "F1YRKABghymM73fq",
+    "title": "FF14_絕亞_渡劫成功",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "雪花飄散@利維坦",
+      "大鳥哈利@利維坦",
+      "啊呀鴨@奧汀",
+      "未來不好耶@利維坦",
+      "爌肉馬鈴薯@迦樓羅",
+      "洽瓜@奧汀",
+      "烤肉冰淇淋@迦樓羅",
+      "墨綠@鳳凰"
+    ],
+    "fight_id": 11,
+    "duration_ms": 981398,
+    "clear_dt_ms": 1783668848993,
+    "jobs": {
+      "雪花飄散@利維坦": "Dragoon",
+      "大鳥哈利@利維坦": "Pictomancer",
+      "啊呀鴨@奧汀": "DarkKnight",
+      "未來不好耶@利維坦": "Samurai",
+      "爌肉馬鈴薯@迦樓羅": "Sage",
+      "洽瓜@奧汀": "WhiteMage",
+      "烤肉冰淇淋@迦樓羅": "Dancer",
+      "墨綠@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "L9ctjfVkGBRCmy4W",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墮鳶@利維坦",
+      "墨灑清河@伊弗利特",
+      "索拉肥@鳳凰",
+      "行舟浮生@利維坦",
+      "Dh@伊弗利特",
+      "韓若@伊弗利特",
+      "貓奴@伊弗利特",
+      "Yolo小威@伊弗利特"
+    ],
+    "fight_id": 45,
+    "duration_ms": 870818,
+    "clear_dt_ms": 1783667949102,
+    "jobs": {
+      "墮鳶@利維坦": "Monk",
+      "墨灑清河@伊弗利特": "Dancer",
+      "索拉肥@鳳凰": "DarkKnight",
+      "行舟浮生@利維坦": "Warrior",
+      "Dh@伊弗利特": "Dragoon",
+      "韓若@伊弗利特": "Summoner",
+      "貓奴@伊弗利特": "Scholar",
+      "Yolo小威@伊弗利特": "WhiteMage"
+    }
   }
 ]
