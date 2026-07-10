@@ -71078,5 +71078,33 @@
       "時羽@鳳凰": "Dancer",
       "咕菇固@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "bzprFjdDX3LT8Mkn",
+    "title": "Futures Rewritten",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "狼少兒@鳳凰",
+      "吐司y@奧汀",
+      "Foobar@鳳凰",
+      "歪皮@伊弗利特",
+      "太一@奧汀",
+      "魔法小靈貓@迦樓羅",
+      "白宣@泰坦",
+      "夢幻o飄@迦樓羅"
+    ],
+    "fight_id": 70,
+    "duration_ms": 1135344,
+    "clear_dt_ms": 1783369735543,
+    "jobs": {
+      "狼少兒@鳳凰": "Monk",
+      "吐司y@奧汀": "Paladin",
+      "Foobar@鳳凰": "Scholar",
+      "歪皮@伊弗利特": "Sage",
+      "太一@奧汀": "Dancer",
+      "魔法小靈貓@迦樓羅": "Pictomancer",
+      "白宣@泰坦": "Warrior",
+      "夢幻o飄@迦樓羅": "Samurai"
+    }
   }
 ]
