@@ -71526,5 +71526,33 @@
       "沕染@泰坦": "Warrior",
       "阿狼@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "qFY9DGh4VcnjNCwx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "黑之雨@巴哈姆特",
+      "Mwoya@迦樓羅",
+      "雞@伊弗利特",
+      "Gray@迦樓羅",
+      "阿飯@利維坦",
+      "Graves@伊弗利特",
+      "Oli@鳳凰",
+      "Racqn@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1123766,
+    "clear_dt_ms": 1783687170852,
+    "jobs": {
+      "黑之雨@巴哈姆特": "Scholar",
+      "Mwoya@迦樓羅": "Viper",
+      "雞@伊弗利特": "BlackMage",
+      "Gray@迦樓羅": "Monk",
+      "阿飯@利維坦": "Dancer",
+      "Graves@伊弗利特": "Paladin",
+      "Oli@鳳凰": "DarkKnight",
+      "Racqn@伊弗利特": "Astrologian"
+    }
   }
 ]
