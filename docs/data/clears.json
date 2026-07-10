@@ -71358,5 +71358,33 @@
       "朝朝如念@巴哈姆特": "Sage",
       "雪地咚咚鼠@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "TRrJx4YB7WZ2QC6F",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "雪地咚咚鼠@利維坦",
+      "思樂是一種冰@鳳凰",
+      "路邊一條浪浪@利維坦",
+      "名字隨便改@利維坦",
+      "Howai@利維坦",
+      "朝朝如念@巴哈姆特",
+      "逢魔時王@迦樓羅",
+      "虎村翔@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 977703,
+    "clear_dt_ms": 1783680287564,
+    "jobs": {
+      "雪地咚咚鼠@利維坦": "Warrior",
+      "思樂是一種冰@鳳凰": "Dancer",
+      "路邊一條浪浪@利維坦": "Astrologian",
+      "名字隨便改@利維坦": "Gunbreaker",
+      "Howai@利維坦": "Ninja",
+      "朝朝如念@巴哈姆特": "Sage",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "虎村翔@鳳凰": "Monk"
+    }
   }
 ]
