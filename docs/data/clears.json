@@ -71554,5 +71554,117 @@
       "Oli@鳳凰": "DarkKnight",
       "Racqn@伊弗利特": "Astrologian"
     }
+  },
+  {
+    "code": "2kRw6TYagvCB8tnP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "桶裝布丁@迦樓羅",
+      "凜古塔@迦樓羅",
+      "未乾@鳳凰",
+      "一三八@迦樓羅",
+      "超大食品火鍋@迦樓羅",
+      "小白@鳳凰",
+      "Chennn@迦樓羅",
+      "破狗@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 841453,
+    "clear_dt_ms": 1783705067604,
+    "jobs": {
+      "桶裝布丁@迦樓羅": "Summoner",
+      "凜古塔@迦樓羅": "Paladin",
+      "未乾@鳳凰": "Dancer",
+      "一三八@迦樓羅": "Sage",
+      "超大食品火鍋@迦樓羅": "Dragoon",
+      "小白@鳳凰": "Viper",
+      "Chennn@迦樓羅": "Astrologian",
+      "破狗@奧汀": "DarkKnight"
+    }
+  },
+  {
+    "code": "yPRdhrV93zW6B2aQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "天使之吻@迦樓羅",
+      "宅宅熊@鳳凰",
+      "佐藤龍櫻@利維坦",
+      "蜻蜓點火@伊弗利特",
+      "Yude@利維坦",
+      "Rice米米@利維坦",
+      "夜空雪冷@利維坦",
+      "貪財的寡婦@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 884856,
+    "clear_dt_ms": 1783698198386,
+    "jobs": {
+      "天使之吻@迦樓羅": "DarkKnight",
+      "宅宅熊@鳳凰": "Samurai",
+      "佐藤龍櫻@利維坦": "Summoner",
+      "蜻蜓點火@伊弗利特": "Ninja",
+      "Yude@利維坦": "Paladin",
+      "Rice米米@利維坦": "Sage",
+      "夜空雪冷@利維坦": "Astrologian",
+      "貪財的寡婦@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "j3ZFkfYHxKhAXMDP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "米t@鳳凰",
+      "歪皮@伊弗利特",
+      "七十七@巴哈姆特",
+      "星也@泰坦",
+      "扁平足智蛙@利維坦",
+      "烤月餅@奧汀",
+      "超大啾吉@泰坦",
+      "阿·瓦諾@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1144029,
+    "clear_dt_ms": 1783693953546,
+    "jobs": {
+      "米t@鳳凰": "DarkKnight",
+      "歪皮@伊弗利特": "Sage",
+      "七十七@巴哈姆特": "BlackMage",
+      "星也@泰坦": "Dragoon",
+      "扁平足智蛙@利維坦": "Scholar",
+      "烤月餅@奧汀": "Bard",
+      "超大啾吉@泰坦": "Samurai",
+      "阿·瓦諾@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "rmFbBLWxCXP4vdyg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Raven@伊弗利特",
+      "澪燁@利維坦",
+      "歐秘瑪什@迦樓羅",
+      "奶豬@伊弗利特",
+      "Buuyee@巴哈姆特",
+      "乂夜神@巴哈姆特",
+      "大餅餅@奧汀",
+      "楓雪@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 873794,
+    "clear_dt_ms": 1783688149449,
+    "jobs": {
+      "Raven@伊弗利特": "Sage",
+      "澪燁@利維坦": "Warrior",
+      "歐秘瑪什@迦樓羅": "Dancer",
+      "奶豬@伊弗利特": "Viper",
+      "Buuyee@巴哈姆特": "Astrologian",
+      "乂夜神@巴哈姆特": "Dragoon",
+      "大餅餅@奧汀": "Paladin",
+      "楓雪@利維坦": "Summoner"
+    }
   }
 ]
