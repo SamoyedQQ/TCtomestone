@@ -71190,5 +71190,173 @@
       "貓奴@伊弗利特": "Scholar",
       "Yolo小威@伊弗利特": "WhiteMage"
     }
+  },
+  {
+    "code": "BtchaKXJArM2wZ9H",
+    "title": "光暗未来绝境战",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "奶刀文文@利維坦",
+      "有隻鳥@迦樓羅",
+      "神影依@巴哈姆特",
+      "巴尾的熊@鳳凰",
+      "威力豹@利維坦",
+      "茶水@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "米粉兔子@鳳凰"
+    ],
+    "fight_id": 31,
+    "duration_ms": 1117830,
+    "clear_dt_ms": 1783675817718,
+    "jobs": {
+      "奶刀文文@利維坦": "Dragoon",
+      "有隻鳥@迦樓羅": "Dancer",
+      "神影依@巴哈姆特": "Pictomancer",
+      "巴尾的熊@鳳凰": "Samurai",
+      "威力豹@利維坦": "Paladin",
+      "茶水@迦樓羅": "Astrologian",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "米粉兔子@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "MdPnR7vF31K4mQpk",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "葉肥ouo@奧汀",
+      "大肌補師@奧汀",
+      "殤魂@奧汀",
+      "Arasxi@奧汀",
+      "蛋捲不捲@利維坦",
+      "冬瓜瓜@鳳凰",
+      "小夢幻@奧汀",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121541,
+    "clear_dt_ms": 1783675003964,
+    "jobs": {
+      "葉肥ouo@奧汀": "Dancer",
+      "大肌補師@奧汀": "Monk",
+      "殤魂@奧汀": "Pictomancer",
+      "Arasxi@奧汀": "Samurai",
+      "蛋捲不捲@利維坦": "Warrior",
+      "冬瓜瓜@鳳凰": "Gunbreaker",
+      "小夢幻@奧汀": "Sage",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "TtFfN92gVrCKvHcn",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ryou@利維坦",
+      "安安的素描本@巴哈姆特",
+      "Oscar@巴哈姆特",
+      "Ennie@利維坦",
+      "雪莉的放大鏡@巴哈姆特",
+      "慎真@利維坦",
+      "魙千歲@利維坦",
+      "艾瑪的炙燒瓶@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 922056,
+    "clear_dt_ms": 1783671308638,
+    "jobs": {
+      "Ryou@利維坦": "Astrologian",
+      "安安的素描本@巴哈姆特": "Pictomancer",
+      "Oscar@巴哈姆特": "BlackMage",
+      "Ennie@利維坦": "Paladin",
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "慎真@利維坦": "Monk",
+      "魙千歲@利維坦": "DarkKnight",
+      "艾瑪的炙燒瓶@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "TtFfN92gVrCKvHcn",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ryou@利維坦",
+      "安安的素描本@巴哈姆特",
+      "Oscar@巴哈姆特",
+      "Ennie@利維坦",
+      "雪莉的放大鏡@巴哈姆特",
+      "慎真@利維坦",
+      "魙千歲@利維坦",
+      "艾瑪的炙燒瓶@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 942670,
+    "clear_dt_ms": 1783673096073,
+    "jobs": {
+      "Ryou@利維坦": "Astrologian",
+      "安安的素描本@巴哈姆特": "Pictomancer",
+      "Oscar@巴哈姆特": "BlackMage",
+      "Ennie@利維坦": "Paladin",
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "慎真@利維坦": "Monk",
+      "魙千歲@利維坦": "DarkKnight",
+      "艾瑪的炙燒瓶@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "TtFfN92gVrCKvHcn",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ryou@利維坦",
+      "安安的素描本@巴哈姆特",
+      "Oscar@巴哈姆特",
+      "Ennie@利維坦",
+      "雪莉的放大鏡@巴哈姆特",
+      "慎真@利維坦",
+      "魙千歲@利維坦",
+      "艾瑪的炙燒瓶@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 948772,
+    "clear_dt_ms": 1783674652395,
+    "jobs": {
+      "Ryou@利維坦": "Astrologian",
+      "安安的素描本@巴哈姆特": "Pictomancer",
+      "Oscar@巴哈姆特": "BlackMage",
+      "Ennie@利維坦": "Paladin",
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "慎真@利維坦": "Monk",
+      "魙千歲@利維坦": "DarkKnight",
+      "艾瑪的炙燒瓶@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "pnyJaNXt4PdqHgfz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "易銘@利維坦",
+      "Matty@伊弗利特",
+      "逢魔時王@迦樓羅",
+      "虎村翔@鳳凰",
+      "路邊一條浪浪@利維坦",
+      "米伊@迦樓羅",
+      "朝朝如念@巴哈姆特",
+      "雪地咚咚鼠@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 950224,
+    "clear_dt_ms": 1783667205981,
+    "jobs": {
+      "易銘@利維坦": "Dragoon",
+      "Matty@伊弗利特": "Paladin",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "虎村翔@鳳凰": "Monk",
+      "路邊一條浪浪@利維坦": "Astrologian",
+      "米伊@迦樓羅": "Dancer",
+      "朝朝如念@巴哈姆特": "Sage",
+      "雪地咚咚鼠@利維坦": "Warrior"
+    }
   }
 ]
