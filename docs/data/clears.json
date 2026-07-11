@@ -72086,5 +72086,33 @@
       "法蘭西恩@利維坦": "Warrior",
       "虎村翔@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "fcjGBAhqLJrkDtT4",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "給你錢快點做@鳳凰",
+      "愛跌倒的吐籽@利維坦",
+      "阿大姆@迦樓羅",
+      "香蕉大濕@伊弗利特",
+      "九五二七@利維坦",
+      "時莯@利維坦",
+      "深雪烏冬@鳳凰",
+      "煞@迦樓羅"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1122976,
+    "clear_dt_ms": 1783771796860,
+    "jobs": {
+      "給你錢快點做@鳳凰": "Gunbreaker",
+      "愛跌倒的吐籽@利維坦": "Scholar",
+      "阿大姆@迦樓羅": "Dancer",
+      "香蕉大濕@伊弗利特": "Ninja",
+      "九五二七@利維坦": "Pictomancer",
+      "時莯@利維坦": "Astrologian",
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "煞@迦樓羅": "Dragoon"
+    }
   }
 ]
