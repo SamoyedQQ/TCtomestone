@@ -71834,5 +71834,61 @@
       "紅點點@鳳凰": "Summoner",
       "Kotori@伊弗利特": "WhiteMage"
     }
+  },
+  {
+    "code": "Z49Q1nwVa7KF6bcR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "紫翼@奧汀",
+      "希哲@鳳凰",
+      "Star芭@鳳凰",
+      "阿狼@鳳凰",
+      "泰勒@鳳凰",
+      "沕染@泰坦",
+      "低調白兔@迦樓羅",
+      "落淚成花@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 875752,
+    "clear_dt_ms": 1783752861863,
+    "jobs": {
+      "紫翼@奧汀": "Summoner",
+      "希哲@鳳凰": "Paladin",
+      "Star芭@鳳凰": "Sage",
+      "阿狼@鳳凰": "Dancer",
+      "泰勒@鳳凰": "RedMage",
+      "沕染@泰坦": "Warrior",
+      "低調白兔@迦樓羅": "Astrologian",
+      "落淚成花@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "Z49Q1nwVa7KF6bcR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "紫翼@奧汀",
+      "希哲@鳳凰",
+      "Star芭@鳳凰",
+      "阿狼@鳳凰",
+      "泰勒@鳳凰",
+      "沕染@泰坦",
+      "低調白兔@迦樓羅",
+      "落淚成花@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 851862,
+    "clear_dt_ms": 1783754311575,
+    "jobs": {
+      "紫翼@奧汀": "Summoner",
+      "希哲@鳳凰": "Paladin",
+      "Star芭@鳳凰": "Sage",
+      "阿狼@鳳凰": "Dancer",
+      "泰勒@鳳凰": "RedMage",
+      "沕染@泰坦": "Warrior",
+      "低調白兔@迦樓羅": "Astrologian",
+      "落淚成花@利維坦": "Monk"
+    }
   }
 ]
