@@ -71778,5 +71778,33 @@
       "Engner@迦樓羅": "RedMage",
       "Coyeee@奧汀": "WhiteMage"
     }
+  },
+  {
+    "code": "Gx7fyMQahZCJ839T",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "哈利owo@奧汀",
+      "Kapa@伊弗利特",
+      "阿吉美眉@巴哈姆特",
+      "不可@鳳凰",
+      "炒蛋@伊弗利特",
+      "霸總哥布林@巴哈姆特",
+      "小男娘@鳳凰",
+      "美蒂森@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1133119,
+    "clear_dt_ms": 1783688372188,
+    "jobs": {
+      "哈利owo@奧汀": "Dragoon",
+      "Kapa@伊弗利特": "WhiteMage",
+      "阿吉美眉@巴哈姆特": "Paladin",
+      "不可@鳳凰": "Monk",
+      "炒蛋@伊弗利特": "DarkKnight",
+      "霸總哥布林@巴哈姆特": "BlackMage",
+      "小男娘@鳳凰": "Scholar",
+      "美蒂森@泰坦": "Dancer"
+    }
   }
 ]
