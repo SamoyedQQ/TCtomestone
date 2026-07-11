@@ -71806,5 +71806,33 @@
       "小男娘@鳳凰": "Scholar",
       "美蒂森@泰坦": "Dancer"
     }
+  },
+  {
+    "code": "tyWYPgjQrvMJhNVf",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Wegone@奧汀",
+      "Cd比命還長@奧汀",
+      "一一大吉一一@奧汀",
+      "傲羽@泰坦",
+      "Haein@迦樓羅",
+      "Nailia@奧汀",
+      "紅點點@鳳凰",
+      "Kotori@伊弗利特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 871509,
+    "clear_dt_ms": 1783713483963,
+    "jobs": {
+      "Wegone@奧汀": "Ninja",
+      "Cd比命還長@奧汀": "Viper",
+      "一一大吉一一@奧汀": "Paladin",
+      "傲羽@泰坦": "Sage",
+      "Haein@迦樓羅": "Warrior",
+      "Nailia@奧汀": "Dancer",
+      "紅點點@鳳凰": "Summoner",
+      "Kotori@伊弗利特": "WhiteMage"
+    }
   }
 ]
