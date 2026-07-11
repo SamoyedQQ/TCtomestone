@@ -72114,5 +72114,61 @@
       "深雪烏冬@鳳凰": "DarkKnight",
       "煞@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "hMc8YA4XGkKxHPQT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "烏薩基@利維坦",
+      "風城煙雨@奧汀",
+      "Sarene@利維坦",
+      "木之葉上忍逼@奧汀",
+      "Q·ming@奧汀",
+      "Kito@奧汀",
+      "細粒細@奧汀",
+      "鳥@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 962587,
+    "clear_dt_ms": 1783778105837,
+    "jobs": {
+      "烏薩基@利維坦": "Astrologian",
+      "風城煙雨@奧汀": "Summoner",
+      "Sarene@利維坦": "Paladin",
+      "木之葉上忍逼@奧汀": "Dancer",
+      "Q·ming@奧汀": "Warrior",
+      "Kito@奧汀": "Samurai",
+      "細粒細@奧汀": "Scholar",
+      "鳥@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "hMc8YA4XGkKxHPQT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "烏薩基@利維坦",
+      "風城煙雨@奧汀",
+      "Sarene@利維坦",
+      "木之葉上忍逼@奧汀",
+      "Q·ming@奧汀",
+      "Kito@奧汀",
+      "細粒細@奧汀",
+      "鳥@奧汀"
+    ],
+    "fight_id": 13,
+    "duration_ms": 974138,
+    "clear_dt_ms": 1783782320829,
+    "jobs": {
+      "烏薩基@利維坦": "Astrologian",
+      "風城煙雨@奧汀": "Summoner",
+      "Sarene@利維坦": "Paladin",
+      "木之葉上忍逼@奧汀": "Dancer",
+      "Q·ming@奧汀": "Warrior",
+      "Kito@奧汀": "Samurai",
+      "細粒細@奧汀": "Scholar",
+      "鳥@奧汀": "Monk"
+    }
   }
 ]
