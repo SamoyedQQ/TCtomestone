@@ -72058,5 +72058,33 @@
       "萊特尼@鳳凰": "Samurai",
       "貓餅餅@泰坦": "Paladin"
     }
+  },
+  {
+    "code": "Bkx9WDPmwnAvzy7Q",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路邊一條浪浪@利維坦",
+      "Yooyu@迦樓羅",
+      "逢魔時王@迦樓羅",
+      "Kevin@迦樓羅",
+      "默默momo@泰坦",
+      "Bdo水余月@鳳凰",
+      "法蘭西恩@利維坦",
+      "虎村翔@鳳凰"
+    ],
+    "fight_id": 24,
+    "duration_ms": 970030,
+    "clear_dt_ms": 1783764791391,
+    "jobs": {
+      "路邊一條浪浪@利維坦": "Sage",
+      "Yooyu@迦樓羅": "WhiteMage",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "Kevin@迦樓羅": "Samurai",
+      "默默momo@泰坦": "Dancer",
+      "Bdo水余月@鳳凰": "Paladin",
+      "法蘭西恩@利維坦": "Warrior",
+      "虎村翔@鳳凰": "Monk"
+    }
   }
 ]
