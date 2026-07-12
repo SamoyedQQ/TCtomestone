@@ -72674,5 +72674,61 @@
       "黎森@伊弗利特": "Sage",
       "哀鴉@伊弗利特": "WhiteMage"
     }
+  },
+  {
+    "code": "xLnathFXBzR3yDCb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蜜蜜柑·蜜柑@利維坦",
+      "路邊一條浪浪@利維坦",
+      "Ascano@伊弗利特",
+      "新鮮急凍魚乾@奧汀",
+      "虎村翔@鳳凰",
+      "雪地咚咚鼠@利維坦",
+      "逢魔時王@迦樓羅",
+      "米米米喔@泰坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 990110,
+    "clear_dt_ms": 1783875780222,
+    "jobs": {
+      "蜜蜜柑·蜜柑@利維坦": "WhiteMage",
+      "路邊一條浪浪@利維坦": "Paladin",
+      "Ascano@伊弗利特": "Dancer",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "虎村翔@鳳凰": "Monk",
+      "雪地咚咚鼠@利維坦": "Warrior",
+      "逢魔時王@迦樓羅": "BlackMage",
+      "米米米喔@泰坦": "Sage"
+    }
+  },
+  {
+    "code": "4XW9A2PBcpbymK1G",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "汰@迦樓羅",
+      "刷億場水晶塔@伊弗利特",
+      "煙花易冷@伊弗利特",
+      "Chima@伊弗利特",
+      "白藍樂事人@巴哈姆特",
+      "棠黎@伊弗利特",
+      "美蕩甲昏@伊弗利特",
+      "小p噗噗@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 858685,
+    "clear_dt_ms": 1783873670506,
+    "jobs": {
+      "汰@迦樓羅": "Scholar",
+      "刷億場水晶塔@伊弗利特": "BlackMage",
+      "煙花易冷@伊弗利特": "Paladin",
+      "Chima@伊弗利特": "Dancer",
+      "白藍樂事人@巴哈姆特": "Warrior",
+      "棠黎@伊弗利特": "Astrologian",
+      "美蕩甲昏@伊弗利特": "Viper",
+      "小p噗噗@伊弗利特": "Summoner"
+    }
   }
 ]
