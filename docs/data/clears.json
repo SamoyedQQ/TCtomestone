@@ -72590,5 +72590,89 @@
       "新鮮急凍魚乾@奧汀": "Samurai",
       "朝朝如念@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "1R8r3dFxDTMcwK6b",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "結印明日奈@利維坦",
+      "明日的希望@迦樓羅",
+      "Jacy@伊弗利特",
+      "餵皮皮蝦花生@鳳凰",
+      "Benny@奧汀",
+      "崩落之旅人@利維坦",
+      "Wenwen@伊弗利特",
+      "成分不含水母@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1127298,
+    "clear_dt_ms": 1783870888183,
+    "jobs": {
+      "結印明日奈@利維坦": "Ninja",
+      "明日的希望@迦樓羅": "Bard",
+      "Jacy@伊弗利特": "Paladin",
+      "餵皮皮蝦花生@鳳凰": "Gunbreaker",
+      "Benny@奧汀": "Dragoon",
+      "崩落之旅人@利維坦": "Scholar",
+      "Wenwen@伊弗利特": "Astrologian",
+      "成分不含水母@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "xtk9YcwCymGVpqPd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "赫雨娜希恩@迦樓羅",
+      "緹歐@奧汀",
+      "Angoo@奧汀",
+      "杜麗莎@奧汀",
+      "夏目悠希@巴哈姆特",
+      "Sealoo@伊弗利特",
+      "血豆@利維坦",
+      "沙龍怕鼠@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 998408,
+    "clear_dt_ms": 1783837487740,
+    "jobs": {
+      "赫雨娜希恩@迦樓羅": "BlackMage",
+      "緹歐@奧汀": "DarkKnight",
+      "Angoo@奧汀": "Monk",
+      "杜麗莎@奧汀": "Dancer",
+      "夏目悠希@巴哈姆特": "WhiteMage",
+      "Sealoo@伊弗利特": "Sage",
+      "血豆@利維坦": "Pictomancer",
+      "沙龍怕鼠@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "n8TB3V6kCr9LzAcY",
+    "title": "0712",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "可樂米可多@伊弗利特",
+      "Cybers@伊弗利特",
+      "楓緒@伊弗利特",
+      "予梨川@伊弗利特",
+      "鴿子@伊弗利特",
+      "Fufuta@伊弗利特",
+      "黎森@伊弗利特",
+      "哀鴉@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 888099,
+    "clear_dt_ms": 1783869996932,
+    "jobs": {
+      "可樂米可多@伊弗利特": "Dragoon",
+      "Cybers@伊弗利特": "RedMage",
+      "楓緒@伊弗利特": "Summoner",
+      "予梨川@伊弗利特": "Warrior",
+      "鴿子@伊弗利特": "Paladin",
+      "Fufuta@伊弗利特": "Dancer",
+      "黎森@伊弗利特": "Sage",
+      "哀鴉@伊弗利特": "WhiteMage"
+    }
   }
 ]
