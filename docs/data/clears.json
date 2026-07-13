@@ -73094,5 +73094,33 @@
       "下限無底@迦樓羅": "Paladin",
       "一之瀨凜香@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "WgwRhAZ28Hznf3Tq",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "手殘大叔@鳳凰",
+      "豆花三十塊@巴哈姆特",
+      "穎嵐@利維坦",
+      "法蘭克·西@伊弗利特",
+      "電子幽靈@奧汀",
+      "黑虧@利維坦",
+      "兔耳護唇膏@鳳凰",
+      "將吾@鳳凰"
+    ],
+    "fight_id": 32,
+    "duration_ms": 1122851,
+    "clear_dt_ms": 1783974241309,
+    "jobs": {
+      "手殘大叔@鳳凰": "Pictomancer",
+      "豆花三十塊@巴哈姆特": "Monk",
+      "穎嵐@利維坦": "Paladin",
+      "法蘭克·西@伊弗利特": "Bard",
+      "電子幽靈@奧汀": "Dragoon",
+      "黑虧@利維坦": "DarkKnight",
+      "兔耳護唇膏@鳳凰": "Scholar",
+      "將吾@鳳凰": "Astrologian"
+    }
   }
 ]
