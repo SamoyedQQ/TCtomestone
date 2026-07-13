@@ -73038,5 +73038,61 @@
       "筱楓a黑兔@迦樓羅": "Sage",
       "Sellyy@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "TPxtWmLCkGNQvVBq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Hitomi@伊弗利特",
+      "Anigte@鳳凰",
+      "淺藍@奧汀",
+      "毛頭不對勁@鳳凰",
+      "Spky碎月@鳳凰",
+      "芒果冰沙去冰@泰坦",
+      "不甘doro@泰坦",
+      "水悠浮雲@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 979659,
+    "clear_dt_ms": 1783956234499,
+    "jobs": {
+      "Hitomi@伊弗利特": "BlackMage",
+      "Anigte@鳳凰": "Sage",
+      "淺藍@奧汀": "Ninja",
+      "毛頭不對勁@鳳凰": "Warrior",
+      "Spky碎月@鳳凰": "Monk",
+      "芒果冰沙去冰@泰坦": "WhiteMage",
+      "不甘doro@泰坦": "Gunbreaker",
+      "水悠浮雲@鳳凰": "Dancer"
+    }
+  },
+  {
+    "code": "ypz9RCkVcHnhBf4D",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "莉露@迦樓羅",
+      "小呆瓜@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "拿豆腐丟你喔@迦樓羅",
+      "披口醬@迦樓羅",
+      "Ao@迦樓羅",
+      "下限無底@迦樓羅",
+      "一之瀨凜香@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1018914,
+    "clear_dt_ms": 1783953465025,
+    "jobs": {
+      "莉露@迦樓羅": "Sage",
+      "小呆瓜@迦樓羅": "Monk",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "拿豆腐丟你喔@迦樓羅": "Warrior",
+      "披口醬@迦樓羅": "Summoner",
+      "Ao@迦樓羅": "Machinist",
+      "下限無底@迦樓羅": "Paladin",
+      "一之瀨凜香@迦樓羅": "Scholar"
+    }
   }
 ]
