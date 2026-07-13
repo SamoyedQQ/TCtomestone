@@ -72898,5 +72898,33 @@
       "不要吵@利維坦": "Dragoon",
       "努努露@伊弗利特": "Samurai"
     }
+  },
+  {
+    "code": "mHCjGNqXcfYb2RkK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "柯基犬@奧汀",
+      "欸紗@巴哈姆特",
+      "新鮮急凍魚乾@奧汀",
+      "Chennn@迦樓羅",
+      "小p噗噗@伊弗利特",
+      "草peko虐@利維坦",
+      "一一大吉一一@奧汀",
+      "Serin@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 879366,
+    "clear_dt_ms": 1783931589854,
+    "jobs": {
+      "柯基犬@奧汀": "Paladin",
+      "欸紗@巴哈姆特": "Astrologian",
+      "新鮮急凍魚乾@奧汀": "Viper",
+      "Chennn@迦樓羅": "Ninja",
+      "小p噗噗@伊弗利特": "Summoner",
+      "草peko虐@利維坦": "Dancer",
+      "一一大吉一一@奧汀": "Warrior",
+      "Serin@泰坦": "Sage"
+    }
   }
 ]
