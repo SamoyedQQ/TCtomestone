@@ -72842,5 +72842,61 @@
       "稻荷小狐@鳳凰": "Dancer",
       "黑貴賓@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "pVDqtjMJLgdRCbWw",
+    "title": "絕亞 從入門到狗都不去",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "茶里@利維坦",
+      "雪花飄散@利維坦",
+      "墨綠@鳳凰",
+      "烤肉冰淇淋@迦樓羅",
+      "未來不好耶@利維坦",
+      "熙瑪@利維坦",
+      "祈喵兮兮@利維坦",
+      "克羅賽@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 959890,
+    "clear_dt_ms": 1783863043438,
+    "jobs": {
+      "茶里@利維坦": "Astrologian",
+      "雪花飄散@利維坦": "Dragoon",
+      "墨綠@鳳凰": "Paladin",
+      "烤肉冰淇淋@迦樓羅": "Dancer",
+      "未來不好耶@利維坦": "Samurai",
+      "熙瑪@利維坦": "Sage",
+      "祈喵兮兮@利維坦": "DarkKnight",
+      "克羅賽@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "fvb1RjHw69q8GdDK",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "時光圖騰@奧汀",
+      "肉肉肉肉肉@利維坦",
+      "燎@巴哈姆特",
+      "友利奈緒@伊弗利特",
+      "卡道鷹@迦樓羅",
+      "Xeno@伊弗利特",
+      "不要吵@利維坦",
+      "努努露@伊弗利特"
+    ],
+    "fight_id": 26,
+    "duration_ms": 1120627,
+    "clear_dt_ms": 1783871427239,
+    "jobs": {
+      "時光圖騰@奧汀": "Paladin",
+      "肉肉肉肉肉@利維坦": "DarkKnight",
+      "燎@巴哈姆特": "Dancer",
+      "友利奈緒@伊弗利特": "Pictomancer",
+      "卡道鷹@迦樓羅": "Sage",
+      "Xeno@伊弗利特": "Astrologian",
+      "不要吵@利維坦": "Dragoon",
+      "努努露@伊弗利特": "Samurai"
+    }
   }
 ]
