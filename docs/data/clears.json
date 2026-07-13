@@ -73010,5 +73010,33 @@
       "Ruby醬@奧汀": "Scholar",
       "姆紀嘟@泰坦": "WhiteMage"
     }
+  },
+  {
+    "code": "M3nxcKyFYWhrZ4pJ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Yamimi@迦樓羅",
+      "伊醉月@鳳凰",
+      "Rara@迦樓羅",
+      "Arting@迦樓羅",
+      "赫斯媞雅@迦樓羅",
+      "極光@迦樓羅",
+      "筱楓a黑兔@迦樓羅",
+      "Sellyy@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1123892,
+    "clear_dt_ms": 1783953822189,
+    "jobs": {
+      "Yamimi@迦樓羅": "Monk",
+      "伊醉月@鳳凰": "WhiteMage",
+      "Rara@迦樓羅": "Ninja",
+      "Arting@迦樓羅": "DarkKnight",
+      "赫斯媞雅@迦樓羅": "Pictomancer",
+      "極光@迦樓羅": "Paladin",
+      "筱楓a黑兔@迦樓羅": "Sage",
+      "Sellyy@迦樓羅": "Dancer"
+    }
   }
 ]
