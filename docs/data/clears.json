@@ -74354,5 +74354,33 @@
       "琶舞@迦樓羅": "Pictomancer",
       "索拉維爾@巴哈姆特": "Warrior"
     }
+  },
+  {
+    "code": "L1gwtzYPqMbkpTJ8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Mephis@伊弗利特",
+      "土豆泥子@伊弗利特",
+      "沙帝斯@利維坦",
+      "柯基犬@奧汀",
+      "二階堂希蘿@巴哈姆特",
+      "天空藍毅@巴哈姆特",
+      "Hua'花@伊弗利特",
+      "Reveur@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 864994,
+    "clear_dt_ms": 1784135384062,
+    "jobs": {
+      "Mephis@伊弗利特": "WhiteMage",
+      "土豆泥子@伊弗利特": "Ninja",
+      "沙帝斯@利維坦": "Monk",
+      "柯基犬@奧汀": "Paladin",
+      "二階堂希蘿@巴哈姆特": "Summoner",
+      "天空藍毅@巴哈姆特": "Warrior",
+      "Hua'花@伊弗利特": "Dancer",
+      "Reveur@伊弗利特": "Sage"
+    }
   }
 ]
