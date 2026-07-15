@@ -73878,5 +73878,89 @@
       "百龍院沙加@泰坦": "DarkKnight",
       "天宮凜@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "fydqALmBJGKD6xkH",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小新手@利維坦",
+      "小維@鳳凰",
+      "蛋捲不捲@利維坦",
+      "Edsel@伊弗利特",
+      "洗讚小鴨鴨@伊弗利特",
+      "這檸檬酸掉了@伊弗利特",
+      "陌夜語月@利維坦",
+      "Memory@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1118167,
+    "clear_dt_ms": 1784033109443,
+    "jobs": {
+      "小新手@利維坦": "Paladin",
+      "小維@鳳凰": "Astrologian",
+      "蛋捲不捲@利維坦": "Warrior",
+      "Edsel@伊弗利特": "Monk",
+      "洗讚小鴨鴨@伊弗利特": "Bard",
+      "這檸檬酸掉了@伊弗利特": "Scholar",
+      "陌夜語月@利維坦": "Samurai",
+      "Memory@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "mAdCPnGhXM8yJ31b",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "每日路過@鳳凰",
+      "凱茜太魯閣@鳳凰",
+      "大雪紛飛@泰坦",
+      "草peko虐@利維坦",
+      "Ix整點薯條@鳳凰",
+      "Peca@伊弗利特",
+      "Kuli@奧汀",
+      "橋本懷奈@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 888733,
+    "clear_dt_ms": 1784099134981,
+    "jobs": {
+      "每日路過@鳳凰": "Bard",
+      "凱茜太魯閣@鳳凰": "Ninja",
+      "大雪紛飛@泰坦": "WhiteMage",
+      "草peko虐@利維坦": "BlackMage",
+      "Ix整點薯條@鳳凰": "Summoner",
+      "Peca@伊弗利特": "Warrior",
+      "Kuli@奧汀": "Scholar",
+      "橋本懷奈@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "CFPnHwgJypBYTfmc",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "山田蘇蘇@鳳凰",
+      "Kotori@伊弗利特",
+      "布魯梅克@泰坦",
+      "Chima@伊弗利特",
+      "鉄鎧·陸肆式@迦樓羅",
+      "天雨@泰坦",
+      "天宮凜@鳳凰",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 862006,
+    "clear_dt_ms": 1784047569547,
+    "jobs": {
+      "山田蘇蘇@鳳凰": "Dragoon",
+      "Kotori@伊弗利特": "WhiteMage",
+      "布魯梅克@泰坦": "Gunbreaker",
+      "Chima@伊弗利特": "Dancer",
+      "鉄鎧·陸肆式@迦樓羅": "RedMage",
+      "天雨@泰坦": "BlackMage",
+      "天宮凜@鳳凰": "Sage",
+      "三角初音@伊弗利特": "Warrior"
+    }
   }
 ]
