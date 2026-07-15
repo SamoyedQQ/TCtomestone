@@ -73962,5 +73962,33 @@
       "天宮凜@鳳凰": "Sage",
       "三角初音@伊弗利特": "Warrior"
     }
+  },
+  {
+    "code": "zRx1A6tVyLTaMJK4",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lunsix@泰坦",
+      "舉舉@利維坦",
+      "欸紗@巴哈姆特",
+      "赫斯媞雅@迦樓羅",
+      "Ix整點薯條@鳳凰",
+      "灛@奧汀",
+      "神羽@巴哈姆特",
+      "未花@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1123321,
+    "clear_dt_ms": 1784113279367,
+    "jobs": {
+      "Lunsix@泰坦": "DarkKnight",
+      "舉舉@利維坦": "Dancer",
+      "欸紗@巴哈姆特": "Astrologian",
+      "赫斯媞雅@迦樓羅": "Pictomancer",
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "灛@奧汀": "Reaper",
+      "神羽@巴哈姆特": "Paladin",
+      "未花@利維坦": "Sage"
+    }
   }
 ]
