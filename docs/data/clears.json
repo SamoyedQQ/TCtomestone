@@ -73990,5 +73990,117 @@
       "神羽@巴哈姆特": "Paladin",
       "未花@利維坦": "Sage"
     }
+  },
+  {
+    "code": "hxR2Qy3tGJPNVafA",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "結印明日奈@利維坦",
+      "舉舉@利維坦",
+      "不要吵@利維坦",
+      "骨折@利維坦",
+      "我不是洗ㄅㄚ@利維坦",
+      "星宿及月@迦樓羅",
+      "米奈娃@奧汀",
+      "烏爾加特林@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1121426,
+    "clear_dt_ms": 1784121321619,
+    "jobs": {
+      "結印明日奈@利維坦": "Ninja",
+      "舉舉@利維坦": "BlackMage",
+      "不要吵@利維坦": "Dragoon",
+      "骨折@利維坦": "Paladin",
+      "我不是洗ㄅㄚ@利維坦": "Scholar",
+      "星宿及月@迦樓羅": "Astrologian",
+      "米奈娃@奧汀": "DarkKnight",
+      "烏爾加特林@泰坦": "Dancer"
+    }
+  },
+  {
+    "code": "G4CRDp9BdPh6qnfT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "弗雷克托@巴哈姆特",
+      "里宮沙繪@伊弗利特",
+      "小維@鳳凰",
+      "Lunsix@泰坦",
+      "是又怎樣@奧汀",
+      "Berry@伊弗利特",
+      "Aqrsky@伊弗利特",
+      "殤魂@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1120996,
+    "clear_dt_ms": 1784120591100,
+    "jobs": {
+      "弗雷克托@巴哈姆特": "Scholar",
+      "里宮沙繪@伊弗利特": "Samurai",
+      "小維@鳳凰": "Astrologian",
+      "Lunsix@泰坦": "DarkKnight",
+      "是又怎樣@奧汀": "Ninja",
+      "Berry@伊弗利特": "Paladin",
+      "Aqrsky@伊弗利特": "Dancer",
+      "殤魂@奧汀": "Pictomancer"
+    }
+  },
+  {
+    "code": "28CgmkQAvdx3jc7b",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kuli@奧汀",
+      "正義的兔腿@奧汀",
+      "荔香花烏龍@奧汀",
+      "粉紅色阿翔@奧汀",
+      "罪惡的肉球@奧汀",
+      "Liyang@利維坦",
+      "Jokerr@奧汀",
+      "海獺小偷@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 885747,
+    "clear_dt_ms": 1784123872222,
+    "jobs": {
+      "Kuli@奧汀": "Scholar",
+      "正義的兔腿@奧汀": "Summoner",
+      "荔香花烏龍@奧汀": "Paladin",
+      "粉紅色阿翔@奧汀": "Astrologian",
+      "罪惡的肉球@奧汀": "Dancer",
+      "Liyang@利維坦": "Ninja",
+      "Jokerr@奧汀": "RedMage",
+      "海獺小偷@奧汀": "DarkKnight"
+    }
+  },
+  {
+    "code": "yv1JntdGVPRqCrFm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "正義的兔腿@奧汀",
+      "關洛因@泰坦",
+      "荔香花烏龍@奧汀",
+      "Jokerr@奧汀",
+      "罪惡的肉球@奧汀",
+      "粉紅色阿翔@奧汀",
+      "海獺小偷@奧汀",
+      "Kuli@奧汀"
+    ],
+    "fight_id": 23,
+    "duration_ms": 895067,
+    "clear_dt_ms": 1784120430580,
+    "jobs": {
+      "正義的兔腿@奧汀": "Summoner",
+      "關洛因@泰坦": "Ninja",
+      "荔香花烏龍@奧汀": "Paladin",
+      "Jokerr@奧汀": "RedMage",
+      "罪惡的肉球@奧汀": "Dancer",
+      "粉紅色阿翔@奧汀": "Astrologian",
+      "海獺小偷@奧汀": "DarkKnight",
+      "Kuli@奧汀": "Scholar"
+    }
   }
 ]
