@@ -74382,5 +74382,33 @@
       "Hua'花@伊弗利特": "Dancer",
       "Reveur@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "6kWRpQwyGPrtKafA",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "李托李@奧汀",
+      "熊貓@利維坦",
+      "Mikka@利維坦",
+      "Nanc楠析@利維坦",
+      "Iriss@利維坦",
+      "Fazzer@泰坦",
+      "Las@利維坦",
+      "Rbing@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1120965,
+    "clear_dt_ms": 1783525345139,
+    "jobs": {
+      "李托李@奧汀": "Pictomancer",
+      "熊貓@利維坦": "Astrologian",
+      "Mikka@利維坦": "Scholar",
+      "Nanc楠析@利維坦": "Dragoon",
+      "Iriss@利維坦": "Monk",
+      "Fazzer@泰坦": "Bard",
+      "Las@利維坦": "DarkKnight",
+      "Rbing@利維坦": "Paladin"
+    }
   }
 ]
