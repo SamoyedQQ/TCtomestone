@@ -74242,5 +74242,117 @@
       "盧瑟·潘德拉@奧汀": "Dragoon",
       "艾達·甘乃迪@奧汀": "Dancer"
     }
+  },
+  {
+    "code": "FZdJRHQkzGjxgDfM",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "大自然的饋贈@伊弗利特",
+      "Bei@伊弗利特",
+      "阿·瓦諾@奧汀",
+      "Sixwin@伊弗利特",
+      "二v@迦樓羅",
+      "Seckil@奧汀",
+      "第五魔法使@巴哈姆特",
+      "席德@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1123878,
+    "clear_dt_ms": 1784136544839,
+    "jobs": {
+      "大自然的饋贈@伊弗利特": "Scholar",
+      "Bei@伊弗利特": "Dancer",
+      "阿·瓦諾@奧汀": "Paladin",
+      "Sixwin@伊弗利特": "Samurai",
+      "二v@迦樓羅": "Astrologian",
+      "Seckil@奧汀": "Pictomancer",
+      "第五魔法使@巴哈姆特": "Monk",
+      "席德@鳳凰": "DarkKnight"
+    }
+  },
+  {
+    "code": "gNQZpznDxX8aWbTf",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Fubuki@奧汀",
+      "Dukg@奧汀",
+      "斷月之光@鳳凰",
+      "秣璃@泰坦",
+      "Choco@鳳凰",
+      "Koro@奧汀",
+      "Ivel@鳳凰",
+      "布丁蜜豆奶@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1121394,
+    "clear_dt_ms": 1784135515719,
+    "jobs": {
+      "Fubuki@奧汀": "BlackMage",
+      "Dukg@奧汀": "Pictomancer",
+      "斷月之光@鳳凰": "Bard",
+      "秣璃@泰坦": "Paladin",
+      "Choco@鳳凰": "DarkKnight",
+      "Koro@奧汀": "Astrologian",
+      "Ivel@鳳凰": "Ninja",
+      "布丁蜜豆奶@伊弗利特": "Scholar"
+    }
+  },
+  {
+    "code": "bBVF9whnNXjJCZ37",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "刷億場水晶塔@伊弗利特",
+      "破狗@奧汀",
+      "小p噗噗@伊弗利特",
+      "焦糖的爸@鳳凰",
+      "三角初音@伊弗利特",
+      "笭@迦樓羅",
+      "響念@奧汀",
+      "幻羽山雀@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 866354,
+    "clear_dt_ms": 1784136955694,
+    "jobs": {
+      "刷億場水晶塔@伊弗利特": "BlackMage",
+      "破狗@奧汀": "DarkKnight",
+      "小p噗噗@伊弗利特": "Summoner",
+      "焦糖的爸@鳳凰": "Paladin",
+      "三角初音@伊弗利特": "Viper",
+      "笭@迦樓羅": "Astrologian",
+      "響念@奧汀": "Dancer",
+      "幻羽山雀@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "yLQ7MCPxfTKmZNV8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "銀河有跡可循@迦樓羅",
+      "鬍子馬鈴薯@迦樓羅",
+      "伊貳參@迦樓羅",
+      "Lz@迦樓羅",
+      "牛肉堡大俠@迦樓羅",
+      "人生厭世@迦樓羅",
+      "琶舞@迦樓羅",
+      "索拉維爾@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 965833,
+    "clear_dt_ms": 1784121487833,
+    "jobs": {
+      "銀河有跡可循@迦樓羅": "Paladin",
+      "鬍子馬鈴薯@迦樓羅": "WhiteMage",
+      "伊貳參@迦樓羅": "Bard",
+      "Lz@迦樓羅": "BlackMage",
+      "牛肉堡大俠@迦樓羅": "Sage",
+      "人生厭世@迦樓羅": "Ninja",
+      "琶舞@迦樓羅": "Pictomancer",
+      "索拉維爾@巴哈姆特": "Warrior"
+    }
   }
 ]
