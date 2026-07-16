@@ -74718,5 +74718,33 @@
       "一之瀨凜香@迦樓羅": "Scholar",
       "小呆瓜@迦樓羅": "Ninja"
     }
+  },
+  {
+    "code": "gmz3y419KdJTwGh6",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "夏洛洛@奧汀",
+      "二v@迦樓羅",
+      "李丁路哲@迦樓羅",
+      "小冰@奧汀",
+      "Uiouop@迦樓羅",
+      "Edsel@伊弗利特",
+      "青菜老大@利維坦",
+      "火仔@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1126547,
+    "clear_dt_ms": 1784223164339,
+    "jobs": {
+      "夏洛洛@奧汀": "Pictomancer",
+      "二v@迦樓羅": "Bard",
+      "李丁路哲@迦樓羅": "Samurai",
+      "小冰@奧汀": "Paladin",
+      "Uiouop@迦樓羅": "Sage",
+      "Edsel@伊弗利特": "Monk",
+      "青菜老大@利維坦": "Astrologian",
+      "火仔@奧汀": "Warrior"
+    }
   }
 ]
