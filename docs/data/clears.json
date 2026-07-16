@@ -74438,5 +74438,33 @@
       "旮旯給木高手@伊弗利特": "DarkKnight",
       "Hgch@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "XhVB2cvJHPkLq1pt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "柯基犬@奧汀",
+      "Hua'花@伊弗利特",
+      "天空藍毅@巴哈姆特",
+      "Galaxy@泰坦",
+      "土豆泥子@伊弗利特",
+      "Yongno@伊弗利特",
+      "哭哭拉肥爾@奧汀",
+      "沙帝斯@利維坦"
+    ],
+    "fight_id": 25,
+    "duration_ms": 858097,
+    "clear_dt_ms": 1784048338272,
+    "jobs": {
+      "柯基犬@奧汀": "Paladin",
+      "Hua'花@伊弗利特": "Dancer",
+      "天空藍毅@巴哈姆特": "Warrior",
+      "Galaxy@泰坦": "Scholar",
+      "土豆泥子@伊弗利特": "Ninja",
+      "Yongno@伊弗利特": "Summoner",
+      "哭哭拉肥爾@奧汀": "Astrologian",
+      "沙帝斯@利維坦": "Monk"
+    }
   }
 ]
