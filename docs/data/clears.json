@@ -74410,5 +74410,33 @@
       "Las@利維坦": "DarkKnight",
       "Rbing@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "7PHnrY2Dm8KAFkMJ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "阿兔爺@迦樓羅",
+      "Loklok@伊弗利特",
+      "恆之風@迦樓羅",
+      "Wazir@迦樓羅",
+      "綠茶錶@巴哈姆特",
+      "有馬佳奈@利維坦",
+      "旮旯給木高手@伊弗利特",
+      "Hgch@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1117445,
+    "clear_dt_ms": 1783845704115,
+    "jobs": {
+      "阿兔爺@迦樓羅": "Pictomancer",
+      "Loklok@伊弗利特": "Scholar",
+      "恆之風@迦樓羅": "BlackMage",
+      "Wazir@迦樓羅": "Monk",
+      "綠茶錶@巴哈姆特": "Bard",
+      "有馬佳奈@利維坦": "Astrologian",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "Hgch@利維坦": "Paladin"
+    }
   }
 ]
