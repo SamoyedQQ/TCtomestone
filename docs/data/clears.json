@@ -74606,5 +74606,117 @@
       "Rice米米@利維坦": "Sage",
       "蜻蜓點火@伊弗利特": "Ninja"
     }
+  },
+  {
+    "code": "8gd6WX4F1Zh9kpwt",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "安迪歐@鳳凰",
+      "Zven@鳳凰",
+      "Ayaka@鳳凰",
+      "樹懶@鳳凰",
+      "夏夕夏景@伊弗利特",
+      "悠羽狐白@利維坦",
+      "里克@鳳凰",
+      "友利奈緒@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1116648,
+    "clear_dt_ms": 1784213858976,
+    "jobs": {
+      "安迪歐@鳳凰": "DarkKnight",
+      "Zven@鳳凰": "Gunbreaker",
+      "Ayaka@鳳凰": "Astrologian",
+      "樹懶@鳳凰": "Bard",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "悠羽狐白@利維坦": "Ninja",
+      "里克@鳳凰": "Dragoon",
+      "友利奈緒@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "fDG83R2KwXQk6aHj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "阿加爾塔@奧汀",
+      "小膿泡@迦樓羅",
+      "霧雨的魔法使@迦樓羅",
+      "Sweet@泰坦",
+      "舞寺雪茗@巴哈姆特",
+      "炎@鳳凰",
+      "土撥鼠@迦樓羅",
+      "阿韋布斯坦@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 972003,
+    "clear_dt_ms": 1784216648693,
+    "jobs": {
+      "阿加爾塔@奧汀": "BlackMage",
+      "小膿泡@迦樓羅": "Warrior",
+      "霧雨的魔法使@迦樓羅": "WhiteMage",
+      "Sweet@泰坦": "Samurai",
+      "舞寺雪茗@巴哈姆特": "Dancer",
+      "炎@鳳凰": "Paladin",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "阿韋布斯坦@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "HnaBMkxL8m2F7CKD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "披口醬@迦樓羅",
+      "下限無底@迦樓羅",
+      "拿豆腐丟你喔@迦樓羅",
+      "Ao@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "莉露@迦樓羅",
+      "一之瀨凜香@迦樓羅",
+      "小呆瓜@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1060956,
+    "clear_dt_ms": 1784213149603,
+    "jobs": {
+      "披口醬@迦樓羅": "Summoner",
+      "下限無底@迦樓羅": "Paladin",
+      "拿豆腐丟你喔@迦樓羅": "Warrior",
+      "Ao@迦樓羅": "Machinist",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "莉露@迦樓羅": "Sage",
+      "一之瀨凜香@迦樓羅": "Scholar",
+      "小呆瓜@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "HnaBMkxL8m2F7CKD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "披口醬@迦樓羅",
+      "下限無底@迦樓羅",
+      "拿豆腐丟你喔@迦樓羅",
+      "Ao@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "莉露@迦樓羅",
+      "一之瀨凜香@迦樓羅",
+      "小呆瓜@迦樓羅"
+    ],
+    "fight_id": 15,
+    "duration_ms": 1046581,
+    "clear_dt_ms": 1784214873923,
+    "jobs": {
+      "披口醬@迦樓羅": "Summoner",
+      "下限無底@迦樓羅": "Paladin",
+      "拿豆腐丟你喔@迦樓羅": "Warrior",
+      "Ao@迦樓羅": "Machinist",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "莉露@迦樓羅": "Sage",
+      "一之瀨凜香@迦樓羅": "Scholar",
+      "小呆瓜@迦樓羅": "Ninja"
+    }
   }
 ]
