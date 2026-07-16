@@ -74466,5 +74466,145 @@
       "哭哭拉肥爾@奧汀": "Astrologian",
       "沙帝斯@利維坦": "Monk"
     }
+  },
+  {
+    "code": "vqXaHWmzNgw12R7r",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "拉肥叉燒@巴哈姆特",
+      "這檸檬酸掉了@伊弗利特",
+      "海獅會寂寞@奧汀",
+      "Gmz@利維坦",
+      "阿公穿肚兜跑@利維坦",
+      "小尖冰@巴哈姆特",
+      "馬格麗特義麵@伊弗利特",
+      "是瑞奇阿@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1124622,
+    "clear_dt_ms": 1784205340652,
+    "jobs": {
+      "拉肥叉燒@巴哈姆特": "Monk",
+      "這檸檬酸掉了@伊弗利特": "Scholar",
+      "海獅會寂寞@奧汀": "WhiteMage",
+      "Gmz@利維坦": "Bard",
+      "阿公穿肚兜跑@利維坦": "Pictomancer",
+      "小尖冰@巴哈姆特": "Paladin",
+      "馬格麗特義麵@伊弗利特": "Warrior",
+      "是瑞奇阿@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "3fpX2a7HgmtnzKWx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墮鳶@利維坦",
+      "百龍院沙加@泰坦",
+      "煙花易冷@伊弗利特",
+      "Pingu@伊弗利特",
+      "綠茶加檸檬@鳳凰",
+      "Chima@伊弗利特",
+      "天雨@泰坦",
+      "Hiki@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 850206,
+    "clear_dt_ms": 1784209125332,
+    "jobs": {
+      "墮鳶@利維坦": "Monk",
+      "百龍院沙加@泰坦": "DarkKnight",
+      "煙花易冷@伊弗利特": "Paladin",
+      "Pingu@伊弗利特": "Scholar",
+      "綠茶加檸檬@鳳凰": "Summoner",
+      "Chima@伊弗利特": "Dancer",
+      "天雨@泰坦": "BlackMage",
+      "Hiki@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "t8aqBHWyfp4PjwzD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夜空雪冷@利維坦",
+      "天使之吻@迦樓羅",
+      "佐藤龍櫻@利維坦",
+      "宅宅熊@鳳凰",
+      "Yude@利維坦",
+      "貪財的寡婦@利維坦",
+      "Rice米米@利維坦",
+      "蜻蜓點火@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 886912,
+    "clear_dt_ms": 1784131438426,
+    "jobs": {
+      "夜空雪冷@利維坦": "Astrologian",
+      "天使之吻@迦樓羅": "DarkKnight",
+      "佐藤龍櫻@利維坦": "Summoner",
+      "宅宅熊@鳳凰": "Samurai",
+      "Yude@利維坦": "Paladin",
+      "貪財的寡婦@利維坦": "Dancer",
+      "Rice米米@利維坦": "Sage",
+      "蜻蜓點火@伊弗利特": "Ninja"
+    }
+  },
+  {
+    "code": "t8aqBHWyfp4PjwzD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夜空雪冷@利維坦",
+      "天使之吻@迦樓羅",
+      "佐藤龍櫻@利維坦",
+      "宅宅熊@鳳凰",
+      "Yude@利維坦",
+      "貪財的寡婦@利維坦",
+      "Rice米米@利維坦",
+      "蜻蜓點火@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 869391,
+    "clear_dt_ms": 1784132489469,
+    "jobs": {
+      "夜空雪冷@利維坦": "Astrologian",
+      "天使之吻@迦樓羅": "DarkKnight",
+      "佐藤龍櫻@利維坦": "Summoner",
+      "宅宅熊@鳳凰": "Samurai",
+      "Yude@利維坦": "Paladin",
+      "貪財的寡婦@利維坦": "Dancer",
+      "Rice米米@利維坦": "Sage",
+      "蜻蜓點火@伊弗利特": "Ninja"
+    }
+  },
+  {
+    "code": "t8aqBHWyfp4PjwzD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夜空雪冷@利維坦",
+      "天使之吻@迦樓羅",
+      "佐藤龍櫻@利維坦",
+      "宅宅熊@鳳凰",
+      "Yude@利維坦",
+      "貪財的寡婦@利維坦",
+      "Rice米米@利維坦",
+      "蜻蜓點火@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 864859,
+    "clear_dt_ms": 1784133811982,
+    "jobs": {
+      "夜空雪冷@利維坦": "Astrologian",
+      "天使之吻@迦樓羅": "DarkKnight",
+      "佐藤龍櫻@利維坦": "Summoner",
+      "宅宅熊@鳳凰": "Samurai",
+      "Yude@利維坦": "Paladin",
+      "貪財的寡婦@利維坦": "Dancer",
+      "Rice米米@利維坦": "Sage",
+      "蜻蜓點火@伊弗利特": "Ninja"
+    }
   }
 ]
