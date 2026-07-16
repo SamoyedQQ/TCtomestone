@@ -74746,5 +74746,33 @@
       "青菜老大@利維坦": "Astrologian",
       "火仔@奧汀": "Warrior"
     }
+  },
+  {
+    "code": "FYx9hawDG7qBknr6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "未花@利維坦",
+      "我是醜底迪@鳳凰",
+      "凱旋刺劍@奧汀",
+      "星宿及月@迦樓羅",
+      "流承@迦樓羅",
+      "Re晞忒璐@利維坦",
+      "三角初音@伊弗利特",
+      "安迪內德@巴哈姆特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 854237,
+    "clear_dt_ms": 1784224969300,
+    "jobs": {
+      "未花@利維坦": "DarkKnight",
+      "我是醜底迪@鳳凰": "Monk",
+      "凱旋刺劍@奧汀": "Astrologian",
+      "星宿及月@迦樓羅": "RedMage",
+      "流承@迦樓羅": "Sage",
+      "Re晞忒璐@利維坦": "Dancer",
+      "三角初音@伊弗利特": "Paladin",
+      "安迪內德@巴哈姆特": "Pictomancer"
+    }
   }
 ]
