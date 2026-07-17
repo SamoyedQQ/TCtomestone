@@ -74802,5 +74802,89 @@
       "小維@鳳凰": "Astrologian",
       "Zven@鳳凰": "Gunbreaker"
     }
+  },
+  {
+    "code": "cFQZhrvj92fdnG16",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "橘雪莉@伊弗利特",
+      "永愛三玖@巴哈姆特",
+      "櫻羽艾瑪@伊弗利特",
+      "黃金熊熊維尼@巴哈姆特",
+      "圓形食物@鳳凰",
+      "蛤蜜呱@伊弗利特",
+      "Wenwen@伊弗利特",
+      "結印明日奈@利維坦"
+    ],
+    "fight_id": 258,
+    "duration_ms": 1094724,
+    "clear_dt_ms": 1784276245452,
+    "jobs": {
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "永愛三玖@巴哈姆特": "Dancer",
+      "櫻羽艾瑪@伊弗利特": "BlackMage",
+      "黃金熊熊維尼@巴哈姆特": "Samurai",
+      "圓形食物@鳳凰": "Warrior",
+      "蛤蜜呱@伊弗利特": "Scholar",
+      "Wenwen@伊弗利特": "Sage",
+      "結印明日奈@利維坦": "Ninja"
+    }
+  },
+  {
+    "code": "T31kHv7cAZJrf86n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "小殘@巴哈姆特",
+      "Mickcy@奧汀",
+      "有錢人的世界@奧汀",
+      "Ccdio@奧汀",
+      "十元@鳳凰",
+      "Regodd@奧汀",
+      "夏普莉@利維坦",
+      "瑪茜醬@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1144518,
+    "clear_dt_ms": 1784214121379,
+    "jobs": {
+      "小殘@巴哈姆特": "Paladin",
+      "Mickcy@奧汀": "Dancer",
+      "有錢人的世界@奧汀": "Ninja",
+      "Ccdio@奧汀": "Astrologian",
+      "十元@鳳凰": "Scholar",
+      "Regodd@奧汀": "Dragoon",
+      "夏普莉@利維坦": "Gunbreaker",
+      "瑪茜醬@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "1ag32Tr9AhPkBzjt",
+    "title": "TEA0715",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Sealoo@伊弗利特",
+      "海馬懶人@伊弗利特",
+      "傑奇@伊弗利特",
+      "Such@伊弗利特",
+      "夏日@伊弗利特",
+      "小嘎@伊弗利特",
+      "Kuasa@伊弗利特",
+      "貝貝魯多@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1024097,
+    "clear_dt_ms": 1784125097432,
+    "jobs": {
+      "Sealoo@伊弗利特": "Sage",
+      "海馬懶人@伊弗利特": "Paladin",
+      "傑奇@伊弗利特": "RedMage",
+      "Such@伊弗利特": "Machinist",
+      "夏日@伊弗利特": "Astrologian",
+      "小嘎@伊弗利特": "DarkKnight",
+      "Kuasa@伊弗利特": "Ninja",
+      "貝貝魯多@伊弗利特": "BlackMage"
+    }
   }
 ]
