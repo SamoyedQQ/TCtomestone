@@ -74886,5 +74886,117 @@
       "Kuasa@伊弗利特": "Ninja",
       "貝貝魯多@伊弗利特": "BlackMage"
     }
+  },
+  {
+    "code": "9Jjq4AYxDKNHR1FT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "栗米@利維坦",
+      "小妹@利維坦",
+      "Benny@奧汀",
+      "熊貓@利維坦",
+      "新手一名@伊弗利特",
+      "鳶仔小饅頭@鳳凰",
+      "偷米@奧汀",
+      "亮月@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1118522,
+    "clear_dt_ms": 1784292181588,
+    "jobs": {
+      "栗米@利維坦": "Pictomancer",
+      "小妹@利維坦": "Paladin",
+      "Benny@奧汀": "Viper",
+      "熊貓@利維坦": "Scholar",
+      "新手一名@伊弗利特": "DarkKnight",
+      "鳶仔小饅頭@鳳凰": "Astrologian",
+      "偷米@奧汀": "Dancer",
+      "亮月@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "RYtNG6bhdvyAm3ZD",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "愛跌倒的吐籽@利維坦",
+      "九五二七@利維坦",
+      "阿大姆@迦樓羅",
+      "香蕉大濕@伊弗利特",
+      "深雪烏冬@鳳凰",
+      "時莯@利維坦",
+      "給你錢快點做@鳳凰",
+      "煞@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1124559,
+    "clear_dt_ms": 1784290645460,
+    "jobs": {
+      "愛跌倒的吐籽@利維坦": "Scholar",
+      "九五二七@利維坦": "Pictomancer",
+      "阿大姆@迦樓羅": "Dancer",
+      "香蕉大濕@伊弗利特": "Monk",
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "時莯@利維坦": "Astrologian",
+      "給你錢快點做@鳳凰": "Gunbreaker",
+      "煞@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "7twrZmjWBH8M6bC9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "荔香花烏龍@奧汀",
+      "正義的兔腿@奧汀",
+      "罪惡的肉球@奧汀",
+      "平原羽沫@奧汀",
+      "Jokerr@奧汀",
+      "粉紅色阿翔@奧汀",
+      "Kuli@奧汀",
+      "海獺小偷@奧汀"
+    ],
+    "fight_id": 30,
+    "duration_ms": 881744,
+    "clear_dt_ms": 1784296377792,
+    "jobs": {
+      "荔香花烏龍@奧汀": "Paladin",
+      "正義的兔腿@奧汀": "Summoner",
+      "罪惡的肉球@奧汀": "Dancer",
+      "平原羽沫@奧汀": "Samurai",
+      "Jokerr@奧汀": "RedMage",
+      "粉紅色阿翔@奧汀": "Astrologian",
+      "Kuli@奧汀": "Scholar",
+      "海獺小偷@奧汀": "DarkKnight"
+    }
+  },
+  {
+    "code": "nmzb4Vgk7hQGtp62",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伊貳參@迦樓羅",
+      "人生厭世@迦樓羅",
+      "Lz@迦樓羅",
+      "銀河有跡可循@迦樓羅",
+      "牛肉堡大俠@迦樓羅",
+      "璜姍姍@迦樓羅",
+      "鬍子馬鈴薯@迦樓羅",
+      "貓頭蜜蜂@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 971836,
+    "clear_dt_ms": 1784293834169,
+    "jobs": {
+      "伊貳參@迦樓羅": "Bard",
+      "人生厭世@迦樓羅": "Ninja",
+      "Lz@迦樓羅": "BlackMage",
+      "銀河有跡可循@迦樓羅": "Paladin",
+      "牛肉堡大俠@迦樓羅": "Sage",
+      "璜姍姍@迦樓羅": "DarkKnight",
+      "鬍子馬鈴薯@迦樓羅": "WhiteMage",
+      "貓頭蜜蜂@迦樓羅": "Monk"
+    }
   }
 ]
