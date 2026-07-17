@@ -74774,5 +74774,33 @@
       "三角初音@伊弗利特": "Paladin",
       "安迪內德@巴哈姆特": "Pictomancer"
     }
+  },
+  {
+    "code": "N6bBrTmQzAvHYPa7",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "龍井春茶@鳳凰",
+      "Maple@伊弗利特",
+      "踏踏@伊弗利特",
+      "安迪歐@鳳凰",
+      "Natt@鳳凰",
+      "樹懶@鳳凰",
+      "小維@鳳凰",
+      "Zven@鳳凰"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1127668,
+    "clear_dt_ms": 1784043830708,
+    "jobs": {
+      "龍井春茶@鳳凰": "Pictomancer",
+      "Maple@伊弗利特": "Monk",
+      "踏踏@伊弗利特": "Scholar",
+      "安迪歐@鳳凰": "DarkKnight",
+      "Natt@鳳凰": "Viper",
+      "樹懶@鳳凰": "Bard",
+      "小維@鳳凰": "Astrologian",
+      "Zven@鳳凰": "Gunbreaker"
+    }
   }
 ]
