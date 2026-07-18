@@ -75418,5 +75418,33 @@
       "裴黔@利維坦": "Machinist",
       "異世界@利維坦": "Pictomancer"
     }
+  },
+  {
+    "code": "KZkA2X7t3qgvF6MR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "低優低優@利維坦",
+      "Ahkao@鳳凰",
+      "穆璃@伊弗利特",
+      "蘭納迪諾@利維坦",
+      "Arasxi@奧汀",
+      "克羅賽@迦樓羅",
+      "Nk·kai@利維坦",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 976352,
+    "clear_dt_ms": 1784357556537,
+    "jobs": {
+      "低優低優@利維坦": "Dancer",
+      "Ahkao@鳳凰": "DarkKnight",
+      "穆璃@伊弗利特": "Sage",
+      "蘭納迪諾@利維坦": "Warrior",
+      "Arasxi@奧汀": "Monk",
+      "克羅賽@迦樓羅": "BlackMage",
+      "Nk·kai@利維坦": "Astrologian",
+      "三角初音@伊弗利特": "Summoner"
+    }
   }
 ]
