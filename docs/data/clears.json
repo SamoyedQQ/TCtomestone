@@ -75474,5 +75474,33 @@
       "Yamimi@迦樓羅": "Monk",
       "極光@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "b76mfQxH1gdRqpvn",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "阿兔爺@迦樓羅",
+      "Wazir@迦樓羅",
+      "恆之風@迦樓羅",
+      "綠茶錶@巴哈姆特",
+      "有馬佳奈@利維坦",
+      "Hgch@利維坦",
+      "旮旯給木高手@伊弗利特",
+      "Mogu@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1131187,
+    "clear_dt_ms": 1784367791717,
+    "jobs": {
+      "阿兔爺@迦樓羅": "Summoner",
+      "Wazir@迦樓羅": "Monk",
+      "恆之風@迦樓羅": "BlackMage",
+      "綠茶錶@巴哈姆特": "Bard",
+      "有馬佳奈@利維坦": "Astrologian",
+      "Hgch@利維坦": "Paladin",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "Mogu@伊弗利特": "Scholar"
+    }
   }
 ]
