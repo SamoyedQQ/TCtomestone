@@ -75922,5 +75922,117 @@
       "雪地咚咚鼠@利維坦": "Warrior",
       "逢魔時王@迦樓羅": "Summoner"
     }
+  },
+  {
+    "code": "9wm8PkWNXfKx2QvC",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "芭樂綠茶@鳳凰",
+      "Arting@迦樓羅",
+      "米奈娃@奧汀",
+      "逼欸逼u@利維坦",
+      "極光@迦樓羅",
+      "Yamimi@迦樓羅",
+      "赫斯媞雅@迦樓羅",
+      "Rara@迦樓羅"
+    ],
+    "fight_id": 24,
+    "duration_ms": 1124619,
+    "clear_dt_ms": 1784406467491,
+    "jobs": {
+      "芭樂綠茶@鳳凰": "WhiteMage",
+      "Arting@迦樓羅": "DarkKnight",
+      "米奈娃@奧汀": "Machinist",
+      "逼欸逼u@利維坦": "Scholar",
+      "極光@迦樓羅": "Paladin",
+      "Yamimi@迦樓羅": "Monk",
+      "赫斯媞雅@迦樓羅": "Pictomancer",
+      "Rara@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "bfcD3WvgYGMNAyxh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "影紗星蕾@迦樓羅",
+      "刷億場水晶塔@伊弗利特",
+      "朝花暮暮@巴哈姆特",
+      "行舟浮生@利維坦",
+      "一一大吉一一@奧汀",
+      "可樂零熱量@利維坦",
+      "Chima@伊弗利特",
+      "小p噗噗@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 873542,
+    "clear_dt_ms": 1784403325239,
+    "jobs": {
+      "影紗星蕾@迦樓羅": "Sage",
+      "刷億場水晶塔@伊弗利特": "RedMage",
+      "朝花暮暮@巴哈姆特": "WhiteMage",
+      "行舟浮生@利維坦": "DarkKnight",
+      "一一大吉一一@奧汀": "Warrior",
+      "可樂零熱量@利維坦": "Dragoon",
+      "Chima@伊弗利特": "Dancer",
+      "小p噗噗@伊弗利特": "Summoner"
+    }
+  },
+  {
+    "code": "62Zw4rFbCqJkMdxp",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Nemo捏摸@利維坦",
+      "Kaede@利維坦",
+      "Ryou@利維坦",
+      "金龍姐姐@利維坦",
+      "段藏@利維坦",
+      "音侍@伊弗利特",
+      "夢璃@利維坦",
+      "慎真@利維坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 856718,
+    "clear_dt_ms": 1784411679123,
+    "jobs": {
+      "Nemo捏摸@利維坦": "Summoner",
+      "Kaede@利維坦": "RedMage",
+      "Ryou@利維坦": "Astrologian",
+      "金龍姐姐@利維坦": "Dancer",
+      "段藏@利維坦": "Paladin",
+      "音侍@伊弗利特": "Reaper",
+      "夢璃@利維坦": "Sage",
+      "慎真@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "fBkh2x3X8wP4qCMT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Gmz@利維坦",
+      "莫比@利維坦",
+      "Gptms@鳳凰",
+      "饅頭寶寶@奧汀",
+      "鮭魚壽司@利維坦",
+      "Moey@利維坦",
+      "蜜桃冰茶@利維坦",
+      "姜小咪@利維坦"
+    ],
+    "fight_id": 19,
+    "duration_ms": 1121756,
+    "clear_dt_ms": 1784311175034,
+    "jobs": {
+      "Gmz@利維坦": "Bard",
+      "莫比@利維坦": "Ninja",
+      "Gptms@鳳凰": "Paladin",
+      "饅頭寶寶@奧汀": "Pictomancer",
+      "鮭魚壽司@利維坦": "Astrologian",
+      "Moey@利維坦": "Monk",
+      "蜜桃冰茶@利維坦": "Sage",
+      "姜小咪@利維坦": "DarkKnight"
+    }
   }
 ]
