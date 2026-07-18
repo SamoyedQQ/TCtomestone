@@ -75810,5 +75810,117 @@
       "路西法@伊弗利特": "BlackMage",
       "翎@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "n1cPgqfKLA3G8ZyR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "殤魂@奧汀",
+      "Ivel@鳳凰",
+      "雨音辛香@利維坦",
+      "蕎麥鮮奶茶@伊弗利特",
+      "水無月夢@巴哈姆特",
+      "里宮夏繪@利維坦",
+      "Holyho@利維坦",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1125310,
+    "clear_dt_ms": 1784403968150,
+    "jobs": {
+      "殤魂@奧汀": "Pictomancer",
+      "Ivel@鳳凰": "Ninja",
+      "雨音辛香@利維坦": "BlackMage",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "水無月夢@巴哈姆特": "DarkKnight",
+      "里宮夏繪@利維坦": "Dancer",
+      "Holyho@利維坦": "Paladin",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "JtbmMrk3RD4YzFQv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "藍職龍奇@伊弗利特",
+      "法蘭克·西@伊弗利特",
+      "找不到該玩家@利維坦",
+      "夏日@利維坦",
+      "莉蓓兒@巴哈姆特",
+      "羊仔@利維坦",
+      "超涼思樂冰@利維坦",
+      "Alan大大@鳳凰"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1122911,
+    "clear_dt_ms": 1784393953328,
+    "jobs": {
+      "藍職龍奇@伊弗利特": "Dragoon",
+      "法蘭克·西@伊弗利特": "Bard",
+      "找不到該玩家@利維坦": "Paladin",
+      "夏日@利維坦": "Scholar",
+      "莉蓓兒@巴哈姆特": "Pictomancer",
+      "羊仔@利維坦": "Monk",
+      "超涼思樂冰@利維坦": "WhiteMage",
+      "Alan大大@鳳凰": "Gunbreaker"
+    }
+  },
+  {
+    "code": "FmbcGp82YtnhMAvV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Chima@伊弗利特",
+      "阿吉美眉@巴哈姆特",
+      "小八軟糖@奧汀",
+      "索拉肥@鳳凰",
+      "沙帝斯@利維坦",
+      "Galaxy@泰坦",
+      "小野寺悠@奧汀",
+      "小who豬@鳳凰"
+    ],
+    "fight_id": 12,
+    "duration_ms": 828692,
+    "clear_dt_ms": 1784398475163,
+    "jobs": {
+      "Chima@伊弗利特": "Dancer",
+      "阿吉美眉@巴哈姆特": "Paladin",
+      "小八軟糖@奧汀": "Astrologian",
+      "索拉肥@鳳凰": "DarkKnight",
+      "沙帝斯@利維坦": "Monk",
+      "Galaxy@泰坦": "Scholar",
+      "小野寺悠@奧汀": "Ninja",
+      "小who豬@鳳凰": "RedMage"
+    }
+  },
+  {
+    "code": "h6VmBnPdC4wtfHKX",
+    "title": "神兵0719",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "草peko虐@利維坦",
+      "茶葉蛋@奧汀",
+      "朝花璃@泰坦",
+      "矮子@奧汀",
+      "行舟浮生@利維坦",
+      "米米米喔@泰坦",
+      "雪地咚咚鼠@利維坦",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 17,
+    "duration_ms": 867633,
+    "clear_dt_ms": 1784393842267,
+    "jobs": {
+      "草peko虐@利維坦": "Dancer",
+      "茶葉蛋@奧汀": "Monk",
+      "朝花璃@泰坦": "Sage",
+      "矮子@奧汀": "WhiteMage",
+      "行舟浮生@利維坦": "DarkKnight",
+      "米米米喔@泰坦": "Ninja",
+      "雪地咚咚鼠@利維坦": "Warrior",
+      "逢魔時王@迦樓羅": "Summoner"
+    }
   }
 ]
