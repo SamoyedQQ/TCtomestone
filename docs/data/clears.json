@@ -75446,5 +75446,33 @@
       "Nk·kai@利維坦": "Astrologian",
       "三角初音@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "4vzGHXndyMFVcQmb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "葛萊芬多多@迦樓羅",
+      "榎並杏紗的狗@迦樓羅",
+      "星宿及月@迦樓羅",
+      "堅係傑克@迦樓羅",
+      "Arting@迦樓羅",
+      "Xinsa@迦樓羅",
+      "Yamimi@迦樓羅",
+      "極光@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1096241,
+    "clear_dt_ms": 1784363868974,
+    "jobs": {
+      "葛萊芬多多@迦樓羅": "BlackMage",
+      "榎並杏紗的狗@迦樓羅": "Samurai",
+      "星宿及月@迦樓羅": "Astrologian",
+      "堅係傑克@迦樓羅": "Machinist",
+      "Arting@迦樓羅": "DarkKnight",
+      "Xinsa@迦樓羅": "Scholar",
+      "Yamimi@迦樓羅": "Monk",
+      "極光@迦樓羅": "Paladin"
+    }
   }
 ]
