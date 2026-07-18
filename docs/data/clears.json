@@ -75502,5 +75502,33 @@
       "旮旯給木高手@伊弗利特": "DarkKnight",
       "Mogu@伊弗利特": "Scholar"
     }
+  },
+  {
+    "code": "PB2RXGxyg83YQWJq",
+    "title": "0718",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Absui@迦樓羅",
+      "黑屋屺@鳳凰",
+      "蝦蝦@利維坦",
+      "沙帝斯@利維坦",
+      "Azero@鳳凰",
+      "幽琥@利維坦",
+      "豬豬豬@泰坦",
+      "迷你小河馬@泰坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 839907,
+    "clear_dt_ms": 1784373005866,
+    "jobs": {
+      "Absui@迦樓羅": "Warrior",
+      "黑屋屺@鳳凰": "Paladin",
+      "蝦蝦@利維坦": "Scholar",
+      "沙帝斯@利維坦": "Monk",
+      "Azero@鳳凰": "Astrologian",
+      "幽琥@利維坦": "Summoner",
+      "豬豬豬@泰坦": "BlackMage",
+      "迷你小河馬@泰坦": "Dancer"
+    }
   }
 ]
