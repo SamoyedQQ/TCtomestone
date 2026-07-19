@@ -76118,5 +76118,117 @@
       "紫藤花@迦樓羅": "WhiteMage",
       "羅素的茶壺@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "Q6GRnk1ydmFYhZAP",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lunsix@泰坦",
+      "兔兔兔兔兔兔@泰坦",
+      "標@泰坦",
+      "殤魂@奧汀",
+      "小亞@奧汀",
+      "賽伊@迦樓羅",
+      "泠凌月@利維坦",
+      "里宮夏繪@利維坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1119630,
+    "clear_dt_ms": 1784450137904,
+    "jobs": {
+      "Lunsix@泰坦": "DarkKnight",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "標@泰坦": "Dragoon",
+      "殤魂@奧汀": "Pictomancer",
+      "小亞@奧汀": "Paladin",
+      "賽伊@迦樓羅": "Scholar",
+      "泠凌月@利維坦": "Ninja",
+      "里宮夏繪@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "RkxarHvhj8JKVWcF",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Holyho@利維坦",
+      "逼欸逼u@利維坦",
+      "Diaulo@迦樓羅",
+      "日式豬排@利維坦",
+      "巴巴托斯@奧汀",
+      "有隻鳥@迦樓羅",
+      "Lunsix@泰坦",
+      "殤魂@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1131224,
+    "clear_dt_ms": 1784394022707,
+    "jobs": {
+      "Holyho@利維坦": "Paladin",
+      "逼欸逼u@利維坦": "Scholar",
+      "Diaulo@迦樓羅": "Samurai",
+      "日式豬排@利維坦": "Astrologian",
+      "巴巴托斯@奧汀": "Reaper",
+      "有隻鳥@迦樓羅": "Dancer",
+      "Lunsix@泰坦": "DarkKnight",
+      "殤魂@奧汀": "Pictomancer"
+    }
+  },
+  {
+    "code": "CwtXNjLTkhAVP7dM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "香菜漢堡@迦樓羅",
+      "汰@迦樓羅",
+      "Raven@伊弗利特",
+      "貓也可以@奧汀",
+      "你好宋芽芽@伊弗利特",
+      "掃把@伊弗利特",
+      "行舟浮生@利維坦",
+      "阿鳥@迦樓羅"
+    ],
+    "fight_id": 22,
+    "duration_ms": 873939,
+    "clear_dt_ms": 1784455006755,
+    "jobs": {
+      "香菜漢堡@迦樓羅": "DarkKnight",
+      "汰@迦樓羅": "Astrologian",
+      "Raven@伊弗利特": "Summoner",
+      "貓也可以@奧汀": "Monk",
+      "你好宋芽芽@伊弗利特": "Dancer",
+      "掃把@伊弗利特": "Scholar",
+      "行舟浮生@利維坦": "Warrior",
+      "阿鳥@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "2qNzDPmrTFvRVkbK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "電漿衝鋒槍@奧汀",
+      "旋風@泰坦",
+      "祈靈@鳳凰",
+      "靜@巴哈姆特",
+      "每日路過@鳳凰",
+      "柚鳥夏@奧汀",
+      "黑糖鮮奶茶@泰坦",
+      "甜點貓貓貓@鳳凰"
+    ],
+    "fight_id": 37,
+    "duration_ms": 973711,
+    "clear_dt_ms": 1784450136917,
+    "jobs": {
+      "電漿衝鋒槍@奧汀": "Sage",
+      "旋風@泰坦": "Astrologian",
+      "祈靈@鳳凰": "Dancer",
+      "靜@巴哈姆特": "RedMage",
+      "每日路過@鳳凰": "Paladin",
+      "柚鳥夏@奧汀": "Reaper",
+      "黑糖鮮奶茶@泰坦": "Monk",
+      "甜點貓貓貓@鳳凰": "DarkKnight"
+    }
   }
 ]
