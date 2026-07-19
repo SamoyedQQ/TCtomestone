@@ -76510,5 +76510,117 @@
       "岱炫@奧汀": "BlackMage",
       "小紅@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "bFrvg9T34kyqaHGR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "米豬@伊弗利特",
+      "Gereon@利維坦",
+      "阿公穿肚兜跑@利維坦",
+      "D·咕咕嘎嘎@伊弗利特",
+      "塔拉妮絲@巴哈姆特",
+      "Adai@伊弗利特",
+      "彭聖傑傑@利維坦",
+      "七海@巴哈姆特"
+    ],
+    "fight_id": 16,
+    "duration_ms": 1130432,
+    "clear_dt_ms": 1784481361678,
+    "jobs": {
+      "米豬@伊弗利特": "Dragoon",
+      "Gereon@利維坦": "Monk",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "塔拉妮絲@巴哈姆特": "DarkKnight",
+      "Adai@伊弗利特": "Paladin",
+      "彭聖傑傑@利維坦": "Sage",
+      "七海@巴哈姆特": "Bard"
+    }
+  },
+  {
+    "code": "TRaG6AYdBXrWbKMv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "樹懶@鳳凰",
+      "夏夕夏景@伊弗利特",
+      "安迪歐@鳳凰",
+      "夜櫻巫姬@利維坦",
+      "Zven@鳳凰",
+      "里克@鳳凰",
+      "赫斯媞雅@迦樓羅",
+      "香蕉皇@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1130610,
+    "clear_dt_ms": 1784472329024,
+    "jobs": {
+      "樹懶@鳳凰": "Bard",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "安迪歐@鳳凰": "DarkKnight",
+      "夜櫻巫姬@利維坦": "Ninja",
+      "Zven@鳳凰": "Gunbreaker",
+      "里克@鳳凰": "Dragoon",
+      "赫斯媞雅@迦樓羅": "Pictomancer",
+      "香蕉皇@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "WXPDqrpY128GFaHZ",
+    "title": "絕伊甸-固團初通",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "霧淵@利維坦",
+      "古·拉哈基米@迦樓羅",
+      "Arbert@利維坦",
+      "Sniger@利維坦",
+      "大肌補師@奧汀",
+      "熊貓貓@利維坦",
+      "Las@利維坦",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1122270,
+    "clear_dt_ms": 1784473240208,
+    "jobs": {
+      "霧淵@利維坦": "BlackMage",
+      "古·拉哈基米@迦樓羅": "Paladin",
+      "Arbert@利維坦": "Bard",
+      "Sniger@利維坦": "Scholar",
+      "大肌補師@奧汀": "Monk",
+      "熊貓貓@利維坦": "Pictomancer",
+      "Las@利維坦": "DarkKnight",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "J6QmV3jBWz9nTCdK",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "盧瑟·潘德拉@奧汀",
+      "Engner@迦樓羅",
+      "薪水很高@奧汀",
+      "冰糖筱@鳳凰",
+      "艾達·甘乃迪@奧汀",
+      "Altor@奧汀",
+      "伯爵奶茶誇鬆@鳳凰",
+      "緋璃@奧汀"
+    ],
+    "fight_id": 38,
+    "duration_ms": 900822,
+    "clear_dt_ms": 1784482131320,
+    "jobs": {
+      "盧瑟·潘德拉@奧汀": "Dragoon",
+      "Engner@迦樓羅": "DarkKnight",
+      "薪水很高@奧汀": "Astrologian",
+      "冰糖筱@鳳凰": "Summoner",
+      "艾達·甘乃迪@奧汀": "Dancer",
+      "Altor@奧汀": "Scholar",
+      "伯爵奶茶誇鬆@鳳凰": "Warrior",
+      "緋璃@奧汀": "RedMage"
+    }
   }
 ]
