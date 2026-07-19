@@ -76258,5 +76258,33 @@
       "凰@鳳凰": "DarkKnight",
       "抹茶植栽員@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "64gxRTFpmHXCjQbW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "斷月之光@鳳凰",
+      "Benny@奧汀",
+      "Timeto@迦樓羅",
+      "安迪歐@鳳凰",
+      "乂nya乂@巴哈姆特",
+      "夏夕夏景@伊弗利特",
+      "是又怎樣@奧汀",
+      "Zven@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1127078,
+    "clear_dt_ms": 1784465010384,
+    "jobs": {
+      "斷月之光@鳳凰": "Bard",
+      "Benny@奧汀": "Viper",
+      "Timeto@迦樓羅": "Pictomancer",
+      "安迪歐@鳳凰": "DarkKnight",
+      "乂nya乂@巴哈姆特": "WhiteMage",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "是又怎樣@奧汀": "Ninja",
+      "Zven@鳳凰": "Gunbreaker"
+    }
   }
 ]
