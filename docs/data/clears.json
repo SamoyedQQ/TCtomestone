@@ -76230,5 +76230,33 @@
       "黑糖鮮奶茶@泰坦": "Monk",
       "甜點貓貓貓@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "TQZzXxvAgkW2J6m4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "好taya寶@伊弗利特",
+      "蛇咬草@伊弗利特",
+      "煙花易冷@伊弗利特",
+      "芙露緹@伊弗利特",
+      "薨緹@伊弗利特",
+      "悠娜米@伊弗利特",
+      "凰@鳳凰",
+      "抹茶植栽員@鳳凰"
+    ],
+    "fight_id": 14,
+    "duration_ms": 854772,
+    "clear_dt_ms": 1784454989068,
+    "jobs": {
+      "好taya寶@伊弗利特": "Machinist",
+      "蛇咬草@伊弗利特": "Summoner",
+      "煙花易冷@伊弗利特": "Paladin",
+      "芙露緹@伊弗利特": "Pictomancer",
+      "薨緹@伊弗利特": "Astrologian",
+      "悠娜米@伊弗利特": "Sage",
+      "凰@鳳凰": "DarkKnight",
+      "抹茶植栽員@鳳凰": "Dragoon"
+    }
   }
 ]
