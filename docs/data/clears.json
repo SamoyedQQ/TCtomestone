@@ -76090,5 +76090,33 @@
       "Noir@鳳凰": "Dancer",
       "小who豬@鳳凰": "BlackMage"
     }
+  },
+  {
+    "code": "R9Da4JAjdqNg127B",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "大柯奈@迦樓羅",
+      "抹茶ouo@迦樓羅",
+      "有氣質小可愛@迦樓羅",
+      "艾璐緹亞@迦樓羅",
+      "拉麵@奧汀",
+      "火狼@迦樓羅",
+      "紫藤花@迦樓羅",
+      "羅素的茶壺@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 881981,
+    "clear_dt_ms": 1784387157879,
+    "jobs": {
+      "大柯奈@迦樓羅": "BlackMage",
+      "抹茶ouo@迦樓羅": "Summoner",
+      "有氣質小可愛@迦樓羅": "Warrior",
+      "艾璐緹亞@迦樓羅": "Paladin",
+      "拉麵@奧汀": "Scholar",
+      "火狼@迦樓羅": "Dancer",
+      "紫藤花@迦樓羅": "WhiteMage",
+      "羅素的茶壺@迦樓羅": "Monk"
+    }
   }
 ]
