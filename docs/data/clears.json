@@ -76034,5 +76034,61 @@
       "蜜桃冰茶@利維坦": "Sage",
       "姜小咪@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "JGnLxa4cVhp9y6YC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "草peko虐@利維坦",
+      "刷億場水晶塔@伊弗利特",
+      "小p噗噗@伊弗利特",
+      "夏夕夏景@伊弗利特",
+      "全抗冰劍龍@伊弗利特",
+      "行舟浮生@利維坦",
+      "Serin@泰坦",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 863133,
+    "clear_dt_ms": 1784305376680,
+    "jobs": {
+      "草peko虐@利維坦": "Dancer",
+      "刷億場水晶塔@伊弗利特": "RedMage",
+      "小p噗噗@伊弗利特": "Summoner",
+      "夏夕夏景@伊弗利特": "WhiteMage",
+      "全抗冰劍龍@伊弗利特": "Gunbreaker",
+      "行舟浮生@利維坦": "Warrior",
+      "Serin@泰坦": "Sage",
+      "三角初音@伊弗利特": "Reaper"
+    }
+  },
+  {
+    "code": "127JahYMBRQbtwnp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Mogg@伊弗利特",
+      "宇佐見蓮子@迦樓羅",
+      "Second@鳳凰",
+      "不可@鳳凰",
+      "Galaxy@泰坦",
+      "城南@巴哈姆特",
+      "Noir@鳳凰",
+      "小who豬@鳳凰"
+    ],
+    "fight_id": 21,
+    "duration_ms": 851671,
+    "clear_dt_ms": 1784354589407,
+    "jobs": {
+      "Mogg@伊弗利特": "Gunbreaker",
+      "宇佐見蓮子@迦樓羅": "WhiteMage",
+      "Second@鳳凰": "DarkKnight",
+      "不可@鳳凰": "Monk",
+      "Galaxy@泰坦": "Scholar",
+      "城南@巴哈姆特": "RedMage",
+      "Noir@鳳凰": "Dancer",
+      "小who豬@鳳凰": "BlackMage"
+    }
   }
 ]
