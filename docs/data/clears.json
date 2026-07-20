@@ -77602,5 +77602,33 @@
       "莉露@迦樓羅": "Sage",
       "小呆瓜@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "DHVk4rZ89p7qamcn",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "黑犬@利維坦",
+      "Gptms@鳳凰",
+      "時旐@利維坦",
+      "逼欸逼u@利維坦",
+      "芙莉蓮霧@奧汀",
+      "薇薇布@迦樓羅",
+      "Nacho@鳳凰",
+      "火仔@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1120110,
+    "clear_dt_ms": 1784575336235,
+    "jobs": {
+      "黑犬@利維坦": "Dancer",
+      "Gptms@鳳凰": "Paladin",
+      "時旐@利維坦": "Monk",
+      "逼欸逼u@利維坦": "Scholar",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "薇薇布@迦樓羅": "WhiteMage",
+      "Nacho@鳳凰": "Reaper",
+      "火仔@奧汀": "DarkKnight"
+    }
   }
 ]
