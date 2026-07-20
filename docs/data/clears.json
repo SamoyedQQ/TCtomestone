@@ -77462,5 +77462,145 @@
       "Pingu@伊弗利特": "Scholar",
       "萊特斯@利維坦": "Summoner"
     }
+  },
+  {
+    "code": "z3k6wYLaqpRmDnPB",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "犬圈圈@伊弗利特",
+      "燉牛肉超好吃@奧汀",
+      "布丁蜜豆奶@伊弗利特",
+      "殤魂@奧汀",
+      "賽秦@巴哈姆特",
+      "灛@奧汀",
+      "Neso@利維坦",
+      "欸紗@巴哈姆特"
+    ],
+    "fight_id": 30,
+    "duration_ms": 1122442,
+    "clear_dt_ms": 1784571524586,
+    "jobs": {
+      "犬圈圈@伊弗利特": "Gunbreaker",
+      "燉牛肉超好吃@奧汀": "DarkKnight",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "殤魂@奧汀": "Pictomancer",
+      "賽秦@巴哈姆特": "Monk",
+      "灛@奧汀": "Reaper",
+      "Neso@利維坦": "Machinist",
+      "欸紗@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "MFNLpbxX26rAd8vR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "露露怩雷@迦樓羅",
+      "姑且算王者@伊弗利特",
+      "波拉瑞斯@巴哈姆特",
+      "不可@鳳凰",
+      "可樂零熱量@利維坦",
+      "玖玖@迦樓羅",
+      "Dejavu@迦樓羅",
+      "沙帝斯@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 845641,
+    "clear_dt_ms": 1784574305872,
+    "jobs": {
+      "露露怩雷@迦樓羅": "Astrologian",
+      "姑且算王者@伊弗利特": "Summoner",
+      "波拉瑞斯@巴哈姆特": "Scholar",
+      "不可@鳳凰": "Gunbreaker",
+      "可樂零熱量@利維坦": "Paladin",
+      "玖玖@迦樓羅": "BlackMage",
+      "Dejavu@迦樓羅": "Dancer",
+      "沙帝斯@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "cW7wdNbJyABFvgaz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "超級拇指喬@鳳凰",
+      "行舟浮生@利維坦",
+      "姑且算王者@伊弗利特",
+      "墨灑清河@伊弗利特",
+      "索拉肥@鳳凰",
+      "墮鳶@利維坦",
+      "松露@迦樓羅",
+      "Hiki@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 818753,
+    "clear_dt_ms": 1784570216040,
+    "jobs": {
+      "超級拇指喬@鳳凰": "Sage",
+      "行舟浮生@利維坦": "Warrior",
+      "姑且算王者@伊弗利特": "Summoner",
+      "墨灑清河@伊弗利特": "Dancer",
+      "索拉肥@鳳凰": "DarkKnight",
+      "墮鳶@利維坦": "Monk",
+      "松露@迦樓羅": "Dragoon",
+      "Hiki@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "r78PMxWfa3myjvpb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "下限無底@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "拿豆腐丟你喔@迦樓羅",
+      "一之瀨凜香@迦樓羅",
+      "披口醬@迦樓羅",
+      "Ao@迦樓羅",
+      "莉露@迦樓羅",
+      "小呆瓜@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1019978,
+    "clear_dt_ms": 1784554630364,
+    "jobs": {
+      "下限無底@迦樓羅": "Paladin",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "拿豆腐丟你喔@迦樓羅": "Warrior",
+      "一之瀨凜香@迦樓羅": "Scholar",
+      "披口醬@迦樓羅": "Summoner",
+      "Ao@迦樓羅": "Machinist",
+      "莉露@迦樓羅": "Sage",
+      "小呆瓜@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "r78PMxWfa3myjvpb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "下限無底@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特",
+      "拿豆腐丟你喔@迦樓羅",
+      "一之瀨凜香@迦樓羅",
+      "披口醬@迦樓羅",
+      "Ao@迦樓羅",
+      "莉露@迦樓羅",
+      "小呆瓜@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1033954,
+    "clear_dt_ms": 1784555719846,
+    "jobs": {
+      "下限無底@迦樓羅": "Paladin",
+      "欸欸欸手摸哪@伊弗利特": "Astrologian",
+      "拿豆腐丟你喔@迦樓羅": "Warrior",
+      "一之瀨凜香@迦樓羅": "Scholar",
+      "披口醬@迦樓羅": "Summoner",
+      "Ao@迦樓羅": "Machinist",
+      "莉露@迦樓羅": "Sage",
+      "小呆瓜@迦樓羅": "Monk"
+    }
   }
 ]
