@@ -76650,5 +76650,61 @@
       "羊仔@利維坦": "Monk",
       "賭狗隊長阿粽@鳳凰": "BlackMage"
     }
+  },
+  {
+    "code": "4tPNZ3HyLrBQb7g9",
+    "title": "FRU紀錄",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "林檎@迦樓羅",
+      "小瓦@迦樓羅",
+      "米爾凱森@迦樓羅",
+      "Poma@泰坦",
+      "Benny@利維坦",
+      "紅燒竹鼠@迦樓羅",
+      "茶水@迦樓羅",
+      "白宣@泰坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1123874,
+    "clear_dt_ms": 1784464827082,
+    "jobs": {
+      "林檎@迦樓羅": "Pictomancer",
+      "小瓦@迦樓羅": "Samurai",
+      "米爾凱森@迦樓羅": "Dancer",
+      "Poma@泰坦": "Scholar",
+      "Benny@利維坦": "Monk",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "茶水@迦樓羅": "Astrologian",
+      "白宣@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "4tPNZ3HyLrBQb7g9",
+    "title": "FRU紀錄",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lavid@鳳凰",
+      "柒伍@迦樓羅",
+      "火仔@奧汀",
+      "Gptms@鳳凰",
+      "偷米@奧汀",
+      "瀧@伊弗利特",
+      "子勳勳@鳳凰",
+      "有馬佳奈@利維坦"
+    ],
+    "fight_id": 54,
+    "duration_ms": 1120589,
+    "clear_dt_ms": 1784530478817,
+    "jobs": {
+      "Lavid@鳳凰": "Viper",
+      "柒伍@迦樓羅": "Dragoon",
+      "火仔@奧汀": "Warrior",
+      "Gptms@鳳凰": "Paladin",
+      "偷米@奧汀": "Dancer",
+      "瀧@伊弗利特": "Pictomancer",
+      "子勳勳@鳳凰": "Scholar",
+      "有馬佳奈@利維坦": "Astrologian"
+    }
   }
 ]
