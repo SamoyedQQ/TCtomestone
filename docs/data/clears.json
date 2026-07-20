@@ -76790,5 +76790,61 @@
       "Edsel@伊弗利特": "Monk",
       "我是一支小草@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "CgKaPB9NYm2nMpv6",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "黑犬@利維坦",
+      "薇薇布@迦樓羅",
+      "轉圈圈@迦樓羅",
+      "Edsel@伊弗利特",
+      "小冰@奧汀",
+      "火仔@奧汀",
+      "甜甜的小仙女@巴哈姆特",
+      "雲浪丨遊軒轅@鳳凰"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1120710,
+    "clear_dt_ms": 1784486114313,
+    "jobs": {
+      "黑犬@利維坦": "Dancer",
+      "薇薇布@迦樓羅": "Astrologian",
+      "轉圈圈@迦樓羅": "Scholar",
+      "Edsel@伊弗利特": "Monk",
+      "小冰@奧汀": "Gunbreaker",
+      "火仔@奧汀": "Warrior",
+      "甜甜的小仙女@巴哈姆特": "Samurai",
+      "雲浪丨遊軒轅@鳳凰": "Pictomancer"
+    }
+  },
+  {
+    "code": "BtZC2xmbhj8ndaGW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "悠羽狐白@利維坦",
+      "鴨子丷@泰坦",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "水無月夢@巴哈姆特",
+      "拉哈不累阿@泰坦",
+      "里斯@巴哈姆特",
+      "速度人終結者@鳳凰",
+      "孤獨萊恩@鳳凰"
+    ],
+    "fight_id": 29,
+    "duration_ms": 1121793,
+    "clear_dt_ms": 1784469995162,
+    "jobs": {
+      "悠羽狐白@利維坦": "Ninja",
+      "鴨子丷@泰坦": "Paladin",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "水無月夢@巴哈姆特": "DarkKnight",
+      "拉哈不累阿@泰坦": "Reaper",
+      "里斯@巴哈姆特": "Astrologian",
+      "速度人終結者@鳳凰": "Pictomancer",
+      "孤獨萊恩@鳳凰": "Scholar"
+    }
   }
 ]
