@@ -77938,5 +77938,89 @@
       "Reddo梅@泰坦": "Dancer",
       "殤魂@奧汀": "Pictomancer"
     }
+  },
+  {
+    "code": "LfAPYTkq91FGMdng",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "手殘大叔@鳳凰",
+      "拉拉風@伊弗利特",
+      "將吾@鳳凰",
+      "阿肌蘇丸@奧汀",
+      "電子幽靈@奧汀",
+      "豆花三十塊@巴哈姆特",
+      "黑虧@利維坦",
+      "兔耳護唇膏@鳳凰"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1120711,
+    "clear_dt_ms": 1784645800634,
+    "jobs": {
+      "手殘大叔@鳳凰": "Pictomancer",
+      "拉拉風@伊弗利特": "Paladin",
+      "將吾@鳳凰": "Astrologian",
+      "阿肌蘇丸@奧汀": "Dancer",
+      "電子幽靈@奧汀": "Dragoon",
+      "豆花三十塊@巴哈姆特": "Monk",
+      "黑虧@利維坦": "DarkKnight",
+      "兔耳護唇膏@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "xdM2Y3yXZ4TCvqA1",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Yamimi@迦樓羅",
+      "極光@迦樓羅",
+      "筱楓a黑兔@迦樓羅",
+      "Arting@迦樓羅",
+      "陌夜語月@利維坦",
+      "小維@鳳凰",
+      "Sellyy@迦樓羅",
+      "赫斯媞雅@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1122687,
+    "clear_dt_ms": 1784644671051,
+    "jobs": {
+      "Yamimi@迦樓羅": "Monk",
+      "極光@迦樓羅": "Paladin",
+      "筱楓a黑兔@迦樓羅": "Sage",
+      "Arting@迦樓羅": "DarkKnight",
+      "陌夜語月@利維坦": "Samurai",
+      "小維@鳳凰": "Astrologian",
+      "Sellyy@迦樓羅": "Dancer",
+      "赫斯媞雅@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "1apCxHJ34WPTzRdk",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "彭聖傑傑@利維坦",
+      "塔拉妮絲@巴哈姆特",
+      "D·咕咕嘎嘎@伊弗利特",
+      "米豬@伊弗利特",
+      "阿公穿肚兜跑@利維坦",
+      "Adai@伊弗利特",
+      "七海@巴哈姆特",
+      "Gereon@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1124381,
+    "clear_dt_ms": 1784643775591,
+    "jobs": {
+      "彭聖傑傑@利維坦": "Sage",
+      "塔拉妮絲@巴哈姆特": "DarkKnight",
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "米豬@伊弗利特": "Dragoon",
+      "阿公穿肚兜跑@利維坦": "Pictomancer",
+      "Adai@伊弗利特": "Paladin",
+      "七海@巴哈姆特": "Bard",
+      "Gereon@利維坦": "Monk"
+    }
   }
 ]
