@@ -77630,5 +77630,33 @@
       "Nacho@鳳凰": "Reaper",
       "火仔@奧汀": "DarkKnight"
     }
+  },
+  {
+    "code": "XgvqjyYkGaHNPcDC",
+    "title": "FRU紀錄",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Seckil@奧汀",
+      "二v@迦樓羅",
+      "Diaulo@迦樓羅",
+      "熊貓@利維坦",
+      "深雪烏冬@鳳凰",
+      "破曉金風@迦樓羅",
+      "Gptms@鳳凰",
+      "Bang企鵝@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1125723,
+    "clear_dt_ms": 1784598078923,
+    "jobs": {
+      "Seckil@奧汀": "Pictomancer",
+      "二v@迦樓羅": "BlackMage",
+      "Diaulo@迦樓羅": "Samurai",
+      "熊貓@利維坦": "Astrologian",
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "破曉金風@迦樓羅": "Sage",
+      "Gptms@鳳凰": "Paladin",
+      "Bang企鵝@巴哈姆特": "Dancer"
+    }
   }
 ]
