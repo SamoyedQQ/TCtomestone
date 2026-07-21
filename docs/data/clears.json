@@ -77658,5 +77658,61 @@
       "Gptms@鳳凰": "Paladin",
       "Bang企鵝@巴哈姆特": "Dancer"
     }
+  },
+  {
+    "code": "xk2jZ1QTMvDczJRb",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "舉舉@利維坦",
+      "杏仁豆腐@奧汀",
+      "Harii@奧汀",
+      "小冰@奧汀",
+      "Kaizer@奧汀",
+      "小夢幻@奧汀",
+      "奧爾古斯塔斯@伊弗利特",
+      "Arasxi@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1121486,
+    "clear_dt_ms": 1784627268157,
+    "jobs": {
+      "舉舉@利維坦": "BlackMage",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "Harii@奧汀": "Viper",
+      "小冰@奧汀": "Paladin",
+      "Kaizer@奧汀": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "奧爾古斯塔斯@伊弗利特": "Dancer",
+      "Arasxi@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "bvwTNFkdRrYMB69K",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "穗曦@伊弗利特",
+      "旮旯給木高手@伊弗利特",
+      "阿加德@泰坦",
+      "阿兔爺@迦樓羅",
+      "時旐@利維坦",
+      "Lavid@鳳凰",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "Nacho@鳳凰"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1114283,
+    "clear_dt_ms": 1784622655919,
+    "jobs": {
+      "穗曦@伊弗利特": "Scholar",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "阿加德@泰坦": "Astrologian",
+      "阿兔爺@迦樓羅": "Pictomancer",
+      "時旐@利維坦": "Monk",
+      "Lavid@鳳凰": "Paladin",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "Nacho@鳳凰": "Reaper"
+    }
   }
 ]
