@@ -78582,5 +78582,33 @@
       "Zanth@鳳凰": "WhiteMage",
       "梧桐更兼細雨@泰坦": "Monk"
     }
+  },
+  {
+    "code": "DFVMtAQpTa9C2wg6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小乳子@利維坦",
+      "三角初音@伊弗利特",
+      "土撥鼠@迦樓羅",
+      "楊巴巴@巴哈姆特",
+      "旦旦龍@鳳凰",
+      "笭@迦樓羅",
+      "Yooyu@迦樓羅",
+      "傑奇@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 957850,
+    "clear_dt_ms": 1784692834022,
+    "jobs": {
+      "小乳子@利維坦": "Samurai",
+      "三角初音@伊弗利特": "Machinist",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "楊巴巴@巴哈姆特": "Paladin",
+      "旦旦龍@鳳凰": "DarkKnight",
+      "笭@迦樓羅": "Scholar",
+      "Yooyu@迦樓羅": "WhiteMage",
+      "傑奇@伊弗利特": "RedMage"
+    }
   }
 ]
