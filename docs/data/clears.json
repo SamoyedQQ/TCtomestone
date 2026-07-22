@@ -79058,5 +79058,33 @@
       "哭哭拉肥爾@奧汀": "Astrologian",
       "Gua@迦樓羅": "Warrior"
     }
+  },
+  {
+    "code": "n3WDPtB2rKj9TRJh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "巴拉巴巴巴@巴哈姆特",
+      "Coyeee@奧汀",
+      "只有紅茶可嗎@迦樓羅",
+      "Diaulo@迦樓羅",
+      "伯爵奶茶誇鬆@鳳凰",
+      "Engner@迦樓羅",
+      "Altor@奧汀",
+      "薪水很高@奧汀"
+    ],
+    "fight_id": 24,
+    "duration_ms": 861383,
+    "clear_dt_ms": 1784746151269,
+    "jobs": {
+      "巴拉巴巴巴@巴哈姆特": "Ninja",
+      "Coyeee@奧汀": "WhiteMage",
+      "只有紅茶可嗎@迦樓羅": "Bard",
+      "Diaulo@迦樓羅": "Samurai",
+      "伯爵奶茶誇鬆@鳳凰": "Warrior",
+      "Engner@迦樓羅": "DarkKnight",
+      "Altor@奧汀": "Scholar",
+      "薪水很高@奧汀": "Summoner"
+    }
   }
 ]
