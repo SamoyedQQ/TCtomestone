@@ -78638,5 +78638,89 @@
       "是又怎樣@奧汀": "Ninja",
       "玖玖@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "vmCWQR7Gwb1LqBHJ",
+    "title": "20260722-2",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "電漿衝鋒槍@奧汀",
+      "流承@迦樓羅",
+      "Edsel@伊弗利特",
+      "舉舉@利維坦",
+      "玖玖@迦樓羅",
+      "阿·瓦諾@奧汀",
+      "李丁路哲@迦樓羅",
+      "吉備團子@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1124502,
+    "clear_dt_ms": 1784724012012,
+    "jobs": {
+      "電漿衝鋒槍@奧汀": "DarkKnight",
+      "流承@迦樓羅": "Scholar",
+      "Edsel@伊弗利特": "Monk",
+      "舉舉@利維坦": "Machinist",
+      "玖玖@迦樓羅": "BlackMage",
+      "阿·瓦諾@奧汀": "Paladin",
+      "李丁路哲@迦樓羅": "Samurai",
+      "吉備團子@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "fWDkg18Q3X7NpFnY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Nemo捏摸@利維坦",
+      "蘭納迪諾@利維坦",
+      "矮子躲招容易@泰坦",
+      "異世界@利維坦",
+      "肥嘟嘟@迦樓羅",
+      "Desinc@奧汀",
+      "路德@利維坦",
+      "巴隆@泰坦"
+    ],
+    "fight_id": 15,
+    "duration_ms": 997858,
+    "clear_dt_ms": 1784719525754,
+    "jobs": {
+      "Nemo捏摸@利維坦": "Astrologian",
+      "蘭納迪諾@利維坦": "Paladin",
+      "矮子躲招容易@泰坦": "Sage",
+      "異世界@利維坦": "Pictomancer",
+      "肥嘟嘟@迦樓羅": "Monk",
+      "Desinc@奧汀": "Dancer",
+      "路德@利維坦": "Warrior",
+      "巴隆@泰坦": "Dragoon"
+    }
+  },
+  {
+    "code": "THLhy6aKwqCWJMNB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "小八軟糖@奧汀",
+      "小野寺悠@奧汀",
+      "Peca@伊弗利特",
+      "墨灑清河@伊弗利特",
+      "魚丸探長@鳳凰",
+      "Galaxy@泰坦",
+      "果子狸水魚鞭@奧汀",
+      "Yongno@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 845854,
+    "clear_dt_ms": 1784717860130,
+    "jobs": {
+      "小八軟糖@奧汀": "Astrologian",
+      "小野寺悠@奧汀": "Samurai",
+      "Peca@伊弗利特": "Warrior",
+      "墨灑清河@伊弗利特": "Dancer",
+      "魚丸探長@鳳凰": "RedMage",
+      "Galaxy@泰坦": "Scholar",
+      "果子狸水魚鞭@奧汀": "Monk",
+      "Yongno@伊弗利特": "Paladin"
+    }
   }
 ]
