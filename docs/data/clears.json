@@ -78470,5 +78470,117 @@
       "深雪烏冬@鳳凰": "DarkKnight",
       "冰栗子@巴哈姆特": "Sage"
     }
+  },
+  {
+    "code": "Qx71zaFpnd8bHtJT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zanth@鳳凰",
+      "乂o可樂o乂@鳳凰",
+      "黑貴賓@鳳凰",
+      "卡希雅的娃娃@鳳凰",
+      "稻荷小狐@鳳凰",
+      "烏龍凍飲@奧汀",
+      "Jin@迦樓羅",
+      "Kiwii@鳳凰"
+    ],
+    "fight_id": 19,
+    "duration_ms": 978936,
+    "clear_dt_ms": 1784444990365,
+    "jobs": {
+      "Zanth@鳳凰": "WhiteMage",
+      "乂o可樂o乂@鳳凰": "Pictomancer",
+      "黑貴賓@鳳凰": "Monk",
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "稻荷小狐@鳳凰": "Dancer",
+      "烏龍凍飲@奧汀": "Paladin",
+      "Jin@迦樓羅": "Sage",
+      "Kiwii@鳳凰": "DarkKnight"
+    }
+  },
+  {
+    "code": "1p7vjDZhkPB6N9bQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Jin@迦樓羅",
+      "稻荷小狐@鳳凰",
+      "卡希雅的娃娃@鳳凰",
+      "乂o可樂o乂@鳳凰",
+      "Kiwii@鳳凰",
+      "四紅一藍@鳳凰",
+      "Zanth@鳳凰",
+      "梧桐更兼細雨@泰坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 980909,
+    "clear_dt_ms": 1784449198235,
+    "jobs": {
+      "Jin@迦樓羅": "Sage",
+      "稻荷小狐@鳳凰": "Dancer",
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "乂o可樂o乂@鳳凰": "Pictomancer",
+      "Kiwii@鳳凰": "DarkKnight",
+      "四紅一藍@鳳凰": "Paladin",
+      "Zanth@鳳凰": "WhiteMage",
+      "梧桐更兼細雨@泰坦": "Monk"
+    }
+  },
+  {
+    "code": "1p7vjDZhkPB6N9bQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Jin@迦樓羅",
+      "稻荷小狐@鳳凰",
+      "卡希雅的娃娃@鳳凰",
+      "乂o可樂o乂@鳳凰",
+      "Kiwii@鳳凰",
+      "Zanth@鳳凰",
+      "四紅一藍@鳳凰",
+      "梧桐更兼細雨@泰坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 982481,
+    "clear_dt_ms": 1784450276755,
+    "jobs": {
+      "Jin@迦樓羅": "Sage",
+      "稻荷小狐@鳳凰": "Dancer",
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "乂o可樂o乂@鳳凰": "Pictomancer",
+      "Kiwii@鳳凰": "DarkKnight",
+      "Zanth@鳳凰": "WhiteMage",
+      "四紅一藍@鳳凰": "Paladin",
+      "梧桐更兼細雨@泰坦": "Monk"
+    }
+  },
+  {
+    "code": "1p7vjDZhkPB6N9bQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Jin@迦樓羅",
+      "稻荷小狐@鳳凰",
+      "卡希雅的娃娃@鳳凰",
+      "乂o可樂o乂@鳳凰",
+      "Kiwii@鳳凰",
+      "四紅一藍@鳳凰",
+      "Zanth@鳳凰",
+      "梧桐更兼細雨@泰坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 979827,
+    "clear_dt_ms": 1784451440247,
+    "jobs": {
+      "Jin@迦樓羅": "Sage",
+      "稻荷小狐@鳳凰": "Dancer",
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "乂o可樂o乂@鳳凰": "Pictomancer",
+      "Kiwii@鳳凰": "DarkKnight",
+      "四紅一藍@鳳凰": "Paladin",
+      "Zanth@鳳凰": "WhiteMage",
+      "梧桐更兼細雨@泰坦": "Monk"
+    }
   }
 ]
