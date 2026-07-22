@@ -78610,5 +78610,33 @@
       "Yooyu@迦樓羅": "WhiteMage",
       "傑奇@伊弗利特": "RedMage"
     }
+  },
+  {
+    "code": "X4DncyPRrV7LdQ3B",
+    "title": "20260722-2",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "發芽馬鈴薯@巴哈姆特",
+      "拉哈不累阿@泰坦",
+      "熊貓@利維坦",
+      "黑洛肥@巴哈姆特",
+      "托比特@鳳凰",
+      "找不到該玩家@利維坦",
+      "是又怎樣@奧汀",
+      "玖玖@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1131357,
+    "clear_dt_ms": 1784720581530,
+    "jobs": {
+      "發芽馬鈴薯@巴哈姆特": "DarkKnight",
+      "拉哈不累阿@泰坦": "Reaper",
+      "熊貓@利維坦": "Scholar",
+      "黑洛肥@巴哈姆特": "Dancer",
+      "托比特@鳳凰": "Astrologian",
+      "找不到該玩家@利維坦": "Paladin",
+      "是又怎樣@奧汀": "Ninja",
+      "玖玖@迦樓羅": "BlackMage"
+    }
   }
 ]
