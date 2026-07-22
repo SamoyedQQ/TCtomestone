@@ -79002,5 +79002,61 @@
       "夜魔仙@鳳凰": "Dragoon",
       "皮卡悠@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "v16fjLPNhHM9WAT3",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "星河映秋@伊弗利特",
+      "二v@迦樓羅",
+      "Seckil@奧汀",
+      "Sixwin@伊弗利特",
+      "大自然的饋贈@伊弗利特",
+      "席德@鳳凰",
+      "Dpyc@鳳凰",
+      "阿·瓦諾@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1125305,
+    "clear_dt_ms": 1784741382851,
+    "jobs": {
+      "星河映秋@伊弗利特": "Dancer",
+      "二v@迦樓羅": "Astrologian",
+      "Seckil@奧汀": "Pictomancer",
+      "Sixwin@伊弗利特": "Samurai",
+      "大自然的饋贈@伊弗利特": "Scholar",
+      "席德@鳳凰": "DarkKnight",
+      "Dpyc@鳳凰": "Monk",
+      "阿·瓦諾@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "kmFbLtxqwgVpMYAv",
+    "title": "20260723-1",
+    "encounter": "究極武器",
+    "players": [
+      "Pingu@伊弗利特",
+      "段藏@利維坦",
+      "員力喵@迦樓羅",
+      "露露怩雷@迦樓羅",
+      "檸檬冬瓜綠@奧汀",
+      "玖玖@迦樓羅",
+      "哭哭拉肥爾@奧汀",
+      "Gua@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 857088,
+    "clear_dt_ms": 1784740229318,
+    "jobs": {
+      "Pingu@伊弗利特": "Scholar",
+      "段藏@利維坦": "Paladin",
+      "員力喵@迦樓羅": "Summoner",
+      "露露怩雷@迦樓羅": "Samurai",
+      "檸檬冬瓜綠@奧汀": "Machinist",
+      "玖玖@迦樓羅": "BlackMage",
+      "哭哭拉肥爾@奧汀": "Astrologian",
+      "Gua@迦樓羅": "Warrior"
+    }
   }
 ]
