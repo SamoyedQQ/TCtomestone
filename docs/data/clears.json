@@ -79702,5 +79702,33 @@
       "里奇夕賀@泰坦": "Paladin",
       "米堤兔@泰坦": "Scholar"
     }
+  },
+  {
+    "code": "pYR6jTHXb1zkNrvL",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Vbuik@伊弗利特",
+      "喵喵醬@奧汀",
+      "麥塊啟動器@伊弗利特",
+      "玖玖@迦樓羅",
+      "轉圈圈@迦樓羅",
+      "Neso@利維坦",
+      "小亞@奧汀",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1124487,
+    "clear_dt_ms": 1784831956898,
+    "jobs": {
+      "Vbuik@伊弗利特": "Samurai",
+      "喵喵醬@奧汀": "DarkKnight",
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "玖玖@迦樓羅": "BlackMage",
+      "轉圈圈@迦樓羅": "Scholar",
+      "Neso@利維坦": "Machinist",
+      "小亞@奧汀": "Paladin",
+      "薇薇布@迦樓羅": "Sage"
+    }
   }
 ]
