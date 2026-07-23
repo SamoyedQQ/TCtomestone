@@ -79422,5 +79422,117 @@
       "油貓餅@泰坦": "Dancer",
       "河玟@利維坦": "Sage"
     }
+  },
+  {
+    "code": "PWKbYvyhwNc39znM",
+    "title": "0723",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "布絲@利維坦",
+      "Gndd@鳳凰",
+      "梧桐更兼細雨@泰坦",
+      "三角初音@伊弗利特",
+      "玥遙@鳳凰",
+      "Q六@利維坦",
+      "莉可@鳳凰",
+      "眾天月靈@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1125756,
+    "clear_dt_ms": 1784818535184,
+    "jobs": {
+      "布絲@利維坦": "WhiteMage",
+      "Gndd@鳳凰": "Machinist",
+      "梧桐更兼細雨@泰坦": "Monk",
+      "三角初音@伊弗利特": "Pictomancer",
+      "玥遙@鳳凰": "Samurai",
+      "Q六@利維坦": "Warrior",
+      "莉可@鳳凰": "Paladin",
+      "眾天月靈@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "2P3HdjZnkALr78WQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "烏龍丸@伊弗利特",
+      "麥塊啟動器@伊弗利特",
+      "爐石戰記化身@伊弗利特",
+      "破曉金風@迦樓羅",
+      "純屬意外@伊弗利特",
+      "Noma@伊弗利特",
+      "嘎boom@鳳凰",
+      "夙月@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1121494,
+    "clear_dt_ms": 1784815767493,
+    "jobs": {
+      "烏龍丸@伊弗利特": "DarkKnight",
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "爐石戰記化身@伊弗利特": "Dancer",
+      "破曉金風@迦樓羅": "Sage",
+      "純屬意外@伊弗利特": "Paladin",
+      "Noma@伊弗利特": "WhiteMage",
+      "嘎boom@鳳凰": "BlackMage",
+      "夙月@巴哈姆特": "Monk"
+    }
+  },
+  {
+    "code": "HPfgLbdtr2DJczXM",
+    "title": "絕歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "寧缺勿濫@利維坦",
+      "Makua@奧汀",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Kotori@伊弗利特",
+      "Harii@奧汀",
+      "芋泥休斯頓@迦樓羅",
+      "東玄@鳳凰",
+      "Mabian@迦樓羅"
+    ],
+    "fight_id": 22,
+    "duration_ms": 1138441,
+    "clear_dt_ms": 1784819632182,
+    "jobs": {
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "Makua@奧汀": "Monk",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Kotori@伊弗利特": "Scholar",
+      "Harii@奧汀": "Dancer",
+      "芋泥休斯頓@迦樓羅": "Dragoon",
+      "東玄@鳳凰": "WhiteMage",
+      "Mabian@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "Qmf4pcdBDPH6nzkV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "巴伯靴@利維坦",
+      "苦難陳述者@利維坦",
+      "高金生@利維坦",
+      "語@利維坦",
+      "花凜@利維坦",
+      "紫柳@利維坦",
+      "阿村@利維坦",
+      "B蜂蜂小甜心@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 851810,
+    "clear_dt_ms": 1784819336559,
+    "jobs": {
+      "巴伯靴@利維坦": "Scholar",
+      "苦難陳述者@利維坦": "Samurai",
+      "高金生@利維坦": "Summoner",
+      "語@利維坦": "Dancer",
+      "花凜@利維坦": "Warrior",
+      "紫柳@利維坦": "BlackMage",
+      "阿村@利維坦": "Paladin",
+      "B蜂蜂小甜心@利維坦": "Astrologian"
+    }
   }
 ]
