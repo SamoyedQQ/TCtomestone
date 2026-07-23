@@ -79310,5 +79310,117 @@
       "虹怨@泰坦": "Sage",
       "努努露@伊弗利特": "Reaper"
     }
+  },
+  {
+    "code": "zawD1XxRjhMZbAQC",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "魅妃貓@伊弗利特",
+      "Npharm@伊弗利特",
+      "破喉嚨@鳳凰",
+      "Kira@鳳凰",
+      "梅露@伊弗利特",
+      "Poa@伊弗利特",
+      "游刃游魚@迦樓羅",
+      "神影依@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1124529,
+    "clear_dt_ms": 1784814634944,
+    "jobs": {
+      "魅妃貓@伊弗利特": "Scholar",
+      "Npharm@伊弗利特": "Dancer",
+      "破喉嚨@鳳凰": "Astrologian",
+      "Kira@鳳凰": "Dragoon",
+      "梅露@伊弗利特": "Paladin",
+      "Poa@伊弗利特": "DarkKnight",
+      "游刃游魚@迦樓羅": "BlackMage",
+      "神影依@巴哈姆特": "Pictomancer"
+    }
+  },
+  {
+    "code": "qVazDrPZ3kvF62td",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "琶舞@迦樓羅",
+      "牛肉堡大俠@迦樓羅",
+      "Lz@迦樓羅",
+      "伊貳參@迦樓羅",
+      "鬍子馬鈴薯@迦樓羅",
+      "銀河有跡可循@迦樓羅",
+      "人生厭世@迦樓羅",
+      "貓頭蜜蜂@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 993392,
+    "clear_dt_ms": 1784813021501,
+    "jobs": {
+      "琶舞@迦樓羅": "Warrior",
+      "牛肉堡大俠@迦樓羅": "Sage",
+      "Lz@迦樓羅": "BlackMage",
+      "伊貳參@迦樓羅": "Bard",
+      "鬍子馬鈴薯@迦樓羅": "WhiteMage",
+      "銀河有跡可循@迦樓羅": "Paladin",
+      "人生厭世@迦樓羅": "Ninja",
+      "貓頭蜜蜂@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "t7NBrPwXQL4VbAay",
+    "title": "絕歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "寧缺勿濫@利維坦",
+      "Makua@奧汀",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Kotori@伊弗利特",
+      "Harii@奧汀",
+      "芋泥休斯頓@迦樓羅",
+      "東玄@鳳凰",
+      "Mabian@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1136135,
+    "clear_dt_ms": 1784812166992,
+    "jobs": {
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "Makua@奧汀": "Monk",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Kotori@伊弗利特": "Scholar",
+      "Harii@奧汀": "Dancer",
+      "芋泥休斯頓@迦樓羅": "Dragoon",
+      "東玄@鳳凰": "WhiteMage",
+      "Mabian@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "WG32nyjhbMwNqcJC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "南瓜瓜@迦樓羅",
+      "欸紗@巴哈姆特",
+      "燉牛肉超好吃@奧汀",
+      "不潔騎士偲佤@迦樓羅",
+      "洋月@巴哈姆特",
+      "Quire@奧汀",
+      "油貓餅@泰坦",
+      "河玟@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 944237,
+    "clear_dt_ms": 1784811983408,
+    "jobs": {
+      "南瓜瓜@迦樓羅": "Pictomancer",
+      "欸紗@巴哈姆特": "Astrologian",
+      "燉牛肉超好吃@奧汀": "Dragoon",
+      "不潔騎士偲佤@迦樓羅": "Paladin",
+      "洋月@巴哈姆特": "DarkKnight",
+      "Quire@奧汀": "Samurai",
+      "油貓餅@泰坦": "Dancer",
+      "河玟@利維坦": "Sage"
+    }
   }
 ]
