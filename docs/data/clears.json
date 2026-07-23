@@ -79170,5 +79170,33 @@
       "師匠的狗@奧汀": "Dancer",
       "朴莉莉的狗@鳳凰": "Samurai"
     }
+  },
+  {
+    "code": "RFBMjtcHmLPG3A1g",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "天使之吻@迦樓羅",
+      "柒伍@迦樓羅",
+      "雲浪丨遊軒轅@鳳凰",
+      "轉圈圈@迦樓羅",
+      "薇薇布@迦樓羅",
+      "洗讚小鴨鴨@伊弗利特",
+      "標@泰坦",
+      "穎嵐@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121660,
+    "clear_dt_ms": 1784660543159,
+    "jobs": {
+      "天使之吻@迦樓羅": "DarkKnight",
+      "柒伍@迦樓羅": "Viper",
+      "雲浪丨遊軒轅@鳳凰": "Pictomancer",
+      "轉圈圈@迦樓羅": "Scholar",
+      "薇薇布@迦樓羅": "Sage",
+      "洗讚小鴨鴨@伊弗利特": "Bard",
+      "標@泰坦": "Dragoon",
+      "穎嵐@利維坦": "Paladin"
+    }
   }
 ]
