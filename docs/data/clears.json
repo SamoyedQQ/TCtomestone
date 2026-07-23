@@ -79086,5 +79086,33 @@
       "Altor@奧汀": "Scholar",
       "薪水很高@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "dMc1xgKhfF6RAyPz",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "路德@利維坦",
+      "維克·派金克@奧汀",
+      "Ex咖哩棒@奧汀",
+      "星君@利維坦",
+      "青雀@利維坦",
+      "奧斯塔@泰坦",
+      "艾德魯@伊弗利特",
+      "闊刀地雷@伊弗利特"
+    ],
+    "fight_id": 341,
+    "duration_ms": 984082,
+    "clear_dt_ms": 1782050554782,
+    "jobs": {
+      "路德@利維坦": "Warrior",
+      "維克·派金克@奧汀": "Dancer",
+      "Ex咖哩棒@奧汀": "Astrologian",
+      "星君@利維坦": "BlackMage",
+      "青雀@利維坦": "Samurai",
+      "奧斯塔@泰坦": "Gunbreaker",
+      "艾德魯@伊弗利特": "Scholar",
+      "闊刀地雷@伊弗利特": "Monk"
+    }
   }
 ]
