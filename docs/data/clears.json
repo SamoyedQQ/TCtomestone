@@ -80262,5 +80262,145 @@
       "汀梨@利維坦": "Astrologian",
       "星也@泰坦": "Pictomancer"
     }
+  },
+  {
+    "code": "aLQyFW4g9mjVt6Zf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ringo@巴哈姆特",
+      "哈士奇音音@利維坦",
+      "易銘@利維坦",
+      "裴黔@利維坦",
+      "涵涵飽@泰坦",
+      "Acedia@泰坦",
+      "旦旦龍@鳳凰",
+      "空白a@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 975101,
+    "clear_dt_ms": 1784917049605,
+    "jobs": {
+      "Ringo@巴哈姆特": "Scholar",
+      "哈士奇音音@利維坦": "Ninja",
+      "易銘@利維坦": "Dragoon",
+      "裴黔@利維坦": "Machinist",
+      "涵涵飽@泰坦": "Pictomancer",
+      "Acedia@泰坦": "Gunbreaker",
+      "旦旦龍@鳳凰": "DarkKnight",
+      "空白a@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "nLWDM9gdPBfjRbx1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Kira@鳳凰",
+      "李丁路哲@迦樓羅",
+      "找不到該玩家@利維坦",
+      "霸總哥布林@巴哈姆特",
+      "舞紗橘@利維坦",
+      "流承@迦樓羅",
+      "喵喵醬@奧汀",
+      "凱旋刺劍@奧汀"
+    ],
+    "fight_id": 68,
+    "duration_ms": 1082929,
+    "clear_dt_ms": 1784910770003,
+    "jobs": {
+      "Kira@鳳凰": "Summoner",
+      "李丁路哲@迦樓羅": "Samurai",
+      "找不到該玩家@利維坦": "Paladin",
+      "霸總哥布林@巴哈姆特": "Gunbreaker",
+      "舞紗橘@利維坦": "RedMage",
+      "流承@迦樓羅": "Scholar",
+      "喵喵醬@奧汀": "Sage",
+      "凱旋刺劍@奧汀": "Astrologian"
+    }
+  },
+  {
+    "code": "nLWDM9gdPBfjRbx1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Kira@鳳凰",
+      "找不到該玩家@利維坦",
+      "舞紗橘@利維坦",
+      "流承@迦樓羅",
+      "喵喵醬@奧汀",
+      "李丁路哲@迦樓羅",
+      "凱旋刺劍@奧汀",
+      "霸總哥布林@巴哈姆特"
+    ],
+    "fight_id": 73,
+    "duration_ms": 1075321,
+    "clear_dt_ms": 1784913092695,
+    "jobs": {
+      "Kira@鳳凰": "Summoner",
+      "找不到該玩家@利維坦": "Paladin",
+      "舞紗橘@利維坦": "RedMage",
+      "流承@迦樓羅": "Scholar",
+      "喵喵醬@奧汀": "Sage",
+      "李丁路哲@迦樓羅": "Monk",
+      "凱旋刺劍@奧汀": "Astrologian",
+      "霸總哥布林@巴哈姆特": "Warrior"
+    }
+  },
+  {
+    "code": "PG37pB1WFLYZkTRC",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "深雪烏冬@鳳凰",
+      "愛跌倒的吐籽@利維坦",
+      "零零陸@利維坦",
+      "煞@迦樓羅",
+      "時莯@利維坦",
+      "香蕉大濕@伊弗利特",
+      "阿大姆@迦樓羅",
+      "給你錢快點做@鳳凰"
+    ],
+    "fight_id": 39,
+    "duration_ms": 1122126,
+    "clear_dt_ms": 1784809395188,
+    "jobs": {
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "愛跌倒的吐籽@利維坦": "Scholar",
+      "零零陸@利維坦": "Pictomancer",
+      "煞@迦樓羅": "Dragoon",
+      "時莯@利維坦": "Astrologian",
+      "香蕉大濕@伊弗利特": "Monk",
+      "阿大姆@迦樓羅": "Dancer",
+      "給你錢快點做@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "dDNaWPfnMHBCK1tF",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "天使之吻@迦樓羅",
+      "速度人終結者@鳳凰",
+      "夏夕夏景@伊弗利特",
+      "大王魷魚o@巴哈姆特",
+      "姆糖@迦樓羅",
+      "慎真@利維坦",
+      "Nemo捏摸@利維坦",
+      "Irdl@利維坦"
+    ],
+    "fight_id": 32,
+    "duration_ms": 1122061,
+    "clear_dt_ms": 1784923069704,
+    "jobs": {
+      "天使之吻@迦樓羅": "DarkKnight",
+      "速度人終結者@鳳凰": "Pictomancer",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "大王魷魚o@巴哈姆特": "Dragoon",
+      "姆糖@迦樓羅": "Dancer",
+      "慎真@利維坦": "Paladin",
+      "Nemo捏摸@利維坦": "Astrologian",
+      "Irdl@利維坦": "Monk"
+    }
   }
 ]
