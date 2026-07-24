@@ -79758,5 +79758,33 @@
       "火仔@奧汀": "RedMage",
       "Iroha@巴哈姆特": "Dancer"
     }
+  },
+  {
+    "code": "kqX1WCgjmZd7LxYK",
+    "title": "20260724-3",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "老鴿@伊弗利特",
+      "屁屁大師@利維坦",
+      "大顆鴨鴨凱@利維坦",
+      "二v@迦樓羅",
+      "舉舉@利維坦",
+      "Iroha@巴哈姆特",
+      "倉鼠教徒@巴哈姆特",
+      "玖玖@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1126168,
+    "clear_dt_ms": 1784864667884,
+    "jobs": {
+      "老鴿@伊弗利特": "Scholar",
+      "屁屁大師@利維坦": "Astrologian",
+      "大顆鴨鴨凱@利維坦": "Dragoon",
+      "二v@迦樓羅": "Samurai",
+      "舉舉@利維坦": "Gunbreaker",
+      "Iroha@巴哈姆特": "Dancer",
+      "倉鼠教徒@巴哈姆特": "DarkKnight",
+      "玖玖@迦樓羅": "BlackMage"
+    }
   }
 ]
