@@ -80542,5 +80542,33 @@
       "南瓜瓜@迦樓羅": "Pictomancer",
       "燉牛肉超好吃@奧汀": "Viper"
     }
+  },
+  {
+    "code": "XYh46J7Z8Ny2fRTM",
+    "title": "絕神兵 隨便幫渡劫 謝謝老闆的160萬",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "鉄鎧·陸肆式@迦樓羅",
+      "不可@鳳凰",
+      "Jannaw@鳳凰",
+      "哇嗚嗚@利維坦",
+      "芙莉蓮霧@奧汀",
+      "露露怩雷@迦樓羅",
+      "尼可拉斯地瓜@迦樓羅",
+      "未來不好耶@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 858696,
+    "clear_dt_ms": 1784983525259,
+    "jobs": {
+      "鉄鎧·陸肆式@迦樓羅": "RedMage",
+      "不可@鳳凰": "DarkKnight",
+      "Jannaw@鳳凰": "Dancer",
+      "哇嗚嗚@利維坦": "Dragoon",
+      "芙莉蓮霧@奧汀": "Summoner",
+      "露露怩雷@迦樓羅": "Astrologian",
+      "尼可拉斯地瓜@迦樓羅": "Paladin",
+      "未來不好耶@利維坦": "Scholar"
+    }
   }
 ]
