@@ -80486,5 +80486,33 @@
       "Young@奧汀": "Bard",
       "卡位dog@伊弗利特": "Warrior"
     }
+  },
+  {
+    "code": "kytrhNTadLAFxjQv",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Mr刺蝟@迦樓羅",
+      "旦旦龍@鳳凰",
+      "Hodder@巴哈姆特",
+      "Desinc@奧汀",
+      "布魯梅克@泰坦",
+      "吉娃娃娃吉@巴哈姆特",
+      "丁香@利維坦",
+      "明日的希望@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 963363,
+    "clear_dt_ms": 1784966153993,
+    "jobs": {
+      "Mr刺蝟@迦樓羅": "Sage",
+      "旦旦龍@鳳凰": "DarkKnight",
+      "Hodder@巴哈姆特": "Samurai",
+      "Desinc@奧汀": "Ninja",
+      "布魯梅克@泰坦": "BlackMage",
+      "吉娃娃娃吉@巴哈姆特": "Gunbreaker",
+      "丁香@利維坦": "WhiteMage",
+      "明日的希望@迦樓羅": "Dancer"
+    }
   }
 ]
