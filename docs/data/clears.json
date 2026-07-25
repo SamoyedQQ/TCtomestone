@@ -80430,5 +80430,61 @@
       "Racook@奧汀": "Gunbreaker",
       "舞紗橘@利維坦": "Pictomancer"
     }
+  },
+  {
+    "code": "Yc9B2vVkQTfaX7Hg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "丰梓@巴哈姆特",
+      "Yuu悠@奧汀",
+      "伊藻@泰坦",
+      "肥柴@巴哈姆特",
+      "Rither@奧汀",
+      "Nisbet@利維坦",
+      "Young@奧汀",
+      "卡位dog@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 959003,
+    "clear_dt_ms": 1784923540372,
+    "jobs": {
+      "丰梓@巴哈姆特": "Samurai",
+      "Yuu悠@奧汀": "Gunbreaker",
+      "伊藻@泰坦": "WhiteMage",
+      "肥柴@巴哈姆特": "Sage",
+      "Rither@奧汀": "Monk",
+      "Nisbet@利維坦": "Pictomancer",
+      "Young@奧汀": "Bard",
+      "卡位dog@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "Yc9B2vVkQTfaX7Hg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "丰梓@巴哈姆特",
+      "Yuu悠@奧汀",
+      "肥柴@巴哈姆特",
+      "伊藻@泰坦",
+      "Rither@奧汀",
+      "Nisbet@利維坦",
+      "Young@奧汀",
+      "卡位dog@伊弗利特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 974977,
+    "clear_dt_ms": 1784925914100,
+    "jobs": {
+      "丰梓@巴哈姆特": "Samurai",
+      "Yuu悠@奧汀": "Gunbreaker",
+      "肥柴@巴哈姆特": "Sage",
+      "伊藻@泰坦": "WhiteMage",
+      "Rither@奧汀": "Monk",
+      "Nisbet@利維坦": "Pictomancer",
+      "Young@奧汀": "Bard",
+      "卡位dog@伊弗利特": "Warrior"
+    }
   }
 ]
