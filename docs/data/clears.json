@@ -80514,5 +80514,33 @@
       "丁香@利維坦": "WhiteMage",
       "明日的希望@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "FfbJHdGAtP92DhM4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "欸紗@巴哈姆特",
+      "Quire@奧汀",
+      "不潔騎士偲佤@迦樓羅",
+      "河玟@利維坦",
+      "洋月@巴哈姆特",
+      "油貓餅@泰坦",
+      "南瓜瓜@迦樓羅",
+      "燉牛肉超好吃@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 973343,
+    "clear_dt_ms": 1784964672955,
+    "jobs": {
+      "欸紗@巴哈姆特": "Astrologian",
+      "Quire@奧汀": "Samurai",
+      "不潔騎士偲佤@迦樓羅": "Paladin",
+      "河玟@利維坦": "Sage",
+      "洋月@巴哈姆特": "DarkKnight",
+      "油貓餅@泰坦": "Dancer",
+      "南瓜瓜@迦樓羅": "Pictomancer",
+      "燉牛肉超好吃@奧汀": "Viper"
+    }
   }
 ]
