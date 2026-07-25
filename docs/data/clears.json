@@ -80766,5 +80766,61 @@
       "牛肉堡大俠@迦樓羅": "Sage",
       "璜姍姍@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "NMTA3Lg9XzQjdP1a",
+    "title": "Futures Rewritten",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "槿黎@伊弗利特",
+      "姑且算王者@伊弗利特",
+      "小十七@伊弗利特",
+      "歐洲丷小綾玥@伊弗利特",
+      "Mygo戰士@伊弗利特",
+      "Mira@奧汀",
+      "默盡千殃@伊弗利特",
+      "Rikki@巴哈姆特"
+    ],
+    "fight_id": 23,
+    "duration_ms": 879084,
+    "clear_dt_ms": 1785003538289,
+    "jobs": {
+      "槿黎@伊弗利特": "Warrior",
+      "姑且算王者@伊弗利特": "Dancer",
+      "小十七@伊弗利特": "Sage",
+      "歐洲丷小綾玥@伊弗利特": "Astrologian",
+      "Mygo戰士@伊弗利特": "Paladin",
+      "Mira@奧汀": "RedMage",
+      "默盡千殃@伊弗利特": "Samurai",
+      "Rikki@巴哈姆特": "Ninja"
+    }
+  },
+  {
+    "code": "vfLgZ43xQtb8AMkV",
+    "title": "絕亞0726",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "莫塔里小土豆@奧汀",
+      "新鮮急凍魚乾@奧汀",
+      "Akiya@奧汀",
+      "烏龍凍飲@奧汀",
+      "Lio@巴哈姆特",
+      "Hitomi@奧汀",
+      "低優低優@利維坦",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 961775,
+    "clear_dt_ms": 1785003095125,
+    "jobs": {
+      "莫塔里小土豆@奧汀": "DarkKnight",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "Akiya@奧汀": "Monk",
+      "烏龍凍飲@奧汀": "Paladin",
+      "Lio@巴哈姆特": "Astrologian",
+      "Hitomi@奧汀": "Sage",
+      "低優低優@利維坦": "Dancer",
+      "逢魔時王@迦樓羅": "BlackMage"
+    }
   }
 ]
