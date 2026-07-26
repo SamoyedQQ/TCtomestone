@@ -81158,5 +81158,173 @@
       "師匠的狗@奧汀": "Dancer",
       "鹿鳴月芽@巴哈姆特": "Warrior"
     }
+  },
+  {
+    "code": "yvJZQFHW4mght2Gj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Carter@巴哈姆特",
+      "躺平@奧汀",
+      "再睡几分鐘@奧汀",
+      "敏菲莉亞@奧汀",
+      "岱炫@奧汀",
+      "Angoo@奧汀",
+      "小紅@利維坦",
+      "米干玄師@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 960402,
+    "clear_dt_ms": 1785075954580,
+    "jobs": {
+      "Carter@巴哈姆特": "DarkKnight",
+      "躺平@奧汀": "WhiteMage",
+      "再睡几分鐘@奧汀": "Dancer",
+      "敏菲莉亞@奧汀": "Samurai",
+      "岱炫@奧汀": "BlackMage",
+      "Angoo@奧汀": "Monk",
+      "小紅@利維坦": "Warrior",
+      "米干玄師@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "yvJZQFHW4mght2Gj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Carter@巴哈姆特",
+      "躺平@奧汀",
+      "再睡几分鐘@奧汀",
+      "敏菲莉亞@奧汀",
+      "岱炫@奧汀",
+      "Angoo@奧汀",
+      "小紅@利維坦",
+      "米干玄師@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 977559,
+    "clear_dt_ms": 1785077001979,
+    "jobs": {
+      "Carter@巴哈姆特": "DarkKnight",
+      "躺平@奧汀": "WhiteMage",
+      "再睡几分鐘@奧汀": "Dancer",
+      "敏菲莉亞@奧汀": "Samurai",
+      "岱炫@奧汀": "BlackMage",
+      "Angoo@奧汀": "Monk",
+      "小紅@利維坦": "Warrior",
+      "米干玄師@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "ANh2jfv8ZMzmGbWn",
+    "title": "0726",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "抹茶霜淇淋@伊弗利特",
+      "幻影楓情@泰坦",
+      "來杯半糖紅@奧汀",
+      "天然玉米@奧汀",
+      "Yuya@伊弗利特",
+      "師匠的狗@奧汀",
+      "朴莉莉的狗@鳳凰",
+      "豐川家貓@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 975234,
+    "clear_dt_ms": 1785077973631,
+    "jobs": {
+      "抹茶霜淇淋@伊弗利特": "Paladin",
+      "幻影楓情@泰坦": "BlackMage",
+      "來杯半糖紅@奧汀": "Sage",
+      "天然玉米@奧汀": "Warrior",
+      "Yuya@伊弗利特": "Astrologian",
+      "師匠的狗@奧汀": "Dancer",
+      "朴莉莉的狗@鳳凰": "Samurai",
+      "豐川家貓@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "xFaDNCvbQzyR813p",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Second@鳳凰",
+      "小夏@迦樓羅",
+      "栗栗皆辛苦@迦樓羅",
+      "Mogg@伊弗利特",
+      "小who豬@鳳凰",
+      "夜鷹@迦樓羅",
+      "斯諾芝@迦樓羅",
+      "Sneaky@迦樓羅"
+    ],
+    "fight_id": 13,
+    "duration_ms": 971758,
+    "clear_dt_ms": 1785076872000,
+    "jobs": {
+      "Second@鳳凰": "Paladin",
+      "小夏@迦樓羅": "WhiteMage",
+      "栗栗皆辛苦@迦樓羅": "Sage",
+      "Mogg@伊弗利特": "Reaper",
+      "小who豬@鳳凰": "BlackMage",
+      "夜鷹@迦樓羅": "Warrior",
+      "斯諾芝@迦樓羅": "Bard",
+      "Sneaky@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "GwYftXczW3FZma86",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "璜姍姍@迦樓羅",
+      "貓頭蜜蜂@迦樓羅",
+      "牛肉堡大俠@迦樓羅",
+      "跑跑跳跳@伊弗利特",
+      "人生厭世@迦樓羅",
+      "Lz@迦樓羅",
+      "鬍子馬鈴薯@迦樓羅",
+      "琶舞@迦樓羅"
+    ],
+    "fight_id": 16,
+    "duration_ms": 944626,
+    "clear_dt_ms": 1785074964316,
+    "jobs": {
+      "璜姍姍@迦樓羅": "Paladin",
+      "貓頭蜜蜂@迦樓羅": "Monk",
+      "牛肉堡大俠@迦樓羅": "Sage",
+      "跑跑跳跳@伊弗利特": "Dancer",
+      "人生厭世@迦樓羅": "Ninja",
+      "Lz@迦樓羅": "BlackMage",
+      "鬍子馬鈴薯@迦樓羅": "WhiteMage",
+      "琶舞@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "nwMmtcyPxGHY9Djv",
+    "title": "绝境战（旧版本）",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "弦凱@巴哈姆特",
+      "Hugomx@利維坦",
+      "紅月@迦樓羅",
+      "Norn@伊弗利特",
+      "詩學少女@利維坦",
+      "Aestus@迦樓羅",
+      "玖依@伊弗利特",
+      "Cifera@利維坦"
+    ],
+    "fight_id": 18,
+    "duration_ms": 993280,
+    "clear_dt_ms": 1781950091273,
+    "jobs": {
+      "弦凱@巴哈姆特": "BlackMage",
+      "Hugomx@利維坦": "Dancer",
+      "紅月@迦樓羅": "Samurai",
+      "Norn@伊弗利特": "Warrior",
+      "詩學少女@利維坦": "Astrologian",
+      "Aestus@迦樓羅": "Sage",
+      "玖依@伊弗利特": "Ninja",
+      "Cifera@利維坦": "Paladin"
+    }
   }
 ]
