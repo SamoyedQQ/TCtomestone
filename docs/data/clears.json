@@ -81410,5 +81410,33 @@
       "Las@利維坦": "Warrior",
       "熊貓貓@利維坦": "Pictomancer"
     }
+  },
+  {
+    "code": "xTJnN3yvD6jgFLAh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Cryus@鳳凰",
+      "Lawlie@迦樓羅",
+      "小淘氣雪寶包@迦樓羅",
+      "Squx@利維坦",
+      "Isla@伊弗利特",
+      "Re晞忒璐@利維坦",
+      "Hiki@伊弗利特",
+      "Maix@奧汀"
+    ],
+    "fight_id": 32,
+    "duration_ms": 982131,
+    "clear_dt_ms": 1785089788131,
+    "jobs": {
+      "Cryus@鳳凰": "Astrologian",
+      "Lawlie@迦樓羅": "Ninja",
+      "小淘氣雪寶包@迦樓羅": "Samurai",
+      "Squx@利維坦": "Dancer",
+      "Isla@伊弗利特": "Scholar",
+      "Re晞忒璐@利維坦": "Gunbreaker",
+      "Hiki@伊弗利特": "BlackMage",
+      "Maix@奧汀": "DarkKnight"
+    }
   }
 ]
