@@ -80934,5 +80934,33 @@
       "芋仔冰@迦樓羅": "Paladin",
       "梅友仁@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "LYftyA6Wkq7wz8FJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Seckil@奧汀",
+      "喵喵醬@奧汀",
+      "Chovy@迦樓羅",
+      "舞紗橘@利維坦",
+      "霸總哥布林@巴哈姆特",
+      "凱旋刺劍@奧汀",
+      "Kira@鳳凰",
+      "李丁路哲@迦樓羅"
+    ],
+    "fight_id": 29,
+    "duration_ms": 1034913,
+    "clear_dt_ms": 1784993682808,
+    "jobs": {
+      "Seckil@奧汀": "Paladin",
+      "喵喵醬@奧汀": "Sage",
+      "Chovy@迦樓羅": "Scholar",
+      "舞紗橘@利維坦": "RedMage",
+      "霸總哥布林@巴哈姆特": "Warrior",
+      "凱旋刺劍@奧汀": "Astrologian",
+      "Kira@鳳凰": "Summoner",
+      "李丁路哲@迦樓羅": "Monk"
+    }
   }
 ]
