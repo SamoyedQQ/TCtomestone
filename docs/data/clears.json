@@ -82180,5 +82180,61 @@
       "美堂蠻@奧汀": "Pictomancer",
       "瑞德@奧汀": "Scholar"
     }
+  },
+  {
+    "code": "YCMhGDFbA9fT81kZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "床上超人@奧汀",
+      "Mira@奧汀",
+      "九日日@迦樓羅",
+      "歐洲丷小綾玥@伊弗利特",
+      "Vc@利維坦",
+      "帕可可拉可可@泰坦",
+      "Mygo戰士@伊弗利特",
+      "Rikki@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 867112,
+    "clear_dt_ms": 1785177074821,
+    "jobs": {
+      "床上超人@奧汀": "Warrior",
+      "Mira@奧汀": "Summoner",
+      "九日日@迦樓羅": "Samurai",
+      "歐洲丷小綾玥@伊弗利特": "Astrologian",
+      "Vc@利維坦": "Bard",
+      "帕可可拉可可@泰坦": "Scholar",
+      "Mygo戰士@伊弗利特": "Paladin",
+      "Rikki@巴哈姆特": "Ninja"
+    }
+  },
+  {
+    "code": "gmXfbj8YRt3VLFvk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "玄祭@利維坦",
+      "露露怩雷@迦樓羅",
+      "伊利絲@鳳凰",
+      "喵皇@鳳凰",
+      "馬爾三兄弟@泰坦",
+      "冥羽@鳳凰",
+      "克洛西婭@鳳凰",
+      "Yuuji@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 861719,
+    "clear_dt_ms": 1785176555111,
+    "jobs": {
+      "玄祭@利維坦": "Sage",
+      "露露怩雷@迦樓羅": "RedMage",
+      "伊利絲@鳳凰": "Warrior",
+      "喵皇@鳳凰": "WhiteMage",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "冥羽@鳳凰": "Viper",
+      "克洛西婭@鳳凰": "Dancer",
+      "Yuuji@伊弗利特": "BlackMage"
+    }
   }
 ]
