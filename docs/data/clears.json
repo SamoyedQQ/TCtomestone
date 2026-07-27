@@ -81494,5 +81494,89 @@
       "舞紗橘@利維坦": "RedMage",
       "李丁路哲@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "Pvwqa1gFBDJh26Rz",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "舞紗橘@利維坦",
+      "貓糰子@伊弗利特",
+      "Begin雄@迦樓羅",
+      "奧爾古斯塔斯@伊弗利特",
+      "水無月夢@巴哈姆特",
+      "穗曦@伊弗利特",
+      "Uiouop@迦樓羅",
+      "玖玖@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1123156,
+    "clear_dt_ms": 1785143168340,
+    "jobs": {
+      "舞紗橘@利維坦": "Pictomancer",
+      "貓糰子@伊弗利特": "BlackMage",
+      "Begin雄@迦樓羅": "Paladin",
+      "奧爾古斯塔斯@伊弗利特": "Dancer",
+      "水無月夢@巴哈姆特": "DarkKnight",
+      "穗曦@伊弗利特": "WhiteMage",
+      "Uiouop@迦樓羅": "Sage",
+      "玖玖@迦樓羅": "Viper"
+    }
+  },
+  {
+    "code": "Pv3rNAJgWKhRMqfj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "可樂零熱量@利維坦",
+      "醉花o@迦樓羅",
+      "蝦蝦@利維坦",
+      "Fatman@鳳凰",
+      "墨寶@利維坦",
+      "墨汁臭豆腐@鳳凰",
+      "我是醜底迪@鳳凰",
+      "塚燭騎士@奧汀"
+    ],
+    "fight_id": 12,
+    "duration_ms": 865099,
+    "clear_dt_ms": 1785139302628,
+    "jobs": {
+      "可樂零熱量@利維坦": "Gunbreaker",
+      "醉花o@迦樓羅": "BlackMage",
+      "蝦蝦@利維坦": "Scholar",
+      "Fatman@鳳凰": "WhiteMage",
+      "墨寶@利維坦": "Viper",
+      "墨汁臭豆腐@鳳凰": "Bard",
+      "我是醜底迪@鳳凰": "DarkKnight",
+      "塚燭騎士@奧汀": "Summoner"
+    }
+  },
+  {
+    "code": "JZAgXhLjWDHkbF8V",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "低茶@鳳凰",
+      "芙莉蓮霧@奧汀",
+      "魚fish@利維坦",
+      "吉娃娃娃吉@巴哈姆特",
+      "二v@迦樓羅",
+      "傑奇@伊弗利特",
+      "Ringo@巴哈姆特",
+      "旦旦龍@鳳凰"
+    ],
+    "fight_id": 11,
+    "duration_ms": 937199,
+    "clear_dt_ms": 1785139755999,
+    "jobs": {
+      "低茶@鳳凰": "Dancer",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "魚fish@利維坦": "Samurai",
+      "吉娃娃娃吉@巴哈姆特": "Paladin",
+      "二v@迦樓羅": "Astrologian",
+      "傑奇@伊弗利特": "Pictomancer",
+      "Ringo@巴哈姆特": "Scholar",
+      "旦旦龍@鳳凰": "DarkKnight"
+    }
   }
 ]
