@@ -81438,5 +81438,61 @@
       "Hiki@伊弗利特": "BlackMage",
       "Maix@奧汀": "DarkKnight"
     }
+  },
+  {
+    "code": "QNjFnAwZr27dbytk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "喵喵醬@奧汀",
+      "凱旋刺劍@奧汀",
+      "Kira@鳳凰",
+      "流承@迦樓羅",
+      "霸總哥布林@巴哈姆特",
+      "小妹@利維坦",
+      "舞紗橘@利維坦",
+      "李丁路哲@迦樓羅"
+    ],
+    "fight_id": 54,
+    "duration_ms": 1045696,
+    "clear_dt_ms": 1785081283179,
+    "jobs": {
+      "喵喵醬@奧汀": "Sage",
+      "凱旋刺劍@奧汀": "Astrologian",
+      "Kira@鳳凰": "Summoner",
+      "流承@迦樓羅": "Scholar",
+      "霸總哥布林@巴哈姆特": "Warrior",
+      "小妹@利維坦": "Paladin",
+      "舞紗橘@利維坦": "RedMage",
+      "李丁路哲@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "QNjFnAwZr27dbytk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "喵喵醬@奧汀",
+      "凱旋刺劍@奧汀",
+      "Kira@鳳凰",
+      "流承@迦樓羅",
+      "霸總哥布林@巴哈姆特",
+      "小妹@利維坦",
+      "舞紗橘@利維坦",
+      "李丁路哲@迦樓羅"
+    ],
+    "fight_id": 56,
+    "duration_ms": 1043509,
+    "clear_dt_ms": 1785083283500,
+    "jobs": {
+      "喵喵醬@奧汀": "Sage",
+      "凱旋刺劍@奧汀": "Astrologian",
+      "Kira@鳳凰": "Summoner",
+      "流承@迦樓羅": "Scholar",
+      "霸總哥布林@巴哈姆特": "Warrior",
+      "小妹@利維坦": "Paladin",
+      "舞紗橘@利維坦": "RedMage",
+      "李丁路哲@迦樓羅": "Monk"
+    }
   }
 ]
