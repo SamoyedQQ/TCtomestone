@@ -81578,5 +81578,61 @@
       "Ringo@巴哈姆特": "Scholar",
       "旦旦龍@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "pmJxdwHzfyh9nb4D",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "結印明日奈@利維坦",
+      "明日的希望@迦樓羅",
+      "蛤蜜呱@伊弗利特",
+      "Wenwen@伊弗利特",
+      "橘雪莉@伊弗利特",
+      "Jacy@伊弗利特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1116543,
+    "clear_dt_ms": 1785159984884,
+    "jobs": {
+      "結印明日奈@利維坦": "Ninja",
+      "明日的希望@迦樓羅": "Bard",
+      "蛤蜜呱@伊弗利特": "Scholar",
+      "Wenwen@伊弗利特": "Astrologian",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "Jacy@伊弗利特": "Paladin",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Viper"
+    }
+  },
+  {
+    "code": "QzpAhb9NM43qvkar",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "牛肉堡大俠@迦樓羅",
+      "Lz@迦樓羅",
+      "鬍子馬鈴薯@迦樓羅",
+      "人生厭世@迦樓羅",
+      "銀河有跡可循@迦樓羅",
+      "琶舞@迦樓羅",
+      "旦旦龍@鳳凰",
+      "貓頭蜜蜂@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 940950,
+    "clear_dt_ms": 1785157422057,
+    "jobs": {
+      "牛肉堡大俠@迦樓羅": "Sage",
+      "Lz@迦樓羅": "BlackMage",
+      "鬍子馬鈴薯@迦樓羅": "WhiteMage",
+      "人生厭世@迦樓羅": "Ninja",
+      "銀河有跡可循@迦樓羅": "Paladin",
+      "琶舞@迦樓羅": "Samurai",
+      "旦旦龍@鳳凰": "DarkKnight",
+      "貓頭蜜蜂@迦樓羅": "Dancer"
+    }
   }
 ]
