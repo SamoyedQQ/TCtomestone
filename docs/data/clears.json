@@ -82376,5 +82376,61 @@
       "泰泰@鳳凰": "Ninja",
       "黑柴犬奴@鳳凰": "Warrior"
     }
+  },
+  {
+    "code": "2rDWfTnXj3PKApRv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "小可樂@巴哈姆特",
+      "尤里@鳳凰",
+      "富可可@利維坦",
+      "文文@利維坦",
+      "黑屋屺@鳳凰",
+      "小who豬@鳳凰",
+      "城南@巴哈姆特",
+      "三三@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 860862,
+    "clear_dt_ms": 1784458563039,
+    "jobs": {
+      "小可樂@巴哈姆特": "Gunbreaker",
+      "尤里@鳳凰": "WhiteMage",
+      "富可可@利維坦": "Sage",
+      "文文@利維坦": "Dancer",
+      "黑屋屺@鳳凰": "Paladin",
+      "小who豬@鳳凰": "BlackMage",
+      "城南@巴哈姆特": "RedMage",
+      "三三@鳳凰": "Monk"
+    }
+  },
+  {
+    "code": "QBR9DJdZj6YxLt2A",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "克拉烏蒂雅@利維坦",
+      "神秘夾克姐姐@迦樓羅",
+      "小白@鳳凰",
+      "千穗@利維坦",
+      "影紗星蕾@迦樓羅",
+      "Shibai@利維坦",
+      "哈士奇@利維坦",
+      "縵霓@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 843236,
+    "clear_dt_ms": 1784730640862,
+    "jobs": {
+      "克拉烏蒂雅@利維坦": "RedMage",
+      "神秘夾克姐姐@迦樓羅": "Machinist",
+      "小白@鳳凰": "DarkKnight",
+      "千穗@利維坦": "Paladin",
+      "影紗星蕾@迦樓羅": "Astrologian",
+      "Shibai@利維坦": "Monk",
+      "哈士奇@利維坦": "Ninja",
+      "縵霓@利維坦": "Scholar"
+    }
   }
 ]
