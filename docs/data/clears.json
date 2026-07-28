@@ -82292,5 +82292,89 @@
       "蘭納迪諾@利維坦": "Warrior",
       "Nisbet@利維坦": "Pictomancer"
     }
+  },
+  {
+    "code": "h2wadLMc4jGtqY1D",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Bea碧@巴哈姆特",
+      "抹布@鳳凰",
+      "青凛@鳳凰",
+      "薇妮寫詩@伊弗利特",
+      "藍職龍奇@伊弗利特",
+      "Yuanpu@鳳凰",
+      "Tkc洽@巴哈姆特",
+      "伊蒂絲維克@鳳凰"
+    ],
+    "fight_id": 44,
+    "duration_ms": 1126012,
+    "clear_dt_ms": 1785191696826,
+    "jobs": {
+      "Bea碧@巴哈姆特": "Scholar",
+      "抹布@鳳凰": "DarkKnight",
+      "青凛@鳳凰": "Astrologian",
+      "薇妮寫詩@伊弗利特": "BlackMage",
+      "藍職龍奇@伊弗利特": "Reaper",
+      "Yuanpu@鳳凰": "Paladin",
+      "Tkc洽@巴哈姆特": "Bard",
+      "伊蒂絲維克@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "YPHQcJya9pvbNB8x",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "我要c小調@鳳凰",
+      "不二小山@鳳凰",
+      "Roki@鳳凰",
+      "嘎兵@鳳凰",
+      "托比特@鳳凰",
+      "Benson@鳳凰",
+      "泰泰@鳳凰",
+      "黑柴犬奴@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 871824,
+    "clear_dt_ms": 1781190643411,
+    "jobs": {
+      "我要c小調@鳳凰": "Scholar",
+      "不二小山@鳳凰": "Dancer",
+      "Roki@鳳凰": "Summoner",
+      "嘎兵@鳳凰": "WhiteMage",
+      "托比特@鳳凰": "DarkKnight",
+      "Benson@鳳凰": "Monk",
+      "泰泰@鳳凰": "Ninja",
+      "黑柴犬奴@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "YPHQcJya9pvbNB8x",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "我要c小調@鳳凰",
+      "不二小山@鳳凰",
+      "Roki@鳳凰",
+      "嘎兵@鳳凰",
+      "托比特@鳳凰",
+      "Benson@鳳凰",
+      "泰泰@鳳凰",
+      "黑柴犬奴@鳳凰"
+    ],
+    "fight_id": 11,
+    "duration_ms": 863746,
+    "clear_dt_ms": 1781193535171,
+    "jobs": {
+      "我要c小調@鳳凰": "Scholar",
+      "不二小山@鳳凰": "Dancer",
+      "Roki@鳳凰": "Summoner",
+      "嘎兵@鳳凰": "WhiteMage",
+      "托比特@鳳凰": "DarkKnight",
+      "Benson@鳳凰": "Monk",
+      "泰泰@鳳凰": "Ninja",
+      "黑柴犬奴@鳳凰": "Warrior"
+    }
   }
 ]
