@@ -82432,5 +82432,33 @@
       "哈士奇@利維坦": "Ninja",
       "縵霓@利維坦": "Scholar"
     }
+  },
+  {
+    "code": "cwaqTXLBr7GQY4mx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "繪靈@奧汀",
+      "黑魔king@伊弗利特",
+      "一個劍術師@利維坦",
+      "嘩啦@迦樓羅",
+      "Hmaster@迦樓羅",
+      "饿了@奧汀",
+      "Tiny石頭@奧汀",
+      "美堂蠻@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1115426,
+    "clear_dt_ms": 1785319776228,
+    "jobs": {
+      "繪靈@奧汀": "Astrologian",
+      "黑魔king@伊弗利特": "Pictomancer",
+      "一個劍術師@利維坦": "Paladin",
+      "嘩啦@迦樓羅": "Viper",
+      "Hmaster@迦樓羅": "Sage",
+      "饿了@奧汀": "Reaper",
+      "Tiny石頭@奧汀": "DarkKnight",
+      "美堂蠻@奧汀": "Bard"
+    }
   }
 ]
