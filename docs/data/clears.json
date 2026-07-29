@@ -82460,5 +82460,33 @@
       "Tiny石頭@奧汀": "DarkKnight",
       "美堂蠻@奧汀": "Bard"
     }
+  },
+  {
+    "code": "fHRZb2XdyFATN8aq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "塔皮歐卡@鳳凰",
+      "竹語@鳳凰",
+      "哎低@鳳凰",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "北達@鳳凰",
+      "以茳@鳳凰",
+      "九劈@鳳凰",
+      "永恆詩歌@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1063716,
+    "clear_dt_ms": 1785335441454,
+    "jobs": {
+      "塔皮歐卡@鳳凰": "DarkKnight",
+      "竹語@鳳凰": "Sage",
+      "哎低@鳳凰": "Scholar",
+      "ㄇ凹ㄇ凹@鳳凰": "Machinist",
+      "北達@鳳凰": "Paladin",
+      "以茳@鳳凰": "Astrologian",
+      "九劈@鳳凰": "Dancer",
+      "永恆詩歌@鳳凰": "Summoner"
+    }
   }
 ]
