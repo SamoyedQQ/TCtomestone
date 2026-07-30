@@ -82488,5 +82488,33 @@
       "九劈@鳳凰": "Dancer",
       "永恆詩歌@鳳凰": "Summoner"
     }
+  },
+  {
+    "code": "3baLhXKvBMjJWtDG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Bang企鵝@巴哈姆特",
+      "小八軟糖@奧汀",
+      "打補師別打我@鳳凰",
+      "迪倫·奎因@泰坦",
+      "瑞匕特@奧汀",
+      "小睿@利維坦",
+      "Verniy@迦樓羅",
+      "Nakai@鳳凰"
+    ],
+    "fight_id": 12,
+    "duration_ms": 843891,
+    "clear_dt_ms": 1785411810377,
+    "jobs": {
+      "Bang企鵝@巴哈姆特": "Machinist",
+      "小八軟糖@奧汀": "Astrologian",
+      "打補師別打我@鳳凰": "Warrior",
+      "迪倫·奎因@泰坦": "Scholar",
+      "瑞匕特@奧汀": "BlackMage",
+      "小睿@利維坦": "Paladin",
+      "Verniy@迦樓羅": "Samurai",
+      "Nakai@鳳凰": "Summoner"
+    }
   }
 ]
