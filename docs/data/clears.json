@@ -82516,5 +82516,33 @@
       "Verniy@迦樓羅": "Samurai",
       "Nakai@鳳凰": "Summoner"
     }
+  },
+  {
+    "code": "c6KvhDyzCNXJbRMZ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "夜珀@伊弗利特",
+      "Sony@利維坦",
+      "蜜糖貓@伊弗利特",
+      "新手一名@伊弗利特",
+      "迷津玄獅@利維坦",
+      "流苏@伊弗利特",
+      "貓爪地火@伊弗利特",
+      "小熱@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1120837,
+    "clear_dt_ms": 1785338716102,
+    "jobs": {
+      "夜珀@伊弗利特": "DarkKnight",
+      "Sony@利維坦": "Pictomancer",
+      "蜜糖貓@伊弗利特": "Astrologian",
+      "新手一名@伊弗利特": "Warrior",
+      "迷津玄獅@利維坦": "Sage",
+      "流苏@伊弗利特": "Bard",
+      "貓爪地火@伊弗利特": "Monk",
+      "小熱@伊弗利特": "Dragoon"
+    }
   }
 ]
