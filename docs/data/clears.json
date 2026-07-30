@@ -82544,5 +82544,89 @@
       "貓爪地火@伊弗利特": "Monk",
       "小熱@伊弗利特": "Dragoon"
     }
+  },
+  {
+    "code": "qd3zb9L6CYMykR2A",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Dororo@伊弗利特",
+      "Diaulo@迦樓羅",
+      "水無月夢@巴哈姆特",
+      "逼欸逼u@利維坦",
+      "伊娜莉·尼亞@伊弗利特",
+      "殤魂@奧汀",
+      "白鳥澪@伊弗利特",
+      "灛@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1123967,
+    "clear_dt_ms": 1785431485155,
+    "jobs": {
+      "Dororo@伊弗利特": "Gunbreaker",
+      "Diaulo@迦樓羅": "Samurai",
+      "水無月夢@巴哈姆特": "DarkKnight",
+      "逼欸逼u@利維坦": "Scholar",
+      "伊娜莉·尼亞@伊弗利特": "WhiteMage",
+      "殤魂@奧汀": "Pictomancer",
+      "白鳥澪@伊弗利特": "Bard",
+      "灛@奧汀": "Viper"
+    }
+  },
+  {
+    "code": "XCL971RaBWnkPGJg",
+    "title": "sb123",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Poma@泰坦",
+      "林檎@迦樓羅",
+      "Nemo捏摸@利維坦",
+      "悠伊@伊弗利特",
+      "米爾凱森@迦樓羅",
+      "花亦喧囂@巴哈姆特",
+      "紅燒竹鼠@迦樓羅",
+      "小瓦@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1119035,
+    "clear_dt_ms": 1785416422062,
+    "jobs": {
+      "Poma@泰坦": "Scholar",
+      "林檎@迦樓羅": "Pictomancer",
+      "Nemo捏摸@利維坦": "Astrologian",
+      "悠伊@伊弗利特": "Paladin",
+      "米爾凱森@迦樓羅": "Dancer",
+      "花亦喧囂@巴哈姆特": "Monk",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "小瓦@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "cmMPCz9wk1d4RFpW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "露露怩雷@迦樓羅",
+      "伊賀栖寅@伊弗利特",
+      "Pingu@伊弗利特",
+      "舞媚林@泰坦",
+      "椒鹽杏鮑菇@迦樓羅",
+      "拉拉牧@泰坦",
+      "拉碧斯拉祖利@泰坦",
+      "蜻蜓點火@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 878518,
+    "clear_dt_ms": 1785429234012,
+    "jobs": {
+      "露露怩雷@迦樓羅": "DarkKnight",
+      "伊賀栖寅@伊弗利特": "Monk",
+      "Pingu@伊弗利特": "Scholar",
+      "舞媚林@泰坦": "Machinist",
+      "椒鹽杏鮑菇@迦樓羅": "Paladin",
+      "拉拉牧@泰坦": "Summoner",
+      "拉碧斯拉祖利@泰坦": "WhiteMage",
+      "蜻蜓點火@伊弗利特": "Dragoon"
+    }
   }
 ]
