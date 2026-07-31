@@ -82656,5 +82656,33 @@
       "穎嵐@利維坦": "Paladin",
       "問薪吾潰@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "Hr1ZGz978fmK4FBx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "野貓@鳳凰",
+      "Himeri@鳳凰",
+      "絕喵@伊弗利特",
+      "Nobu卡茲@鳳凰",
+      "Kira@鳳凰",
+      "夜櫻巫姬@利維坦",
+      "席德@鳳凰",
+      "新約能天使@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1103351,
+    "clear_dt_ms": 1785482786270,
+    "jobs": {
+      "野貓@鳳凰": "Gunbreaker",
+      "Himeri@鳳凰": "Warrior",
+      "絕喵@伊弗利特": "BlackMage",
+      "Nobu卡茲@鳳凰": "WhiteMage",
+      "Kira@鳳凰": "Machinist",
+      "夜櫻巫姬@利維坦": "Ninja",
+      "席德@鳳凰": "Scholar",
+      "新約能天使@奧汀": "Reaper"
+    }
   }
 ]
