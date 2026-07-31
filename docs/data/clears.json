@@ -82992,5 +82992,33 @@
       "爾雅@泰坦": "WhiteMage",
       "迪倫·奎因@泰坦": "Warrior"
     }
+  },
+  {
+    "code": "qVyDkpthfzvRNCPQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Tkc洽@巴哈姆特",
+      "Grende@迦樓羅",
+      "Gg@伊弗利特",
+      "Bea碧@巴哈姆特",
+      "飲冰室茶姬@巴哈姆特",
+      "藍職龍奇@伊弗利特",
+      "伊醉月@鳳凰",
+      "席德@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1123538,
+    "clear_dt_ms": 1785523326469,
+    "jobs": {
+      "Tkc洽@巴哈姆特": "Bard",
+      "Grende@迦樓羅": "Pictomancer",
+      "Gg@伊弗利特": "DarkKnight",
+      "Bea碧@巴哈姆特": "Scholar",
+      "飲冰室茶姬@巴哈姆特": "BlackMage",
+      "藍職龍奇@伊弗利特": "Dragoon",
+      "伊醉月@鳳凰": "WhiteMage",
+      "席德@鳳凰": "Paladin"
+    }
   }
 ]
