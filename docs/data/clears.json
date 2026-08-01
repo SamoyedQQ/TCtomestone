@@ -83804,5 +83804,33 @@
       "希露蘭斯@利維坦": "Dancer",
       "薇薇布@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "fWHxYD1TwvKg2bX8",
+    "title": "20260801-2",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "Benny@利維坦",
+      "Hiyaok@迦樓羅",
+      "Diaulo@迦樓羅",
+      "小小龍@鳳凰",
+      "姆糖@迦樓羅",
+      "逼欸逼u@利維坦",
+      "日式豬排@利維坦",
+      "玖玖@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1120872,
+    "clear_dt_ms": 1785616366826,
+    "jobs": {
+      "Benny@利維坦": "Monk",
+      "Hiyaok@迦樓羅": "DarkKnight",
+      "Diaulo@迦樓羅": "Samurai",
+      "小小龍@鳳凰": "Paladin",
+      "姆糖@迦樓羅": "Dancer",
+      "逼欸逼u@利維坦": "Scholar",
+      "日式豬排@利維坦": "Astrologian",
+      "玖玖@迦樓羅": "BlackMage"
+    }
   }
 ]
