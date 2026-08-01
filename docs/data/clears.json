@@ -83132,5 +83132,173 @@
       "阿曼妮西斯@迦樓羅": "Sage",
       "夜櫻巫姬@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "YhnAwNJQ79qrtgxy",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "饿了@利維坦",
+      "繪靈@奧汀",
+      "Tiny石頭@伊弗利特",
+      "黑魔king@泰坦",
+      "美堂蠻@奧汀",
+      "一個劍術師@鳳凰",
+      "嘩啦@巴哈姆特",
+      "Hmaster@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1120373,
+    "clear_dt_ms": 1785569683214,
+    "jobs": {
+      "饿了@利維坦": "Samurai",
+      "繪靈@奧汀": "Sage",
+      "Tiny石頭@伊弗利特": "Warrior",
+      "黑魔king@泰坦": "Pictomancer",
+      "美堂蠻@奧汀": "RedMage",
+      "一個劍術師@鳳凰": "DarkKnight",
+      "嘩啦@巴哈姆特": "Dancer",
+      "Hmaster@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "MYjNC4X1kvmdFp8x",
+    "title": "Futures Rewritten",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "絕喵@伊弗利特",
+      "夜櫻巫姬@利維坦",
+      "Benny@利維坦",
+      "席德@鳳凰",
+      "曉燐@迦樓羅",
+      "阿曼妮西斯@迦樓羅",
+      "野貓@鳳凰",
+      "Himeri@鳳凰"
+    ],
+    "fight_id": 35,
+    "duration_ms": 1097513,
+    "clear_dt_ms": 1785575279737,
+    "jobs": {
+      "絕喵@伊弗利特": "BlackMage",
+      "夜櫻巫姬@利維坦": "Ninja",
+      "Benny@利維坦": "Monk",
+      "席德@鳳凰": "Scholar",
+      "曉燐@迦樓羅": "Dancer",
+      "阿曼妮西斯@迦樓羅": "Sage",
+      "野貓@鳳凰": "Gunbreaker",
+      "Himeri@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "CH2rBwkFpvthqTyW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "繪靈@鳳凰",
+      "Tiny石頭@鳳凰",
+      "嘩啦@巴哈姆特",
+      "美堂蠻@奧汀",
+      "一個劍術師@泰坦",
+      "饿了@伊弗利特",
+      "小小飯桶@泰坦",
+      "黑魔king@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1115323,
+    "clear_dt_ms": 1785571853313,
+    "jobs": {
+      "繪靈@鳳凰": "Astrologian",
+      "Tiny石頭@鳳凰": "DarkKnight",
+      "嘩啦@巴哈姆特": "Monk",
+      "美堂蠻@奧汀": "Bard",
+      "一個劍術師@泰坦": "Paladin",
+      "饿了@伊弗利特": "Pictomancer",
+      "小小飯桶@泰坦": "Scholar",
+      "黑魔king@泰坦": "BlackMage"
+    }
+  },
+  {
+    "code": "TR1j9v6bdq72CrAQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "繪靈@奧汀",
+      "一個劍術師@鳳凰",
+      "Tiny石頭@迦樓羅",
+      "冰寧企鵝@鳳凰",
+      "美堂蠻@奧汀",
+      "黑魔king@泰坦",
+      "饿了@巴哈姆特",
+      "Hmaster@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1119510,
+    "clear_dt_ms": 1785568129483,
+    "jobs": {
+      "繪靈@奧汀": "Sage",
+      "一個劍術師@鳳凰": "DarkKnight",
+      "Tiny石頭@迦樓羅": "Samurai",
+      "冰寧企鵝@鳳凰": "Paladin",
+      "美堂蠻@奧汀": "Pictomancer",
+      "黑魔king@泰坦": "BlackMage",
+      "饿了@巴哈姆特": "Dancer",
+      "Hmaster@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "mfnpYv6zWaXAP4yJ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "不要摳僻谷@利維坦",
+      "美堂蠻@奧汀",
+      "Tiny石頭@巴哈姆特",
+      "饿了@鳳凰",
+      "嘩啦@泰坦",
+      "一個劍術師@鳳凰",
+      "Hmaster@奧汀",
+      "繪靈@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1124637,
+    "clear_dt_ms": 1785565036283,
+    "jobs": {
+      "不要摳僻谷@利維坦": "Pictomancer",
+      "美堂蠻@奧汀": "Reaper",
+      "Tiny石頭@巴哈姆特": "Paladin",
+      "饿了@鳳凰": "Dancer",
+      "嘩啦@泰坦": "BlackMage",
+      "一個劍術師@鳳凰": "DarkKnight",
+      "Hmaster@奧汀": "Scholar",
+      "繪靈@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "akt3PZqQJj2rb7KW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Holyho@利維坦",
+      "Diaulo@迦樓羅",
+      "日式豬排@利維坦",
+      "Edsel@伊弗利特",
+      "逼欸逼u@利維坦",
+      "零零陸@利維坦",
+      "殤魂@奧汀",
+      "Iroha@巴哈姆特"
+    ],
+    "fight_id": 34,
+    "duration_ms": 1119732,
+    "clear_dt_ms": 1785527862046,
+    "jobs": {
+      "Holyho@利維坦": "Paladin",
+      "Diaulo@迦樓羅": "Samurai",
+      "日式豬排@利維坦": "Astrologian",
+      "Edsel@伊弗利特": "Monk",
+      "逼欸逼u@利維坦": "Scholar",
+      "零零陸@利維坦": "DarkKnight",
+      "殤魂@奧汀": "Pictomancer",
+      "Iroha@巴哈姆特": "Dancer"
+    }
   }
 ]
