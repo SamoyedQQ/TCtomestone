@@ -83020,5 +83020,33 @@
       "伊醉月@鳳凰": "WhiteMage",
       "席德@鳳凰": "Paladin"
     }
+  },
+  {
+    "code": "bkvfr6Ngw2VaKq3Q",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "孤獨萊恩@鳳凰",
+      "Aqrsky@伊弗利特",
+      "Gg@伊弗利特",
+      "乂nya乂@巴哈姆特",
+      "Gabe@巴哈姆特",
+      "海晴@伊弗利特",
+      "舉舉@利維坦",
+      "是瑞奇阿@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1126098,
+    "clear_dt_ms": 1785551518732,
+    "jobs": {
+      "孤獨萊恩@鳳凰": "Scholar",
+      "Aqrsky@伊弗利特": "Dancer",
+      "Gg@伊弗利特": "DarkKnight",
+      "乂nya乂@巴哈姆特": "WhiteMage",
+      "Gabe@巴哈姆特": "Monk",
+      "海晴@伊弗利特": "Paladin",
+      "舉舉@利維坦": "Summoner",
+      "是瑞奇阿@迦樓羅": "Samurai"
+    }
   }
 ]
