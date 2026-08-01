@@ -83468,5 +83468,145 @@
       "天空龍@奧汀": "Scholar",
       "阿秋@利維坦": "Machinist"
     }
+  },
+  {
+    "code": "cVXd9W1DQjv2kyNa",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "拉拉風@伊弗利特",
+      "殤魂@奧汀",
+      "將吾@鳳凰",
+      "阿肌蘇丸@奧汀",
+      "電子幽靈@奧汀",
+      "黑虧@利維坦",
+      "夏日@利維坦",
+      "豆花三十塊@巴哈姆特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1122039,
+    "clear_dt_ms": 1785597592777,
+    "jobs": {
+      "拉拉風@伊弗利特": "Paladin",
+      "殤魂@奧汀": "Pictomancer",
+      "將吾@鳳凰": "Astrologian",
+      "阿肌蘇丸@奧汀": "Dancer",
+      "電子幽靈@奧汀": "Dragoon",
+      "黑虧@利維坦": "DarkKnight",
+      "夏日@利維坦": "Scholar",
+      "豆花三十塊@巴哈姆特": "Monk"
+    }
+  },
+  {
+    "code": "29WZx4YHmXDyTvBG",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "柒伍@迦樓羅",
+      "白鳥澪@伊弗利特",
+      "Benny@奧汀",
+      "轉圈圈@迦樓羅",
+      "薇薇布@迦樓羅",
+      "雲浪丨遊軒轅@鳳凰",
+      "奈樂司@伊弗利特",
+      "Alan大大@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1119017,
+    "clear_dt_ms": 1785581443366,
+    "jobs": {
+      "柒伍@迦樓羅": "Viper",
+      "白鳥澪@伊弗利特": "Bard",
+      "Benny@奧汀": "Samurai",
+      "轉圈圈@迦樓羅": "Scholar",
+      "薇薇布@迦樓羅": "Sage",
+      "雲浪丨遊軒轅@鳳凰": "Summoner",
+      "奈樂司@伊弗利特": "Paladin",
+      "Alan大大@鳳凰": "Gunbreaker"
+    }
+  },
+  {
+    "code": "29WZx4YHmXDyTvBG",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "麥塊啟動器@伊弗利特",
+      "白鳥澪@伊弗利特",
+      "Benny@奧汀",
+      "轉圈圈@迦樓羅",
+      "柒伍@迦樓羅",
+      "薇薇布@迦樓羅",
+      "奈樂司@伊弗利特",
+      "Alan大大@鳳凰"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1113231,
+    "clear_dt_ms": 1785589555157,
+    "jobs": {
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "白鳥澪@伊弗利特": "Bard",
+      "Benny@奧汀": "Samurai",
+      "轉圈圈@迦樓羅": "Scholar",
+      "柒伍@迦樓羅": "Dragoon",
+      "薇薇布@迦樓羅": "Astrologian",
+      "奈樂司@伊弗利特": "Paladin",
+      "Alan大大@鳳凰": "Gunbreaker"
+    }
+  },
+  {
+    "code": "29WZx4YHmXDyTvBG",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "麥塊啟動器@伊弗利特",
+      "白鳥澪@伊弗利特",
+      "柒伍@迦樓羅",
+      "Benny@奧汀",
+      "轉圈圈@迦樓羅",
+      "薇薇布@迦樓羅",
+      "奈樂司@伊弗利特",
+      "Alan大大@鳳凰"
+    ],
+    "fight_id": 19,
+    "duration_ms": 1114941,
+    "clear_dt_ms": 1785591929447,
+    "jobs": {
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "白鳥澪@伊弗利特": "Bard",
+      "柒伍@迦樓羅": "Viper",
+      "Benny@奧汀": "Samurai",
+      "轉圈圈@迦樓羅": "Scholar",
+      "薇薇布@迦樓羅": "Sage",
+      "奈樂司@伊弗利特": "Paladin",
+      "Alan大大@鳳凰": "Gunbreaker"
+    }
+  },
+  {
+    "code": "29WZx4YHmXDyTvBG",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "麥塊啟動器@伊弗利特",
+      "白鳥澪@伊弗利特",
+      "柒伍@迦樓羅",
+      "Benny@奧汀",
+      "轉圈圈@迦樓羅",
+      "薇薇布@迦樓羅",
+      "奈樂司@伊弗利特",
+      "Alan大大@鳳凰"
+    ],
+    "fight_id": 23,
+    "duration_ms": 1114237,
+    "clear_dt_ms": 1785595378867,
+    "jobs": {
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "白鳥澪@伊弗利特": "Bard",
+      "柒伍@迦樓羅": "Viper",
+      "Benny@奧汀": "Samurai",
+      "轉圈圈@迦樓羅": "Scholar",
+      "薇薇布@迦樓羅": "Sage",
+      "奈樂司@伊弗利特": "Paladin",
+      "Alan大大@鳳凰": "Gunbreaker"
+    }
   }
 ]
