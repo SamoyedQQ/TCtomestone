@@ -83832,5 +83832,33 @@
       "日式豬排@利維坦": "Astrologian",
       "玖玖@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "VKWg12QvcGBCb3PN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "野貓@鳳凰",
+      "曉燐@迦樓羅",
+      "Nobu卡茲@鳳凰",
+      "Kira@鳳凰",
+      "Himeri@鳳凰",
+      "Benny@利維坦",
+      "席德@鳳凰",
+      "廉士@鳳凰"
+    ],
+    "fight_id": 21,
+    "duration_ms": 1093889,
+    "clear_dt_ms": 1785655292620,
+    "jobs": {
+      "野貓@鳳凰": "Gunbreaker",
+      "曉燐@迦樓羅": "Dancer",
+      "Nobu卡茲@鳳凰": "WhiteMage",
+      "Kira@鳳凰": "Dragoon",
+      "Himeri@鳳凰": "Warrior",
+      "Benny@利維坦": "Monk",
+      "席德@鳳凰": "BlackMage",
+      "廉士@鳳凰": "Sage"
+    }
   }
 ]
