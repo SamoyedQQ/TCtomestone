@@ -83944,5 +83944,33 @@
       "天宇@伊弗利特": "RedMage",
       "希斯皮提@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "M2n9bjdNzBvhXKfy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Yooyu@迦樓羅",
+      "法蘭西恩@利維坦",
+      "Kevin@迦樓羅",
+      "Ringo@巴哈姆特",
+      "Ascano@伊弗利特",
+      "笭@迦樓羅",
+      "異世界@利維坦",
+      "登出鍵不見了@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 964976,
+    "clear_dt_ms": 1785673580317,
+    "jobs": {
+      "Yooyu@迦樓羅": "WhiteMage",
+      "法蘭西恩@利維坦": "Warrior",
+      "Kevin@迦樓羅": "Samurai",
+      "Ringo@巴哈姆特": "Scholar",
+      "Ascano@伊弗利特": "Dancer",
+      "笭@迦樓羅": "DarkKnight",
+      "異世界@利維坦": "Pictomancer",
+      "登出鍵不見了@迦樓羅": "Dragoon"
+    }
   }
 ]
