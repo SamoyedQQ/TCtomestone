@@ -83860,5 +83860,89 @@
       "席德@鳳凰": "BlackMage",
       "廉士@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "pYM8Ny1WkCtK9VHn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "美堂蠻@奧汀",
+      "饿了@鳳凰",
+      "Tiny石頭@泰坦",
+      "嘩啦@奧汀",
+      "Hmaster@利維坦",
+      "繪靈@泰坦",
+      "黑魔king@泰坦",
+      "一個劍術師@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1127089,
+    "clear_dt_ms": 1785663625800,
+    "jobs": {
+      "美堂蠻@奧汀": "DarkKnight",
+      "饿了@鳳凰": "Machinist",
+      "Tiny石頭@泰坦": "Monk",
+      "嘩啦@奧汀": "Viper",
+      "Hmaster@利維坦": "WhiteMage",
+      "繪靈@泰坦": "Scholar",
+      "黑魔king@泰坦": "BlackMage",
+      "一個劍術師@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "VmDprAg9XQBaTqYn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "樓下都是狗@迦樓羅",
+      "希斯皮提@鳳凰",
+      "橘色的萊婭@奧汀",
+      "彌彌酥@迦樓羅",
+      "Fyyy@鳳凰",
+      "Aire@鳳凰",
+      "落辰歸九泉@迦樓羅",
+      "哭哭拉肥爾@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 864279,
+    "clear_dt_ms": 1785656165314,
+    "jobs": {
+      "樓下都是狗@迦樓羅": "Paladin",
+      "希斯皮提@鳳凰": "RedMage",
+      "橘色的萊婭@奧汀": "Ninja",
+      "彌彌酥@迦樓羅": "Astrologian",
+      "Fyyy@鳳凰": "Dancer",
+      "Aire@鳳凰": "Monk",
+      "落辰歸九泉@迦樓羅": "Warrior",
+      "哭哭拉肥爾@奧汀": "Scholar"
+    }
+  },
+  {
+    "code": "VmDprAg9XQBaTqYn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "樓下都是狗@迦樓羅",
+      "橘色的萊婭@奧汀",
+      "彌彌酥@迦樓羅",
+      "Fyyy@鳳凰",
+      "Aire@鳳凰",
+      "哭哭拉肥爾@奧汀",
+      "天宇@伊弗利特",
+      "希斯皮提@鳳凰"
+    ],
+    "fight_id": 16,
+    "duration_ms": 847331,
+    "clear_dt_ms": 1785660760338,
+    "jobs": {
+      "樓下都是狗@迦樓羅": "Paladin",
+      "橘色的萊婭@奧汀": "Ninja",
+      "彌彌酥@迦樓羅": "Astrologian",
+      "Fyyy@鳳凰": "Dancer",
+      "Aire@鳳凰": "Monk",
+      "哭哭拉肥爾@奧汀": "Scholar",
+      "天宇@伊弗利特": "RedMage",
+      "希斯皮提@鳳凰": "DarkKnight"
+    }
   }
 ]
