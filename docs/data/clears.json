@@ -84112,5 +84112,61 @@
       "Azzzzz@奧汀": "Astrologian",
       "寅虎@鳳凰": "Sage"
     }
+  },
+  {
+    "code": "7rkC2L91YvNdBzDZ",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "Kach@利維坦",
+      "亮月@迦樓羅",
+      "烏拉穎@利維坦",
+      "衫尚優雅@利維坦",
+      "騎很快蘿莉控@利維坦",
+      "丹丹真好吃@利維坦",
+      "半熟荷包蛋@伊弗利特",
+      "Runa@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1122966,
+    "clear_dt_ms": 1785677179394,
+    "jobs": {
+      "Kach@利維坦": "DarkKnight",
+      "亮月@迦樓羅": "Ninja",
+      "烏拉穎@利維坦": "Monk",
+      "衫尚優雅@利維坦": "Astrologian",
+      "騎很快蘿莉控@利維坦": "Warrior",
+      "丹丹真好吃@利維坦": "Dancer",
+      "半熟荷包蛋@伊弗利特": "RedMage",
+      "Runa@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "7rkC2L91YvNdBzDZ",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "Kach@利維坦",
+      "亮月@迦樓羅",
+      "烏拉穎@利維坦",
+      "衫尚優雅@利維坦",
+      "騎很快蘿莉控@利維坦",
+      "丹丹真好吃@利維坦",
+      "半熟荷包蛋@伊弗利特",
+      "Runa@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1122968,
+    "clear_dt_ms": 1785680151388,
+    "jobs": {
+      "Kach@利維坦": "DarkKnight",
+      "亮月@迦樓羅": "Ninja",
+      "烏拉穎@利維坦": "Monk",
+      "衫尚優雅@利維坦": "Astrologian",
+      "騎很快蘿莉控@利維坦": "Warrior",
+      "丹丹真好吃@利維坦": "Dancer",
+      "半熟荷包蛋@伊弗利特": "RedMage",
+      "Runa@巴哈姆特": "Scholar"
+    }
   }
 ]
