@@ -83972,5 +83972,145 @@
       "異世界@利維坦": "Pictomancer",
       "登出鍵不見了@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "FJ4fP2mnb1LVGXzg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "看馬累死狗@利維坦",
+      "天然玉米@奧汀",
+      "滌火城鋒@奧汀",
+      "Yuya@伊弗利特",
+      "福氣自來@利維坦",
+      "圓舞@鳳凰",
+      "Akito@泰坦",
+      "Bibiki@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 890610,
+    "clear_dt_ms": 1785685083059,
+    "jobs": {
+      "看馬累死狗@利維坦": "Paladin",
+      "天然玉米@奧汀": "Warrior",
+      "滌火城鋒@奧汀": "Scholar",
+      "Yuya@伊弗利特": "Astrologian",
+      "福氣自來@利維坦": "Viper",
+      "圓舞@鳳凰": "Ninja",
+      "Akito@泰坦": "Summoner",
+      "Bibiki@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "KjhRWq6VwPcFBdxk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Ccdio@奧汀",
+      "Mickcy@奧汀",
+      "Regodd@奧汀",
+      "有錢人的世界@奧汀",
+      "小殘@巴哈姆特",
+      "十元@鳳凰",
+      "夏普莉@利維坦",
+      "瑪茜醬@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1138904,
+    "clear_dt_ms": 1785681815645,
+    "jobs": {
+      "Ccdio@奧汀": "Astrologian",
+      "Mickcy@奧汀": "Dancer",
+      "Regodd@奧汀": "Dragoon",
+      "有錢人的世界@奧汀": "Ninja",
+      "小殘@巴哈姆特": "Paladin",
+      "十元@鳳凰": "Scholar",
+      "夏普莉@利維坦": "Gunbreaker",
+      "瑪茜醬@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "fGpaTxM3n891b7Wj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "洗讚小鴨鴨@伊弗利特",
+      "虎村翔@鳳凰",
+      "一罐頭一@迦樓羅",
+      "Debot@巴哈姆特",
+      "寅虎@鳳凰",
+      "Azzzzz@奧汀",
+      "熊粗壹@鳳凰",
+      "茶葉蛋@奧汀"
+    ],
+    "fight_id": 454,
+    "duration_ms": 859665,
+    "clear_dt_ms": 1784552275086,
+    "jobs": {
+      "洗讚小鴨鴨@伊弗利特": "RedMage",
+      "虎村翔@鳳凰": "Monk",
+      "一罐頭一@迦樓羅": "Paladin",
+      "Debot@巴哈姆特": "BlackMage",
+      "寅虎@鳳凰": "Sage",
+      "Azzzzz@奧汀": "Astrologian",
+      "熊粗壹@鳳凰": "Warrior",
+      "茶葉蛋@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "fGpaTxM3n891b7Wj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "洗讚小鴨鴨@伊弗利特",
+      "虎村翔@鳳凰",
+      "一罐頭一@迦樓羅",
+      "Debot@巴哈姆特",
+      "寅虎@鳳凰",
+      "Azzzzz@奧汀",
+      "茶葉蛋@奧汀",
+      "熊粗壹@鳳凰"
+    ],
+    "fight_id": 456,
+    "duration_ms": 867319,
+    "clear_dt_ms": 1784554499614,
+    "jobs": {
+      "洗讚小鴨鴨@伊弗利特": "RedMage",
+      "虎村翔@鳳凰": "Monk",
+      "一罐頭一@迦樓羅": "Paladin",
+      "Debot@巴哈姆特": "BlackMage",
+      "寅虎@鳳凰": "Sage",
+      "Azzzzz@奧汀": "Astrologian",
+      "茶葉蛋@奧汀": "Dragoon",
+      "熊粗壹@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "TanwGCqJmNzMZWdF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墨灑清河@伊弗利特",
+      "糖果貓咪@迦樓羅",
+      "薪水很高@奧汀",
+      "茶葉蛋@奧汀",
+      "Debot@巴哈姆特",
+      "熊粗壹@鳳凰",
+      "Azzzzz@奧汀",
+      "寅虎@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 824968,
+    "clear_dt_ms": 1785076211478,
+    "jobs": {
+      "墨灑清河@伊弗利特": "Dancer",
+      "糖果貓咪@迦樓羅": "Summoner",
+      "薪水很高@奧汀": "DarkKnight",
+      "茶葉蛋@奧汀": "Dragoon",
+      "Debot@巴哈姆特": "BlackMage",
+      "熊粗壹@鳳凰": "Paladin",
+      "Azzzzz@奧汀": "Astrologian",
+      "寅虎@鳳凰": "Sage"
+    }
   }
 ]
