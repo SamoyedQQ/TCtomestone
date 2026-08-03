@@ -84280,5 +84280,33 @@
       "Reddo梅@泰坦": "Dancer",
       "Shano@泰坦": "Paladin"
     }
+  },
+  {
+    "code": "FcNLKpf1gYn9JVGR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "熊貓@利維坦",
+      "Mikka@利維坦",
+      "柳如烟@伊弗利特",
+      "Gojojo@迦樓羅",
+      "香草天空@迦樓羅",
+      "侑介@迦樓羅",
+      "Shano@泰坦",
+      "Tim@迦樓羅"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1121175,
+    "clear_dt_ms": 1785760579567,
+    "jobs": {
+      "熊貓@利維坦": "Astrologian",
+      "Mikka@利維坦": "Scholar",
+      "柳如烟@伊弗利特": "Samurai",
+      "Gojojo@迦樓羅": "Pictomancer",
+      "香草天空@迦樓羅": "DarkKnight",
+      "侑介@迦樓羅": "Dancer",
+      "Shano@泰坦": "Paladin",
+      "Tim@迦樓羅": "Monk"
+    }
   }
 ]
