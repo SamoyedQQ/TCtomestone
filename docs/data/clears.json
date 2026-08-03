@@ -84504,5 +84504,61 @@
       "夜雨墨染@鳳凰": "BlackMage",
       "非洲大@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "XW4r3tqZNHYgmF6R",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "時旐@利維坦",
+      "浣恩特@利維坦",
+      "柒伍@迦樓羅",
+      "小蜘蛛@利維坦",
+      "阿兔爺@迦樓羅",
+      "Shano@泰坦",
+      "布丁@利維坦",
+      "水無月夢@巴哈姆特"
+    ],
+    "fight_id": 23,
+    "duration_ms": 1119903,
+    "clear_dt_ms": 1785776242602,
+    "jobs": {
+      "時旐@利維坦": "Monk",
+      "浣恩特@利維坦": "Scholar",
+      "柒伍@迦樓羅": "Viper",
+      "小蜘蛛@利維坦": "Astrologian",
+      "阿兔爺@迦樓羅": "Summoner",
+      "Shano@泰坦": "Paladin",
+      "布丁@利維坦": "Bard",
+      "水無月夢@巴哈姆特": "DarkKnight"
+    }
+  },
+  {
+    "code": "dhxH4tZpDCFzKQw1",
+    "title": "DSR",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Benny@奧汀",
+      "黃金熊熊維尼@巴哈姆特",
+      "蛤蜜呱@伊弗利特",
+      "永愛三玖@巴哈姆特",
+      "明日的希望@迦樓羅",
+      "Wenwen@伊弗利特",
+      "羊松鼠馬魚貓@迦樓羅",
+      "橘雪莉@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1084826,
+    "clear_dt_ms": 1785776547073,
+    "jobs": {
+      "Benny@奧汀": "Pictomancer",
+      "黃金熊熊維尼@巴哈姆特": "Samurai",
+      "蛤蜜呱@伊弗利特": "Scholar",
+      "永愛三玖@巴哈姆特": "Dancer",
+      "明日的希望@迦樓羅": "Warrior",
+      "Wenwen@伊弗利特": "Sage",
+      "羊松鼠馬魚貓@迦樓羅": "BlackMage",
+      "橘雪莉@伊弗利特": "DarkKnight"
+    }
   }
 ]
