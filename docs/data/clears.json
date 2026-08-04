@@ -84728,5 +84728,33 @@
       "Yude@利維坦": "Paladin",
       "沁心紅茶@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "Gvpj21nbKWy47C3F",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Fazzer@泰坦",
+      "真白瑠璃@伊弗利特",
+      "Wqw@利維坦",
+      "香蕉大濕@伊弗利特",
+      "雲浪丨遊軒轅@鳳凰",
+      "龍越@鳳凰",
+      "藍職龍奇@伊弗利特",
+      "陌夜語月@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1124163,
+    "clear_dt_ms": 1785823503182,
+    "jobs": {
+      "Fazzer@泰坦": "Bard",
+      "真白瑠璃@伊弗利特": "Sage",
+      "Wqw@利維坦": "Astrologian",
+      "香蕉大濕@伊弗利特": "Monk",
+      "雲浪丨遊軒轅@鳳凰": "Pictomancer",
+      "龍越@鳳凰": "Paladin",
+      "藍職龍奇@伊弗利特": "Reaper",
+      "陌夜語月@利維坦": "DarkKnight"
+    }
   }
 ]
