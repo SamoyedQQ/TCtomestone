@@ -84756,5 +84756,61 @@
       "藍職龍奇@伊弗利特": "Reaper",
       "陌夜語月@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "hRrKWgfJvyXApC4D",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "繪靈@奧汀",
+      "Hmaster@巴哈姆特",
+      "一個劍術師@泰坦",
+      "饿了@奧汀",
+      "Tiny石頭@奧汀",
+      "美堂蠻@奧汀",
+      "嘩啦@泰坦",
+      "極速型小豆丁@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1093641,
+    "clear_dt_ms": 1785825720100,
+    "jobs": {
+      "繪靈@奧汀": "Scholar",
+      "Hmaster@巴哈姆特": "WhiteMage",
+      "一個劍術師@泰坦": "Paladin",
+      "饿了@奧汀": "Dancer",
+      "Tiny石頭@奧汀": "DarkKnight",
+      "美堂蠻@奧汀": "Summoner",
+      "嘩啦@泰坦": "Monk",
+      "極速型小豆丁@泰坦": "Dragoon"
+    }
+  },
+  {
+    "code": "cbA6B9N4FzMnQkYg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "美堂蠻@奧汀",
+      "饿了@利維坦",
+      "繪靈@奧汀",
+      "一個劍術師@奧汀",
+      "Hmaster@奧汀",
+      "Tiny石頭@伊弗利特",
+      "黑魔king@泰坦",
+      "極速型小豆丁@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 999896,
+    "clear_dt_ms": 1785821934137,
+    "jobs": {
+      "美堂蠻@奧汀": "Gunbreaker",
+      "饿了@利維坦": "Dancer",
+      "繪靈@奧汀": "Sage",
+      "一個劍術師@奧汀": "Warrior",
+      "Hmaster@奧汀": "WhiteMage",
+      "Tiny石頭@伊弗利特": "Samurai",
+      "黑魔king@泰坦": "Summoner",
+      "極速型小豆丁@泰坦": "Dragoon"
+    }
   }
 ]
