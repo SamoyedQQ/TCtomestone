@@ -84812,5 +84812,33 @@
       "黑魔king@泰坦": "Summoner",
       "極速型小豆丁@泰坦": "Dragoon"
     }
+  },
+  {
+    "code": "ArxwGZmnt26XYKzH",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Tiny石頭@迦樓羅",
+      "黑魔king@伊弗利特",
+      "美堂蠻@奧汀",
+      "繪靈@奧汀",
+      "一個劍術師@泰坦",
+      "嘩啦@泰坦",
+      "守護型小豆丁@泰坦",
+      "Hmaster@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1114588,
+    "clear_dt_ms": 1785908530434,
+    "jobs": {
+      "Tiny石頭@迦樓羅": "Monk",
+      "黑魔king@伊弗利特": "Pictomancer",
+      "美堂蠻@奧汀": "Dancer",
+      "繪靈@奧汀": "Sage",
+      "一個劍術師@泰坦": "Warrior",
+      "嘩啦@泰坦": "Summoner",
+      "守護型小豆丁@泰坦": "DarkKnight",
+      "Hmaster@奧汀": "Astrologian"
+    }
   }
 ]
