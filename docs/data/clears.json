@@ -85036,5 +85036,145 @@
       "王豆沙@利維坦": "BlackMage",
       "多喝熱水@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "zwJkM6A4FNVLfrvb",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "翼神龍@奧汀",
+      "使心免於哀傷@奧汀",
+      "Kenzo@奧汀",
+      "天空龍@奧汀",
+      "鯊魚@鳳凰",
+      "阿秋@利維坦",
+      "沈汐@奧汀",
+      "迷迭香@奧汀"
+    ],
+    "fight_id": 210,
+    "duration_ms": 1122277,
+    "clear_dt_ms": 1785845036956,
+    "jobs": {
+      "翼神龍@奧汀": "DarkKnight",
+      "使心免於哀傷@奧汀": "Warrior",
+      "Kenzo@奧汀": "Dragoon",
+      "天空龍@奧汀": "Scholar",
+      "鯊魚@鳳凰": "BlackMage",
+      "阿秋@利維坦": "Astrologian",
+      "沈汐@奧汀": "Dancer",
+      "迷迭香@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "KqhPHzdbLYmJwD3F",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "櫻羽艾瑪@伊弗利特",
+      "伊賀栖寅@伊弗利特",
+      "伽藍影日@巴哈姆特",
+      "不凋花@伊弗利特",
+      "蛤蜜呱@伊弗利特",
+      "橘雪莉@伊弗利特",
+      "Pong@伊弗利特",
+      "想睡覺mmm@伊弗利特"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1122218,
+    "clear_dt_ms": 1785678033572,
+    "jobs": {
+      "櫻羽艾瑪@伊弗利特": "Pictomancer",
+      "伊賀栖寅@伊弗利特": "Samurai",
+      "伽藍影日@巴哈姆特": "WhiteMage",
+      "不凋花@伊弗利特": "Monk",
+      "蛤蜜呱@伊弗利特": "Scholar",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "Pong@伊弗利特": "Dancer",
+      "想睡覺mmm@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "KqhPHzdbLYmJwD3F",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "櫻羽艾瑪@伊弗利特",
+      "伊賀栖寅@伊弗利特",
+      "伽藍影日@巴哈姆特",
+      "不凋花@伊弗利特",
+      "蛤蜜呱@伊弗利特",
+      "橘雪莉@伊弗利特",
+      "Pong@伊弗利特",
+      "想睡覺mmm@伊弗利特"
+    ],
+    "fight_id": 20,
+    "duration_ms": 1120607,
+    "clear_dt_ms": 1785681816753,
+    "jobs": {
+      "櫻羽艾瑪@伊弗利特": "Pictomancer",
+      "伊賀栖寅@伊弗利特": "Samurai",
+      "伽藍影日@巴哈姆特": "WhiteMage",
+      "不凋花@伊弗利特": "Monk",
+      "蛤蜜呱@伊弗利特": "Scholar",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "Pong@伊弗利特": "Dancer",
+      "想睡覺mmm@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "aFzdQ4AyBbMGRCgv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "明日的希望@迦樓羅",
+      "黃金熊熊維尼@巴哈姆特",
+      "舞紗橘@利維坦",
+      "崩落之旅人@利維坦",
+      "圓形食物@鳳凰",
+      "Wenwen@伊弗利特",
+      "Jacy@伊弗利特",
+      "Benny@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1115339,
+    "clear_dt_ms": 1785681687624,
+    "jobs": {
+      "明日的希望@迦樓羅": "Machinist",
+      "黃金熊熊維尼@巴哈姆特": "Samurai",
+      "舞紗橘@利維坦": "Pictomancer",
+      "崩落之旅人@利維坦": "Scholar",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Wenwen@伊弗利特": "Astrologian",
+      "Jacy@伊弗利特": "Paladin",
+      "Benny@奧汀": "Reaper"
+    }
+  },
+  {
+    "code": "8NGKkzbYxW3AFM1Z",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "崩落之旅人@利維坦",
+      "Benny@奧汀",
+      "舞紗橘@利維坦",
+      "Wenwen@伊弗利特",
+      "明日的希望@迦樓羅",
+      "Jacy@伊弗利特",
+      "黃金熊熊維尼@巴哈姆特",
+      "圓形食物@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1114004,
+    "clear_dt_ms": 1785677116617,
+    "jobs": {
+      "崩落之旅人@利維坦": "Scholar",
+      "Benny@奧汀": "Reaper",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Wenwen@伊弗利特": "Astrologian",
+      "明日的希望@迦樓羅": "Bard",
+      "Jacy@伊弗利特": "Paladin",
+      "黃金熊熊維尼@巴哈姆特": "Samurai",
+      "圓形食物@鳳凰": "DarkKnight"
+    }
   }
 ]
