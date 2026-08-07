@@ -85344,5 +85344,33 @@
       "Makua@奧汀": "Monk",
       "芋泥休斯頓@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "Ak9DvBqntphfxMKY",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "饿了@奧汀",
+      "Hmaster@巴哈姆特",
+      "繪靈@奧汀",
+      "Tiny石頭@鳳凰",
+      "一個劍術師@伊弗利特",
+      "黑魔king@奧汀",
+      "美堂蠻@奧汀",
+      "奇蹟@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1121114,
+    "clear_dt_ms": 1786080489025,
+    "jobs": {
+      "饿了@奧汀": "Ninja",
+      "Hmaster@巴哈姆特": "Astrologian",
+      "繪靈@奧汀": "Sage",
+      "Tiny石頭@鳳凰": "Monk",
+      "一個劍術師@伊弗利特": "Gunbreaker",
+      "黑魔king@奧汀": "BlackMage",
+      "美堂蠻@奧汀": "Machinist",
+      "奇蹟@鳳凰": "DarkKnight"
+    }
   }
 ]
