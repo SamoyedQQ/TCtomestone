@@ -85400,5 +85400,201 @@
       "星閑desu@利維坦": "Summoner",
       "Yuuji@伊弗利特": "BlackMage"
     }
+  },
+  {
+    "code": "hG42BAfv8RbXjHnW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "來來子@鳳凰",
+      "草八刀@伊弗利特",
+      "Jman@伊弗利特",
+      "楓之旋律@鳳凰",
+      "三三@鳳凰",
+      "山壯@鳳凰",
+      "Paku@鳳凰",
+      "Satoru@鳳凰"
+    ],
+    "fight_id": 20,
+    "duration_ms": 967086,
+    "clear_dt_ms": 1786114534722,
+    "jobs": {
+      "來來子@鳳凰": "Dancer",
+      "草八刀@伊弗利特": "Pictomancer",
+      "Jman@伊弗利特": "Paladin",
+      "楓之旋律@鳳凰": "WhiteMage",
+      "三三@鳳凰": "Gunbreaker",
+      "山壯@鳳凰": "Monk",
+      "Paku@鳳凰": "RedMage",
+      "Satoru@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "hG42BAfv8RbXjHnW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "來來子@鳳凰",
+      "草八刀@伊弗利特",
+      "Jman@伊弗利特",
+      "楓之旋律@鳳凰",
+      "三三@鳳凰",
+      "山壯@鳳凰",
+      "Paku@鳳凰",
+      "Satoru@鳳凰"
+    ],
+    "fight_id": 23,
+    "duration_ms": 949924,
+    "clear_dt_ms": 1786116443892,
+    "jobs": {
+      "來來子@鳳凰": "Dancer",
+      "草八刀@伊弗利特": "Pictomancer",
+      "Jman@伊弗利特": "Paladin",
+      "楓之旋律@鳳凰": "WhiteMage",
+      "三三@鳳凰": "Gunbreaker",
+      "山壯@鳳凰": "Monk",
+      "Paku@鳳凰": "RedMage",
+      "Satoru@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "f1NDT3pqXw7xC8rh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Zakaru@鳳凰",
+      "顧雪琴@巴哈姆特",
+      "小小佑小佑@奧汀",
+      "烏彌@伊弗利特",
+      "白雪蕾@泰坦",
+      "爾雅@泰坦",
+      "柳染@利維坦",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 854833,
+    "clear_dt_ms": 1786114226163,
+    "jobs": {
+      "Zakaru@鳳凰": "Dancer",
+      "顧雪琴@巴哈姆特": "Sage",
+      "小小佑小佑@奧汀": "DarkKnight",
+      "烏彌@伊弗利特": "Summoner",
+      "白雪蕾@泰坦": "BlackMage",
+      "爾雅@泰坦": "WhiteMage",
+      "柳染@利維坦": "Dragoon",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "f1NDT3pqXw7xC8rh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Zakaru@鳳凰",
+      "顧雪琴@巴哈姆特",
+      "Leeroy@巴哈姆特",
+      "小小佑小佑@奧汀",
+      "烏彌@伊弗利特",
+      "爾雅@泰坦",
+      "柳染@利維坦",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 863861,
+    "clear_dt_ms": 1786117509694,
+    "jobs": {
+      "Zakaru@鳳凰": "Dancer",
+      "顧雪琴@巴哈姆特": "Sage",
+      "Leeroy@巴哈姆特": "Machinist",
+      "小小佑小佑@奧汀": "DarkKnight",
+      "烏彌@伊弗利特": "Summoner",
+      "爾雅@泰坦": "WhiteMage",
+      "柳染@利維坦": "Dragoon",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "f1NDT3pqXw7xC8rh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Zakaru@鳳凰",
+      "顧雪琴@巴哈姆特",
+      "Leeroy@巴哈姆特",
+      "小小佑小佑@奧汀",
+      "烏彌@伊弗利特",
+      "爾雅@泰坦",
+      "柳染@利維坦",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 866219,
+    "clear_dt_ms": 1786118787542,
+    "jobs": {
+      "Zakaru@鳳凰": "Dancer",
+      "顧雪琴@巴哈姆特": "Sage",
+      "Leeroy@巴哈姆特": "Machinist",
+      "小小佑小佑@奧汀": "DarkKnight",
+      "烏彌@伊弗利特": "Summoner",
+      "爾雅@泰坦": "WhiteMage",
+      "柳染@利維坦": "Dragoon",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "f1NDT3pqXw7xC8rh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Zakaru@鳳凰",
+      "顧雪琴@巴哈姆特",
+      "小小佑小佑@奧汀",
+      "Leeroy@巴哈姆特",
+      "烏彌@伊弗利特",
+      "爾雅@泰坦",
+      "柳染@利維坦",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 850326,
+    "clear_dt_ms": 1786119957873,
+    "jobs": {
+      "Zakaru@鳳凰": "Dancer",
+      "顧雪琴@巴哈姆特": "Sage",
+      "小小佑小佑@奧汀": "DarkKnight",
+      "Leeroy@巴哈姆特": "Machinist",
+      "烏彌@伊弗利特": "Summoner",
+      "爾雅@泰坦": "WhiteMage",
+      "柳染@利維坦": "Dragoon",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "f1NDT3pqXw7xC8rh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Zakaru@鳳凰",
+      "顧雪琴@巴哈姆特",
+      "小小佑小佑@奧汀",
+      "Leeroy@巴哈姆特",
+      "烏彌@伊弗利特",
+      "爾雅@泰坦",
+      "柳染@利維坦",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 853290,
+    "clear_dt_ms": 1786121962814,
+    "jobs": {
+      "Zakaru@鳳凰": "Dancer",
+      "顧雪琴@巴哈姆特": "Sage",
+      "小小佑小佑@奧汀": "DarkKnight",
+      "Leeroy@巴哈姆特": "Machinist",
+      "烏彌@伊弗利特": "Summoner",
+      "爾雅@泰坦": "WhiteMage",
+      "柳染@利維坦": "Dragoon",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
   }
 ]
