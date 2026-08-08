@@ -85680,5 +85680,173 @@
       "龍龍大哥@伊弗利特": "Dancer",
       "青龍@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "1MxYZRQV6DtJdWzK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Yuuji@伊弗利特",
+      "旮旯給木高手@伊弗利特",
+      "笭@迦樓羅",
+      "星閑desu@利維坦",
+      "Heritz@伊弗利特",
+      "九日日@迦樓羅",
+      "茶無此人@鳳凰",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 843018,
+    "clear_dt_ms": 1786199216446,
+    "jobs": {
+      "Yuuji@伊弗利特": "BlackMage",
+      "旮旯給木高手@伊弗利特": "Gunbreaker",
+      "笭@迦樓羅": "Sage",
+      "星閑desu@利維坦": "Summoner",
+      "Heritz@伊弗利特": "Samurai",
+      "九日日@迦樓羅": "Astrologian",
+      "茶無此人@鳳凰": "Dancer",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "1MxYZRQV6DtJdWzK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "笭@迦樓羅",
+      "Yuuji@伊弗利特",
+      "黑巧尼可可@迦樓羅",
+      "Ringo@巴哈姆特",
+      "Heritz@伊弗利特",
+      "九日日@迦樓羅",
+      "茶無此人@鳳凰",
+      "迪倫·奎因@泰坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 861871,
+    "clear_dt_ms": 1786203019296,
+    "jobs": {
+      "笭@迦樓羅": "Gunbreaker",
+      "Yuuji@伊弗利特": "BlackMage",
+      "黑巧尼可可@迦樓羅": "RedMage",
+      "Ringo@巴哈姆特": "Scholar",
+      "Heritz@伊弗利特": "Samurai",
+      "九日日@迦樓羅": "Astrologian",
+      "茶無此人@鳳凰": "Dancer",
+      "迪倫·奎因@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "3FwmKpd6VG17tz9g",
+    "title": "決歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Makua@奧汀",
+      "Harii@奧汀",
+      "Mabian@迦樓羅",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Kotori@伊弗利特",
+      "寧缺勿濫@利維坦",
+      "東玄@鳳凰",
+      "芋泥休斯頓@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1125074,
+    "clear_dt_ms": 1786194255366,
+    "jobs": {
+      "Makua@奧汀": "Monk",
+      "Harii@奧汀": "Dancer",
+      "Mabian@迦樓羅": "Paladin",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Kotori@伊弗利特": "Scholar",
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "東玄@鳳凰": "WhiteMage",
+      "芋泥休斯頓@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "3FwmKpd6VG17tz9g",
+    "title": "決歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Makua@奧汀",
+      "Harii@奧汀",
+      "Mabian@迦樓羅",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Kotori@伊弗利特",
+      "寧缺勿濫@利維坦",
+      "東玄@鳳凰",
+      "芋泥休斯頓@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1133091,
+    "clear_dt_ms": 1786195983312,
+    "jobs": {
+      "Makua@奧汀": "Monk",
+      "Harii@奧汀": "Dancer",
+      "Mabian@迦樓羅": "Paladin",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Kotori@伊弗利特": "Scholar",
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "東玄@鳳凰": "WhiteMage",
+      "芋泥休斯頓@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "3FwmKpd6VG17tz9g",
+    "title": "決歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Makua@奧汀",
+      "Harii@奧汀",
+      "Mabian@迦樓羅",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Kotori@伊弗利特",
+      "寧缺勿濫@利維坦",
+      "東玄@鳳凰",
+      "芋泥休斯頓@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1125599,
+    "clear_dt_ms": 1786197739604,
+    "jobs": {
+      "Makua@奧汀": "Monk",
+      "Harii@奧汀": "Dancer",
+      "Mabian@迦樓羅": "Paladin",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Kotori@伊弗利特": "Scholar",
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "東玄@鳳凰": "WhiteMage",
+      "芋泥休斯頓@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "3FwmKpd6VG17tz9g",
+    "title": "決歐",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Makua@奧汀",
+      "Harii@奧汀",
+      "Mabian@迦樓羅",
+      "灼瞳啟世魔皇@伊弗利特",
+      "Kotori@伊弗利特",
+      "寧缺勿濫@利維坦",
+      "東玄@鳳凰",
+      "芋泥休斯頓@迦樓羅"
+    ],
+    "fight_id": 15,
+    "duration_ms": 1131287,
+    "clear_dt_ms": 1786200968213,
+    "jobs": {
+      "Makua@奧汀": "Monk",
+      "Harii@奧汀": "Dancer",
+      "Mabian@迦樓羅": "Paladin",
+      "灼瞳啟世魔皇@伊弗利特": "BlackMage",
+      "Kotori@伊弗利特": "Scholar",
+      "寧缺勿濫@利維坦": "DarkKnight",
+      "東玄@鳳凰": "WhiteMage",
+      "芋泥休斯頓@迦樓羅": "Dragoon"
+    }
   }
 ]
