@@ -85988,5 +85988,33 @@
       "呆萌白@利維坦": "Pictomancer",
       "Kaka@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "q1tn6xdCGcLQHR2f",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "笭@迦樓羅",
+      "Katoka@奧汀",
+      "艾塞琳達@奧汀",
+      "小町月海@奧汀",
+      "虎斑控肉飯@巴哈姆特",
+      "莫名降臨@泰坦",
+      "Darker@伊弗利特",
+      "Ringo@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 853555,
+    "clear_dt_ms": 1786284405300,
+    "jobs": {
+      "笭@迦樓羅": "DarkKnight",
+      "Katoka@奧汀": "Monk",
+      "艾塞琳達@奧汀": "Machinist",
+      "小町月海@奧汀": "Samurai",
+      "虎斑控肉飯@巴哈姆特": "Warrior",
+      "莫名降臨@泰坦": "WhiteMage",
+      "Darker@伊弗利特": "Summoner",
+      "Ringo@巴哈姆特": "Scholar"
+    }
   }
 ]
