@@ -85932,5 +85932,61 @@
       "Rice米米@利維坦": "Sage",
       "Yude@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "Q8N6qWt9rD4zahdM",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "雅·修的啦@利維坦",
+      "Gndd@鳳凰",
+      "雲浪丨遊軒轅@鳳凰",
+      "殺手佐之助@巴哈姆特",
+      "旮旯給木高手@伊弗利特",
+      "Zuo@鳳凰",
+      "龍蝦小兵@鳳凰",
+      "我迷路了@鳳凰"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1121042,
+    "clear_dt_ms": 1786255840774,
+    "jobs": {
+      "雅·修的啦@利維坦": "Reaper",
+      "Gndd@鳳凰": "Bard",
+      "雲浪丨遊軒轅@鳳凰": "Pictomancer",
+      "殺手佐之助@巴哈姆特": "Astrologian",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "Zuo@鳳凰": "Sage",
+      "龍蝦小兵@鳳凰": "Paladin",
+      "我迷路了@鳳凰": "Monk"
+    }
+  },
+  {
+    "code": "6K12gnzbYHZdwGxy",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "美花丸@奧汀",
+      "Shano@泰坦",
+      "柒伍@迦樓羅",
+      "零零陸@利維坦",
+      "哈密瓜雪糕@奧汀",
+      "洗讚小鴨鴨@伊弗利特",
+      "呆萌白@利維坦",
+      "Kaka@奧汀"
+    ],
+    "fight_id": 235,
+    "duration_ms": 1122493,
+    "clear_dt_ms": 1786122531211,
+    "jobs": {
+      "美花丸@奧汀": "Dragoon",
+      "Shano@泰坦": "Paladin",
+      "柒伍@迦樓羅": "Viper",
+      "零零陸@利維坦": "DarkKnight",
+      "哈密瓜雪糕@奧汀": "Scholar",
+      "洗讚小鴨鴨@伊弗利特": "Bard",
+      "呆萌白@利維坦": "Pictomancer",
+      "Kaka@奧汀": "Astrologian"
+    }
   }
 ]
