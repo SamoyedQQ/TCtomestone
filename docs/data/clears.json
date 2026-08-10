@@ -86072,5 +86072,33 @@
       "保丹@鳳凰": "DarkKnight",
       "走正門大師@利維坦": "Bard"
     }
+  },
+  {
+    "code": "nYhp1V7yH2LG64az",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Tiny石頭@利維坦",
+      "一個劍術師@泰坦",
+      "Hmaster@奧汀",
+      "美堂蠻@奧汀",
+      "黑魔king@鳳凰",
+      "饿了@鳳凰",
+      "繪靈@伊弗利特",
+      "嘩啦@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 802188,
+    "clear_dt_ms": 1786355330287,
+    "jobs": {
+      "Tiny石頭@利維坦": "Reaper",
+      "一個劍術師@泰坦": "Warrior",
+      "Hmaster@奧汀": "WhiteMage",
+      "美堂蠻@奧汀": "Paladin",
+      "黑魔king@鳳凰": "Summoner",
+      "饿了@鳳凰": "Viper",
+      "繪靈@伊弗利特": "Sage",
+      "嘩啦@泰坦": "Machinist"
+    }
   }
 ]
