@@ -86268,5 +86268,33 @@
       "爾雅@泰坦": "WhiteMage",
       "迪倫·奎因@泰坦": "Paladin"
     }
+  },
+  {
+    "code": "tkC2daR9gvHwnPKz",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "杏仁豆腐@奧汀",
+      "香草天空@迦樓羅",
+      "電漿衝鋒槍@奧汀",
+      "町田@鳳凰",
+      "Shano@泰坦",
+      "一龍@迦樓羅",
+      "風語yc@迦樓羅",
+      "美花丸@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1121750,
+    "clear_dt_ms": 1786389019295,
+    "jobs": {
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "香草天空@迦樓羅": "DarkKnight",
+      "電漿衝鋒槍@奧汀": "Dancer",
+      "町田@鳳凰": "Scholar",
+      "Shano@泰坦": "Paladin",
+      "一龍@迦樓羅": "Monk",
+      "風語yc@迦樓羅": "BlackMage",
+      "美花丸@奧汀": "Dragoon"
+    }
   }
 ]
