@@ -86296,5 +86296,33 @@
       "風語yc@迦樓羅": "BlackMage",
       "美花丸@奧汀": "Dragoon"
     }
+  },
+  {
+    "code": "TKpcrG19D6vmAR4j",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "冬馬和紗@鳳凰",
+      "九巾路跑@鳳凰",
+      "如月@鳳凰",
+      "沁雪冰心@利維坦",
+      "瑀玥玥·瑀玥@迦樓羅",
+      "沙帝斯@利維坦",
+      "悠然誠心@利維坦",
+      "Yongno@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 869440,
+    "clear_dt_ms": 1786387470221,
+    "jobs": {
+      "冬馬和紗@鳳凰": "Dragoon",
+      "九巾路跑@鳳凰": "Sage",
+      "如月@鳳凰": "Astrologian",
+      "沁雪冰心@利維坦": "Paladin",
+      "瑀玥玥·瑀玥@迦樓羅": "Dancer",
+      "沙帝斯@利維坦": "Monk",
+      "悠然誠心@利維坦": "DarkKnight",
+      "Yongno@伊弗利特": "Summoner"
+    }
   }
 ]
