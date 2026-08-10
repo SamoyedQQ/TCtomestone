@@ -86100,5 +86100,33 @@
       "繪靈@伊弗利特": "Sage",
       "嘩啦@泰坦": "Machinist"
     }
+  },
+  {
+    "code": "nqgCVNKAHkQj9amW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Mimika@利維坦",
+      "補月@利維坦",
+      "Solars@巴哈姆特",
+      "歪燕@利維坦",
+      "Nutz@泰坦",
+      "咪咪帽帽@鳳凰",
+      "碳酸氫鈉@利維坦",
+      "黑色楓葉@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1124150,
+    "clear_dt_ms": 1786375014957,
+    "jobs": {
+      "Mimika@利維坦": "Pictomancer",
+      "補月@利維坦": "Dragoon",
+      "Solars@巴哈姆特": "Bard",
+      "歪燕@利維坦": "Scholar",
+      "Nutz@泰坦": "Paladin",
+      "咪咪帽帽@鳳凰": "DarkKnight",
+      "碳酸氫鈉@利維坦": "Astrologian",
+      "黑色楓葉@利維坦": "BlackMage"
+    }
   }
 ]
