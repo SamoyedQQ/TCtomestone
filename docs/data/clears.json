@@ -86352,5 +86352,33 @@
       "九筒大姊@利維坦": "Scholar",
       "艾恩葛朗特@泰坦": "Astrologian"
     }
+  },
+  {
+    "code": "hmMztgA6QbYCKV8G",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "真是呆@伊弗利特",
+      "艾絲蒂爾@伊弗利特",
+      "摺紙小鳥@迦樓羅",
+      "永琳@迦樓羅",
+      "風殤月@泰坦",
+      "米戈米戈勒@利維坦",
+      "Sliken@迦樓羅",
+      "臥菜@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1129303,
+    "clear_dt_ms": 1786458266841,
+    "jobs": {
+      "真是呆@伊弗利特": "Pictomancer",
+      "艾絲蒂爾@伊弗利特": "Dancer",
+      "摺紙小鳥@迦樓羅": "WhiteMage",
+      "永琳@迦樓羅": "Monk",
+      "風殤月@泰坦": "Paladin",
+      "米戈米戈勒@利維坦": "Ninja",
+      "Sliken@迦樓羅": "Scholar",
+      "臥菜@伊弗利特": "Warrior"
+    }
   }
 ]
