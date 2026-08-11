@@ -86324,5 +86324,33 @@
       "悠然誠心@利維坦": "DarkKnight",
       "Yongno@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "3nJphKRB7mDg1VPy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "黑魔@奧汀",
+      "巴哥毛怪@泰坦",
+      "雷姆大好@巴哈姆特",
+      "桃梔@泰坦",
+      "莉伊阿歐恩@鳳凰",
+      "Wei巴@伊弗利特",
+      "九筒大姊@利維坦",
+      "艾恩葛朗特@泰坦"
+    ],
+    "fight_id": 107,
+    "duration_ms": 1127560,
+    "clear_dt_ms": 1786374265221,
+    "jobs": {
+      "黑魔@奧汀": "BlackMage",
+      "巴哥毛怪@泰坦": "Monk",
+      "雷姆大好@巴哈姆特": "DarkKnight",
+      "桃梔@泰坦": "Dancer",
+      "莉伊阿歐恩@鳳凰": "Paladin",
+      "Wei巴@伊弗利特": "Dragoon",
+      "九筒大姊@利維坦": "Scholar",
+      "艾恩葛朗特@泰坦": "Astrologian"
+    }
   }
 ]
