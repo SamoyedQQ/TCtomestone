@@ -243257,17 +243257,17 @@
     "encounter_id": 1079,
     "encounter": "Fatebreaker / Usurper of Frost",
     "is_clear": false,
-    "boss_hp_pct": 85.77,
+    "boss_hp_pct": 82.37,
     "rdps": 0.0,
     "adps": 0.0,
     "parse_pct": 0.0,
     "job": "Paladin",
-    "char_id": 1001179,
-    "report_code": "mBaMqRvrkAVJcZgX",
-    "fight_id": 112,
-    "timestamp_ms": 1780045323381,
+    "char_id": 1000002,
+    "report_code": "Yb9Q8CMRJnmwq3vN",
+    "fight_id": 12,
+    "timestamp_ms": 1780766393874,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "美花丸@奧汀:1079:_wipe": {
     "name": "美花丸",
@@ -257729,17 +257729,17 @@
     "encounter_id": 1079,
     "encounter": "Fatebreaker / Usurper of Frost",
     "is_clear": false,
-    "boss_hp_pct": 83.81,
+    "boss_hp_pct": 82.37,
     "rdps": 0.0,
     "adps": 0.0,
     "parse_pct": 0.0,
     "job": "Pictomancer",
-    "char_id": 1000228,
-    "report_code": "3naBzjxFfc1wK7Jg",
-    "fight_id": 45,
-    "timestamp_ms": 1780503349419,
+    "char_id": 1000009,
+    "report_code": "Yb9Q8CMRJnmwq3vN",
+    "fight_id": 12,
+    "timestamp_ms": 1780766393874,
     "duration_ms": 0,
-    "phase_reached": 0
+    "phase_reached": 2
   },
   "米大斯@迦樓羅:1079:Scholar": {
     "name": "米大斯",
@@ -325996,5 +325996,23 @@
     "timestamp_ms": 1786474441859,
     "duration_ms": 0,
     "phase_reached": 2
+  },
+  "白鶴靈芝@利維坦:1079:_wipe": {
+    "name": "白鶴靈芝",
+    "server": "利維坦",
+    "encounter_id": 1079,
+    "encounter": "Fatebreaker",
+    "is_clear": false,
+    "boss_hp_pct": 90.22,
+    "rdps": 0.0,
+    "adps": 0.0,
+    "parse_pct": 0.0,
+    "job": "Astrologian",
+    "char_id": 1000708,
+    "report_code": "xDqRGQXC8b6pjY9m",
+    "fight_id": 48,
+    "timestamp_ms": 1780761164359,
+    "duration_ms": 0,
+    "phase_reached": 1
   }
 }
