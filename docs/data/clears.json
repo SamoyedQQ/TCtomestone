@@ -86408,5 +86408,33 @@
       "不凋花@伊弗利特": "Monk",
       "伽藍影日@巴哈姆特": "WhiteMage"
     }
+  },
+  {
+    "code": "Xxfrcpb3ngVPNv2W",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "風語yc@迦樓羅",
+      "Gndd@鳳凰",
+      "小夢幻@奧汀",
+      "莫比@利維坦",
+      "殷箋@伊弗利特",
+      "Nacho@鳳凰",
+      "左淪@迦樓羅",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1118643,
+    "clear_dt_ms": 1786614731384,
+    "jobs": {
+      "風語yc@迦樓羅": "BlackMage",
+      "Gndd@鳳凰": "Dancer",
+      "小夢幻@奧汀": "Sage",
+      "莫比@利維坦": "Ninja",
+      "殷箋@伊弗利特": "Paladin",
+      "Nacho@鳳凰": "Reaper",
+      "左淪@迦樓羅": "DarkKnight",
+      "薇薇布@迦樓羅": "Astrologian"
+    }
   }
 ]
