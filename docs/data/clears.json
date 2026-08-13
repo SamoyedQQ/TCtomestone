@@ -86464,5 +86464,89 @@
       "嘩啦@泰坦": "DarkKnight",
       "饿了@泰坦": "Machinist"
     }
+  },
+  {
+    "code": "aKwPtZmjnLAN1hzd",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "洛洛塔@鳳凰",
+      "我迷路了@鳳凰",
+      "瓜@鳳凰",
+      "船過水有痕@鳳凰",
+      "Iyao@鳳凰",
+      "鳥鳴山更幽@鳳凰",
+      "詩恩@鳳凰",
+      "鳳啼鳴鈅@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1125006,
+    "clear_dt_ms": 1786632927458,
+    "jobs": {
+      "洛洛塔@鳳凰": "Dancer",
+      "我迷路了@鳳凰": "Monk",
+      "瓜@鳳凰": "Scholar",
+      "船過水有痕@鳳凰": "Paladin",
+      "Iyao@鳳凰": "DarkKnight",
+      "鳥鳴山更幽@鳳凰": "BlackMage",
+      "詩恩@鳳凰": "Astrologian",
+      "鳳啼鳴鈅@巴哈姆特": "Viper"
+    }
+  },
+  {
+    "code": "A3fCjwcVB8b4MvKP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "希斯皮提@鳳凰",
+      "哭哭拉肥爾@奧汀",
+      "Aire@鳳凰",
+      "Fyyy@鳳凰",
+      "橘色的萊婭@奧汀",
+      "天宇@伊弗利特",
+      "樓下都是狗@迦樓羅",
+      "彌彌酥@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 853837,
+    "clear_dt_ms": 1786628740023,
+    "jobs": {
+      "希斯皮提@鳳凰": "DarkKnight",
+      "哭哭拉肥爾@奧汀": "Scholar",
+      "Aire@鳳凰": "Monk",
+      "Fyyy@鳳凰": "Dancer",
+      "橘色的萊婭@奧汀": "BlackMage",
+      "天宇@伊弗利特": "RedMage",
+      "樓下都是狗@迦樓羅": "Paladin",
+      "彌彌酥@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "A3fCjwcVB8b4MvKP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "天宇@伊弗利特",
+      "哭哭拉肥爾@奧汀",
+      "Aire@鳳凰",
+      "希斯皮提@鳳凰",
+      "樓下都是狗@迦樓羅",
+      "Fyyy@鳳凰",
+      "橘色的萊婭@奧汀",
+      "彌彌酥@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 857112,
+    "clear_dt_ms": 1786631179503,
+    "jobs": {
+      "天宇@伊弗利特": "Summoner",
+      "哭哭拉肥爾@奧汀": "Astrologian",
+      "Aire@鳳凰": "Monk",
+      "希斯皮提@鳳凰": "Paladin",
+      "樓下都是狗@迦樓羅": "DarkKnight",
+      "Fyyy@鳳凰": "Dancer",
+      "橘色的萊婭@奧汀": "BlackMage",
+      "彌彌酥@迦樓羅": "Sage"
+    }
   }
 ]
