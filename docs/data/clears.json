@@ -86548,5 +86548,61 @@
       "橘色的萊婭@奧汀": "BlackMage",
       "彌彌酥@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "QjvdNPpAVYxkZBH1",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "米戈米戈勒@利維坦",
+      "Sliken@迦樓羅",
+      "搭口蛋@迦樓羅",
+      "艾絲蒂爾@伊弗利特",
+      "風殤月@泰坦",
+      "真是呆@伊弗利特",
+      "永琳@迦樓羅",
+      "臥菜@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1118621,
+    "clear_dt_ms": 1786639087747,
+    "jobs": {
+      "米戈米戈勒@利維坦": "Ninja",
+      "Sliken@迦樓羅": "Scholar",
+      "搭口蛋@迦樓羅": "WhiteMage",
+      "艾絲蒂爾@伊弗利特": "Dancer",
+      "風殤月@泰坦": "Paladin",
+      "真是呆@伊弗利特": "Pictomancer",
+      "永琳@迦樓羅": "Monk",
+      "臥菜@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "Z4b7MWGATgmn6VPp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "走正門大師@利維坦",
+      "小蘿蔔道尼@鳳凰",
+      "Karon@利維坦",
+      "漢堡肉@利維坦",
+      "陌桑@鳳凰",
+      "走小門大師@利維坦",
+      "保丹@鳳凰",
+      "幽琥@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 891124,
+    "clear_dt_ms": 1786637480334,
+    "jobs": {
+      "走正門大師@利維坦": "Bard",
+      "小蘿蔔道尼@鳳凰": "Dragoon",
+      "Karon@利維坦": "WhiteMage",
+      "漢堡肉@利維坦": "Paladin",
+      "陌桑@鳳凰": "Ninja",
+      "走小門大師@利維坦": "Sage",
+      "保丹@鳳凰": "DarkKnight",
+      "幽琥@利維坦": "Summoner"
+    }
   }
 ]
