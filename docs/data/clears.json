@@ -86436,5 +86436,33 @@
       "左淪@迦樓羅": "DarkKnight",
       "薇薇布@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "za6kFBpKwgTqrXDW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "一個劍術師@奧汀",
+      "美堂蠻@奧汀",
+      "繪靈@鳳凰",
+      "Hmaster@泰坦",
+      "黑魔king@泰坦",
+      "Tiny石頭@泰坦",
+      "嘩啦@泰坦",
+      "饿了@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1089332,
+    "clear_dt_ms": 1786602482118,
+    "jobs": {
+      "一個劍術師@奧汀": "Paladin",
+      "美堂蠻@奧汀": "Ninja",
+      "繪靈@鳳凰": "Scholar",
+      "Hmaster@泰坦": "WhiteMage",
+      "黑魔king@泰坦": "Summoner",
+      "Tiny石頭@泰坦": "Monk",
+      "嘩啦@泰坦": "DarkKnight",
+      "饿了@泰坦": "Machinist"
+    }
   }
 ]
