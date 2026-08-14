@@ -86716,5 +86716,117 @@
       "Am·o@利維坦": "Dancer",
       "Leepon@巴哈姆特": "Pictomancer"
     }
+  },
+  {
+    "code": "xkKw6qWGjz4FBLaN",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Shano@泰坦",
+      "我不知道@鳳凰",
+      "玖玖@迦樓羅",
+      "Gndd@鳳凰",
+      "貓羊@迦樓羅",
+      "喵喵醬@奧汀",
+      "阿加德@泰坦",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1122203,
+    "clear_dt_ms": 1786722479588,
+    "jobs": {
+      "Shano@泰坦": "Paladin",
+      "我不知道@鳳凰": "Reaper",
+      "玖玖@迦樓羅": "BlackMage",
+      "Gndd@鳳凰": "Dancer",
+      "貓羊@迦樓羅": "Scholar",
+      "喵喵醬@奧汀": "DarkKnight",
+      "阿加德@泰坦": "Astrologian",
+      "薇薇布@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "tFYr4zqyhfv6HJMb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "熙瑪@利維坦",
+      "白九@迦樓羅",
+      "Desinc@奧汀",
+      "Jerky@迦樓羅",
+      "Kita@利維坦",
+      "Norn@伊弗利特",
+      "師匠的狗@奧汀",
+      "馬爾三兄弟@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 966173,
+    "clear_dt_ms": 1786728113860,
+    "jobs": {
+      "熙瑪@利維坦": "Sage",
+      "白九@迦樓羅": "Astrologian",
+      "Desinc@奧汀": "Dragoon",
+      "Jerky@迦樓羅": "Pictomancer",
+      "Kita@利維坦": "Samurai",
+      "Norn@伊弗利特": "Warrior",
+      "師匠的狗@奧汀": "Dancer",
+      "馬爾三兄弟@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "WTAdFyLqgpxfkKcN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "柔情o貓娘@伊弗利特",
+      "入土為安之策@鳳凰",
+      "梓凜@鳳凰",
+      "Kupo@泰坦",
+      "暗箭紅燒特@伊弗利特",
+      "青龍@伊弗利特",
+      "龍龍大哥@伊弗利特",
+      "不及物動詞@伊弗利特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1130308,
+    "clear_dt_ms": 1786725974103,
+    "jobs": {
+      "柔情o貓娘@伊弗利特": "Astrologian",
+      "入土為安之策@鳳凰": "Warrior",
+      "梓凜@鳳凰": "Viper",
+      "Kupo@泰坦": "BlackMage",
+      "暗箭紅燒特@伊弗利特": "Sage",
+      "青龍@伊弗利特": "Paladin",
+      "龍龍大哥@伊弗利特": "Dancer",
+      "不及物動詞@伊弗利特": "Samurai"
+    }
+  },
+  {
+    "code": "3zxgdwr6tRQHnj1f",
+    "title": "DSR",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "永愛三玖@巴哈姆特",
+      "舞紗橘@利維坦",
+      "Benny@奧汀",
+      "霸總哥布林@巴哈姆特",
+      "花一匁@伊弗利特",
+      "崩落之旅人@利維坦",
+      "橘雪莉@伊弗利特",
+      "Wenwen@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1091780,
+    "clear_dt_ms": 1786723548638,
+    "jobs": {
+      "永愛三玖@巴哈姆特": "Dancer",
+      "舞紗橘@利維坦": "Pictomancer",
+      "Benny@奧汀": "Samurai",
+      "霸總哥布林@巴哈姆特": "Warrior",
+      "花一匁@伊弗利特": "Ninja",
+      "崩落之旅人@利維坦": "Scholar",
+      "橘雪莉@伊弗利特": "DarkKnight",
+      "Wenwen@伊弗利特": "Sage"
+    }
   }
 ]
