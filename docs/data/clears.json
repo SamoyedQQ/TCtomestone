@@ -86828,5 +86828,61 @@
       "橘雪莉@伊弗利特": "DarkKnight",
       "Wenwen@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "A3YgaXDGvQd7hMHc",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Timoth@泰坦",
+      "青山酒販@迦樓羅",
+      "小柚@伊弗利特",
+      "玥代雪@利維坦",
+      "艾弗拉@泰坦",
+      "禊萩@泰坦",
+      "茉漓@奧汀",
+      "Lawick@泰坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 863920,
+    "clear_dt_ms": 1786736333747,
+    "jobs": {
+      "Timoth@泰坦": "Ninja",
+      "青山酒販@迦樓羅": "Paladin",
+      "小柚@伊弗利特": "DarkKnight",
+      "玥代雪@利維坦": "Sage",
+      "艾弗拉@泰坦": "RedMage",
+      "禊萩@泰坦": "WhiteMage",
+      "茉漓@奧汀": "Dancer",
+      "Lawick@泰坦": "BlackMage"
+    }
+  },
+  {
+    "code": "w17Qrn2Bz6c3qNAF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "影紗星蕾@迦樓羅",
+      "櫻月綾@迦樓羅",
+      "Tvtian@迦樓羅",
+      "蹲蹲dun@迦樓羅",
+      "慎真@利維坦",
+      "雪莉的放大鏡@巴哈姆特",
+      "月見冰@奧汀",
+      "神秘夾克姐姐@迦樓羅"
+    ],
+    "fight_id": 19,
+    "duration_ms": 941502,
+    "clear_dt_ms": 1786729318838,
+    "jobs": {
+      "影紗星蕾@迦樓羅": "Sage",
+      "櫻月綾@迦樓羅": "Warrior",
+      "Tvtian@迦樓羅": "Ninja",
+      "蹲蹲dun@迦樓羅": "Dragoon",
+      "慎真@利維坦": "Paladin",
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "月見冰@奧汀": "Astrologian",
+      "神秘夾克姐姐@迦樓羅": "BlackMage"
+    }
   }
 ]
