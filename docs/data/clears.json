@@ -86884,5 +86884,33 @@
       "月見冰@奧汀": "Astrologian",
       "神秘夾克姐姐@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "x3B1CawNtbDHfVM8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "北夙狼@利維坦",
+      "希烏斯@利維坦",
+      "超大型mm噢@伊弗利特",
+      "Aray@鳳凰",
+      "墨染赤華@迦樓羅",
+      "Boji@利維坦",
+      "Aping@奧汀",
+      "響念@奧汀"
+    ],
+    "fight_id": 8,
+    "duration_ms": 878837,
+    "clear_dt_ms": 1786771539907,
+    "jobs": {
+      "北夙狼@利維坦": "Monk",
+      "希烏斯@利維坦": "DarkKnight",
+      "超大型mm噢@伊弗利特": "Bard",
+      "Aray@鳳凰": "Sage",
+      "墨染赤華@迦樓羅": "Gunbreaker",
+      "Boji@利維坦": "Viper",
+      "Aping@奧汀": "Astrologian",
+      "響念@奧汀": "Summoner"
+    }
   }
 ]
