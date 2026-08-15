@@ -86996,5 +86996,117 @@
       "Edsel@伊弗利特": "Monk",
       "殷箋@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "tamxgPc4qwKBHWMC",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "鳶仔小饅頭@鳳凰",
+      "紫夜@鳳凰",
+      "Zuo@鳳凰",
+      "瀟湘夜雨@鳳凰",
+      "Hslan@迦樓羅",
+      "Ryou@利維坦",
+      "鳩可@迦樓羅",
+      "龍蝦小兵@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1124063,
+    "clear_dt_ms": 1786803128395,
+    "jobs": {
+      "鳶仔小饅頭@鳳凰": "BlackMage",
+      "紫夜@鳳凰": "Ninja",
+      "Zuo@鳳凰": "Sage",
+      "瀟湘夜雨@鳳凰": "Dancer",
+      "Hslan@迦樓羅": "Dragoon",
+      "Ryou@利維坦": "Astrologian",
+      "鳩可@迦樓羅": "Gunbreaker",
+      "龍蝦小兵@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "tamxgPc4qwKBHWMC",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "鳶仔小饅頭@鳳凰",
+      "Zuo@鳳凰",
+      "紫夜@鳳凰",
+      "瀟湘夜雨@鳳凰",
+      "Hslan@迦樓羅",
+      "Ryou@利維坦",
+      "鳩可@迦樓羅",
+      "龍蝦小兵@鳳凰"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1120855,
+    "clear_dt_ms": 1786809188606,
+    "jobs": {
+      "鳶仔小饅頭@鳳凰": "BlackMage",
+      "Zuo@鳳凰": "Sage",
+      "紫夜@鳳凰": "Ninja",
+      "瀟湘夜雨@鳳凰": "Dancer",
+      "Hslan@迦樓羅": "Dragoon",
+      "Ryou@利維坦": "Astrologian",
+      "鳩可@迦樓羅": "Gunbreaker",
+      "龍蝦小兵@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "37CfB4K1rPFHVgAY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Timoth@泰坦",
+      "工務騎士@利維坦",
+      "夏目@鳳凰",
+      "神樂澪@巴哈姆特",
+      "帕可可拉可可@泰坦",
+      "Lawick@泰坦",
+      "咪咪帽帽@鳳凰",
+      "青山酒販@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 858912,
+    "clear_dt_ms": 1786814224506,
+    "jobs": {
+      "Timoth@泰坦": "Ninja",
+      "工務騎士@利維坦": "Summoner",
+      "夏目@鳳凰": "DarkKnight",
+      "神樂澪@巴哈姆特": "Dancer",
+      "帕可可拉可可@泰坦": "Scholar",
+      "Lawick@泰坦": "BlackMage",
+      "咪咪帽帽@鳳凰": "WhiteMage",
+      "青山酒販@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "XnCAvVpGDfZmT9MB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夏目@鳳凰",
+      "咪咪帽帽@鳳凰",
+      "Lawick@泰坦",
+      "工務騎士@利維坦",
+      "帕可可拉可可@泰坦",
+      "Timoth@泰坦",
+      "神樂澪@巴哈姆特",
+      "青山酒販@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 858913,
+    "clear_dt_ms": 1786814224507,
+    "jobs": {
+      "夏目@鳳凰": "DarkKnight",
+      "咪咪帽帽@鳳凰": "WhiteMage",
+      "Lawick@泰坦": "BlackMage",
+      "工務騎士@利維坦": "Summoner",
+      "帕可可拉可可@泰坦": "Scholar",
+      "Timoth@泰坦": "Ninja",
+      "神樂澪@巴哈姆特": "Dancer",
+      "青山酒販@迦樓羅": "Paladin"
+    }
   }
 ]
