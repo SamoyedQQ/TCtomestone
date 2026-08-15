@@ -87108,5 +87108,61 @@
       "神樂澪@巴哈姆特": "Dancer",
       "青山酒販@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "dk7QBKt3vp61r9ZL",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "哈密瓜雪糕@奧汀",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "狼一@泰坦",
+      "貓丸丸@鳳凰",
+      "Lavid@奧汀",
+      "阿加德@泰坦",
+      "抹布@鳳凰",
+      "美花丸@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1121708,
+    "clear_dt_ms": 1786812304052,
+    "jobs": {
+      "哈密瓜雪糕@奧汀": "Scholar",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "狼一@泰坦": "Paladin",
+      "貓丸丸@鳳凰": "Pictomancer",
+      "Lavid@奧汀": "Viper",
+      "阿加德@泰坦": "Astrologian",
+      "抹布@鳳凰": "DarkKnight",
+      "美花丸@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "dk7QBKt3vp61r9ZL",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "夜神天祈@伊弗利特",
+      "Cygnus@奧汀",
+      "貓羊@迦樓羅",
+      "阿萬音鈴羽@利維坦",
+      "法蘭克·西@伊弗利特",
+      "美花丸@奧汀",
+      "Maple@伊弗利特",
+      "青菜老大@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1121388,
+    "clear_dt_ms": 1786816985366,
+    "jobs": {
+      "夜神天祈@伊弗利特": "Pictomancer",
+      "Cygnus@奧汀": "Paladin",
+      "貓羊@迦樓羅": "Scholar",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "法蘭克·西@伊弗利特": "Bard",
+      "美花丸@奧汀": "Dragoon",
+      "Maple@伊弗利特": "Monk",
+      "青菜老大@利維坦": "Astrologian"
+    }
   }
 ]
