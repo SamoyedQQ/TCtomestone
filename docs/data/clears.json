@@ -87192,5 +87192,61 @@
       "Yeetzu@利維坦": "Warrior",
       "黑鹽@利維坦": "Monk"
     }
+  },
+  {
+    "code": "NTrzDFMJ2jvmfgW7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ayaya@泰坦",
+      "夜空·游星@伊弗利特",
+      "繁星雨@伊弗利特",
+      "志龍@泰坦",
+      "毛爸@伊弗利特",
+      "喚靈夜語@伊弗利特",
+      "貓肉湯owo@伊弗利特",
+      "夏語遙@伊弗利特"
+    ],
+    "fight_id": 17,
+    "duration_ms": 987116,
+    "clear_dt_ms": 1786817178755,
+    "jobs": {
+      "Ayaya@泰坦": "WhiteMage",
+      "夜空·游星@伊弗利特": "Paladin",
+      "繁星雨@伊弗利特": "Sage",
+      "志龍@泰坦": "Dragoon",
+      "毛爸@伊弗利特": "Warrior",
+      "喚靈夜語@伊弗利特": "BlackMage",
+      "貓肉湯owo@伊弗利特": "Dancer",
+      "夏語遙@伊弗利特": "Monk"
+    }
+  },
+  {
+    "code": "mgw8GCaHhJY37fcD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "九巾路跑@鳳凰",
+      "如月@鳳凰",
+      "Yongno@伊弗利特",
+      "金龍姐姐@利維坦",
+      "Diaulo@迦樓羅",
+      "二v@迦樓羅",
+      "Aping@奧汀",
+      "慎真@利維坦"
+    ],
+    "fight_id": 39,
+    "duration_ms": 859469,
+    "clear_dt_ms": 1786747401659,
+    "jobs": {
+      "九巾路跑@鳳凰": "Sage",
+      "如月@鳳凰": "Monk",
+      "Yongno@伊弗利特": "Paladin",
+      "金龍姐姐@利維坦": "RedMage",
+      "Diaulo@迦樓羅": "Viper",
+      "二v@迦樓羅": "DarkKnight",
+      "Aping@奧汀": "Astrologian",
+      "慎真@利維坦": "Dancer"
+    }
   }
 ]
