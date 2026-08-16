@@ -87304,5 +87304,33 @@
       "我的褲子@巴哈姆特": "Ninja",
       "果賴咪@巴哈姆特": "Dragoon"
     }
+  },
+  {
+    "code": "QC12XjvyqPZFkDxd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Uzn@巴哈姆特",
+      "今晚打老虎@迦樓羅",
+      "At@泰坦",
+      "Mokino@迦樓羅",
+      "Imluda@泰坦",
+      "艾爾輕雨@奧汀",
+      "滿天焰星@鳳凰",
+      "拉碧斯拉祖利@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 989555,
+    "clear_dt_ms": 1786892777901,
+    "jobs": {
+      "Uzn@巴哈姆特": "Dancer",
+      "今晚打老虎@迦樓羅": "Paladin",
+      "At@泰坦": "Samurai",
+      "Mokino@迦樓羅": "Dragoon",
+      "Imluda@泰坦": "DarkKnight",
+      "艾爾輕雨@奧汀": "Sage",
+      "滿天焰星@鳳凰": "Pictomancer",
+      "拉碧斯拉祖利@泰坦": "Astrologian"
+    }
   }
 ]
