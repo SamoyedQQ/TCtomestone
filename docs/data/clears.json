@@ -87164,5 +87164,33 @@
       "Maple@伊弗利特": "Monk",
       "青菜老大@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "dhXKVH1DcBb4TrMn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "艾米攸@利維坦",
+      "Elicon@利維坦",
+      "傑西@利維坦",
+      "Kami@利維坦",
+      "卡布奇諾二@利維坦",
+      "要不要吃香蕉@利維坦",
+      "Yeetzu@利維坦",
+      "黑鹽@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1001717,
+    "clear_dt_ms": 1786121250759,
+    "jobs": {
+      "艾米攸@利維坦": "BlackMage",
+      "Elicon@利維坦": "Sage",
+      "傑西@利維坦": "Dancer",
+      "Kami@利維坦": "Paladin",
+      "卡布奇諾二@利維坦": "Dragoon",
+      "要不要吃香蕉@利維坦": "WhiteMage",
+      "Yeetzu@利維坦": "Warrior",
+      "黑鹽@利維坦": "Monk"
+    }
   }
 ]
