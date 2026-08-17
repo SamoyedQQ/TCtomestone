@@ -87444,5 +87444,33 @@
       "Bomayy@鳳凰": "Sage",
       "霧攸@鳳凰": "Summoner"
     }
+  },
+  {
+    "code": "x2aKrq4CkQLHMd6X",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Katz@利維坦",
+      "柃枵@利維坦",
+      "拉哈烤布雷亞@奧汀",
+      "雜燴兔@利維坦",
+      "夜空@鳳凰",
+      "水草@迦樓羅",
+      "虧a@巴哈姆特",
+      "啵啵伊啵伊@巴哈姆特"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1121523,
+    "clear_dt_ms": 1786977831032,
+    "jobs": {
+      "Katz@利維坦": "Astrologian",
+      "柃枵@利維坦": "Dragoon",
+      "拉哈烤布雷亞@奧汀": "Scholar",
+      "雜燴兔@利維坦": "Pictomancer",
+      "夜空@鳳凰": "Bard",
+      "水草@迦樓羅": "Reaper",
+      "虧a@巴哈姆特": "Paladin",
+      "啵啵伊啵伊@巴哈姆特": "Warrior"
+    }
   }
 ]
