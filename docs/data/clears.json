@@ -87388,5 +87388,33 @@
       "芙·妮瓦莎@迦樓羅": "Warrior",
       "Koiii@巴哈姆特": "Gunbreaker"
     }
+  },
+  {
+    "code": "By2nV1K4tZW3DG8M",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "如月@鳳凰",
+      "Ix整點薯條@鳳凰",
+      "夜神天祈@伊弗利特",
+      "尤吉歐@伊弗利特",
+      "橋本懷奈@伊弗利特",
+      "Ao@迦樓羅",
+      "蕎麥啵啵@鳳凰",
+      "小夢幻@奧汀"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1122127,
+    "clear_dt_ms": 1786956554752,
+    "jobs": {
+      "如月@鳳凰": "Monk",
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "夜神天祈@伊弗利特": "Pictomancer",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "橋本懷奈@伊弗利特": "Paladin",
+      "Ao@迦樓羅": "Bard",
+      "蕎麥啵啵@鳳凰": "DarkKnight",
+      "小夢幻@奧汀": "Sage"
+    }
   }
 ]
