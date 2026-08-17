@@ -87416,5 +87416,33 @@
       "蕎麥啵啵@鳳凰": "DarkKnight",
       "小夢幻@奧汀": "Sage"
     }
+  },
+  {
+    "code": "Jcvw17tqQY8KmTVy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "青山酒販@迦樓羅",
+      "我丶在睡覺@鳳凰",
+      "Yue@鳳凰",
+      "維爾莉特@奧汀",
+      "脆迪西@鳳凰",
+      "沫沫璃@鳳凰",
+      "Bomayy@鳳凰",
+      "霧攸@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 836313,
+    "clear_dt_ms": 1786974471393,
+    "jobs": {
+      "青山酒販@迦樓羅": "Paladin",
+      "我丶在睡覺@鳳凰": "Bard",
+      "Yue@鳳凰": "Viper",
+      "維爾莉特@奧汀": "Warrior",
+      "脆迪西@鳳凰": "Dragoon",
+      "沫沫璃@鳳凰": "WhiteMage",
+      "Bomayy@鳳凰": "Sage",
+      "霧攸@鳳凰": "Summoner"
+    }
   }
 ]
