@@ -87360,5 +87360,33 @@
       "北夙狼@利維坦": "Monk",
       "希烏斯@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "QNkDxg1bzJY2Rcd8",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "牛奶蓮子湯@鳳凰",
+      "默默momo@泰坦",
+      "天宮凜@鳳凰",
+      "姆紀嘟@泰坦",
+      "Benny@利維坦",
+      "真塔瑪德劍@巴哈姆特",
+      "芙·妮瓦莎@迦樓羅",
+      "Koiii@巴哈姆特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 974087,
+    "clear_dt_ms": 1783787810529,
+    "jobs": {
+      "牛奶蓮子湯@鳳凰": "Astrologian",
+      "默默momo@泰坦": "Dancer",
+      "天宮凜@鳳凰": "Sage",
+      "姆紀嘟@泰坦": "Samurai",
+      "Benny@利維坦": "BlackMage",
+      "真塔瑪德劍@巴哈姆特": "Ninja",
+      "芙·妮瓦莎@迦樓羅": "Warrior",
+      "Koiii@巴哈姆特": "Gunbreaker"
+    }
   }
 ]
