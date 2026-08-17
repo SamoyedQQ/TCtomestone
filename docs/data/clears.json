@@ -87472,5 +87472,33 @@
       "虧a@巴哈姆特": "Paladin",
       "啵啵伊啵伊@巴哈姆特": "Warrior"
     }
+  },
+  {
+    "code": "zWnmtVYHycp4N7a6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "希夫特斯@鳳凰",
+      "醉仙月月@利維坦",
+      "歪皮@伊弗利特",
+      "冬瓜瓜@鳳凰",
+      "毛毛力大王@奧汀",
+      "Yuki醬@利維坦",
+      "白宣@泰坦",
+      "法國我@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1128413,
+    "clear_dt_ms": 1786982562485,
+    "jobs": {
+      "希夫特斯@鳳凰": "BlackMage",
+      "醉仙月月@利維坦": "Paladin",
+      "歪皮@伊弗利特": "Sage",
+      "冬瓜瓜@鳳凰": "Scholar",
+      "毛毛力大王@奧汀": "Dancer",
+      "Yuki醬@利維坦": "Monk",
+      "白宣@泰坦": "Warrior",
+      "法國我@奧汀": "Dragoon"
+    }
   }
 ]
