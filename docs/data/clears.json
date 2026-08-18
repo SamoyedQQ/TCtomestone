@@ -87612,5 +87612,33 @@
       "崩落之旅人@利維坦": "Scholar",
       "Wenwen@伊弗利特": "Astrologian"
     }
+  },
+  {
+    "code": "RWkBgGfZTnt2v9bH",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Jacy@伊弗利特",
+      "喵萌蝶@伊弗利特",
+      "Benny@奧汀",
+      "崩落之旅人@利維坦",
+      "圓形食物@鳳凰",
+      "Wenwen@伊弗利特",
+      "明日的希望@迦樓羅",
+      "舞紗橘@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1117257,
+    "clear_dt_ms": 1786975946509,
+    "jobs": {
+      "Jacy@伊弗利特": "Paladin",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "Benny@奧汀": "Dragoon",
+      "崩落之旅人@利維坦": "Scholar",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Wenwen@伊弗利特": "Astrologian",
+      "明日的希望@迦樓羅": "Machinist",
+      "舞紗橘@利維坦": "Pictomancer"
+    }
   }
 ]
