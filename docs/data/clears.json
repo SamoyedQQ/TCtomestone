@@ -87528,5 +87528,33 @@
       "香草天空@迦樓羅": "DarkKnight",
       "野上奈緒@泰坦": "Paladin"
     }
+  },
+  {
+    "code": "P912Z3gfRcXBL4tY",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "喵萌蝶@伊弗利特",
+      "明日的希望@迦樓羅",
+      "舞紗橘@利維坦",
+      "圓形食物@鳳凰",
+      "Benny@奧汀",
+      "Jacy@伊弗利特",
+      "崩落之旅人@利維坦",
+      "Wenwen@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1120723,
+    "clear_dt_ms": 1787058265234,
+    "jobs": {
+      "喵萌蝶@伊弗利特": "Ninja",
+      "明日的希望@迦樓羅": "Bard",
+      "舞紗橘@利維坦": "Pictomancer",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Benny@奧汀": "Dragoon",
+      "Jacy@伊弗利特": "Paladin",
+      "崩落之旅人@利維坦": "Scholar",
+      "Wenwen@伊弗利特": "Astrologian"
+    }
   }
 ]
