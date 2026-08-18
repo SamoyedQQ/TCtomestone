@@ -87556,5 +87556,61 @@
       "崩落之旅人@利維坦": "Scholar",
       "Wenwen@伊弗利特": "Astrologian"
     }
+  },
+  {
+    "code": "MhAcxZWbBq7CDR28",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "喵萌蝶@伊弗利特",
+      "明日的希望@迦樓羅",
+      "舞紗橘@利維坦",
+      "圓形食物@鳳凰",
+      "Benny@奧汀",
+      "Jacy@伊弗利特",
+      "崩落之旅人@利維坦",
+      "Wenwen@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1121891,
+    "clear_dt_ms": 1787060967570,
+    "jobs": {
+      "喵萌蝶@伊弗利特": "Ninja",
+      "明日的希望@迦樓羅": "Bard",
+      "舞紗橘@利維坦": "Pictomancer",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Benny@奧汀": "Samurai",
+      "Jacy@伊弗利特": "Paladin",
+      "崩落之旅人@利維坦": "Scholar",
+      "Wenwen@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "MhAcxZWbBq7CDR28",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "喵萌蝶@伊弗利特",
+      "明日的希望@迦樓羅",
+      "舞紗橘@利維坦",
+      "圓形食物@鳳凰",
+      "Benny@奧汀",
+      "Jacy@伊弗利特",
+      "崩落之旅人@利維坦",
+      "Wenwen@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1122891,
+    "clear_dt_ms": 1787062273552,
+    "jobs": {
+      "喵萌蝶@伊弗利特": "Ninja",
+      "明日的希望@迦樓羅": "Bard",
+      "舞紗橘@利維坦": "Pictomancer",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Benny@奧汀": "Samurai",
+      "Jacy@伊弗利特": "Paladin",
+      "崩落之旅人@利維坦": "Scholar",
+      "Wenwen@伊弗利特": "Astrologian"
+    }
   }
 ]
