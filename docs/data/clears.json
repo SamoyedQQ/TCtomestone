@@ -87752,5 +87752,145 @@
       "菲爾約@巴哈姆特": "Pictomancer",
       "星宿及月@迦樓羅": "WhiteMage"
     }
+  },
+  {
+    "code": "1cN4bZTvzhHjCDa9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "月月虎@迦樓羅",
+      "Am·o@利維坦",
+      "狐狐貝果@鳳凰",
+      "煌獅@利維坦",
+      "Rlin@迦樓羅",
+      "艾華@迦樓羅",
+      "Leepon@巴哈姆特",
+      "郭小皮@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1120085,
+    "clear_dt_ms": 1787146534546,
+    "jobs": {
+      "月月虎@迦樓羅": "Paladin",
+      "Am·o@利維坦": "Dancer",
+      "狐狐貝果@鳳凰": "WhiteMage",
+      "煌獅@利維坦": "Viper",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "艾華@迦樓羅": "Ninja",
+      "Leepon@巴哈姆特": "Pictomancer",
+      "郭小皮@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "1cN4bZTvzhHjCDa9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "月月虎@迦樓羅",
+      "Am·o@利維坦",
+      "狐狐貝果@鳳凰",
+      "煌獅@利維坦",
+      "Rlin@迦樓羅",
+      "艾華@迦樓羅",
+      "Leepon@巴哈姆特",
+      "郭小皮@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1116376,
+    "clear_dt_ms": 1787149624283,
+    "jobs": {
+      "月月虎@迦樓羅": "Paladin",
+      "Am·o@利維坦": "Dancer",
+      "狐狐貝果@鳳凰": "WhiteMage",
+      "煌獅@利維坦": "Viper",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "艾華@迦樓羅": "Ninja",
+      "Leepon@巴哈姆特": "Pictomancer",
+      "郭小皮@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "z9wpa6hR2rZXNcLm",
+    "title": "第一場",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "志龍@泰坦",
+      "夏語遙@伊弗利特",
+      "夜空·游星@伊弗利特",
+      "繁星雨@伊弗利特",
+      "貓肉湯owo@伊弗利特",
+      "Ayaya@泰坦",
+      "毛爸@伊弗利特",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 993698,
+    "clear_dt_ms": 1787159512003,
+    "jobs": {
+      "志龍@泰坦": "Dragoon",
+      "夏語遙@伊弗利特": "Monk",
+      "夜空·游星@伊弗利特": "Paladin",
+      "繁星雨@伊弗利特": "Sage",
+      "貓肉湯owo@伊弗利特": "Dancer",
+      "Ayaya@泰坦": "WhiteMage",
+      "毛爸@伊弗利特": "Warrior",
+      "喚靈夜語@伊弗利特": "BlackMage"
+    }
+  },
+  {
+    "code": "TGqJjWwFRx3my4Mk",
+    "title": "第二場",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "毛爸@伊弗利特",
+      "貓肉湯owo@伊弗利特",
+      "繁星雨@伊弗利特",
+      "夏語遙@伊弗利特",
+      "志龍@泰坦",
+      "夜空·游星@伊弗利特",
+      "Ayaya@泰坦",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 979121,
+    "clear_dt_ms": 1787161479731,
+    "jobs": {
+      "毛爸@伊弗利特": "Warrior",
+      "貓肉湯owo@伊弗利特": "Dancer",
+      "繁星雨@伊弗利特": "Sage",
+      "夏語遙@伊弗利特": "Monk",
+      "志龍@泰坦": "Dragoon",
+      "夜空·游星@伊弗利特": "Paladin",
+      "Ayaya@泰坦": "WhiteMage",
+      "喚靈夜語@伊弗利特": "BlackMage"
+    }
+  },
+  {
+    "code": "1GCvjN7FanmVwPZh",
+    "title": "第三場",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "夏語遙@伊弗利特",
+      "繁星雨@伊弗利特",
+      "毛爸@伊弗利特",
+      "貓肉湯owo@伊弗利特",
+      "Ayaya@泰坦",
+      "志龍@泰坦",
+      "夜空·游星@伊弗利特",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 966870,
+    "clear_dt_ms": 1787162519575,
+    "jobs": {
+      "夏語遙@伊弗利特": "Monk",
+      "繁星雨@伊弗利特": "Sage",
+      "毛爸@伊弗利特": "Warrior",
+      "貓肉湯owo@伊弗利特": "Dancer",
+      "Ayaya@泰坦": "WhiteMage",
+      "志龍@泰坦": "Dragoon",
+      "夜空·游星@伊弗利特": "Paladin",
+      "喚靈夜語@伊弗利特": "BlackMage"
+    }
   }
 ]
