@@ -87920,5 +87920,33 @@
       "結城希亞@伊弗利特": "Pictomancer",
       "那個地精盜賊@泰坦": "Viper"
     }
+  },
+  {
+    "code": "ZrCv8cFfMD2R3AgP",
+    "title": "777777",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "白鳥澪@伊弗利特",
+      "美花丸@奧汀",
+      "黑哞牛@伊弗利特",
+      "阿加德@泰坦",
+      "Gojojo@迦樓羅",
+      "蕎麥啵啵@鳳凰",
+      "貓羊@迦樓羅",
+      "那個地精盜賊@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1120836,
+    "clear_dt_ms": 1787230195098,
+    "jobs": {
+      "白鳥澪@伊弗利特": "Bard",
+      "美花丸@奧汀": "Dragoon",
+      "黑哞牛@伊弗利特": "Paladin",
+      "阿加德@泰坦": "Astrologian",
+      "Gojojo@迦樓羅": "Pictomancer",
+      "蕎麥啵啵@鳳凰": "DarkKnight",
+      "貓羊@迦樓羅": "Sage",
+      "那個地精盜賊@泰坦": "Viper"
+    }
   }
 ]
