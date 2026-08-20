@@ -87892,5 +87892,33 @@
       "夜空·游星@伊弗利特": "Paladin",
       "喚靈夜語@伊弗利特": "BlackMage"
     }
+  },
+  {
+    "code": "LkDRpNPcX91HdzVt",
+    "title": "???",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "慎真@利維坦",
+      "Ix整點薯條@鳳凰",
+      "侑介@迦樓羅",
+      "阿加德@泰坦",
+      "第五魔法使@巴哈姆特",
+      "蕎麥啵啵@鳳凰",
+      "結城希亞@伊弗利特",
+      "那個地精盜賊@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1122185,
+    "clear_dt_ms": 1787210053883,
+    "jobs": {
+      "慎真@利維坦": "Paladin",
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "侑介@迦樓羅": "Dancer",
+      "阿加德@泰坦": "Astrologian",
+      "第五魔法使@巴哈姆特": "Scholar",
+      "蕎麥啵啵@鳳凰": "DarkKnight",
+      "結城希亞@伊弗利特": "Pictomancer",
+      "那個地精盜賊@泰坦": "Viper"
+    }
   }
 ]
