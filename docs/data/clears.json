@@ -88088,5 +88088,33 @@
       "蕎麥啵啵@鳳凰": "DarkKnight",
       "熊貓@利維坦": "Scholar"
     }
+  },
+  {
+    "code": "fdwzgFGh6X1v7C2c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "巴爾特@利維坦",
+      "草peko虐@利維坦",
+      "Gojojo@迦樓羅",
+      "三角初音@伊弗利特",
+      "星閑desu@利維坦",
+      "天雨@泰坦",
+      "孤星獨吟@伊弗利特",
+      "Aping@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 848874,
+    "clear_dt_ms": 1787247237914,
+    "jobs": {
+      "巴爾特@利維坦": "WhiteMage",
+      "草peko虐@利維坦": "Paladin",
+      "Gojojo@迦樓羅": "DarkKnight",
+      "三角初音@伊弗利特": "Samurai",
+      "星閑desu@利維坦": "Summoner",
+      "天雨@泰坦": "BlackMage",
+      "孤星獨吟@伊弗利特": "Dancer",
+      "Aping@奧汀": "Sage"
+    }
   }
 ]
