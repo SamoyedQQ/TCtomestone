@@ -88536,5 +88536,33 @@
       "Nacho@鳳凰": "Reaper",
       "阿加德@泰坦": "Astrologian"
     }
+  },
+  {
+    "code": "hQPcaxAwLKbgyf7k",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@奧汀",
+      "Jacy@伊弗利特",
+      "舞紗橘@利維坦",
+      "崩落之旅人@利維坦",
+      "明日的希望@迦樓羅",
+      "喵萌蝶@伊弗利特",
+      "Wenwen@伊弗利特",
+      "圓形食物@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1124844,
+    "clear_dt_ms": 1787320614539,
+    "jobs": {
+      "Benny@奧汀": "Reaper",
+      "Jacy@伊弗利特": "Paladin",
+      "舞紗橘@利維坦": "Pictomancer",
+      "崩落之旅人@利維坦": "Scholar",
+      "明日的希望@迦樓羅": "Machinist",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "Wenwen@伊弗利特": "Astrologian",
+      "圓形食物@鳳凰": "DarkKnight"
+    }
   }
 ]
