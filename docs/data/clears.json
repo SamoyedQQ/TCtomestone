@@ -88032,5 +88032,33 @@
       "我的褲子@巴哈姆特": "Ninja",
       "侑介@迦樓羅": "Machinist"
     }
+  },
+  {
+    "code": "BM96m32Zvp1z7VKT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "我不是卡蘇咪@奧汀",
+      "以實瑪利@迦樓羅",
+      "Fubuki@奧汀",
+      "未花@利維坦",
+      "星宿及月@迦樓羅",
+      "Harii@奧汀",
+      "Arasxi@奧汀",
+      "啵啵伊啵伊@巴哈姆特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 953697,
+    "clear_dt_ms": 1787246014004,
+    "jobs": {
+      "我不是卡蘇咪@奧汀": "Sage",
+      "以實瑪利@迦樓羅": "BlackMage",
+      "Fubuki@奧汀": "WhiteMage",
+      "未花@利維坦": "Gunbreaker",
+      "星宿及月@迦樓羅": "Ninja",
+      "Harii@奧汀": "Summoner",
+      "Arasxi@奧汀": "DarkKnight",
+      "啵啵伊啵伊@巴哈姆特": "Machinist"
+    }
   }
 ]
