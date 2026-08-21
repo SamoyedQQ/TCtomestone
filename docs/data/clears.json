@@ -88480,5 +88480,61 @@
       "想睡覺mmm@伊弗利特": "Warrior",
       "Wenwen@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "NZR3hrdwnFQ1pa28",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Cygnus@奧汀",
+      "香草天空@迦樓羅",
+      "薇薇布@迦樓羅",
+      "那個地精盜賊@泰坦",
+      "托比特@鳳凰",
+      "結城希亞@伊弗利特",
+      "白色@奧汀",
+      "織娜米@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121672,
+    "clear_dt_ms": 1787337100081,
+    "jobs": {
+      "Cygnus@奧汀": "Paladin",
+      "香草天空@迦樓羅": "DarkKnight",
+      "薇薇布@迦樓羅": "Dragoon",
+      "那個地精盜賊@泰坦": "Viper",
+      "托比特@鳳凰": "Astrologian",
+      "結城希亞@伊弗利特": "Pictomancer",
+      "白色@奧汀": "Dancer",
+      "織娜米@利維坦": "Scholar"
+    }
+  },
+  {
+    "code": "QLKzACrGNRdZ4jvT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "紀辰@伊弗利特",
+      "白鳥澪@伊弗利特",
+      "呆萌白@利維坦",
+      "Gereon@利維坦",
+      "阿萬音鈴羽@利維坦",
+      "野上奈緒@泰坦",
+      "Nacho@鳳凰",
+      "阿加德@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1122773,
+    "clear_dt_ms": 1787335257684,
+    "jobs": {
+      "紀辰@伊弗利特": "Scholar",
+      "白鳥澪@伊弗利特": "Bard",
+      "呆萌白@利維坦": "Pictomancer",
+      "Gereon@利維坦": "Monk",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "野上奈緒@泰坦": "Paladin",
+      "Nacho@鳳凰": "Reaper",
+      "阿加德@泰坦": "Astrologian"
+    }
   }
 ]
