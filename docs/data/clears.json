@@ -88872,5 +88872,61 @@
       "電漿衝鋒槍@奧汀": "Paladin",
       "李丁路哲@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "nD1Pjh9ZFg6VdBC7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "豐川家貓@迦樓羅",
+      "來杯半糖紅@奧汀",
+      "抹茶霜淇淋@伊弗利特",
+      "Yuya@伊弗利特",
+      "師匠的狗@奧汀",
+      "阿格尼絲@奧汀",
+      "神秘夾克姐姐@迦樓羅",
+      "天然玉米@奧汀"
+    ],
+    "fight_id": 20,
+    "duration_ms": 953902,
+    "clear_dt_ms": 1787409350024,
+    "jobs": {
+      "豐川家貓@迦樓羅": "Dragoon",
+      "來杯半糖紅@奧汀": "Sage",
+      "抹茶霜淇淋@伊弗利特": "Paladin",
+      "Yuya@伊弗利特": "Astrologian",
+      "師匠的狗@奧汀": "Dancer",
+      "阿格尼絲@奧汀": "Samurai",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "天然玉米@奧汀": "Warrior"
+    }
+  },
+  {
+    "code": "nD1Pjh9ZFg6VdBC7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "影紗星蕾@迦樓羅",
+      "哈基咪會曼波@巴哈姆特",
+      "Only@伊弗利特",
+      "奶油薯泥@伊弗利特",
+      "Kita@利維坦",
+      "祈靈@鳳凰",
+      "神秘夾克姐姐@迦樓羅",
+      "櫻月綾@迦樓羅"
+    ],
+    "fight_id": 23,
+    "duration_ms": 965333,
+    "clear_dt_ms": 1787423022457,
+    "jobs": {
+      "影紗星蕾@迦樓羅": "Sage",
+      "哈基咪會曼波@巴哈姆特": "Paladin",
+      "Only@伊弗利特": "WhiteMage",
+      "奶油薯泥@伊弗利特": "Ninja",
+      "Kita@利維坦": "Samurai",
+      "祈靈@鳳凰": "Dancer",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "櫻月綾@迦樓羅": "Warrior"
+    }
   }
 ]
