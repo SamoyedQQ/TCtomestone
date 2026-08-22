@@ -88564,5 +88564,89 @@
       "Wenwen@伊弗利特": "Astrologian",
       "圓形食物@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "MGPXcWTLty3QqxR9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小綠葉@利維坦",
+      "屁屁大師@利維坦",
+      "雲浪丨遊軒轅@鳳凰",
+      "Nacho@鳳凰",
+      "果賴咪@巴哈姆特",
+      "阿萬音鈴羽@利維坦",
+      "慎真@利維坦",
+      "白鳥澪@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1116865,
+    "clear_dt_ms": 1787380283744,
+    "jobs": {
+      "小綠葉@利維坦": "Sage",
+      "屁屁大師@利維坦": "Astrologian",
+      "雲浪丨遊軒轅@鳳凰": "Summoner",
+      "Nacho@鳳凰": "Reaper",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "慎真@利維坦": "Paladin",
+      "白鳥澪@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "MGPXcWTLty3QqxR9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小綠葉@利維坦",
+      "屁屁大師@利維坦",
+      "雲浪丨遊軒轅@鳳凰",
+      "Nacho@鳳凰",
+      "果賴咪@巴哈姆特",
+      "阿萬音鈴羽@利維坦",
+      "慎真@利維坦",
+      "白鳥澪@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1121063,
+    "clear_dt_ms": 1787381775447,
+    "jobs": {
+      "小綠葉@利維坦": "Sage",
+      "屁屁大師@利維坦": "Astrologian",
+      "雲浪丨遊軒轅@鳳凰": "Summoner",
+      "Nacho@鳳凰": "Reaper",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "慎真@利維坦": "Paladin",
+      "白鳥澪@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "MGPXcWTLty3QqxR9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小綠葉@利維坦",
+      "屁屁大師@利維坦",
+      "雲浪丨遊軒轅@鳳凰",
+      "Nacho@鳳凰",
+      "果賴咪@巴哈姆特",
+      "阿萬音鈴羽@利維坦",
+      "慎真@利維坦",
+      "白鳥澪@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1121263,
+    "clear_dt_ms": 1787383475032,
+    "jobs": {
+      "小綠葉@利維坦": "Sage",
+      "屁屁大師@利維坦": "Astrologian",
+      "雲浪丨遊軒轅@鳳凰": "Summoner",
+      "Nacho@鳳凰": "Reaper",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "慎真@利維坦": "Paladin",
+      "白鳥澪@伊弗利特": "Bard"
+    }
   }
 ]
