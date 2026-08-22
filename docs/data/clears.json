@@ -88648,5 +88648,33 @@
       "慎真@利維坦": "Paladin",
       "白鳥澪@伊弗利特": "Bard"
     }
+  },
+  {
+    "code": "xFC6ZmjNyKRpWg7k",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "緹娜@利維坦",
+      "抹布@鳳凰",
+      "風城煙雨@奧汀",
+      "保羅普菲茲納@奧汀",
+      "墨青@鳳凰",
+      "Linlin@奧汀",
+      "草peko虐@利維坦",
+      "星楓雪玥@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 822525,
+    "clear_dt_ms": 1787387537409,
+    "jobs": {
+      "緹娜@利維坦": "WhiteMage",
+      "抹布@鳳凰": "Warrior",
+      "風城煙雨@奧汀": "Summoner",
+      "保羅普菲茲納@奧汀": "Scholar",
+      "墨青@鳳凰": "BlackMage",
+      "Linlin@奧汀": "Dancer",
+      "草peko虐@利維坦": "Paladin",
+      "星楓雪玥@奧汀": "Monk"
+    }
   }
 ]
