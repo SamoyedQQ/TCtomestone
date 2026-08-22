@@ -88844,5 +88844,33 @@
       "Shoo@奧汀": "Warrior",
       "星楓雪玥@奧汀": "Monk"
     }
+  },
+  {
+    "code": "7hAGZcJDxFBXW6kt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "二v@迦樓羅",
+      "丶芊菓@伊弗利特",
+      "阿·瓦諾@奧汀",
+      "Bei@伊弗利特",
+      "Sixwin@伊弗利特",
+      "席德@鳳凰",
+      "電漿衝鋒槍@奧汀",
+      "李丁路哲@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1139153,
+    "clear_dt_ms": 1787417652444,
+    "jobs": {
+      "二v@迦樓羅": "Astrologian",
+      "丶芊菓@伊弗利特": "Scholar",
+      "阿·瓦諾@奧汀": "Gunbreaker",
+      "Bei@伊弗利特": "Dancer",
+      "Sixwin@伊弗利特": "Samurai",
+      "席德@鳳凰": "BlackMage",
+      "電漿衝鋒槍@奧汀": "Paladin",
+      "李丁路哲@迦樓羅": "Monk"
+    }
   }
 ]
