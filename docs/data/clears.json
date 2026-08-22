@@ -88816,5 +88816,33 @@
       "Serin@泰坦": "Sage",
       "小p噗噗@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "NaZ1M2P3tVcqDypT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "鉄鎧·陸肆式@迦樓羅",
+      "不可@鳳凰",
+      "Linlin@奧汀",
+      "緹娜@利維坦",
+      "保羅普菲茲納@奧汀",
+      "墨青@鳳凰",
+      "Shoo@奧汀",
+      "星楓雪玥@奧汀"
+    ],
+    "fight_id": 13,
+    "duration_ms": 821201,
+    "clear_dt_ms": 1787410916573,
+    "jobs": {
+      "鉄鎧·陸肆式@迦樓羅": "RedMage",
+      "不可@鳳凰": "Paladin",
+      "Linlin@奧汀": "Dancer",
+      "緹娜@利維坦": "WhiteMage",
+      "保羅普菲茲納@奧汀": "Scholar",
+      "墨青@鳳凰": "BlackMage",
+      "Shoo@奧汀": "Warrior",
+      "星楓雪玥@奧汀": "Monk"
+    }
   }
 ]
