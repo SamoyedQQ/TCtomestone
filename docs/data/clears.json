@@ -88928,5 +88928,61 @@
       "神秘夾克姐姐@迦樓羅": "BlackMage",
       "櫻月綾@迦樓羅": "Warrior"
     }
+  },
+  {
+    "code": "QAZ6pdHFy8WJbNmY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "醉仙月月@利維坦",
+      "Niness@迦樓羅",
+      "洛賽特@巴哈姆特",
+      "Mog@鳳凰",
+      "毛毛力大王@奧汀",
+      "法國我@奧汀",
+      "Yuki醬@利維坦",
+      "阿爾博德之門@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1134294,
+    "clear_dt_ms": 1787238771863,
+    "jobs": {
+      "醉仙月月@利維坦": "Paladin",
+      "Niness@迦樓羅": "DarkKnight",
+      "洛賽特@巴哈姆特": "Pictomancer",
+      "Mog@鳳凰": "WhiteMage",
+      "毛毛力大王@奧汀": "Dancer",
+      "法國我@奧汀": "Dragoon",
+      "Yuki醬@利維坦": "Monk",
+      "阿爾博德之門@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "J84DMWZ7PxKVRwt9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "凡塔希雅@迦樓羅",
+      "月見冰@奧汀",
+      "鮭魚明太子@迦樓羅",
+      "神秘夾克姐姐@迦樓羅",
+      "我都可以看你@巴哈姆特",
+      "千反田愛瑠@迦樓羅",
+      "Only@伊弗利特",
+      "舒芙蕾鴨鴨@鳳凰"
+    ],
+    "fight_id": 57,
+    "duration_ms": 993222,
+    "clear_dt_ms": 1787344646417,
+    "jobs": {
+      "凡塔希雅@迦樓羅": "DarkKnight",
+      "月見冰@奧汀": "Dancer",
+      "鮭魚明太子@迦樓羅": "Sage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "我都可以看你@巴哈姆特": "Paladin",
+      "千反田愛瑠@迦樓羅": "RedMage",
+      "Only@伊弗利特": "WhiteMage",
+      "舒芙蕾鴨鴨@鳳凰": "Ninja"
+    }
   }
 ]
