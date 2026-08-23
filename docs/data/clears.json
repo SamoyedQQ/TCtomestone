@@ -89096,5 +89096,89 @@
       "尤吉歐@伊弗利特": "WhiteMage",
       "走路草@鳳凰": "Bard"
     }
+  },
+  {
+    "code": "bQqGZCAHVhxKrBdJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "毛璦菈@伊弗利特",
+      "閃光@伊弗利特",
+      "三月桃@伊弗利特",
+      "Mouse@伊弗利特",
+      "奶菊奶你乃咯@伊弗利特",
+      "卡哇@迦樓羅",
+      "Jerky@迦樓羅",
+      "傻咩@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 864046,
+    "clear_dt_ms": 1787490760251,
+    "jobs": {
+      "毛璦菈@伊弗利特": "Summoner",
+      "閃光@伊弗利特": "Dragoon",
+      "三月桃@伊弗利特": "Sage",
+      "Mouse@伊弗利特": "Gunbreaker",
+      "奶菊奶你乃咯@伊弗利特": "WhiteMage",
+      "卡哇@迦樓羅": "Warrior",
+      "Jerky@迦樓羅": "Machinist",
+      "傻咩@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "Qp4b2N6tXZqyYznm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "緹娜@利維坦",
+      "Linlin@奧汀",
+      "Shoo@奧汀",
+      "考韓吉@迦樓羅",
+      "星楓雪玥@奧汀",
+      "保羅普菲茲納@奧汀",
+      "晞呱owob@鳳凰",
+      "Lawick@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 827480,
+    "clear_dt_ms": 1787490627122,
+    "jobs": {
+      "緹娜@利維坦": "WhiteMage",
+      "Linlin@奧汀": "Dancer",
+      "Shoo@奧汀": "Warrior",
+      "考韓吉@迦樓羅": "Summoner",
+      "星楓雪玥@奧汀": "Monk",
+      "保羅普菲茲納@奧汀": "Scholar",
+      "晞呱owob@鳳凰": "DarkKnight",
+      "Lawick@泰坦": "BlackMage"
+    }
+  },
+  {
+    "code": "rzDTpPY32ht9GCLB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Kira@鳳凰",
+      "Himeri@鳳凰",
+      "Benny@利維坦",
+      "游刃游魚@迦樓羅",
+      "阿曼妮西斯@迦樓羅",
+      "野貓@鳳凰",
+      "席德@鳳凰",
+      "Nobu卡茲@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1108030,
+    "clear_dt_ms": 1787467043377,
+    "jobs": {
+      "Kira@鳳凰": "Machinist",
+      "Himeri@鳳凰": "Warrior",
+      "Benny@利維坦": "Monk",
+      "游刃游魚@迦樓羅": "BlackMage",
+      "阿曼妮西斯@迦樓羅": "Sage",
+      "野貓@鳳凰": "Gunbreaker",
+      "席德@鳳凰": "Dragoon",
+      "Nobu卡茲@鳳凰": "WhiteMage"
+    }
   }
 ]
