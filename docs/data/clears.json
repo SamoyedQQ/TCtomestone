@@ -89068,5 +89068,33 @@
       "粗肥@鳳凰": "Machinist",
       "阿吉美眉@巴哈姆特": "Paladin"
     }
+  },
+  {
+    "code": "BcfmYhvdzrLGPpQq",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "織娜米@利維坦",
+      "結城希亞@伊弗利特",
+      "Ix整點薯條@鳳凰",
+      "海晴@伊弗利特",
+      "蕎麥啵啵@鳳凰",
+      "柒伍@迦樓羅",
+      "尤吉歐@伊弗利特",
+      "走路草@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1121096,
+    "clear_dt_ms": 1787484250035,
+    "jobs": {
+      "織娜米@利維坦": "Scholar",
+      "結城希亞@伊弗利特": "Pictomancer",
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "海晴@伊弗利特": "Paladin",
+      "蕎麥啵啵@鳳凰": "DarkKnight",
+      "柒伍@迦樓羅": "Viper",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "走路草@鳳凰": "Bard"
+    }
   }
 ]
