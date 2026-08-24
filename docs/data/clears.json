@@ -89460,5 +89460,33 @@
       "煌獅@利維坦": "Viper",
       "棉花糖@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "PVQhdbxTYfyztjwp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "梅菲拉斯@鳳凰",
+      "乂夜神@巴哈姆特",
+      "巴那那@伊弗利特",
+      "迷跡波@泰坦",
+      "雅·文朵拉@鳳凰",
+      "Q醬@鳳凰",
+      "伊奈@泰坦",
+      "Yuuji@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 854219,
+    "clear_dt_ms": 1787586369718,
+    "jobs": {
+      "梅菲拉斯@鳳凰": "DarkKnight",
+      "乂夜神@巴哈姆特": "Dragoon",
+      "巴那那@伊弗利特": "Warrior",
+      "迷跡波@泰坦": "RedMage",
+      "雅·文朵拉@鳳凰": "Scholar",
+      "Q醬@鳳凰": "Machinist",
+      "伊奈@泰坦": "WhiteMage",
+      "Yuuji@伊弗利特": "BlackMage"
+    }
   }
 ]
