@@ -89488,5 +89488,61 @@
       "伊奈@泰坦": "WhiteMage",
       "Yuuji@伊弗利特": "BlackMage"
     }
+  },
+  {
+    "code": "wxTGWmg68qNj9kMy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "穗曦@伊弗利特",
+      "洋月@巴哈姆特",
+      "馬爾三兄弟@泰坦",
+      "朝花暮暮@巴哈姆特",
+      "群青日和@泰坦",
+      "Ringo@巴哈姆特",
+      "空澄雪奈o@伊弗利特",
+      "滑水@奧汀"
+    ],
+    "fight_id": 12,
+    "duration_ms": 959178,
+    "clear_dt_ms": 1787594482996,
+    "jobs": {
+      "穗曦@伊弗利特": "Samurai",
+      "洋月@巴哈姆特": "DarkKnight",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "朝花暮暮@巴哈姆特": "Dancer",
+      "群青日和@泰坦": "Monk",
+      "Ringo@巴哈姆特": "Scholar",
+      "空澄雪奈o@伊弗利特": "RedMage",
+      "滑水@奧汀": "Astrologian"
+    }
+  },
+  {
+    "code": "wxTGWmg68qNj9kMy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "穗曦@伊弗利特",
+      "空澄雪奈o@伊弗利特",
+      "洋月@巴哈姆特",
+      "馬爾三兄弟@泰坦",
+      "朝花暮暮@巴哈姆特",
+      "群青日和@泰坦",
+      "Ringo@巴哈姆特",
+      "滑水@奧汀"
+    ],
+    "fight_id": 18,
+    "duration_ms": 990758,
+    "clear_dt_ms": 1787597109279,
+    "jobs": {
+      "穗曦@伊弗利特": "Samurai",
+      "空澄雪奈o@伊弗利特": "Summoner",
+      "洋月@巴哈姆特": "DarkKnight",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "朝花暮暮@巴哈姆特": "Dancer",
+      "群青日和@泰坦": "Monk",
+      "Ringo@巴哈姆特": "Scholar",
+      "滑水@奧汀": "Astrologian"
+    }
   }
 ]
