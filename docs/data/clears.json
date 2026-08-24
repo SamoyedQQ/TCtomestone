@@ -89544,5 +89544,61 @@
       "Ringo@巴哈姆特": "Scholar",
       "滑水@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "g71KCdXP6zctbYMG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "皮卡廚@伊弗利特",
+      "車倫秉@伊弗利特",
+      "薛侖娥的狗汪@伊弗利特",
+      "噴射阿黃@巴哈姆特",
+      "白九@迦樓羅",
+      "Tayloo@迦樓羅",
+      "瘋帽@迦樓羅",
+      "哩口@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 971918,
+    "clear_dt_ms": 1787059579892,
+    "jobs": {
+      "皮卡廚@伊弗利特": "Dragoon",
+      "車倫秉@伊弗利特": "Sage",
+      "薛侖娥的狗汪@伊弗利特": "Paladin",
+      "噴射阿黃@巴哈姆特": "DarkKnight",
+      "白九@迦樓羅": "Astrologian",
+      "Tayloo@迦樓羅": "Pictomancer",
+      "瘋帽@迦樓羅": "Samurai",
+      "哩口@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "N48YjBMAZz9DqhGy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "芋仔冰@迦樓羅",
+      "梅友仁@迦樓羅",
+      "慎真@利維坦",
+      "歐秘瑪什@迦樓羅",
+      "Ra逼逼it@迦樓羅",
+      "黑巧尼可可@迦樓羅",
+      "希望村村長@迦樓羅",
+      "自由誓言@迦樓羅"
+    ],
+    "fight_id": 46,
+    "duration_ms": 881233,
+    "clear_dt_ms": 1787471598945,
+    "jobs": {
+      "芋仔冰@迦樓羅": "Paladin",
+      "梅友仁@迦樓羅": "Samurai",
+      "慎真@利維坦": "Astrologian",
+      "歐秘瑪什@迦樓羅": "Dancer",
+      "Ra逼逼it@迦樓羅": "DarkKnight",
+      "黑巧尼可可@迦樓羅": "RedMage",
+      "希望村村長@迦樓羅": "Scholar",
+      "自由誓言@迦樓羅": "Dragoon"
+    }
   }
 ]
