@@ -89348,5 +89348,33 @@
       "宸仔@伊弗利特": "Paladin",
       "走路草@鳳凰": "Bard"
     }
+  },
+  {
+    "code": "WHNFCrMcVyJXD76K",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "真是呆@伊弗利特",
+      "一塊小蛋糕@伊弗利特",
+      "Ix整點薯條@鳳凰",
+      "Benny@利維坦",
+      "尤吉歐@伊弗利特",
+      "Hangwu@伊弗利特",
+      "蕎麥啵啵@鳳凰",
+      "小夢幻@奧汀"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1122201,
+    "clear_dt_ms": 1787561423645,
+    "jobs": {
+      "真是呆@伊弗利特": "Pictomancer",
+      "一塊小蛋糕@伊弗利特": "Gunbreaker",
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "Benny@利維坦": "Bard",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "Hangwu@伊弗利特": "Monk",
+      "蕎麥啵啵@鳳凰": "DarkKnight",
+      "小夢幻@奧汀": "Sage"
+    }
   }
 ]
