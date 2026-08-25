@@ -89684,5 +89684,61 @@
       "蕎麥啵啵@鳳凰": "DarkKnight",
       "薇薇布@迦樓羅": "Dragoon"
     }
+  },
+  {
+    "code": "htD63AwmVNa21B9T",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "洛洛塔@鳳凰",
+      "我迷路了@鳳凰",
+      "瓜@鳳凰",
+      "鳳啼鳴鈅@巴哈姆特",
+      "鳥鳴山更幽@鳳凰",
+      "船過水有痕@鳳凰",
+      "詩恩@鳳凰",
+      "Iyao@鳳凰"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1124329,
+    "clear_dt_ms": 1787672251893,
+    "jobs": {
+      "洛洛塔@鳳凰": "Dancer",
+      "我迷路了@鳳凰": "Monk",
+      "瓜@鳳凰": "Scholar",
+      "鳳啼鳴鈅@巴哈姆特": "Viper",
+      "鳥鳴山更幽@鳳凰": "BlackMage",
+      "船過水有痕@鳳凰": "Paladin",
+      "詩恩@鳳凰": "Astrologian",
+      "Iyao@鳳凰": "DarkKnight"
+    }
+  },
+  {
+    "code": "nKfwGyNq2XbxzDdM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "索拉肥@鳳凰",
+      "Heroin@利維坦",
+      "薏仁@迦樓羅",
+      "土撥鼠博士@迦樓羅",
+      "Texas@伊弗利特",
+      "Chima@伊弗利特",
+      "五體不滿足@泰坦",
+      "Wenesy@巴哈姆特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1064433,
+    "clear_dt_ms": 1787665772314,
+    "jobs": {
+      "索拉肥@鳳凰": "DarkKnight",
+      "Heroin@利維坦": "Scholar",
+      "薏仁@迦樓羅": "Warrior",
+      "土撥鼠博士@迦樓羅": "RedMage",
+      "Texas@伊弗利特": "Monk",
+      "Chima@伊弗利特": "Summoner",
+      "五體不滿足@泰坦": "Sage",
+      "Wenesy@巴哈姆特": "Astrologian"
+    }
   }
 ]
