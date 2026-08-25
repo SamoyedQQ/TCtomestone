@@ -89740,5 +89740,61 @@
       "五體不滿足@泰坦": "Sage",
       "Wenesy@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "Yw3tTvzVa6yDhKXN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Yuki醬@利維坦",
+      "Mog@鳳凰",
+      "Bei@伊弗利特",
+      "醉仙月月@利維坦",
+      "麥塊啟動器@伊弗利特",
+      "阿爾博德之門@利維坦",
+      "Niness@迦樓羅",
+      "法國我@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1131314,
+    "clear_dt_ms": 1787671866342,
+    "jobs": {
+      "Yuki醬@利維坦": "Monk",
+      "Mog@鳳凰": "WhiteMage",
+      "Bei@伊弗利特": "Dancer",
+      "醉仙月月@利維坦": "Paladin",
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "阿爾博德之門@利維坦": "Sage",
+      "Niness@迦樓羅": "DarkKnight",
+      "法國我@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "8jmMCRV7yW13TvgQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "巴那那@伊弗利特",
+      "迷跡波@泰坦",
+      "梅菲拉斯@鳳凰",
+      "雅·文朵拉@鳳凰",
+      "Q醬@鳳凰",
+      "伊奈@泰坦",
+      "Aquars@泰坦",
+      "Yuuji@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 847382,
+    "clear_dt_ms": 1787674708924,
+    "jobs": {
+      "巴那那@伊弗利特": "Warrior",
+      "迷跡波@泰坦": "RedMage",
+      "梅菲拉斯@鳳凰": "DarkKnight",
+      "雅·文朵拉@鳳凰": "Scholar",
+      "Q醬@鳳凰": "Machinist",
+      "伊奈@泰坦": "WhiteMage",
+      "Aquars@泰坦": "Dragoon",
+      "Yuuji@伊弗利特": "BlackMage"
+    }
   }
 ]
