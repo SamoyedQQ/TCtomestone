@@ -89824,5 +89824,145 @@
       "那個地精盜賊@泰坦": "Viper",
       "蕭陽@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "aQr7cMB8GJqCNARf",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "崩落之旅人@利維坦",
+      "圓形食物@鳳凰",
+      "Wenwen@伊弗利特",
+      "舞紗橘@利維坦",
+      "喵萌蝶@伊弗利特",
+      "Jacy@伊弗利特",
+      "Benny@奧汀",
+      "明日的希望@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1122812,
+    "clear_dt_ms": 1787749002411,
+    "jobs": {
+      "崩落之旅人@利維坦": "Scholar",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Wenwen@伊弗利特": "Astrologian",
+      "舞紗橘@利維坦": "Pictomancer",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "Jacy@伊弗利特": "Paladin",
+      "Benny@奧汀": "Samurai",
+      "明日的希望@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "aQr7cMB8GJqCNARf",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "崩落之旅人@利維坦",
+      "圓形食物@鳳凰",
+      "Wenwen@伊弗利特",
+      "舞紗橘@利維坦",
+      "喵萌蝶@伊弗利特",
+      "Jacy@伊弗利特",
+      "Benny@奧汀",
+      "明日的希望@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1113495,
+    "clear_dt_ms": 1787750937481,
+    "jobs": {
+      "崩落之旅人@利維坦": "Scholar",
+      "圓形食物@鳳凰": "DarkKnight",
+      "Wenwen@伊弗利特": "Astrologian",
+      "舞紗橘@利維坦": "Pictomancer",
+      "喵萌蝶@伊弗利特": "Ninja",
+      "Jacy@伊弗利特": "Paladin",
+      "Benny@奧汀": "Samurai",
+      "明日的希望@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "9HKgVBTtYFD2Wz4v",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Am·o@利維坦",
+      "狐狐貝果@鳳凰",
+      "Leepon@巴哈姆特",
+      "Rlin@迦樓羅",
+      "月月虎@迦樓羅",
+      "煌獅@利維坦",
+      "我的褲子@巴哈姆特",
+      "郭小皮@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1123447,
+    "clear_dt_ms": 1787747726695,
+    "jobs": {
+      "Am·o@利維坦": "Dancer",
+      "狐狐貝果@鳳凰": "WhiteMage",
+      "Leepon@巴哈姆特": "Pictomancer",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "月月虎@迦樓羅": "Paladin",
+      "煌獅@利維坦": "Viper",
+      "我的褲子@巴哈姆特": "Ninja",
+      "郭小皮@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "9HKgVBTtYFD2Wz4v",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Am·o@利維坦",
+      "Maple@伊弗利特",
+      "狐狐貝果@鳳凰",
+      "Leepon@巴哈姆特",
+      "Rlin@迦樓羅",
+      "月月虎@迦樓羅",
+      "煌獅@利維坦",
+      "郭小皮@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1121487,
+    "clear_dt_ms": 1787749871706,
+    "jobs": {
+      "Am·o@利維坦": "Dancer",
+      "Maple@伊弗利特": "Monk",
+      "狐狐貝果@鳳凰": "WhiteMage",
+      "Leepon@巴哈姆特": "Pictomancer",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "月月虎@迦樓羅": "Paladin",
+      "煌獅@利維坦": "Viper",
+      "郭小皮@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "9HKgVBTtYFD2Wz4v",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Am·o@利維坦",
+      "Maple@伊弗利特",
+      "狐狐貝果@鳳凰",
+      "Leepon@巴哈姆特",
+      "Rlin@迦樓羅",
+      "月月虎@迦樓羅",
+      "煌獅@利維坦",
+      "郭小皮@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1126201,
+    "clear_dt_ms": 1787751608216,
+    "jobs": {
+      "Am·o@利維坦": "Dancer",
+      "Maple@伊弗利特": "Monk",
+      "狐狐貝果@鳳凰": "WhiteMage",
+      "Leepon@巴哈姆特": "Pictomancer",
+      "Rlin@迦樓羅": "Gunbreaker",
+      "月月虎@迦樓羅": "Paladin",
+      "煌獅@利維坦": "Viper",
+      "郭小皮@迦樓羅": "Scholar"
+    }
   }
 ]
