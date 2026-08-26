@@ -90188,5 +90188,33 @@
       "甜甜的小仙女@巴哈姆特": "Samurai",
       "風城煙雨@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "vZHYNrwxtM9AJz2n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Darker@伊弗利特",
+      "夏目@鳳凰",
+      "永愛三玖@巴哈姆特",
+      "金龍姐姐@利維坦",
+      "慎真@利維坦",
+      "Yalei@迦樓羅",
+      "Ryou@利維坦",
+      "凍凍@利維坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 841099,
+    "clear_dt_ms": 1787755275657,
+    "jobs": {
+      "Darker@伊弗利特": "Summoner",
+      "夏目@鳳凰": "DarkKnight",
+      "永愛三玖@巴哈姆特": "Paladin",
+      "金龍姐姐@利維坦": "Dancer",
+      "慎真@利維坦": "Viper",
+      "Yalei@迦樓羅": "Scholar",
+      "Ryou@利維坦": "Astrologian",
+      "凍凍@利維坦": "Ninja"
+    }
   }
 ]
