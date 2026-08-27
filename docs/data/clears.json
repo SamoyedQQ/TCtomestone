@@ -90524,5 +90524,89 @@
       "伊奈@泰坦": "WhiteMage",
       "Q醬@鳳凰": "Machinist"
     }
+  },
+  {
+    "code": "YtHCdTw67xaF2v1c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "千反田愛瑠@迦樓羅",
+      "鮭魚明太子@迦樓羅",
+      "神秘夾克姐姐@迦樓羅",
+      "霏雪空@迦樓羅",
+      "Only@伊弗利特",
+      "笭@迦樓羅",
+      "馬爾三兄弟@泰坦",
+      "不要吵@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 983812,
+    "clear_dt_ms": 1787853410164,
+    "jobs": {
+      "千反田愛瑠@迦樓羅": "RedMage",
+      "鮭魚明太子@迦樓羅": "Sage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "霏雪空@迦樓羅": "Samurai",
+      "Only@伊弗利特": "WhiteMage",
+      "笭@迦樓羅": "DarkKnight",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "不要吵@利維坦": "Machinist"
+    }
+  },
+  {
+    "code": "Zbp1zfqgnchY6PDC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "電漿衝鋒槍@奧汀",
+      "席德@鳳凰",
+      "Sixwin@伊弗利特",
+      "二v@迦樓羅",
+      "阿·瓦諾@奧汀",
+      "Bei@伊弗利特",
+      "丶芊菓@伊弗利特",
+      "第五魔法使@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1125621,
+    "clear_dt_ms": 1787848539738,
+    "jobs": {
+      "電漿衝鋒槍@奧汀": "Paladin",
+      "席德@鳳凰": "BlackMage",
+      "Sixwin@伊弗利特": "Samurai",
+      "二v@迦樓羅": "Astrologian",
+      "阿·瓦諾@奧汀": "Gunbreaker",
+      "Bei@伊弗利特": "Dancer",
+      "丶芊菓@伊弗利特": "Scholar",
+      "第五魔法使@巴哈姆特": "Monk"
+    }
+  },
+  {
+    "code": "Zbp1zfqgnchY6PDC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "電漿衝鋒槍@奧汀",
+      "席德@鳳凰",
+      "第五魔法使@巴哈姆特",
+      "Sixwin@伊弗利特",
+      "二v@迦樓羅",
+      "阿·瓦諾@奧汀",
+      "Bei@伊弗利特",
+      "丶芊菓@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1130354,
+    "clear_dt_ms": 1787851973703,
+    "jobs": {
+      "電漿衝鋒槍@奧汀": "Paladin",
+      "席德@鳳凰": "BlackMage",
+      "第五魔法使@巴哈姆特": "Ninja",
+      "Sixwin@伊弗利特": "Samurai",
+      "二v@迦樓羅": "Astrologian",
+      "阿·瓦諾@奧汀": "Gunbreaker",
+      "Bei@伊弗利特": "Dancer",
+      "丶芊菓@伊弗利特": "Scholar"
+    }
   }
 ]
