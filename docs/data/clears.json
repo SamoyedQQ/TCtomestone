@@ -90216,5 +90216,33 @@
       "Ryou@利維坦": "Astrologian",
       "凍凍@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "V3jHKhvfrGNgycda",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "卡道鷹@迦樓羅",
+      "貓貓一起強大@迦樓羅",
+      "Ix整點薯條@鳳凰",
+      "侑介@迦樓羅",
+      "夜神天祈@伊弗利特",
+      "煌獅@利維坦",
+      "香蕉皇@伊弗利特",
+      "宸仔@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121073,
+    "clear_dt_ms": 1787818790010,
+    "jobs": {
+      "卡道鷹@迦樓羅": "Sage",
+      "貓貓一起強大@迦樓羅": "DarkKnight",
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "侑介@迦樓羅": "Dancer",
+      "夜神天祈@伊弗利特": "Pictomancer",
+      "煌獅@利維坦": "Viper",
+      "香蕉皇@伊弗利特": "WhiteMage",
+      "宸仔@伊弗利特": "Paladin"
+    }
   }
 ]
