@@ -90832,5 +90832,145 @@
       "黑魔@奧汀": "BlackMage",
       "艾恩葛朗特@泰坦": "Astrologian"
     }
+  },
+  {
+    "code": "4AC7gvdGfhQ6LDyT",
+    "title": "?",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Ix整點薯條@鳳凰",
+      "橋本懷奈@伊弗利特",
+      "紀辰@伊弗利特",
+      "哈哈密瓜@利維坦",
+      "奧爾古斯塔斯@伊弗利特",
+      "那個地精盜賊@泰坦",
+      "香草天空@迦樓羅",
+      "舉舉@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1120728,
+    "clear_dt_ms": 1787936508176,
+    "jobs": {
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "橋本懷奈@伊弗利特": "Paladin",
+      "紀辰@伊弗利特": "Scholar",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "奧爾古斯塔斯@伊弗利特": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "香草天空@迦樓羅": "DarkKnight",
+      "舉舉@利維坦": "Summoner"
+    }
+  },
+  {
+    "code": "X7YNnGCRthWHQqBb",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "鄉民v@利維坦",
+      "碳酸氫鈉@利維坦",
+      "補月@利維坦",
+      "歪燕@利維坦",
+      "黑色楓葉@利維坦",
+      "Nutz@泰坦",
+      "咪咪帽帽@鳳凰",
+      "走路草@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1120897,
+    "clear_dt_ms": 1787925444093,
+    "jobs": {
+      "鄉民v@利維坦": "Pictomancer",
+      "碳酸氫鈉@利維坦": "Astrologian",
+      "補月@利維坦": "Dragoon",
+      "歪燕@利維坦": "Scholar",
+      "黑色楓葉@利維坦": "BlackMage",
+      "Nutz@泰坦": "Paladin",
+      "咪咪帽帽@鳳凰": "DarkKnight",
+      "走路草@鳳凰": "Bard"
+    }
+  },
+  {
+    "code": "ZQ3TPzJfkdMAK6j9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "龍龍大哥@伊弗利特",
+      "入土為安之策@鳳凰",
+      "不及物動詞@伊弗利特",
+      "柔情o貓娘@伊弗利特",
+      "樹煌@鳳凰",
+      "Kupo@泰坦",
+      "梓凜@鳳凰",
+      "青龍@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1132042,
+    "clear_dt_ms": 1787931121987,
+    "jobs": {
+      "龍龍大哥@伊弗利特": "Dancer",
+      "入土為安之策@鳳凰": "Warrior",
+      "不及物動詞@伊弗利特": "Samurai",
+      "柔情o貓娘@伊弗利特": "Astrologian",
+      "樹煌@鳳凰": "Sage",
+      "Kupo@泰坦": "Summoner",
+      "梓凜@鳳凰": "Viper",
+      "青龍@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "ZQ3TPzJfkdMAK6j9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "龍龍大哥@伊弗利特",
+      "入土為安之策@鳳凰",
+      "不及物動詞@伊弗利特",
+      "柔情o貓娘@伊弗利特",
+      "青龍@伊弗利特",
+      "暗箭紅燒特@伊弗利特",
+      "Rita@利維坦",
+      "Kupo@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1121613,
+    "clear_dt_ms": 1787933858375,
+    "jobs": {
+      "龍龍大哥@伊弗利特": "Dancer",
+      "入土為安之策@鳳凰": "Warrior",
+      "不及物動詞@伊弗利特": "Samurai",
+      "柔情o貓娘@伊弗利特": "Astrologian",
+      "青龍@伊弗利特": "Paladin",
+      "暗箭紅燒特@伊弗利特": "Sage",
+      "Rita@利維坦": "Viper",
+      "Kupo@泰坦": "BlackMage"
+    }
+  },
+  {
+    "code": "ZQ3TPzJfkdMAK6j9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "龍龍大哥@伊弗利特",
+      "入土為安之策@鳳凰",
+      "不及物動詞@伊弗利特",
+      "柔情o貓娘@伊弗利特",
+      "青龍@伊弗利特",
+      "暗箭紅燒特@伊弗利特",
+      "Kupo@泰坦",
+      "小阿呆@迦樓羅"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1127260,
+    "clear_dt_ms": 1787936469721,
+    "jobs": {
+      "龍龍大哥@伊弗利特": "Dancer",
+      "入土為安之策@鳳凰": "Warrior",
+      "不及物動詞@伊弗利特": "Samurai",
+      "柔情o貓娘@伊弗利特": "Astrologian",
+      "青龍@伊弗利特": "Paladin",
+      "暗箭紅燒特@伊弗利特": "Sage",
+      "Kupo@泰坦": "BlackMage",
+      "小阿呆@迦樓羅": "Viper"
+    }
   }
 ]
