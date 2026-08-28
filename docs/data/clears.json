@@ -90776,5 +90776,61 @@
       "小夢幻@奧汀": "Sage",
       "杏仁豆腐@奧汀": "WhiteMage"
     }
+  },
+  {
+    "code": "Fd6cafDKLZRq2W4Q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "巴哥毛怪@泰坦",
+      "格林@迦樓羅",
+      "九筒大姊@利維坦",
+      "Wei巴@伊弗利特",
+      "野上奈緒@泰坦",
+      "雷姆大好@巴哈姆特",
+      "黑魔@奧汀",
+      "艾恩葛朗特@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1125800,
+    "clear_dt_ms": 1787924402499,
+    "jobs": {
+      "巴哥毛怪@泰坦": "Monk",
+      "格林@迦樓羅": "Paladin",
+      "九筒大姊@利維坦": "Scholar",
+      "Wei巴@伊弗利特": "Dragoon",
+      "野上奈緒@泰坦": "Dancer",
+      "雷姆大好@巴哈姆特": "DarkKnight",
+      "黑魔@奧汀": "BlackMage",
+      "艾恩葛朗特@泰坦": "Astrologian"
+    }
+  },
+  {
+    "code": "Fd6cafDKLZRq2W4Q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "巴哥毛怪@泰坦",
+      "格林@迦樓羅",
+      "九筒大姊@利維坦",
+      "Wei巴@伊弗利特",
+      "雷姆大好@巴哈姆特",
+      "桃梔@泰坦",
+      "黑魔@奧汀",
+      "艾恩葛朗特@泰坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1100869,
+    "clear_dt_ms": 1787930976165,
+    "jobs": {
+      "巴哥毛怪@泰坦": "Monk",
+      "格林@迦樓羅": "Paladin",
+      "九筒大姊@利維坦": "Scholar",
+      "Wei巴@伊弗利特": "Dragoon",
+      "雷姆大好@巴哈姆特": "DarkKnight",
+      "桃梔@泰坦": "Dancer",
+      "黑魔@奧汀": "BlackMage",
+      "艾恩葛朗特@泰坦": "Astrologian"
+    }
   }
 ]
