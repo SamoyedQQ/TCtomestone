@@ -90636,5 +90636,61 @@
       "拉哈烤布雷亞@奧汀": "Scholar",
       "啵啵伊啵伊@巴哈姆特": "Warrior"
     }
+  },
+  {
+    "code": "cGKYnRg12Lhzb4rx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Kita@利維坦",
+      "零叁@伊弗利特",
+      "Sancho@伊弗利特",
+      "櫻之宮小璐@迦樓羅",
+      "隔夜金針菇@巴哈姆特",
+      "Texas@伊弗利特",
+      "貓爪秋刀魚@伊弗利特",
+      "龍喵@迦樓羅"
+    ],
+    "fight_id": 36,
+    "duration_ms": 998755,
+    "clear_dt_ms": 1787853418849,
+    "jobs": {
+      "Kita@利維坦": "Samurai",
+      "零叁@伊弗利特": "Dancer",
+      "Sancho@伊弗利特": "Monk",
+      "櫻之宮小璐@迦樓羅": "Scholar",
+      "隔夜金針菇@巴哈姆特": "Astrologian",
+      "Texas@伊弗利特": "DarkKnight",
+      "貓爪秋刀魚@伊弗利特": "Pictomancer",
+      "龍喵@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "dmF9QjTr2NhZXPbR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Mike@鳳凰",
+      "哎低@鳳凰",
+      "塔皮歐卡@鳳凰",
+      "上鎖的房間@鳳凰",
+      "山貓@鳳凰",
+      "以茳@鳳凰",
+      "狼一@泰坦",
+      "永恆詩歌@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 936035,
+    "clear_dt_ms": 1787849418177,
+    "jobs": {
+      "Mike@鳳凰": "Dancer",
+      "哎低@鳳凰": "WhiteMage",
+      "塔皮歐卡@鳳凰": "DarkKnight",
+      "上鎖的房間@鳳凰": "Gunbreaker",
+      "山貓@鳳凰": "Samurai",
+      "以茳@鳳凰": "Sage",
+      "狼一@泰坦": "BlackMage",
+      "永恆詩歌@鳳凰": "Summoner"
+    }
   }
 ]
