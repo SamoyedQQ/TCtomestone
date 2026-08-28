@@ -90972,5 +90972,33 @@
       "Kupo@泰坦": "BlackMage",
       "小阿呆@迦樓羅": "Viper"
     }
+  },
+  {
+    "code": "v4xVp1Yd6b7cjK8X",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "鬼影月雪@迦樓羅",
+      "櫻櫻乂@迦樓羅",
+      "Gsp@迦樓羅",
+      "有意義大利@迦樓羅",
+      "Siore@迦樓羅",
+      "焦糖舒芙蕾@迦樓羅",
+      "桃沢@迦樓羅",
+      "Sheep@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 977712,
+    "clear_dt_ms": 1787940110794,
+    "jobs": {
+      "鬼影月雪@迦樓羅": "DarkKnight",
+      "櫻櫻乂@迦樓羅": "Sage",
+      "Gsp@迦樓羅": "Warrior",
+      "有意義大利@迦樓羅": "BlackMage",
+      "Siore@迦樓羅": "Summoner",
+      "焦糖舒芙蕾@迦樓羅": "WhiteMage",
+      "桃沢@迦樓羅": "Dancer",
+      "Sheep@迦樓羅": "Ninja"
+    }
   }
 ]
