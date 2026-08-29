@@ -91140,5 +91140,89 @@
       "Tiny石頭@伊弗利特": "Paladin",
       "嘩啦@巴哈姆特": "Ninja"
     }
+  },
+  {
+    "code": "d17LzCmPjDxBFc6V",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伊比@伊弗利特",
+      "零叁@伊弗利特",
+      "Texas@伊弗利特",
+      "阿卡拉蘇@伊弗利特",
+      "Sancho@伊弗利特",
+      "貓爪秋刀魚@伊弗利特",
+      "龍喵@迦樓羅",
+      "櫻之宮小璐@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 967344,
+    "clear_dt_ms": 1788018411609,
+    "jobs": {
+      "伊比@伊弗利特": "Sage",
+      "零叁@伊弗利特": "Dancer",
+      "Texas@伊弗利特": "Gunbreaker",
+      "阿卡拉蘇@伊弗利特": "Samurai",
+      "Sancho@伊弗利特": "Monk",
+      "貓爪秋刀魚@伊弗利特": "Pictomancer",
+      "龍喵@迦樓羅": "Warrior",
+      "櫻之宮小璐@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "d17LzCmPjDxBFc6V",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伊比@伊弗利特",
+      "零叁@伊弗利特",
+      "Texas@伊弗利特",
+      "阿卡拉蘇@伊弗利特",
+      "Sancho@伊弗利特",
+      "貓爪秋刀魚@伊弗利特",
+      "龍喵@迦樓羅",
+      "櫻之宮小璐@迦樓羅"
+    ],
+    "fight_id": 13,
+    "duration_ms": 978430,
+    "clear_dt_ms": 1788024414656,
+    "jobs": {
+      "伊比@伊弗利特": "Sage",
+      "零叁@伊弗利特": "Dancer",
+      "Texas@伊弗利特": "Gunbreaker",
+      "阿卡拉蘇@伊弗利特": "Samurai",
+      "Sancho@伊弗利特": "Monk",
+      "貓爪秋刀魚@伊弗利特": "Pictomancer",
+      "龍喵@迦樓羅": "Warrior",
+      "櫻之宮小璐@迦樓羅": "Scholar"
+    }
+  },
+  {
+    "code": "4G7nHZJCFqh8gTQ1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "黑巧尼可可@迦樓羅",
+      "Knock@利維坦",
+      "工務騎士@利維坦",
+      "Azel@巴哈姆特",
+      "Ringo@巴哈姆特",
+      "安達露西亞@巴哈姆特",
+      "芋仔冰@迦樓羅",
+      "Ra逼逼it@迦樓羅"
+    ],
+    "fight_id": 17,
+    "duration_ms": 870910,
+    "clear_dt_ms": 1788018935876,
+    "jobs": {
+      "黑巧尼可可@迦樓羅": "Samurai",
+      "Knock@利維坦": "Dragoon",
+      "工務騎士@利維坦": "Summoner",
+      "Azel@巴哈姆特": "Dancer",
+      "Ringo@巴哈姆特": "Scholar",
+      "安達露西亞@巴哈姆特": "Astrologian",
+      "芋仔冰@迦樓羅": "Paladin",
+      "Ra逼逼it@迦樓羅": "DarkKnight"
+    }
   }
 ]
