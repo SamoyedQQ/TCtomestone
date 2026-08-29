@@ -91056,5 +91056,89 @@
       "薇薇布@迦樓羅": "Dragoon",
       "柒伍@迦樓羅": "Viper"
     }
+  },
+  {
+    "code": "dLfYPczJNwAj2T9y",
+    "title": "??",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "結城希亞@伊弗利特",
+      "水無賴@鳳凰",
+      "Mimika@利維坦",
+      "侑介@迦樓羅",
+      "紀辰@伊弗利特",
+      "奈樂司@伊弗利特",
+      "尤吉歐@伊弗利特",
+      "那個地精盜賊@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121973,
+    "clear_dt_ms": 1788018390629,
+    "jobs": {
+      "結城希亞@伊弗利特": "Pictomancer",
+      "水無賴@鳳凰": "BlackMage",
+      "Mimika@利維坦": "DarkKnight",
+      "侑介@迦樓羅": "Dancer",
+      "紀辰@伊弗利特": "Scholar",
+      "奈樂司@伊弗利特": "Paladin",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "那個地精盜賊@泰坦": "Viper"
+    }
+  },
+  {
+    "code": "Tf2xkvGNH14mQc3C",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "舉舉@利維坦",
+      "Soyo虧虧@利維坦",
+      "青菜老大@利維坦",
+      "阿萬音鈴羽@利維坦",
+      "慎真@利維坦",
+      "夜神天祈@伊弗利特",
+      "Seira@利維坦",
+      "紀辰@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121789,
+    "clear_dt_ms": 1788016101638,
+    "jobs": {
+      "舉舉@利維坦": "Viper",
+      "Soyo虧虧@利維坦": "Ninja",
+      "青菜老大@利維坦": "Astrologian",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "慎真@利維坦": "Paladin",
+      "夜神天祈@伊弗利特": "Pictomancer",
+      "Seira@利維坦": "Dancer",
+      "紀辰@伊弗利特": "Scholar"
+    }
+  },
+  {
+    "code": "vWFnKxpXRZBPrjJ9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "黑魔king@泰坦",
+      "一個劍術師@鳳凰",
+      "月環小嗚鼠@伊弗利特",
+      "饿了@鳳凰",
+      "繪靈@奧汀",
+      "Hmaster@伊弗利特",
+      "Tiny石頭@伊弗利特",
+      "嘩啦@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1121715,
+    "clear_dt_ms": 1788002331918,
+    "jobs": {
+      "黑魔king@泰坦": "BlackMage",
+      "一個劍術師@鳳凰": "DarkKnight",
+      "月環小嗚鼠@伊弗利特": "Bard",
+      "饿了@鳳凰": "Monk",
+      "繪靈@奧汀": "Astrologian",
+      "Hmaster@伊弗利特": "Scholar",
+      "Tiny石頭@伊弗利特": "Paladin",
+      "嘩啦@巴哈姆特": "Ninja"
+    }
   }
 ]
