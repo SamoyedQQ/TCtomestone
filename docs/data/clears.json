@@ -91224,5 +91224,33 @@
       "芋仔冰@迦樓羅": "Paladin",
       "Ra逼逼it@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "QXv6gDTdF2V13h9M",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "柯基犬@奧汀",
+      "加奈@利維坦",
+      "Kairos@利維坦",
+      "Yalei@迦樓羅",
+      "泰班@利維坦",
+      "小甜心布朗尼@利維坦",
+      "小p噗噗@伊弗利特",
+      "Mikank@鳳凰"
+    ],
+    "fight_id": 20,
+    "duration_ms": 860217,
+    "clear_dt_ms": 1788025975973,
+    "jobs": {
+      "柯基犬@奧汀": "Paladin",
+      "加奈@利維坦": "Warrior",
+      "Kairos@利維坦": "Astrologian",
+      "Yalei@迦樓羅": "Scholar",
+      "泰班@利維坦": "BlackMage",
+      "小甜心布朗尼@利維坦": "Samurai",
+      "小p噗噗@伊弗利特": "Summoner",
+      "Mikank@鳳凰": "Dancer"
+    }
   }
 ]
