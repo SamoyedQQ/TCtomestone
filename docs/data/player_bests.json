@@ -338038,5 +338038,23 @@
     "timestamp_ms": 1788025975973,
     "duration_ms": 860217,
     "phase_reached": 0
+  },
+  "蒼藍@泰坦:1075:_wipe": {
+    "name": "蒼藍",
+    "server": "泰坦",
+    "encounter_id": 1075,
+    "encounter": "living liquid / liquid hand / ... ",
+    "is_clear": false,
+    "boss_hp_pct": 67.69,
+    "rdps": 0.0,
+    "adps": 0.0,
+    "parse_pct": 0.0,
+    "job": "Ninja",
+    "char_id": 1000129,
+    "report_code": "AhxzwKmt4abn72rP",
+    "fight_id": 62,
+    "timestamp_ms": 1787326119664,
+    "duration_ms": 0,
+    "phase_reached": 2
   }
 }
