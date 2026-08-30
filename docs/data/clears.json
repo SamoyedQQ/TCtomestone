@@ -91252,5 +91252,201 @@
       "小p噗噗@伊弗利特": "Summoner",
       "Mikank@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "KzDG89ZR4j2LtvxW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Gabe@巴哈姆特",
+      "小夢幻@奧汀",
+      "紅燒竹鼠@迦樓羅",
+      "聖月@利維坦",
+      "那個地精盜賊@泰坦",
+      "Cygnus@奧汀",
+      "杏仁豆腐@奧汀",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1132111,
+    "clear_dt_ms": 1788072559148,
+    "jobs": {
+      "Gabe@巴哈姆特": "Monk",
+      "小夢幻@奧汀": "Sage",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "聖月@利維坦": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "Cygnus@奧汀": "Paladin",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "KzDG89ZR4j2LtvxW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Gabe@巴哈姆特",
+      "載客鳩舵手@伊弗利特",
+      "小夢幻@奧汀",
+      "聖月@利維坦",
+      "那個地精盜賊@泰坦",
+      "Cygnus@奧汀",
+      "杏仁豆腐@奧汀",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1123239,
+    "clear_dt_ms": 1788075666131,
+    "jobs": {
+      "Gabe@巴哈姆特": "Monk",
+      "載客鳩舵手@伊弗利特": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "聖月@利維坦": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "Cygnus@奧汀": "Paladin",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "KzDG89ZR4j2LtvxW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Gabe@巴哈姆特",
+      "載客鳩舵手@伊弗利特",
+      "小夢幻@奧汀",
+      "聖月@利維坦",
+      "那個地精盜賊@泰坦",
+      "Cygnus@奧汀",
+      "杏仁豆腐@奧汀",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1124519,
+    "clear_dt_ms": 1788076879306,
+    "jobs": {
+      "Gabe@巴哈姆特": "Monk",
+      "載客鳩舵手@伊弗利特": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "聖月@利維坦": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "Cygnus@奧汀": "Paladin",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "KzDG89ZR4j2LtvxW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Gabe@巴哈姆特",
+      "載客鳩舵手@伊弗利特",
+      "小夢幻@奧汀",
+      "聖月@利維坦",
+      "那個地精盜賊@泰坦",
+      "Cygnus@奧汀",
+      "杏仁豆腐@奧汀",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1123583,
+    "clear_dt_ms": 1788078382234,
+    "jobs": {
+      "Gabe@巴哈姆特": "Monk",
+      "載客鳩舵手@伊弗利特": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "聖月@利維坦": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "Cygnus@奧汀": "Paladin",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "KzDG89ZR4j2LtvxW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小夢幻@奧汀",
+      "聖月@利維坦",
+      "那個地精盜賊@泰坦",
+      "Cygnus@奧汀",
+      "Nemo捏摸@利維坦",
+      "薇薇布@迦樓羅",
+      "涅爾霏@巴哈姆特",
+      "莫比@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1121923,
+    "clear_dt_ms": 1788081864868,
+    "jobs": {
+      "小夢幻@奧汀": "Sage",
+      "聖月@利維坦": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "Cygnus@奧汀": "Paladin",
+      "Nemo捏摸@利維坦": "Astrologian",
+      "薇薇布@迦樓羅": "Summoner",
+      "涅爾霏@巴哈姆特": "DarkKnight",
+      "莫比@利維坦": "Ninja"
+    }
+  },
+  {
+    "code": "Qh24p1kABYcyqGxt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "保羅普菲茲納@奧汀",
+      "傲嬌小公主@奧汀",
+      "Shoo@奧汀",
+      "風城煙雨@奧汀",
+      "星楓雪玥@奧汀",
+      "緹娜@利維坦",
+      "Linlin@奧汀",
+      "草peko虐@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 818181,
+    "clear_dt_ms": 1788078459051,
+    "jobs": {
+      "保羅普菲茲納@奧汀": "Scholar",
+      "傲嬌小公主@奧汀": "Pictomancer",
+      "Shoo@奧汀": "Gunbreaker",
+      "風城煙雨@奧汀": "Summoner",
+      "星楓雪玥@奧汀": "Monk",
+      "緹娜@利維坦": "WhiteMage",
+      "Linlin@奧汀": "Dancer",
+      "草peko虐@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "8TGKFwCnbkB1xyJQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Ra逼逼it@迦樓羅",
+      "梅友仁@迦樓羅",
+      "黑巧尼可可@迦樓羅",
+      "歐秘瑪什@迦樓羅",
+      "有隻鳥@迦樓羅",
+      "自由誓言@迦樓羅",
+      "希望村村長@迦樓羅",
+      "芋仔冰@迦樓羅"
+    ],
+    "fight_id": 23,
+    "duration_ms": 877381,
+    "clear_dt_ms": 1788079810713,
+    "jobs": {
+      "Ra逼逼it@迦樓羅": "DarkKnight",
+      "梅友仁@迦樓羅": "Samurai",
+      "黑巧尼可可@迦樓羅": "RedMage",
+      "歐秘瑪什@迦樓羅": "Dancer",
+      "有隻鳥@迦樓羅": "Astrologian",
+      "自由誓言@迦樓羅": "Dragoon",
+      "希望村村長@迦樓羅": "Scholar",
+      "芋仔冰@迦樓羅": "Paladin"
+    }
   }
 ]
