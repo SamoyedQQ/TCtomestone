@@ -92036,5 +92036,61 @@
       "海獅會寂寞@奧汀": "WhiteMage",
       "Arasxi@奧汀": "Samurai"
     }
+  },
+  {
+    "code": "1BJxcMbgCmLy9w8Z",
+    "title": "???",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "卡道鷹@迦樓羅",
+      "Cygnus@奧汀",
+      "Ao@迦樓羅",
+      "尤吉歐@伊弗利特",
+      "那個地精盜賊@泰坦",
+      "一塊小蛋糕@伊弗利特",
+      "結城希亞@伊弗利特",
+      "Ix整點薯條@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1124177,
+    "clear_dt_ms": 1788180711574,
+    "jobs": {
+      "卡道鷹@迦樓羅": "Sage",
+      "Cygnus@奧汀": "Warrior",
+      "Ao@迦樓羅": "Bard",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "那個地精盜賊@泰坦": "Viper",
+      "一塊小蛋糕@伊弗利特": "Gunbreaker",
+      "結城希亞@伊弗利特": "Pictomancer",
+      "Ix整點薯條@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "zjxLm3Tdpq7rhy1a",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "咖咖哩@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "有隻鳥@迦樓羅",
+      "Wiee@伊弗利特",
+      "Kaorii@迦樓羅",
+      "巴尾的熊@鳳凰",
+      "奶刀文文@利維坦",
+      "米粉兔子@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1000445,
+    "clear_dt_ms": 1788184054995,
+    "jobs": {
+      "咖咖哩@迦樓羅": "Astrologian",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "有隻鳥@迦樓羅": "Scholar",
+      "Wiee@伊弗利特": "Dancer",
+      "Kaorii@迦樓羅": "Reaper",
+      "巴尾的熊@鳳凰": "Warrior",
+      "奶刀文文@利維坦": "Dragoon",
+      "米粉兔子@鳳凰": "Summoner"
+    }
   }
 ]
