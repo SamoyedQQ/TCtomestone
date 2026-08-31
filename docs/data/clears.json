@@ -92456,5 +92456,33 @@
       "伊奈@泰坦": "WhiteMage",
       "Q醬@鳳凰": "Machinist"
     }
+  },
+  {
+    "code": "1gfFZB34rkVP7qAT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "利貝里亞@利維坦",
+      "遊煙@奧汀",
+      "沙帝斯@利維坦",
+      "灰特@伊弗利特",
+      "水無月空@伊弗利特",
+      "小嬡@利維坦",
+      "Doro老貓@伊弗利特",
+      "米歐娜希露@伊弗利特"
+    ],
+    "fight_id": 53,
+    "duration_ms": 982821,
+    "clear_dt_ms": 1788195686357,
+    "jobs": {
+      "利貝里亞@利維坦": "Paladin",
+      "遊煙@奧汀": "Dancer",
+      "沙帝斯@利維坦": "Monk",
+      "灰特@伊弗利特": "BlackMage",
+      "水無月空@伊弗利特": "Sage",
+      "小嬡@利維坦": "WhiteMage",
+      "Doro老貓@伊弗利特": "Samurai",
+      "米歐娜希露@伊弗利特": "Warrior"
+    }
   }
 ]
