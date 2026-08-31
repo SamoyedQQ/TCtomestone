@@ -91980,5 +91980,61 @@
       "黑魔king@伊弗利特": "Pictomancer",
       "月環小嗚鼠@伊弗利特": "Bard"
     }
+  },
+  {
+    "code": "ryCfwxKk6jmPTXzq",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Ix整點薯條@鳳凰",
+      "結城希亞@伊弗利特",
+      "貓貓一起強大@迦樓羅",
+      "海晴@伊弗利特",
+      "我的褲子@巴哈姆特",
+      "浮米@泰坦",
+      "Rroaar@迦樓羅",
+      "尤吉歐@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1124027,
+    "clear_dt_ms": 1788166524654,
+    "jobs": {
+      "Ix整點薯條@鳳凰": "Dragoon",
+      "結城希亞@伊弗利特": "Pictomancer",
+      "貓貓一起強大@迦樓羅": "DarkKnight",
+      "海晴@伊弗利特": "Paladin",
+      "我的褲子@巴哈姆特": "Machinist",
+      "浮米@泰坦": "Scholar",
+      "Rroaar@迦樓羅": "Reaper",
+      "尤吉歐@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "PQM4LGn2bYrFdC6D",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "臥菜@伊弗利特",
+      "小夢幻@奧汀",
+      "一塊小蛋糕@伊弗利特",
+      "Harii@奧汀",
+      "聖月@利維坦",
+      "柒伍@迦樓羅",
+      "海獅會寂寞@奧汀",
+      "Arasxi@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1127631,
+    "clear_dt_ms": 1788166575250,
+    "jobs": {
+      "臥菜@伊弗利特": "Warrior",
+      "小夢幻@奧汀": "Sage",
+      "一塊小蛋糕@伊弗利特": "Gunbreaker",
+      "Harii@奧汀": "Summoner",
+      "聖月@利維坦": "Dancer",
+      "柒伍@迦樓羅": "Dragoon",
+      "海獅會寂寞@奧汀": "WhiteMage",
+      "Arasxi@奧汀": "Samurai"
+    }
   }
 ]
