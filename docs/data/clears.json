@@ -91952,5 +91952,33 @@
       "有意義大利@迦樓羅": "BlackMage",
       "Sheep@迦樓羅": "Ninja"
     }
+  },
+  {
+    "code": "rmY6wH9CNag4hkBt",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Hmaster@泰坦",
+      "繪靈@巴哈姆特",
+      "一個劍術師@巴哈姆特",
+      "饿了@泰坦",
+      "嘩啦@利維坦",
+      "Tiny石頭@鳳凰",
+      "黑魔king@伊弗利特",
+      "月環小嗚鼠@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1119359,
+    "clear_dt_ms": 1788159245592,
+    "jobs": {
+      "Hmaster@泰坦": "Scholar",
+      "繪靈@巴哈姆特": "Astrologian",
+      "一個劍術師@巴哈姆特": "Paladin",
+      "饿了@泰坦": "Dragoon",
+      "嘩啦@利維坦": "Viper",
+      "Tiny石頭@鳳凰": "DarkKnight",
+      "黑魔king@伊弗利特": "Pictomancer",
+      "月環小嗚鼠@伊弗利特": "Bard"
+    }
   }
 ]
