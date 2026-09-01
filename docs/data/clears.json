@@ -92652,5 +92652,117 @@
       "Tiny石頭@泰坦": "Dragoon",
       "饿了@泰坦": "Machinist"
     }
+  },
+  {
+    "code": "XbPDtx4Gkygah67A",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "詩恩@鳳凰",
+      "Iyao@鳳凰",
+      "瓜@鳳凰",
+      "鳥鳴山更幽@鳳凰",
+      "洛洛塔@鳳凰",
+      "我迷路了@鳳凰",
+      "鳳啼鳴鈅@巴哈姆特",
+      "船過水有痕@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1124185,
+    "clear_dt_ms": 1788272502854,
+    "jobs": {
+      "詩恩@鳳凰": "Astrologian",
+      "Iyao@鳳凰": "DarkKnight",
+      "瓜@鳳凰": "Scholar",
+      "鳥鳴山更幽@鳳凰": "BlackMage",
+      "洛洛塔@鳳凰": "Dancer",
+      "我迷路了@鳳凰": "Monk",
+      "鳳啼鳴鈅@巴哈姆特": "Viper",
+      "船過水有痕@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "a7XRFgftBL8MKYQw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "今晚打老虎@迦樓羅",
+      "滿天焰星@鳳凰",
+      "艾爾輕雨@奧汀",
+      "Uzn@巴哈姆特",
+      "Mokino@迦樓羅",
+      "At@泰坦",
+      "Imluda@泰坦",
+      "拉碧斯拉祖利@泰坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 984981,
+    "clear_dt_ms": 1788273853892,
+    "jobs": {
+      "今晚打老虎@迦樓羅": "Paladin",
+      "滿天焰星@鳳凰": "BlackMage",
+      "艾爾輕雨@奧汀": "Sage",
+      "Uzn@巴哈姆特": "Dancer",
+      "Mokino@迦樓羅": "Dragoon",
+      "At@泰坦": "Samurai",
+      "Imluda@泰坦": "DarkKnight",
+      "拉碧斯拉祖利@泰坦": "Astrologian"
+    }
+  },
+  {
+    "code": "JzpcDrj1bLdThZFg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Niness@迦樓羅",
+      "醉仙月月@利維坦",
+      "麥塊啟動器@伊弗利特",
+      "阿爾博德之門@利維坦",
+      "Yuki醬@利維坦",
+      "麻油@巴哈姆特",
+      "毛毛力大王@奧汀",
+      "法國我@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1133114,
+    "clear_dt_ms": 1788274599589,
+    "jobs": {
+      "Niness@迦樓羅": "DarkKnight",
+      "醉仙月月@利維坦": "Paladin",
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "阿爾博德之門@利維坦": "Sage",
+      "Yuki醬@利維坦": "Viper",
+      "麻油@巴哈姆特": "WhiteMage",
+      "毛毛力大王@奧汀": "Dancer",
+      "法國我@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "XbwhBRmVpa1H6TgL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Box@奧汀",
+      "灛@奧汀",
+      "奶油手實習生@伊弗利特",
+      "Kaizer@奧汀",
+      "溫寺@利維坦",
+      "九蓮寶燈@奧汀",
+      "Aioan@伊弗利特",
+      "Bernie@巴哈姆特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 849506,
+    "clear_dt_ms": 1788271273020,
+    "jobs": {
+      "Box@奧汀": "Paladin",
+      "灛@奧汀": "Gunbreaker",
+      "奶油手實習生@伊弗利特": "Summoner",
+      "Kaizer@奧汀": "Dancer",
+      "溫寺@利維坦": "Samurai",
+      "九蓮寶燈@奧汀": "Dragoon",
+      "Aioan@伊弗利特": "Sage",
+      "Bernie@巴哈姆特": "Astrologian"
+    }
   }
 ]
