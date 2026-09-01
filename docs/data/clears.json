@@ -92596,5 +92596,61 @@
       "Mio@鳳凰": "Scholar",
       "草peko虐@利維坦": "Summoner"
     }
+  },
+  {
+    "code": "MGbdcg37waDrPCZh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "繪靈@奧汀",
+      "黑魔king@奧汀",
+      "Hmaster@鳳凰",
+      "咿呀哈@泰坦",
+      "美堂蠻@奧汀",
+      "一個劍術師@奧汀",
+      "極速型小豆丁@泰坦",
+      "Tiny石頭@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1024914,
+    "clear_dt_ms": 1788242883161,
+    "jobs": {
+      "繪靈@奧汀": "Sage",
+      "黑魔king@奧汀": "Pictomancer",
+      "Hmaster@鳳凰": "WhiteMage",
+      "咿呀哈@泰坦": "Bard",
+      "美堂蠻@奧汀": "Gunbreaker",
+      "一個劍術師@奧汀": "DarkKnight",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "Tiny石頭@泰坦": "Reaper"
+    }
+  },
+  {
+    "code": "t81ZqKr9RLkMvPXT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Hmaster@鳳凰",
+      "黑魔king@奧汀",
+      "繪靈@奧汀",
+      "美堂蠻@奧汀",
+      "嘩啦@鳳凰",
+      "一個劍術師@泰坦",
+      "Tiny石頭@泰坦",
+      "饿了@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 986604,
+    "clear_dt_ms": 1788241193893,
+    "jobs": {
+      "Hmaster@鳳凰": "WhiteMage",
+      "黑魔king@奧汀": "RedMage",
+      "繪靈@奧汀": "Sage",
+      "美堂蠻@奧汀": "DarkKnight",
+      "嘩啦@鳳凰": "Viper",
+      "一個劍術師@泰坦": "Paladin",
+      "Tiny石頭@泰坦": "Dragoon",
+      "饿了@泰坦": "Machinist"
+    }
   }
 ]
