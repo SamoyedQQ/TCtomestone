@@ -92792,5 +92792,33 @@
       "Tohka@迦樓羅": "Dancer",
       "拉拉菲悠@巴哈姆特": "DarkKnight"
     }
+  },
+  {
+    "code": "cRn6Jb2VMaP9Zmtv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "楓紅@利維坦",
+      "狄暄@利維坦",
+      "Sophia@利維坦",
+      "珞亞@利維坦",
+      "一包黑芝麻@利維坦",
+      "Neil@利維坦",
+      "突擊兔邦妮@利維坦",
+      "瑪茜醬@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 972120,
+    "clear_dt_ms": 1788281521731,
+    "jobs": {
+      "楓紅@利維坦": "Samurai",
+      "狄暄@利維坦": "Dancer",
+      "Sophia@利維坦": "WhiteMage",
+      "珞亞@利維坦": "Scholar",
+      "一包黑芝麻@利維坦": "Paladin",
+      "Neil@利維坦": "DarkKnight",
+      "突擊兔邦妮@利維坦": "Dragoon",
+      "瑪茜醬@利維坦": "BlackMage"
+    }
   }
 ]
