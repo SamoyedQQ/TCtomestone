@@ -92764,5 +92764,33 @@
       "Aioan@伊弗利特": "Sage",
       "Bernie@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "Yfq6rcxnMJ7HzaQX",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "趴搭趴搭@伊弗利特",
+      "若葉姬色白織@鳳凰",
+      "薩亞@奧汀",
+      "澄明鏡@伊弗利特",
+      "角卷綿芽@伊弗利特",
+      "R兔@伊弗利特",
+      "Tohka@迦樓羅",
+      "拉拉菲悠@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1123399,
+    "clear_dt_ms": 1788275318031,
+    "jobs": {
+      "趴搭趴搭@伊弗利特": "Dragoon",
+      "若葉姬色白織@鳳凰": "Pictomancer",
+      "薩亞@奧汀": "Astrologian",
+      "澄明鏡@伊弗利特": "Ninja",
+      "角卷綿芽@伊弗利特": "Paladin",
+      "R兔@伊弗利特": "Sage",
+      "Tohka@迦樓羅": "Dancer",
+      "拉拉菲悠@巴哈姆特": "DarkKnight"
+    }
   }
 ]
