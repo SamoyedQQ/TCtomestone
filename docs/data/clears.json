@@ -93352,5 +93352,33 @@
       "時旐@利維坦": "Monk",
       "茉漓@奧汀": "Dancer"
     }
+  },
+  {
+    "code": "BcznW9jydXt2mN7T",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "麥塊啟動器@伊弗利特",
+      "Yuki醬@利維坦",
+      "Mog@鳳凰",
+      "醉仙月月@利維坦",
+      "Niness@迦樓羅",
+      "毛毛力大王@奧汀",
+      "法國我@奧汀",
+      "阿爾博德之門@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1138571,
+    "clear_dt_ms": 1788362532448,
+    "jobs": {
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "Yuki醬@利維坦": "Viper",
+      "Mog@鳳凰": "WhiteMage",
+      "醉仙月月@利維坦": "Paladin",
+      "Niness@迦樓羅": "DarkKnight",
+      "毛毛力大王@奧汀": "Dancer",
+      "法國我@奧汀": "Dragoon",
+      "阿爾博德之門@利維坦": "Sage"
+    }
   }
 ]
