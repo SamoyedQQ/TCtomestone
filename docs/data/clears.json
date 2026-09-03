@@ -93240,5 +93240,61 @@
       "八奈見杏菜o@利維坦": "Monk",
       "歐洲丷小綾玥@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "Wpy8DZ71h23xqawP",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "墨青@鳳凰",
+      "Bea碧@巴哈姆特",
+      "藍職龍奇@伊弗利特",
+      "伊醉月@鳳凰",
+      "Tkc洽@巴哈姆特",
+      "拉爾@巴哈姆特",
+      "抹布@鳳凰",
+      "Amalos@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1125034,
+    "clear_dt_ms": 1783962589950,
+    "jobs": {
+      "墨青@鳳凰": "Pictomancer",
+      "Bea碧@巴哈姆特": "Scholar",
+      "藍職龍奇@伊弗利特": "Dragoon",
+      "伊醉月@鳳凰": "WhiteMage",
+      "Tkc洽@巴哈姆特": "Bard",
+      "拉爾@巴哈姆特": "Gunbreaker",
+      "抹布@鳳凰": "DarkKnight",
+      "Amalos@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "PbpgkcvDGXtHLfMB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "咕噠咕噠@巴哈姆特",
+      "諾亞氣泡水@泰坦",
+      "Nekols@奧汀",
+      "如月@鳳凰",
+      "洽瓜@奧汀",
+      "Yze@伊弗利特",
+      "Samlo@迦樓羅",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 959196,
+    "clear_dt_ms": 1788196674480,
+    "jobs": {
+      "咕噠咕噠@巴哈姆特": "BlackMage",
+      "諾亞氣泡水@泰坦": "Samurai",
+      "Nekols@奧汀": "Paladin",
+      "如月@鳳凰": "Astrologian",
+      "洽瓜@奧汀": "Warrior",
+      "Yze@伊弗利特": "Sage",
+      "Samlo@迦樓羅": "Ninja",
+      "三角初音@伊弗利特": "Bard"
+    }
   }
 ]
