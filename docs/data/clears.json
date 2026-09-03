@@ -93688,5 +93688,61 @@
       "灛@奧汀": "DarkKnight",
       "Kaizer@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "FgGMKvxVkmzbyhWT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "杏仁豆腐@奧汀",
+      "Souru@利維坦",
+      "燉牛肉超好吃@奧汀",
+      "Shano@泰坦",
+      "香草天空@迦樓羅",
+      "小夢幻@奧汀",
+      "侑介@迦樓羅",
+      "欸紗@巴哈姆特"
+    ],
+    "fight_id": 28,
+    "duration_ms": 1120335,
+    "clear_dt_ms": 1788454708711,
+    "jobs": {
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "Souru@利維坦": "Reaper",
+      "燉牛肉超好吃@奧汀": "Dragoon",
+      "Shano@泰坦": "Paladin",
+      "香草天空@迦樓羅": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "侑介@迦樓羅": "Dancer",
+      "欸紗@巴哈姆特": "Pictomancer"
+    }
+  },
+  {
+    "code": "jmdgwv7bH6c1NrKF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Gsp@迦樓羅",
+      "鬼影月雪@迦樓羅",
+      "Sheep@迦樓羅",
+      "焦糖舒芙蕾@迦樓羅",
+      "Siore@迦樓羅",
+      "有意義大利@迦樓羅",
+      "桃沢@迦樓羅",
+      "櫻櫻乂@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 944705,
+    "clear_dt_ms": 1788457676053,
+    "jobs": {
+      "Gsp@迦樓羅": "Warrior",
+      "鬼影月雪@迦樓羅": "DarkKnight",
+      "Sheep@迦樓羅": "Ninja",
+      "焦糖舒芙蕾@迦樓羅": "WhiteMage",
+      "Siore@迦樓羅": "Summoner",
+      "有意義大利@迦樓羅": "BlackMage",
+      "桃沢@迦樓羅": "Dancer",
+      "櫻櫻乂@迦樓羅": "Sage"
+    }
   }
 ]
