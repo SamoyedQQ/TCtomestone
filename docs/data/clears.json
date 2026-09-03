@@ -93296,5 +93296,61 @@
       "Samlo@迦樓羅": "Ninja",
       "三角初音@伊弗利特": "Bard"
     }
+  },
+  {
+    "code": "zZfR3kgtGKYPTqB9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小冰@奧汀",
+      "艾爾矮兒@迦樓羅",
+      "Kupo@泰坦",
+      "Whitew@迦樓羅",
+      "聖月@利維坦",
+      "小紅葉@泰坦",
+      "火仔@奧汀",
+      "時旐@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1120945,
+    "clear_dt_ms": 1788009998579,
+    "jobs": {
+      "小冰@奧汀": "Paladin",
+      "艾爾矮兒@迦樓羅": "Scholar",
+      "Kupo@泰坦": "BlackMage",
+      "Whitew@迦樓羅": "Samurai",
+      "聖月@利維坦": "Dancer",
+      "小紅葉@泰坦": "WhiteMage",
+      "火仔@奧汀": "DarkKnight",
+      "時旐@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "zZfR3kgtGKYPTqB9",
+    "title": "Futures Rewritten",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Elymu@利維坦",
+      "風城煙雨@奧汀",
+      "毛哈魯@迦樓羅",
+      "Shoo@奧汀",
+      "Yalei@迦樓羅",
+      "Kupo@泰坦",
+      "時旐@利維坦",
+      "茉漓@奧汀"
+    ],
+    "fight_id": 119,
+    "duration_ms": 831834,
+    "clear_dt_ms": 1788354892576,
+    "jobs": {
+      "Elymu@利維坦": "Dragoon",
+      "風城煙雨@奧汀": "Summoner",
+      "毛哈魯@迦樓羅": "WhiteMage",
+      "Shoo@奧汀": "Warrior",
+      "Yalei@迦樓羅": "Scholar",
+      "Kupo@泰坦": "Paladin",
+      "時旐@利維坦": "Monk",
+      "茉漓@奧汀": "Dancer"
+    }
   }
 ]
