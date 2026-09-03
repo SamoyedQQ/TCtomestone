@@ -93744,5 +93744,117 @@
       "桃沢@迦樓羅": "Dancer",
       "櫻櫻乂@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "79m6dYKX1zWVwgcr",
+    "title": "ULTIMA KNIGHT",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "影紗星蕾@迦樓羅",
+      "波奇鼠@伊弗利特",
+      "東京泥子@利維坦",
+      "雪莉的放大鏡@巴哈姆特",
+      "寒鐵德魯伊@利維坦",
+      "草peko虐@利維坦",
+      "依存@伊弗利特",
+      "二階堂希蘿@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 849349,
+    "clear_dt_ms": 1788462189060,
+    "jobs": {
+      "影紗星蕾@迦樓羅": "Pictomancer",
+      "波奇鼠@伊弗利特": "Dragoon",
+      "東京泥子@利維坦": "Warrior",
+      "雪莉的放大鏡@巴哈姆特": "Summoner",
+      "寒鐵德魯伊@利維坦": "Scholar",
+      "草peko虐@利維坦": "Dancer",
+      "依存@伊弗利特": "WhiteMage",
+      "二階堂希蘿@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "Vh2r1nbzNYTGqWkC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "繪灵@奧汀",
+      "Tiny石頭@泰坦",
+      "美堂蠻@奧汀",
+      "一個劍術師@泰坦",
+      "黑魔king@泰坦",
+      "守護型小豆丁@泰坦",
+      "小小飯桶@泰坦",
+      "人和@泰坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1123934,
+    "clear_dt_ms": 1788456336079,
+    "jobs": {
+      "繪灵@奧汀": "Astrologian",
+      "Tiny石頭@泰坦": "Monk",
+      "美堂蠻@奧汀": "Dragoon",
+      "一個劍術師@泰坦": "Paladin",
+      "黑魔king@泰坦": "BlackMage",
+      "守護型小豆丁@泰坦": "DarkKnight",
+      "小小飯桶@泰坦": "Scholar",
+      "人和@泰坦": "Machinist"
+    }
+  },
+  {
+    "code": "rRkgfBHh3qWVtxQ2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "星楓作浪@迦樓羅",
+      "巧克力熱果凍@迦樓羅",
+      "Mr刺蝟@迦樓羅",
+      "迷你艾@迦樓羅",
+      "赤雪豹@鳳凰",
+      "紅魚@泰坦",
+      "Benny@利維坦",
+      "犬圈圈@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1076097,
+    "clear_dt_ms": 1788448154531,
+    "jobs": {
+      "星楓作浪@迦樓羅": "Paladin",
+      "巧克力熱果凍@迦樓羅": "Summoner",
+      "Mr刺蝟@迦樓羅": "Ninja",
+      "迷你艾@迦樓羅": "WhiteMage",
+      "赤雪豹@鳳凰": "Scholar",
+      "紅魚@泰坦": "Machinist",
+      "Benny@利維坦": "Sage",
+      "犬圈圈@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "rRkgfBHh3qWVtxQ2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Mr刺蝟@迦樓羅",
+      "星楓作浪@迦樓羅",
+      "巧克力熱果凍@迦樓羅",
+      "迷你艾@迦樓羅",
+      "赤雪豹@鳳凰",
+      "紅魚@泰坦",
+      "Benny@利維坦",
+      "犬圈圈@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1016492,
+    "clear_dt_ms": 1788450134988,
+    "jobs": {
+      "Mr刺蝟@迦樓羅": "Monk",
+      "星楓作浪@迦樓羅": "Paladin",
+      "巧克力熱果凍@迦樓羅": "Summoner",
+      "迷你艾@迦樓羅": "WhiteMage",
+      "赤雪豹@鳳凰": "Scholar",
+      "紅魚@泰坦": "Machinist",
+      "Benny@利維坦": "Sage",
+      "犬圈圈@伊弗利特": "Warrior"
+    }
   }
 ]
