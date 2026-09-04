@@ -93856,5 +93856,89 @@
       "Benny@利維坦": "Sage",
       "犬圈圈@伊弗利特": "Warrior"
     }
+  },
+  {
+    "code": "h2gBA3fRNLmQ8pck",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Rikki@巴哈姆特",
+      "倉掛可拉拉@迦樓羅",
+      "阿木木木木木@迦樓羅",
+      "Asoier@伊弗利特",
+      "八奈見杏菜o@利維坦",
+      "晴陽@伊弗利特",
+      "歐洲丷小綾玥@伊弗利特",
+      "血光泠@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1120152,
+    "clear_dt_ms": 1788443071704,
+    "jobs": {
+      "Rikki@巴哈姆特": "DarkKnight",
+      "倉掛可拉拉@迦樓羅": "Pictomancer",
+      "阿木木木木木@迦樓羅": "WhiteMage",
+      "Asoier@伊弗利特": "Dancer",
+      "八奈見杏菜o@利維坦": "Monk",
+      "晴陽@伊弗利特": "Scholar",
+      "歐洲丷小綾玥@伊弗利特": "Paladin",
+      "血光泠@利維坦": "Ninja"
+    }
+  },
+  {
+    "code": "h2gBA3fRNLmQ8pck",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Rikki@巴哈姆特",
+      "倉掛可拉拉@迦樓羅",
+      "阿木木木木木@迦樓羅",
+      "Asoier@伊弗利特",
+      "八奈見杏菜o@利維坦",
+      "晴陽@伊弗利特",
+      "歐洲丷小綾玥@伊弗利特",
+      "血光泠@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1121310,
+    "clear_dt_ms": 1788447601898,
+    "jobs": {
+      "Rikki@巴哈姆特": "DarkKnight",
+      "倉掛可拉拉@迦樓羅": "Pictomancer",
+      "阿木木木木木@迦樓羅": "WhiteMage",
+      "Asoier@伊弗利特": "Dancer",
+      "八奈見杏菜o@利維坦": "Monk",
+      "晴陽@伊弗利特": "Scholar",
+      "歐洲丷小綾玥@伊弗利特": "Paladin",
+      "血光泠@利維坦": "Ninja"
+    }
+  },
+  {
+    "code": "h2gBA3fRNLmQ8pck",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Rikki@巴哈姆特",
+      "倉掛可拉拉@迦樓羅",
+      "阿木木木木木@迦樓羅",
+      "Asoier@伊弗利特",
+      "八奈見杏菜o@利維坦",
+      "晴陽@伊弗利特",
+      "歐洲丷小綾玥@伊弗利特",
+      "血光泠@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1118225,
+    "clear_dt_ms": 1788449716244,
+    "jobs": {
+      "Rikki@巴哈姆特": "DarkKnight",
+      "倉掛可拉拉@迦樓羅": "Pictomancer",
+      "阿木木木木木@迦樓羅": "WhiteMage",
+      "Asoier@伊弗利特": "Dancer",
+      "八奈見杏菜o@利維坦": "Monk",
+      "晴陽@伊弗利特": "Scholar",
+      "歐洲丷小綾玥@伊弗利特": "Paladin",
+      "血光泠@利維坦": "Ninja"
+    }
   }
 ]
