@@ -94164,5 +94164,89 @@
       "考韓吉@迦樓羅": "Summoner",
       "秋形蟲@利維坦": "Monk"
     }
+  },
+  {
+    "code": "rwMQDNCRW64PT3kg",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "柒伍@迦樓羅",
+      "米大斯@迦樓羅",
+      "轉圈圈@迦樓羅",
+      "貓糰子@伊弗利特",
+      "Cygnus@奧汀",
+      "伊娜莉·尼亞@伊弗利特",
+      "環@伊弗利特",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1129944,
+    "clear_dt_ms": 1788530521557,
+    "jobs": {
+      "柒伍@迦樓羅": "Dragoon",
+      "米大斯@迦樓羅": "Samurai",
+      "轉圈圈@迦樓羅": "Scholar",
+      "貓糰子@伊弗利特": "BlackMage",
+      "Cygnus@奧汀": "Warrior",
+      "伊娜莉·尼亞@伊弗利特": "WhiteMage",
+      "環@伊弗利特": "Dancer",
+      "薇薇布@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "rwMQDNCRW64PT3kg",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "梅普露@泰坦",
+      "聖月@利維坦",
+      "米大斯@迦樓羅",
+      "轉圈圈@迦樓羅",
+      "Cygnus@奧汀",
+      "薇薇布@迦樓羅",
+      "瀰@巴哈姆特",
+      "不要吵@利維坦"
+    ],
+    "fight_id": 25,
+    "duration_ms": 1120826,
+    "clear_dt_ms": 1788547755382,
+    "jobs": {
+      "梅普露@泰坦": "Pictomancer",
+      "聖月@利維坦": "Dancer",
+      "米大斯@迦樓羅": "Samurai",
+      "轉圈圈@迦樓羅": "Scholar",
+      "Cygnus@奧汀": "Warrior",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "瀰@巴哈姆特": "Astrologian",
+      "不要吵@利維坦": "Dragoon"
+    }
+  },
+  {
+    "code": "Q1VNnTWbjxaAD6Zz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "凍凍@利維坦",
+      "勾燈費雪@利維坦",
+      "Mogg@伊弗利特",
+      "玄祭@利維坦",
+      "小who豬@鳳凰",
+      "Second@鳳凰",
+      "寒鐵德魯伊@利維坦",
+      "影紗星蕾@迦樓羅"
+    ],
+    "fight_id": 19,
+    "duration_ms": 853970,
+    "clear_dt_ms": 1788547787698,
+    "jobs": {
+      "凍凍@利維坦": "Ninja",
+      "勾燈費雪@利維坦": "Dancer",
+      "Mogg@伊弗利特": "Gunbreaker",
+      "玄祭@利維坦": "WhiteMage",
+      "小who豬@鳳凰": "RedMage",
+      "Second@鳳凰": "DarkKnight",
+      "寒鐵德魯伊@利維坦": "Scholar",
+      "影紗星蕾@迦樓羅": "Pictomancer"
+    }
   }
 ]
