@@ -94360,5 +94360,33 @@
       "粉冬@奧汀": "Samurai",
       "Yooyu@迦樓羅": "WhiteMage"
     }
+  },
+  {
+    "code": "KkCDwqrNdb9GtfZT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "櫻宿花@迦樓羅",
+      "梅友仁@迦樓羅",
+      "Ra逼逼it@迦樓羅",
+      "黑巧尼可可@迦樓羅",
+      "歐秘瑪什@迦樓羅",
+      "希望村村長@迦樓羅",
+      "芋仔冰@迦樓羅",
+      "凡塔希雅@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 883119,
+    "clear_dt_ms": 1788534051673,
+    "jobs": {
+      "櫻宿花@迦樓羅": "Viper",
+      "梅友仁@迦樓羅": "Samurai",
+      "Ra逼逼it@迦樓羅": "DarkKnight",
+      "黑巧尼可可@迦樓羅": "RedMage",
+      "歐秘瑪什@迦樓羅": "Dancer",
+      "希望村村長@迦樓羅": "Scholar",
+      "芋仔冰@迦樓羅": "Paladin",
+      "凡塔希雅@迦樓羅": "WhiteMage"
+    }
   }
 ]
