@@ -94388,5 +94388,61 @@
       "芋仔冰@迦樓羅": "Paladin",
       "凡塔希雅@迦樓羅": "WhiteMage"
     }
+  },
+  {
+    "code": "7wJhkZRDBPdpybt8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "小八軟糖@奧汀",
+      "悅子@鳳凰",
+      "阿落@伊弗利特",
+      "魚丸探長@鳳凰",
+      "姜小咪@利維坦",
+      "逆轉壽司@迦樓羅",
+      "雅修特拉@奧汀",
+      "豐川家貓@迦樓羅"
+    ],
+    "fight_id": 153,
+    "duration_ms": 876758,
+    "clear_dt_ms": 1788611147300,
+    "jobs": {
+      "小八軟糖@奧汀": "Astrologian",
+      "悅子@鳳凰": "Sage",
+      "阿落@伊弗利特": "Paladin",
+      "魚丸探長@鳳凰": "RedMage",
+      "姜小咪@利維坦": "Ninja",
+      "逆轉壽司@迦樓羅": "Warrior",
+      "雅修特拉@奧汀": "Bard",
+      "豐川家貓@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "pmfgGyj6vVk9MJLT",
+    "title": "9-4絕亞",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "豐川家貓@迦樓羅",
+      "師匠的狗@奧汀",
+      "幻影楓情@泰坦",
+      "天然玉米@奧汀",
+      "朴莉莉的狗@鳳凰",
+      "Yuya@伊弗利特",
+      "抹茶霜淇淋@伊弗利特",
+      "來杯半糖紅@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 970899,
+    "clear_dt_ms": 1788535731569,
+    "jobs": {
+      "豐川家貓@迦樓羅": "Dragoon",
+      "師匠的狗@奧汀": "Dancer",
+      "幻影楓情@泰坦": "BlackMage",
+      "天然玉米@奧汀": "DarkKnight",
+      "朴莉莉的狗@鳳凰": "Samurai",
+      "Yuya@伊弗利特": "Astrologian",
+      "抹茶霜淇淋@伊弗利特": "Paladin",
+      "來杯半糖紅@奧汀": "Sage"
+    }
   }
 ]
