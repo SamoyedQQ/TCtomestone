@@ -343888,5 +343888,41 @@
     "timestamp_ms": 1788534051673,
     "duration_ms": 883119,
     "phase_reached": 0
+  },
+  "艾薇@利維坦:1079:_wipe": {
+    "name": "艾薇",
+    "server": "利維坦",
+    "encounter_id": 1079,
+    "encounter": "Futures Rewritten",
+    "is_clear": false,
+    "boss_hp_pct": 86.3,
+    "rdps": 0.0,
+    "adps": 0.0,
+    "parse_pct": 0.0,
+    "job": "Astrologian",
+    "char_id": 1000004,
+    "report_code": "CkYzh3tRx1F2jMrd",
+    "fight_id": 22,
+    "timestamp_ms": 1788576440253,
+    "duration_ms": 0,
+    "phase_reached": 2
+  },
+  "茉沫@利維坦:1079:_wipe": {
+    "name": "茉沫",
+    "server": "利維坦",
+    "encounter_id": 1079,
+    "encounter": "Futures Rewritten",
+    "is_clear": false,
+    "boss_hp_pct": 86.3,
+    "rdps": 0.0,
+    "adps": 0.0,
+    "parse_pct": 0.0,
+    "job": "Dancer",
+    "char_id": 1000002,
+    "report_code": "CkYzh3tRx1F2jMrd",
+    "fight_id": 22,
+    "timestamp_ms": 1788576440253,
+    "duration_ms": 0,
+    "phase_reached": 2
   }
 }
