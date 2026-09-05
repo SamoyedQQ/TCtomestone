@@ -94248,5 +94248,117 @@
       "寒鐵德魯伊@利維坦": "Scholar",
       "影紗星蕾@迦樓羅": "Pictomancer"
     }
+  },
+  {
+    "code": "vBN3p6xnRPwFjfM8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Sophia@利維坦",
+      "珞亞@利維坦",
+      "Neil@利維坦",
+      "突擊兔邦妮@利維坦",
+      "一包黑芝麻@利維坦",
+      "狄暄@利維坦",
+      "楓紅@利維坦",
+      "瑪茜醬@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 978368,
+    "clear_dt_ms": 1788364508722,
+    "jobs": {
+      "Sophia@利維坦": "Astrologian",
+      "珞亞@利維坦": "Scholar",
+      "Neil@利維坦": "DarkKnight",
+      "突擊兔邦妮@利維坦": "Dragoon",
+      "一包黑芝麻@利維坦": "Gunbreaker",
+      "狄暄@利維坦": "Bard",
+      "楓紅@利維坦": "Samurai",
+      "瑪茜醬@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "hmKPzWNQyrv678Zg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "拉梱@鳳凰",
+      "枚友鹿@迦樓羅",
+      "晚安詩@迦樓羅",
+      "夏穗@迦樓羅",
+      "皮咖@鳳凰",
+      "天宮凜@鳳凰",
+      "鹽池丶@鳳凰",
+      "柚木@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1071186,
+    "clear_dt_ms": 1788444914739,
+    "jobs": {
+      "拉梱@鳳凰": "RedMage",
+      "枚友鹿@迦樓羅": "Gunbreaker",
+      "晚安詩@迦樓羅": "DarkKnight",
+      "夏穗@迦樓羅": "Astrologian",
+      "皮咖@鳳凰": "Ninja",
+      "天宮凜@鳳凰": "Sage",
+      "鹽池丶@鳳凰": "Summoner",
+      "柚木@鳳凰": "Dancer"
+    }
+  },
+  {
+    "code": "hmKPzWNQyrv678Zg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "拉梱@鳳凰",
+      "枚友鹿@迦樓羅",
+      "晚安詩@迦樓羅",
+      "夏穗@迦樓羅",
+      "皮咖@鳳凰",
+      "天宮凜@鳳凰",
+      "鹽池丶@鳳凰",
+      "柚木@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1067044,
+    "clear_dt_ms": 1788447014171,
+    "jobs": {
+      "拉梱@鳳凰": "RedMage",
+      "枚友鹿@迦樓羅": "Gunbreaker",
+      "晚安詩@迦樓羅": "DarkKnight",
+      "夏穗@迦樓羅": "Astrologian",
+      "皮咖@鳳凰": "Ninja",
+      "天宮凜@鳳凰": "Sage",
+      "鹽池丶@鳳凰": "Summoner",
+      "柚木@鳳凰": "Dancer"
+    }
+  },
+  {
+    "code": "yx431FmkWaNPpHcw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "不要吵@利維坦",
+      "夏夕夏景@伊弗利特",
+      "神秘夾克姐姐@迦樓羅",
+      "洽瓜@奧汀",
+      "爸爸@伊弗利特",
+      "Nekols@奧汀",
+      "粉冬@奧汀",
+      "Yooyu@迦樓羅"
+    ],
+    "fight_id": 126,
+    "duration_ms": 934003,
+    "clear_dt_ms": 1788545265768,
+    "jobs": {
+      "不要吵@利維坦": "Machinist",
+      "夏夕夏景@伊弗利特": "Sage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "洽瓜@奧汀": "Warrior",
+      "爸爸@伊弗利特": "Monk",
+      "Nekols@奧汀": "Paladin",
+      "粉冬@奧汀": "Samurai",
+      "Yooyu@迦樓羅": "WhiteMage"
+    }
   }
 ]
