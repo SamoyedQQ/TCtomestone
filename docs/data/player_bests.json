@@ -340710,15 +340710,15 @@
     "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
     "is_clear": true,
     "boss_hp_pct": 0.0,
-    "rdps": 17405.953988659432,
-    "adps": 19080.319138691455,
+    "rdps": 17680.165986963373,
+    "adps": 19126.95812660347,
     "parse_pct": 0.0,
     "job": "Paladin",
-    "char_id": 1000111,
-    "report_code": "RpNrPqZXanJ78tzC",
-    "fight_id": 8,
-    "timestamp_ms": 1788362660176,
-    "duration_ms": 1118263,
+    "char_id": 1000009,
+    "report_code": "wJhtB293jWdfGPpc",
+    "fight_id": 1,
+    "timestamp_ms": 1788663478559,
+    "duration_ms": 1130884,
     "phase_reached": 0
   },
   "R兔@伊弗利特:1079:Sage": {
@@ -345022,5 +345022,23 @@
     "timestamp_ms": 1788631194650,
     "duration_ms": 0,
     "phase_reached": 2
+  },
+  "Heroin@利維坦:1079:Scholar": {
+    "name": "Heroin",
+    "server": "利維坦",
+    "encounter_id": 1079,
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 13828.233845151997,
+    "adps": 12071.198888848054,
+    "parse_pct": 0.0,
+    "job": "Scholar",
+    "char_id": 1000007,
+    "report_code": "wJhtB293jWdfGPpc",
+    "fight_id": 1,
+    "timestamp_ms": 1788663478559,
+    "duration_ms": 1130884,
+    "phase_reached": 0
   }
 }
