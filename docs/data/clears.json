@@ -95312,5 +95312,33 @@
       "薏仁@迦樓羅": "Warrior",
       "Chima@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "ad4cPthKTYCG92Xx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "梅赫拉克@鳳凰",
+      "地震來也不跑@泰坦",
+      "糖醋鱈魚子@利維坦",
+      "白丹丹@鳳凰",
+      "白雪公主@利維坦",
+      "輝映天閃@巴哈姆特",
+      "納村@利維坦",
+      "妃咲@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 984364,
+    "clear_dt_ms": 1788704858118,
+    "jobs": {
+      "梅赫拉克@鳳凰": "Scholar",
+      "地震來也不跑@泰坦": "BlackMage",
+      "糖醋鱈魚子@利維坦": "Dancer",
+      "白丹丹@鳳凰": "Dragoon",
+      "白雪公主@利維坦": "Paladin",
+      "輝映天閃@巴哈姆特": "WhiteMage",
+      "納村@利維坦": "Pictomancer",
+      "妃咲@利維坦": "Warrior"
+    }
   }
 ]
