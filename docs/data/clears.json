@@ -94836,5 +94836,33 @@
       "老樂@奧汀": "Monk",
       "Yalei@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "wJhtB293jWdfGPpc",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "白色@奧汀",
+      "角卷綿芽@伊弗利特",
+      "真是呆@伊弗利特",
+      "Heroin@利維坦",
+      "是瑞奇阿@迦樓羅",
+      "Ryou@利維坦",
+      "Lunsix@泰坦",
+      "灛@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1130884,
+    "clear_dt_ms": 1788663478559,
+    "jobs": {
+      "白色@奧汀": "Dancer",
+      "角卷綿芽@伊弗利特": "Paladin",
+      "真是呆@伊弗利特": "Pictomancer",
+      "Heroin@利維坦": "Scholar",
+      "是瑞奇阿@迦樓羅": "Samurai",
+      "Ryou@利維坦": "Astrologian",
+      "Lunsix@泰坦": "DarkKnight",
+      "灛@奧汀": "Reaper"
+    }
   }
 ]
