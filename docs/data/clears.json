@@ -94948,5 +94948,145 @@
       "瑪茜醬@利維坦": "Dragoon",
       "Enidnu@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "BzhZXW21x7mHp8qn",
+    "title": "?",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "薇薇布@迦樓羅",
+      "Aqrsky@伊弗利特",
+      "那個地精盜賊@泰坦",
+      "轉圈圈@迦樓羅",
+      "小夢幻@奧汀",
+      "Maple@伊弗利特",
+      "莉可@鳳凰",
+      "速度人終結者@鳳凰"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1122710,
+    "clear_dt_ms": 1788700871287,
+    "jobs": {
+      "薇薇布@迦樓羅": "DarkKnight",
+      "Aqrsky@伊弗利特": "Dancer",
+      "那個地精盜賊@泰坦": "Viper",
+      "轉圈圈@迦樓羅": "WhiteMage",
+      "小夢幻@奧汀": "Sage",
+      "Maple@伊弗利特": "Monk",
+      "莉可@鳳凰": "Paladin",
+      "速度人終結者@鳳凰": "Pictomancer"
+    }
+  },
+  {
+    "code": "CWzGf6xX4pr1THqh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "陽光彩虹白駒@迦樓羅",
+      "塔塔落@利維坦",
+      "喵喵醬@奧汀",
+      "Benny@利維坦",
+      "慎真@利維坦",
+      "阿加德@泰坦",
+      "黑魔@奧汀",
+      "卡在原地不動@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1079478,
+    "clear_dt_ms": 1788696352732,
+    "jobs": {
+      "陽光彩虹白駒@迦樓羅": "Machinist",
+      "塔塔落@利維坦": "Scholar",
+      "喵喵醬@奧汀": "DarkKnight",
+      "Benny@利維坦": "Monk",
+      "慎真@利維坦": "Warrior",
+      "阿加德@泰坦": "Astrologian",
+      "黑魔@奧汀": "BlackMage",
+      "卡在原地不動@鳳凰": "Pictomancer"
+    }
+  },
+  {
+    "code": "TG4JdFYKn8NBMbk7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蒔緋@鳳凰",
+      "希姆咻@利維坦",
+      "Yakubb@巴哈姆特",
+      "花繁似錦@鳳凰",
+      "冥淵殞落之王@伊弗利特",
+      "日暉曜@鳳凰",
+      "如夢似幻@鳳凰",
+      "Jjyaw@鳳凰"
+    ],
+    "fight_id": 1,
+    "duration_ms": 978033,
+    "clear_dt_ms": 1788701921045,
+    "jobs": {
+      "蒔緋@鳳凰": "WhiteMage",
+      "希姆咻@利維坦": "Dragoon",
+      "Yakubb@巴哈姆特": "BlackMage",
+      "花繁似錦@鳳凰": "Dancer",
+      "冥淵殞落之王@伊弗利特": "DarkKnight",
+      "日暉曜@鳳凰": "Samurai",
+      "如夢似幻@鳳凰": "Scholar",
+      "Jjyaw@鳳凰": "Warrior"
+    }
+  },
+  {
+    "code": "NDFwLkyXcYn1vK2x",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Tiny石頭@泰坦",
+      "一個劍術師@泰坦",
+      "達妮婭@奧汀",
+      "咿呀哈@泰坦",
+      "小小飯桶@泰坦",
+      "極速型小豆丁@泰坦",
+      "守護型小豆丁@泰坦",
+      "超大型mm噢@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1002481,
+    "clear_dt_ms": 1788698225370,
+    "jobs": {
+      "Tiny石頭@泰坦": "Summoner",
+      "一個劍術師@泰坦": "Paladin",
+      "達妮婭@奧汀": "WhiteMage",
+      "咿呀哈@泰坦": "Viper",
+      "小小飯桶@泰坦": "Scholar",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "守護型小豆丁@泰坦": "Warrior",
+      "超大型mm噢@伊弗利特": "Bard"
+    }
+  },
+  {
+    "code": "NDFwLkyXcYn1vK2x",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Tiny石頭@泰坦",
+      "一個劍術師@泰坦",
+      "達妮婭@奧汀",
+      "咿呀哈@泰坦",
+      "小小飯桶@泰坦",
+      "極速型小豆丁@泰坦",
+      "守護型小豆丁@泰坦",
+      "超大型mm噢@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 996495,
+    "clear_dt_ms": 1788699677915,
+    "jobs": {
+      "Tiny石頭@泰坦": "Summoner",
+      "一個劍術師@泰坦": "Paladin",
+      "達妮婭@奧汀": "WhiteMage",
+      "咿呀哈@泰坦": "Viper",
+      "小小飯桶@泰坦": "Scholar",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "守護型小豆丁@泰坦": "Warrior",
+      "超大型mm噢@伊弗利特": "Bard"
+    }
   }
 ]
