@@ -94892,5 +94892,61 @@
       "小who豬@鳳凰": "RedMage",
       "灛@奧汀": "Paladin"
     }
+  },
+  {
+    "code": "tcPY6FrZ3jBNhqnX",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "艾爾輕雨@奧汀",
+      "Uzn@巴哈姆特",
+      "今晚打老虎@迦樓羅",
+      "滿天焰星@鳳凰",
+      "Mokino@迦樓羅",
+      "Imluda@泰坦",
+      "At@泰坦",
+      "拉碧斯拉祖利@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 974676,
+    "clear_dt_ms": 1788692961633,
+    "jobs": {
+      "艾爾輕雨@奧汀": "Sage",
+      "Uzn@巴哈姆特": "Dancer",
+      "今晚打老虎@迦樓羅": "Paladin",
+      "滿天焰星@鳳凰": "BlackMage",
+      "Mokino@迦樓羅": "Dragoon",
+      "Imluda@泰坦": "DarkKnight",
+      "At@泰坦": "Samurai",
+      "拉碧斯拉祖利@泰坦": "Astrologian"
+    }
+  },
+  {
+    "code": "dz4BaHRchq9DbVnZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "藍白@迦樓羅",
+      "Nanotw@迦樓羅",
+      "櫻月綾@迦樓羅",
+      "群青日和@泰坦",
+      "神秘夾克姐姐@迦樓羅",
+      "影紗星蕾@迦樓羅",
+      "瑪茜醬@利維坦",
+      "Enidnu@奧汀"
+    ],
+    "fight_id": 17,
+    "duration_ms": 992109,
+    "clear_dt_ms": 1788691843022,
+    "jobs": {
+      "藍白@迦樓羅": "Summoner",
+      "Nanotw@迦樓羅": "Monk",
+      "櫻月綾@迦樓羅": "Warrior",
+      "群青日和@泰坦": "Paladin",
+      "神秘夾克姐姐@迦樓羅": "Machinist",
+      "影紗星蕾@迦樓羅": "Sage",
+      "瑪茜醬@利維坦": "Dragoon",
+      "Enidnu@奧汀": "Astrologian"
+    }
   }
 ]
