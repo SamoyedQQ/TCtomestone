@@ -94864,5 +94864,33 @@
       "Lunsix@泰坦": "DarkKnight",
       "灛@奧汀": "Reaper"
     }
+  },
+  {
+    "code": "tWXhTm7xb2N9fKrG",
+    "title": "Futures Rewritten",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "波奇鼠@伊弗利特",
+      "依存@伊弗利特",
+      "海倫先弄濕@巴哈姆特",
+      "希望村村長@迦樓羅",
+      "鼓舞激勵之策@奧汀",
+      "勾燈費雪@利維坦",
+      "小who豬@鳳凰",
+      "灛@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 872364,
+    "clear_dt_ms": 1788679248438,
+    "jobs": {
+      "波奇鼠@伊弗利特": "Dragoon",
+      "依存@伊弗利特": "WhiteMage",
+      "海倫先弄濕@巴哈姆特": "Monk",
+      "希望村村長@迦樓羅": "Scholar",
+      "鼓舞激勵之策@奧汀": "Warrior",
+      "勾燈費雪@利維坦": "Dancer",
+      "小who豬@鳳凰": "RedMage",
+      "灛@奧汀": "Paladin"
+    }
   }
 ]
