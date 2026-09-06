@@ -95340,5 +95340,61 @@
       "納村@利維坦": "Pictomancer",
       "妃咲@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "fGa4HcgAJkqmBDjd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "鼓舞激勵之策@奧汀",
+      "放槍小精靈@奧汀",
+      "梧刻@迦樓羅",
+      "是ben喲@迦樓羅",
+      "艾瑟爾@伊弗利特",
+      "帥氣的煊@奧汀",
+      "席露薇恩@伊弗利特",
+      "隼@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 872328,
+    "clear_dt_ms": 1788706061953,
+    "jobs": {
+      "鼓舞激勵之策@奧汀": "Sage",
+      "放槍小精靈@奧汀": "BlackMage",
+      "梧刻@迦樓羅": "DarkKnight",
+      "是ben喲@迦樓羅": "Monk",
+      "艾瑟爾@伊弗利特": "Machinist",
+      "帥氣的煊@奧汀": "WhiteMage",
+      "席露薇恩@伊弗利特": "Warrior",
+      "隼@巴哈姆特": "Summoner"
+    }
+  },
+  {
+    "code": "cqbQ9d6k42xn3Frj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "爸爸@伊弗利特",
+      "柳如烟@伊弗利特",
+      "神秘夾克姐姐@迦樓羅",
+      "橋本懷奈@伊弗利特",
+      "洽瓜@奧汀",
+      "我的褲子@巴哈姆特",
+      "結城希亞@伊弗利特",
+      "拉碧斯拉祖利@泰坦"
+    ],
+    "fight_id": 166,
+    "duration_ms": 950184,
+    "clear_dt_ms": 1788722614846,
+    "jobs": {
+      "爸爸@伊弗利特": "Monk",
+      "柳如烟@伊弗利特": "Sage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "橋本懷奈@伊弗利特": "Paladin",
+      "洽瓜@奧汀": "Warrior",
+      "我的褲子@巴哈姆特": "Ninja",
+      "結城希亞@伊弗利特": "Dancer",
+      "拉碧斯拉祖利@泰坦": "Astrologian"
+    }
   }
 ]
