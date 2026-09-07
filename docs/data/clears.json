@@ -95396,5 +95396,33 @@
       "結城希亞@伊弗利特": "Dancer",
       "拉碧斯拉祖利@泰坦": "Astrologian"
     }
+  },
+  {
+    "code": "dNx4aCT83JLQ9Yrv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "蕎麥鮮奶茶@伊弗利特",
+      "穗宮園紫香@鳳凰",
+      "白宣@泰坦",
+      "西·特莉格@鳳凰",
+      "八奈見杏菜@迦樓羅",
+      "阿熏@泰坦",
+      "Ptcat@利維坦",
+      "Kennyt@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1119800,
+    "clear_dt_ms": 1788745425097,
+    "jobs": {
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "穗宮園紫香@鳳凰": "Samurai",
+      "白宣@泰坦": "DarkKnight",
+      "西·特莉格@鳳凰": "Dancer",
+      "八奈見杏菜@迦樓羅": "BlackMage",
+      "阿熏@泰坦": "Astrologian",
+      "Ptcat@利維坦": "Warrior",
+      "Kennyt@巴哈姆特": "Monk"
+    }
   }
 ]
