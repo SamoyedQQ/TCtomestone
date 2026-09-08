@@ -95844,5 +95844,33 @@
       "Rc@鳳凰": "Dancer",
       "Lzzz@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "KD9dj4V6HBAgpcQr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "東京泥子@利維坦",
+      "勾燈費雪@利維坦",
+      "焦糖胡麻布蕾@利維坦",
+      "寒鐵德魯伊@利維坦",
+      "依存@伊弗利特",
+      "低優低優@利維坦",
+      "歐荳蔻@利維坦",
+      "秋形蟲@利維坦"
+    ],
+    "fight_id": 17,
+    "duration_ms": 880288,
+    "clear_dt_ms": 1788887756045,
+    "jobs": {
+      "東京泥子@利維坦": "Paladin",
+      "勾燈費雪@利維坦": "Dancer",
+      "焦糖胡麻布蕾@利維坦": "DarkKnight",
+      "寒鐵德魯伊@利維坦": "Scholar",
+      "依存@伊弗利特": "WhiteMage",
+      "低優低優@利維坦": "Dragoon",
+      "歐荳蔻@利維坦": "RedMage",
+      "秋形蟲@利維坦": "Summoner"
+    }
   }
 ]
