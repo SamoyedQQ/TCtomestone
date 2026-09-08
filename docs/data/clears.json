@@ -95620,5 +95620,145 @@
       "金娜莉稼輝歌@利維坦": "Summoner",
       "芙拉爾帕特@泰坦": "Monk"
     }
+  },
+  {
+    "code": "LqbFPwdN6kMYvnmC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夏目@鳳凰",
+      "葬花@迦樓羅",
+      "Arasxi@奧汀",
+      "雙魚阿嘉希@伊弗利特",
+      "Kupo@泰坦",
+      "老樂@奧汀",
+      "舞川奈富子@奧汀",
+      "卡丁醇@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 889383,
+    "clear_dt_ms": 1788788200334,
+    "jobs": {
+      "夏目@鳳凰": "DarkKnight",
+      "葬花@迦樓羅": "Dancer",
+      "Arasxi@奧汀": "Dragoon",
+      "雙魚阿嘉希@伊弗利特": "WhiteMage",
+      "Kupo@泰坦": "Scholar",
+      "老樂@奧汀": "Monk",
+      "舞川奈富子@奧汀": "Summoner",
+      "卡丁醇@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "J86YhXZjnCpTHy19",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "梧刻@迦樓羅",
+      "幻羽山雀@鳳凰",
+      "加拿大白鵝@巴哈姆特",
+      "九筒@鳳凰",
+      "凌凌蕪@利維坦",
+      "萬里l翼空l@巴哈姆特",
+      "金娜莉稼輝歌@利維坦",
+      "芙拉爾帕特@泰坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1052611,
+    "clear_dt_ms": 1788796644717,
+    "jobs": {
+      "梧刻@迦樓羅": "DarkKnight",
+      "幻羽山雀@鳳凰": "Sage",
+      "加拿大白鵝@巴哈姆特": "Dancer",
+      "九筒@鳳凰": "Scholar",
+      "凌凌蕪@利維坦": "Astrologian",
+      "萬里l翼空l@巴哈姆特": "Gunbreaker",
+      "金娜莉稼輝歌@利維坦": "Summoner",
+      "芙拉爾帕特@泰坦": "Monk"
+    }
+  },
+  {
+    "code": "31xZ72mW8gT9KAdv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "尼今天平凡嗎@迦樓羅",
+      "皮皮滷波皮滷@鳳凰",
+      "座敷童女@迦樓羅",
+      "里歐@迦樓羅",
+      "白之貓狐@迦樓羅",
+      "Mafdet@迦樓羅",
+      "尼修@迦樓羅",
+      "衛斯理@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 823567,
+    "clear_dt_ms": 1788784460955,
+    "jobs": {
+      "尼今天平凡嗎@迦樓羅": "Summoner",
+      "皮皮滷波皮滷@鳳凰": "Viper",
+      "座敷童女@迦樓羅": "Dancer",
+      "里歐@迦樓羅": "Monk",
+      "白之貓狐@迦樓羅": "Scholar",
+      "Mafdet@迦樓羅": "Gunbreaker",
+      "尼修@迦樓羅": "Sage",
+      "衛斯理@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "31xZ72mW8gT9KAdv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "尼今天平凡嗎@迦樓羅",
+      "皮皮滷波皮滷@鳳凰",
+      "座敷童女@迦樓羅",
+      "里歐@迦樓羅",
+      "白之貓狐@迦樓羅",
+      "Mafdet@迦樓羅",
+      "尼修@迦樓羅",
+      "衛斯理@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 831733,
+    "clear_dt_ms": 1788785472210,
+    "jobs": {
+      "尼今天平凡嗎@迦樓羅": "Summoner",
+      "皮皮滷波皮滷@鳳凰": "Viper",
+      "座敷童女@迦樓羅": "Dancer",
+      "里歐@迦樓羅": "Monk",
+      "白之貓狐@迦樓羅": "Scholar",
+      "Mafdet@迦樓羅": "Gunbreaker",
+      "尼修@迦樓羅": "Sage",
+      "衛斯理@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "31xZ72mW8gT9KAdv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "尼今天平凡嗎@迦樓羅",
+      "皮皮滷波皮滷@鳳凰",
+      "座敷童女@迦樓羅",
+      "里歐@迦樓羅",
+      "白之貓狐@迦樓羅",
+      "Mafdet@迦樓羅",
+      "尼修@迦樓羅",
+      "衛斯理@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 833052,
+    "clear_dt_ms": 1788788161490,
+    "jobs": {
+      "尼今天平凡嗎@迦樓羅": "Summoner",
+      "皮皮滷波皮滷@鳳凰": "Viper",
+      "座敷童女@迦樓羅": "Dancer",
+      "里歐@迦樓羅": "Monk",
+      "白之貓狐@迦樓羅": "Scholar",
+      "Mafdet@迦樓羅": "Gunbreaker",
+      "尼修@迦樓羅": "Sage",
+      "衛斯理@迦樓羅": "DarkKnight"
+    }
   }
 ]
