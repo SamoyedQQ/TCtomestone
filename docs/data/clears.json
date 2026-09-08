@@ -95760,5 +95760,89 @@
       "尼修@迦樓羅": "Sage",
       "衛斯理@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "J6THb1afFBnXVQAz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "血豆@利維坦",
+      "夜鳩@利維坦",
+      "Yii@奧汀",
+      "常命百睡@利維坦",
+      "忤翔@利維坦",
+      "Caesar@奧汀",
+      "Henry@伊弗利特",
+      "車倫秉@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 984125,
+    "clear_dt_ms": 1788879018084,
+    "jobs": {
+      "血豆@利維坦": "DarkKnight",
+      "夜鳩@利維坦": "Summoner",
+      "Yii@奧汀": "WhiteMage",
+      "常命百睡@利維坦": "Dancer",
+      "忤翔@利維坦": "Paladin",
+      "Caesar@奧汀": "Samurai",
+      "Henry@伊弗利特": "Dragoon",
+      "車倫秉@伊弗利特": "Sage"
+    }
+  },
+  {
+    "code": "kPTMvtDr23jhBXHq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Mii@奧汀",
+      "利貝里亞@利維坦",
+      "米歐娜希露@伊弗利特",
+      "Doro老貓@伊弗利特",
+      "灰特@伊弗利特",
+      "水無月空@伊弗利特",
+      "沙帝斯@利維坦",
+      "倉坂神樂@巴哈姆特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 970458,
+    "clear_dt_ms": 1788702431369,
+    "jobs": {
+      "Mii@奧汀": "Dancer",
+      "利貝里亞@利維坦": "Paladin",
+      "米歐娜希露@伊弗利特": "Warrior",
+      "Doro老貓@伊弗利特": "Samurai",
+      "灰特@伊弗利特": "BlackMage",
+      "水無月空@伊弗利特": "Sage",
+      "沙帝斯@利維坦": "Monk",
+      "倉坂神樂@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "mn2GKxrj4BzFPfT8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "紀辰@伊弗利特",
+      "Kuku掃@巴哈姆特",
+      "赤雲@伊弗利特",
+      "小魚子醬@鳳凰",
+      "Ciri@利維坦",
+      "尤吉歐@伊弗利特",
+      "Rc@鳳凰",
+      "Lzzz@迦樓羅"
+    ],
+    "fight_id": 32,
+    "duration_ms": 1124352,
+    "clear_dt_ms": 1788796692851,
+    "jobs": {
+      "紀辰@伊弗利特": "Scholar",
+      "Kuku掃@巴哈姆特": "Dragoon",
+      "赤雲@伊弗利特": "Pictomancer",
+      "小魚子醬@鳳凰": "Samurai",
+      "Ciri@利維坦": "Paladin",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "Rc@鳳凰": "Dancer",
+      "Lzzz@迦樓羅": "DarkKnight"
+    }
   }
 ]
