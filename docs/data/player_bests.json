@@ -348298,5 +348298,23 @@
     "timestamp_ms": 1788872266612,
     "duration_ms": 0,
     "phase_reached": 2
+  },
+  "今井@奧汀:1075:_wipe": {
+    "name": "今井",
+    "server": "奧汀",
+    "encounter_id": 1075,
+    "encounter": "living liquid / liquid hand / ... ",
+    "is_clear": false,
+    "boss_hp_pct": 68.87,
+    "rdps": 0.0,
+    "adps": 0.0,
+    "parse_pct": 0.0,
+    "job": "Warrior",
+    "char_id": 1000007,
+    "report_code": "y1hX7JgrvFDjxcn3",
+    "fight_id": 7,
+    "timestamp_ms": 1788890920836,
+    "duration_ms": 0,
+    "phase_reached": 2
   }
 }
