@@ -96096,5 +96096,33 @@
       "夜纓@利維坦": "BlackMage",
       "芝士火鍋@迦樓羅": "Machinist"
     }
+  },
+  {
+    "code": "yCD24j3MpFdtPqJk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "丨zero丨@利維坦",
+      "拉雯妲@利維坦",
+      "維仔x@奧汀",
+      "雪月狐@奧汀",
+      "ㄇㄒ@迦樓羅",
+      "U沫@泰坦",
+      "吉村匕刃兔@奧汀",
+      "Ex咖哩棒@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 893366,
+    "clear_dt_ms": 1779113475075,
+    "jobs": {
+      "丨zero丨@利維坦": "Bard",
+      "拉雯妲@利維坦": "DarkKnight",
+      "維仔x@奧汀": "Dragoon",
+      "雪月狐@奧汀": "Summoner",
+      "ㄇㄒ@迦樓羅": "BlackMage",
+      "U沫@泰坦": "Scholar",
+      "吉村匕刃兔@奧汀": "Paladin",
+      "Ex咖哩棒@奧汀": "Astrologian"
+    }
   }
 ]
