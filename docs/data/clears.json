@@ -95900,5 +95900,33 @@
       "白宣@泰坦": "DarkKnight",
       "Kennyt@巴哈姆特": "Monk"
     }
+  },
+  {
+    "code": "xKWtH41qhFJV8RQ6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "日暉曜@鳳凰",
+      "如夢似幻@鳳凰",
+      "冥淵殞落之王@伊弗利特",
+      "Yakubb@巴哈姆特",
+      "蒔緋@鳳凰",
+      "Jjyaw@鳳凰",
+      "希姆咻@利維坦",
+      "花繁似錦@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 975561,
+    "clear_dt_ms": 1788959924528,
+    "jobs": {
+      "日暉曜@鳳凰": "Samurai",
+      "如夢似幻@鳳凰": "Scholar",
+      "冥淵殞落之王@伊弗利特": "DarkKnight",
+      "Yakubb@巴哈姆特": "BlackMage",
+      "蒔緋@鳳凰": "WhiteMage",
+      "Jjyaw@鳳凰": "Warrior",
+      "希姆咻@利維坦": "Dragoon",
+      "花繁似錦@鳳凰": "Dancer"
+    }
   }
 ]
