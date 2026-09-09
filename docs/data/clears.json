@@ -95928,5 +95928,117 @@
       "希姆咻@利維坦": "Dragoon",
       "花繁似錦@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "9a4hvmLCx6YZwtkX",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "麥塊啟動器@伊弗利特",
+      "Yuki醬@利維坦",
+      "毛毛力大王@奧汀",
+      "Mog@鳳凰",
+      "醉仙月月@利維坦",
+      "阿爾博德之門@利維坦",
+      "Niness@迦樓羅",
+      "法國我@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1129618,
+    "clear_dt_ms": 1788969490327,
+    "jobs": {
+      "麥塊啟動器@伊弗利特": "Pictomancer",
+      "Yuki醬@利維坦": "Viper",
+      "毛毛力大王@奧汀": "Dancer",
+      "Mog@鳳凰": "WhiteMage",
+      "醉仙月月@利維坦": "Paladin",
+      "阿爾博德之門@利維坦": "Sage",
+      "Niness@迦樓羅": "DarkKnight",
+      "法國我@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "32XpjrhnctZmLYMd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "博麗靈夢@利維坦",
+      "好der船長@奧汀",
+      "莫提斯@利維坦",
+      "Bernie@巴哈姆特",
+      "淡紫@迦樓羅",
+      "韓立@利維坦",
+      "蕾帕@迦樓羅",
+      "房屋中介@迦樓羅"
+    ],
+    "fight_id": 13,
+    "duration_ms": 827350,
+    "clear_dt_ms": 1788969261110,
+    "jobs": {
+      "博麗靈夢@利維坦": "Paladin",
+      "好der船長@奧汀": "RedMage",
+      "莫提斯@利維坦": "Summoner",
+      "Bernie@巴哈姆特": "Dragoon",
+      "淡紫@迦樓羅": "Sage",
+      "韓立@利維坦": "Machinist",
+      "蕾帕@迦樓羅": "Astrologian",
+      "房屋中介@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "h1R2wtd8LXJD94rz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "血豆@利維坦",
+      "Henry@伊弗利特",
+      "夜鳩@利維坦",
+      "Yii@奧汀",
+      "忤翔@利維坦",
+      "Caesar@奧汀",
+      "常命百睡@利維坦",
+      "洋月@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 974017,
+    "clear_dt_ms": 1788966275128,
+    "jobs": {
+      "血豆@利維坦": "DarkKnight",
+      "Henry@伊弗利特": "Dragoon",
+      "夜鳩@利維坦": "Summoner",
+      "Yii@奧汀": "WhiteMage",
+      "忤翔@利維坦": "Paladin",
+      "Caesar@奧汀": "Samurai",
+      "常命百睡@利維坦": "Dancer",
+      "洋月@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "ctpvKTADqNrChmnk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "莉莉蕾娜@奧汀",
+      "凜古塔@迦樓羅",
+      "一三八@迦樓羅",
+      "超大食品火鍋@迦樓羅",
+      "破狗@奧汀",
+      "桶裝布丁@迦樓羅",
+      "未乾@鳳凰",
+      "小白@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 945840,
+    "clear_dt_ms": 1788965398629,
+    "jobs": {
+      "莉莉蕾娜@奧汀": "Paladin",
+      "凜古塔@迦樓羅": "Samurai",
+      "一三八@迦樓羅": "Sage",
+      "超大食品火鍋@迦樓羅": "Dragoon",
+      "破狗@奧汀": "Warrior",
+      "桶裝布丁@迦樓羅": "Summoner",
+      "未乾@鳳凰": "Dancer",
+      "小白@鳳凰": "WhiteMage"
+    }
   }
 ]
