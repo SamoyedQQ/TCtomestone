@@ -96040,5 +96040,61 @@
       "未乾@鳳凰": "Dancer",
       "小白@鳳凰": "WhiteMage"
     }
+  },
+  {
+    "code": "YbC1A4XwQV6n7fxL",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Ao@迦樓羅",
+      "Hangwu@伊弗利特",
+      "浮米@泰坦",
+      "蒼眠月@奧汀",
+      "哈哈密瓜@利維坦",
+      "月月丶@利維坦",
+      "莉可@鳳凰",
+      "Izumi@巴哈姆特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1126019,
+    "clear_dt_ms": 1788969473682,
+    "jobs": {
+      "Ao@迦樓羅": "Dancer",
+      "Hangwu@伊弗利特": "Monk",
+      "浮米@泰坦": "Scholar",
+      "蒼眠月@奧汀": "Pictomancer",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "月月丶@利維坦": "DarkKnight",
+      "莉可@鳳凰": "Paladin",
+      "Izumi@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "GKjAMxWX98BrdNYk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "古菇菇@鳳凰",
+      "工務騎士@利維坦",
+      "空澄雪奈o@伊弗利特",
+      "天閃星玄@利維坦",
+      "鮭魚布丁熊@鳳凰",
+      "可樂零熱量@利維坦",
+      "夜纓@利維坦",
+      "芝士火鍋@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 857096,
+    "clear_dt_ms": 1788972760917,
+    "jobs": {
+      "古菇菇@鳳凰": "Sage",
+      "工務騎士@利維坦": "Summoner",
+      "空澄雪奈o@伊弗利特": "Astrologian",
+      "天閃星玄@利維坦": "Warrior",
+      "鮭魚布丁熊@鳳凰": "Viper",
+      "可樂零熱量@利維坦": "Paladin",
+      "夜纓@利維坦": "BlackMage",
+      "芝士火鍋@迦樓羅": "Machinist"
+    }
   }
 ]
