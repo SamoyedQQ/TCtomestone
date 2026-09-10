@@ -96264,5 +96264,117 @@
       "At@泰坦": "Samurai",
       "今晚打老虎@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "BvLRGxZVzPXyfq4t",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小夢幻@奧汀",
+      "Diaulo@迦樓羅",
+      "電子幽靈@奧汀",
+      "卡在原地不動@鳳凰",
+      "小小龍@鳳凰",
+      "早餐@利維坦",
+      "走路草@鳳凰",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1122099,
+    "clear_dt_ms": 1789060142579,
+    "jobs": {
+      "小夢幻@奧汀": "Sage",
+      "Diaulo@迦樓羅": "Samurai",
+      "電子幽靈@奧汀": "Dragoon",
+      "卡在原地不動@鳳凰": "DarkKnight",
+      "小小龍@鳳凰": "Paladin",
+      "早餐@利維坦": "Pictomancer",
+      "走路草@鳳凰": "Bard",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "TaC3hB1Pp4FALW7f",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "黑子@泰坦",
+      "玖祤@奧汀",
+      "阿城城@迦樓羅",
+      "影紗星蕾@迦樓羅",
+      "Mambo@奧汀",
+      "Natsum@奧汀",
+      "塚燭騎士@奧汀",
+      "Umi@奧汀"
+    ],
+    "fight_id": 8,
+    "duration_ms": 865137,
+    "clear_dt_ms": 1789060733788,
+    "jobs": {
+      "黑子@泰坦": "Paladin",
+      "玖祤@奧汀": "WhiteMage",
+      "阿城城@迦樓羅": "Monk",
+      "影紗星蕾@迦樓羅": "Dancer",
+      "Mambo@奧汀": "DarkKnight",
+      "Natsum@奧汀": "RedMage",
+      "塚燭騎士@奧汀": "Summoner",
+      "Umi@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "jZKpLVdCywH2A46D",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "逆轉壽司@迦樓羅",
+      "兔兔深侍@伊弗利特",
+      "Zong@伊弗利特",
+      "閻龍@利維坦",
+      "咘哩貓@泰坦",
+      "Yumi@巴哈姆特",
+      "喵噗@鳳凰",
+      "卡丁醇@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 857854,
+    "clear_dt_ms": 1789051429750,
+    "jobs": {
+      "逆轉壽司@迦樓羅": "Warrior",
+      "兔兔深侍@伊弗利特": "RedMage",
+      "Zong@伊弗利特": "Scholar",
+      "閻龍@利維坦": "Bard",
+      "咘哩貓@泰坦": "Summoner",
+      "Yumi@巴哈姆特": "Astrologian",
+      "喵噗@鳳凰": "Monk",
+      "卡丁醇@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "tZVxCwa6J7Yf9Mv1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "血豆@利維坦",
+      "常命百睡@利維坦",
+      "忤翔@利維坦",
+      "小who豬@鳳凰",
+      "Henry@伊弗利特",
+      "Yii@奧汀",
+      "Caesar@奧汀",
+      "柳如烟@伊弗利特"
+    ],
+    "fight_id": 15,
+    "duration_ms": 984112,
+    "clear_dt_ms": 1789051806065,
+    "jobs": {
+      "血豆@利維坦": "DarkKnight",
+      "常命百睡@利維坦": "Dancer",
+      "忤翔@利維坦": "Paladin",
+      "小who豬@鳳凰": "BlackMage",
+      "Henry@伊弗利特": "Dragoon",
+      "Yii@奧汀": "WhiteMage",
+      "Caesar@奧汀": "Samurai",
+      "柳如烟@伊弗利特": "Sage"
+    }
   }
 ]
