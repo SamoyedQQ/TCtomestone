@@ -96124,5 +96124,117 @@
       "吉村匕刃兔@奧汀": "Paladin",
       "Ex咖哩棒@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "dNQhnRWvPYrC4VXx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "里歐@迦樓羅",
+      "座敷童女@迦樓羅",
+      "皮皮滷波皮滷@鳳凰",
+      "衛斯理@迦樓羅",
+      "尼修@迦樓羅",
+      "Mafdet@迦樓羅",
+      "白之貓狐@迦樓羅",
+      "尼今天平凡嗎@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 828061,
+    "clear_dt_ms": 1789045011593,
+    "jobs": {
+      "里歐@迦樓羅": "Monk",
+      "座敷童女@迦樓羅": "Dancer",
+      "皮皮滷波皮滷@鳳凰": "Viper",
+      "衛斯理@迦樓羅": "DarkKnight",
+      "尼修@迦樓羅": "Sage",
+      "Mafdet@迦樓羅": "Gunbreaker",
+      "白之貓狐@迦樓羅": "Scholar",
+      "尼今天平凡嗎@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "dNQhnRWvPYrC4VXx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "里歐@迦樓羅",
+      "座敷童女@迦樓羅",
+      "皮皮滷波皮滷@鳳凰",
+      "衛斯理@迦樓羅",
+      "尼修@迦樓羅",
+      "Mafdet@迦樓羅",
+      "白之貓狐@迦樓羅",
+      "尼今天平凡嗎@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 828451,
+    "clear_dt_ms": 1789046075130,
+    "jobs": {
+      "里歐@迦樓羅": "Monk",
+      "座敷童女@迦樓羅": "Dancer",
+      "皮皮滷波皮滷@鳳凰": "Viper",
+      "衛斯理@迦樓羅": "DarkKnight",
+      "尼修@迦樓羅": "Sage",
+      "Mafdet@迦樓羅": "Gunbreaker",
+      "白之貓狐@迦樓羅": "Scholar",
+      "尼今天平凡嗎@迦樓羅": "Summoner"
+    }
+  },
+  {
+    "code": "VJdqmy1xFZTYDLGC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "星楓作浪@迦樓羅",
+      "犬圈圈@伊弗利特",
+      "迷你艾@迦樓羅",
+      "Mr刺蝟@迦樓羅",
+      "赤雪豹@鳳凰",
+      "Benny@利維坦",
+      "巧克力熱果凍@迦樓羅",
+      "紅魚@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1063881,
+    "clear_dt_ms": 1788968153658,
+    "jobs": {
+      "星楓作浪@迦樓羅": "Paladin",
+      "犬圈圈@伊弗利特": "Warrior",
+      "迷你艾@迦樓羅": "WhiteMage",
+      "Mr刺蝟@迦樓羅": "Monk",
+      "赤雪豹@鳳凰": "Scholar",
+      "Benny@利維坦": "Sage",
+      "巧克力熱果凍@迦樓羅": "BlackMage",
+      "紅魚@泰坦": "Machinist"
+    }
+  },
+  {
+    "code": "ACwGWgLQhaqv76Vr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Nekota@鳳凰",
+      "啾比啾@鳳凰",
+      "繪靈@泰坦",
+      "美堂蠻@奧汀",
+      "饿了@泰坦",
+      "Hmaster@鳳凰",
+      "嘩啦@巴哈姆特",
+      "一個劍術師@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 986495,
+    "clear_dt_ms": 1788853504591,
+    "jobs": {
+      "Nekota@鳳凰": "Warrior",
+      "啾比啾@鳳凰": "Bard",
+      "繪靈@泰坦": "WhiteMage",
+      "美堂蠻@奧汀": "BlackMage",
+      "饿了@泰坦": "Dragoon",
+      "Hmaster@鳳凰": "Sage",
+      "嘩啦@巴哈姆特": "Viper",
+      "一個劍術師@伊弗利特": "Gunbreaker"
+    }
   }
 ]
