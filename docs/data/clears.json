@@ -96404,5 +96404,33 @@
       "直爆異言@泰坦": "BlackMage",
       "Yalei@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "TkXYn8RB1GtKPMwJ",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Cangel@迦樓羅",
+      "Sony@利維坦",
+      "藍職龍奇@伊弗利特",
+      "Umisa@迦樓羅",
+      "菲爾約@巴哈姆特",
+      "一加一等於三@鳳凰",
+      "維克·派金克@奧汀",
+      "Ennie@利維坦"
+    ],
+    "fight_id": 21,
+    "duration_ms": 987122,
+    "clear_dt_ms": 1789071270395,
+    "jobs": {
+      "Cangel@迦樓羅": "DarkKnight",
+      "Sony@利維坦": "Sage",
+      "藍職龍奇@伊弗利特": "WhiteMage",
+      "Umisa@迦樓羅": "BlackMage",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "一加一等於三@鳳凰": "Bard",
+      "維克·派金克@奧汀": "Samurai",
+      "Ennie@利維坦": "Paladin"
+    }
   }
 ]
