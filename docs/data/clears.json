@@ -96460,5 +96460,117 @@
       "毛爸@伊弗利特": "Warrior",
       "喚靈夜語@伊弗利特": "BlackMage"
     }
+  },
+  {
+    "code": "wCbjKBfzyxQPr9Rq",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "薇薇布@迦樓羅",
+      "莉可@鳳凰",
+      "莫比@利維坦",
+      "若離@迦樓羅",
+      "轉圈圈@迦樓羅",
+      "米大斯@迦樓羅",
+      "Ryou@利維坦",
+      "離夜@泰坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1123854,
+    "clear_dt_ms": 1789137771298,
+    "jobs": {
+      "薇薇布@迦樓羅": "DarkKnight",
+      "莉可@鳳凰": "Paladin",
+      "莫比@利維坦": "Ninja",
+      "若離@迦樓羅": "Pictomancer",
+      "轉圈圈@迦樓羅": "Scholar",
+      "米大斯@迦樓羅": "Samurai",
+      "Ryou@利維坦": "Astrologian",
+      "離夜@泰坦": "Machinist"
+    }
+  },
+  {
+    "code": "wCbjKBfzyxQPr9Rq",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lavid@鳳凰",
+      "Aqrsky@伊弗利特",
+      "薇薇布@迦樓羅",
+      "第五魔法使@巴哈姆特",
+      "琴葉千草@迦樓羅",
+      "莉可@鳳凰",
+      "米大斯@迦樓羅",
+      "Ryou@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1123037,
+    "clear_dt_ms": 1789141279973,
+    "jobs": {
+      "Lavid@鳳凰": "Viper",
+      "Aqrsky@伊弗利特": "Dancer",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "第五魔法使@巴哈姆特": "Scholar",
+      "琴葉千草@迦樓羅": "Pictomancer",
+      "莉可@鳳凰": "Paladin",
+      "米大斯@迦樓羅": "Samurai",
+      "Ryou@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "YMkxvRtK9dJZ6Frw",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "Mogg@伊弗利特",
+      "浮米@泰坦",
+      "永恆光戰@奧汀",
+      "愛馬仕橘@伊弗利特",
+      "Karo@伊弗利特",
+      "莎蓮@伊弗利特",
+      "鬼王風海@利維坦",
+      "星空下的幻想@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1127637,
+    "clear_dt_ms": 1789138361657,
+    "jobs": {
+      "Mogg@伊弗利特": "Reaper",
+      "浮米@泰坦": "Scholar",
+      "永恆光戰@奧汀": "Pictomancer",
+      "愛馬仕橘@伊弗利特": "Paladin",
+      "Karo@伊弗利特": "Samurai",
+      "莎蓮@伊弗利特": "Astrologian",
+      "鬼王風海@利維坦": "Dancer",
+      "星空下的幻想@伊弗利特": "DarkKnight"
+    }
+  },
+  {
+    "code": "C724aKhqvnW6BXLt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "Nekols@奧汀",
+      "水無賴@鳳凰",
+      "洽瓜@奧汀",
+      "諾亞氣泡水@泰坦",
+      "尤吉歐@伊弗利特",
+      "澤星@迦樓羅",
+      "爸爸@伊弗利特",
+      "三色豆佐香菜@利維坦"
+    ],
+    "fight_id": 49,
+    "duration_ms": 966587,
+    "clear_dt_ms": 1789136641748,
+    "jobs": {
+      "Nekols@奧汀": "Paladin",
+      "水無賴@鳳凰": "BlackMage",
+      "洽瓜@奧汀": "Warrior",
+      "諾亞氣泡水@泰坦": "Dancer",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "澤星@迦樓羅": "Summoner",
+      "爸爸@伊弗利特": "Monk",
+      "三色豆佐香菜@利維坦": "Scholar"
+    }
   }
 ]
