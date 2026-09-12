@@ -96992,5 +96992,61 @@
       "姆紀嘟@泰坦": "Samurai",
       "Maple@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "nMhpkR1HZqDb934W",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "澤星@迦樓羅",
+      "夏蟲語冰@伊弗利特",
+      "拾荒女孩@奧汀",
+      "蕎麥啵啵@鳳凰",
+      "月月丶@利維坦",
+      "小落奈@巴哈姆特",
+      "橋本懷奈@伊弗利特",
+      "烏爾加特林@泰坦"
+    ],
+    "fight_id": 27,
+    "duration_ms": 990521,
+    "clear_dt_ms": 1789205573568,
+    "jobs": {
+      "澤星@迦樓羅": "Summoner",
+      "夏蟲語冰@伊弗利特": "Samurai",
+      "拾荒女孩@奧汀": "Reaper",
+      "蕎麥啵啵@鳳凰": "Warrior",
+      "月月丶@利維坦": "Astrologian",
+      "小落奈@巴哈姆特": "Scholar",
+      "橋本懷奈@伊弗利特": "Gunbreaker",
+      "烏爾加特林@泰坦": "Dancer"
+    }
+  },
+  {
+    "code": "WaA6KTXVz3GtZYJb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "橋本懷奈@伊弗利特",
+      "蕎麥啵啵@鳳凰",
+      "Ix整點薯條@鳳凰",
+      "張員瑛的狗@巴哈姆特",
+      "水無賴@鳳凰",
+      "一加一等於三@鳳凰",
+      "尤吉歐@伊弗利特",
+      "影紗星蕾@迦樓羅"
+    ],
+    "fight_id": 14,
+    "duration_ms": 965402,
+    "clear_dt_ms": 1789211140502,
+    "jobs": {
+      "橋本懷奈@伊弗利特": "DarkKnight",
+      "蕎麥啵啵@鳳凰": "Warrior",
+      "Ix整點薯條@鳳凰": "Samurai",
+      "張員瑛的狗@巴哈姆特": "Pictomancer",
+      "水無賴@鳳凰": "BlackMage",
+      "一加一等於三@鳳凰": "Bard",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "影紗星蕾@迦樓羅": "Sage"
+    }
   }
 ]
