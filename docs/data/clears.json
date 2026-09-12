@@ -97384,5 +97384,89 @@
       "地震來也不跑@泰坦": "BlackMage",
       "輝映天閃@巴哈姆特": "WhiteMage"
     }
+  },
+  {
+    "code": "4hrZgfbV8ky1AY9H",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "三角初音@伊弗利特",
+      "阿落@伊弗利特",
+      "響念@奧汀",
+      "汰@迦樓羅",
+      "奧里安@鳳凰",
+      "莎mon@伊弗利特",
+      "好眼瞓@巴哈姆特",
+      "Gifgif@利維坦"
+    ],
+    "fight_id": 45,
+    "duration_ms": 828253,
+    "clear_dt_ms": 1789235265769,
+    "jobs": {
+      "三角初音@伊弗利特": "BlackMage",
+      "阿落@伊弗利特": "Paladin",
+      "響念@奧汀": "Summoner",
+      "汰@迦樓羅": "Astrologian",
+      "奧里安@鳳凰": "Sage",
+      "莎mon@伊弗利特": "Bard",
+      "好眼瞓@巴哈姆特": "Warrior",
+      "Gifgif@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "Q6mJPykgbw3cjBfz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "遊煙@奧汀",
+      "Doro老貓@伊弗利特",
+      "灰特@伊弗利特",
+      "利貝里亞@利維坦",
+      "水無月空@伊弗利特",
+      "米歐娜希露@伊弗利特",
+      "沙帝斯@利維坦",
+      "倉坂神樂@巴哈姆特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 984919,
+    "clear_dt_ms": 1789232474441,
+    "jobs": {
+      "遊煙@奧汀": "Dancer",
+      "Doro老貓@伊弗利特": "Samurai",
+      "灰特@伊弗利特": "BlackMage",
+      "利貝里亞@利維坦": "Paladin",
+      "水無月空@伊弗利特": "Sage",
+      "米歐娜希露@伊弗利特": "DarkKnight",
+      "沙帝斯@利維坦": "Monk",
+      "倉坂神樂@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "Q6mJPykgbw3cjBfz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "遊煙@奧汀",
+      "Doro老貓@伊弗利特",
+      "灰特@伊弗利特",
+      "利貝里亞@利維坦",
+      "水無月空@伊弗利特",
+      "米歐娜希露@伊弗利特",
+      "沙帝斯@利維坦",
+      "倉坂神樂@巴哈姆特"
+    ],
+    "fight_id": 19,
+    "duration_ms": 968015,
+    "clear_dt_ms": 1789233520270,
+    "jobs": {
+      "遊煙@奧汀": "Dancer",
+      "Doro老貓@伊弗利特": "Samurai",
+      "灰特@伊弗利特": "BlackMage",
+      "利貝里亞@利維坦": "Paladin",
+      "水無月空@伊弗利特": "Sage",
+      "米歐娜希露@伊弗利特": "DarkKnight",
+      "沙帝斯@利維坦": "Monk",
+      "倉坂神樂@巴哈姆特": "Astrologian"
+    }
   }
 ]
