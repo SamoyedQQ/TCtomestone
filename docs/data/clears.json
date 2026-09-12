@@ -96880,5 +96880,61 @@
       "Arasxi@奧汀": "Samurai",
       "Rc@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "6jmJdnBQMfVyZ9zR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "春日@迦樓羅",
+      "甜甜的小仙女@巴哈姆特",
+      "米歐娜希露@伊弗利特",
+      "蜻蜓點火@伊弗利特",
+      "水無月空@伊弗利特",
+      "Jerky@迦樓羅",
+      "Souru@利維坦",
+      "二v@迦樓羅"
+    ],
+    "fight_id": 46,
+    "duration_ms": 975941,
+    "clear_dt_ms": 1788981817667,
+    "jobs": {
+      "春日@迦樓羅": "Paladin",
+      "甜甜的小仙女@巴哈姆特": "Samurai",
+      "米歐娜希露@伊弗利特": "DarkKnight",
+      "蜻蜓點火@伊弗利特": "Ninja",
+      "水無月空@伊弗利特": "Sage",
+      "Jerky@迦樓羅": "Dancer",
+      "Souru@利維坦": "BlackMage",
+      "二v@迦樓羅": "Astrologian"
+    }
+  },
+  {
+    "code": "hKzGZqv2a9QyBgCW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "尤吉歐@伊弗利特",
+      "安迪內德@巴哈姆特",
+      "Kita@利維坦",
+      "車倫秉@伊弗利特",
+      "馬爾三兄弟@泰坦",
+      "蕎麥啵啵@鳳凰",
+      "結城希亞@伊弗利特",
+      "Ix整點薯條@鳳凰"
+    ],
+    "fight_id": 50,
+    "duration_ms": 971853,
+    "clear_dt_ms": 1788974064619,
+    "jobs": {
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "安迪內德@巴哈姆特": "Pictomancer",
+      "Kita@利維坦": "Dragoon",
+      "車倫秉@伊弗利特": "Sage",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "蕎麥啵啵@鳳凰": "Warrior",
+      "結城希亞@伊弗利特": "Dancer",
+      "Ix整點薯條@鳳凰": "Samurai"
+    }
   }
 ]
