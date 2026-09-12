@@ -96936,5 +96936,61 @@
       "結城希亞@伊弗利特": "Dancer",
       "Ix整點薯條@鳳凰": "Samurai"
     }
+  },
+  {
+    "code": "arthc39JHxZGkTp6",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "梅幽芊@伊弗利特",
+      "陰暗爬行初華@利維坦",
+      "骯髒毛毯@伊弗利特",
+      "咖哩暴龍@迦樓羅",
+      "Exsalt@鳳凰",
+      "帽子給我好嗎@伊弗利特",
+      "熊貓不接受@鳳凰",
+      "穗曦@伊弗利特"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1115731,
+    "clear_dt_ms": 1789205323002,
+    "jobs": {
+      "梅幽芊@伊弗利特": "Scholar",
+      "陰暗爬行初華@利維坦": "BlackMage",
+      "骯髒毛毯@伊弗利特": "Monk",
+      "咖哩暴龍@迦樓羅": "Dragoon",
+      "Exsalt@鳳凰": "DarkKnight",
+      "帽子給我好嗎@伊弗利特": "Paladin",
+      "熊貓不接受@鳳凰": "Bard",
+      "穗曦@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "DJqN6ryQjgvkTpnz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Gibada@鳳凰",
+      "瑪茜醬@利維坦",
+      "仙草愛玉@鳳凰",
+      "懶斯洛特@迦樓羅",
+      "小落奈@巴哈姆特",
+      "Decade@伊弗利特",
+      "姆紀嘟@泰坦",
+      "Maple@伊弗利特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1141784,
+    "clear_dt_ms": 1789201920145,
+    "jobs": {
+      "Gibada@鳳凰": "Paladin",
+      "瑪茜醬@利維坦": "BlackMage",
+      "仙草愛玉@鳳凰": "Scholar",
+      "懶斯洛特@迦樓羅": "Warrior",
+      "小落奈@巴哈姆特": "WhiteMage",
+      "Decade@伊弗利特": "Dancer",
+      "姆紀嘟@泰坦": "Samurai",
+      "Maple@伊弗利特": "Monk"
+    }
   }
 ]
