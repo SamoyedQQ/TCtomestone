@@ -96824,5 +96824,61 @@
       "芒果冰淇淋@鳳凰": "Warrior",
       "喵噗@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "dWQpN368Za7tY4wK",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "米歐娜希露@伊弗利特",
+      "以茳@鳳凰",
+      "澤星@迦樓羅",
+      "菲爾約@巴哈姆特",
+      "夏蟲語冰@伊弗利特",
+      "郝響稅@迦樓羅",
+      "冥燈@巴哈姆特",
+      "奈樂司@伊弗利特"
+    ],
+    "fight_id": 82,
+    "duration_ms": 968042,
+    "clear_dt_ms": 1789182633477,
+    "jobs": {
+      "米歐娜希露@伊弗利特": "DarkKnight",
+      "以茳@鳳凰": "Sage",
+      "澤星@迦樓羅": "Summoner",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "夏蟲語冰@伊弗利特": "Samurai",
+      "郝響稅@迦樓羅": "Astrologian",
+      "冥燈@巴哈姆特": "Machinist",
+      "奈樂司@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "9jBGW62LCqtavznT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "轉圈圈@迦樓羅",
+      "米大斯@迦樓羅",
+      "蒼眠月@奧汀",
+      "莉可@鳳凰",
+      "電子幽靈@奧汀",
+      "薇薇布@迦樓羅",
+      "Arasxi@奧汀",
+      "Rc@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 1122786,
+    "clear_dt_ms": 1789051055857,
+    "jobs": {
+      "轉圈圈@迦樓羅": "Scholar",
+      "米大斯@迦樓羅": "Astrologian",
+      "蒼眠月@奧汀": "Pictomancer",
+      "莉可@鳳凰": "Paladin",
+      "電子幽靈@奧汀": "Dragoon",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "Arasxi@奧汀": "Samurai",
+      "Rc@鳳凰": "Dancer"
+    }
   }
 ]
