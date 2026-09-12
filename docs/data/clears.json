@@ -97048,5 +97048,33 @@
       "尤吉歐@伊弗利特": "WhiteMage",
       "影紗星蕾@迦樓羅": "Sage"
     }
+  },
+  {
+    "code": "HAmJTg64LpY93QcB",
+    "title": "絕伊甸",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Rc@鳳凰",
+      "貓糰子@伊弗利特",
+      "補月@利維坦",
+      "Ryou@利維坦",
+      "卡在原地不動@鳳凰",
+      "韓立@利維坦",
+      "夏夕夏景@伊弗利特",
+      "Dadada@伊弗利特"
+    ],
+    "fight_id": 15,
+    "duration_ms": 1121440,
+    "clear_dt_ms": 1789219140315,
+    "jobs": {
+      "Rc@鳳凰": "Dancer",
+      "貓糰子@伊弗利特": "BlackMage",
+      "補月@利維坦": "Dragoon",
+      "Ryou@利維坦": "Astrologian",
+      "卡在原地不動@鳳凰": "DarkKnight",
+      "韓立@利維坦": "Viper",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "Dadada@伊弗利特": "Paladin"
+    }
   }
 ]
