@@ -97468,5 +97468,33 @@
       "沙帝斯@利維坦": "Monk",
       "倉坂神樂@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "7zx4cBJaWY1DnH38",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "百事有可樂@伊弗利特",
+      "Loklok@伊弗利特",
+      "燒賣mai@伊弗利特",
+      "洗讚小鴨鴨@伊弗利特",
+      "安眠@伊弗利特",
+      "麒麒@伊弗利特",
+      "荔枝羊@伊弗利特",
+      "輸出型奶媽@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1091997,
+    "clear_dt_ms": 1789235233764,
+    "jobs": {
+      "百事有可樂@伊弗利特": "Dragoon",
+      "Loklok@伊弗利特": "Scholar",
+      "燒賣mai@伊弗利特": "Warrior",
+      "洗讚小鴨鴨@伊弗利特": "Bard",
+      "安眠@伊弗利特": "WhiteMage",
+      "麒麒@伊弗利特": "Summoner",
+      "荔枝羊@伊弗利特": "DarkKnight",
+      "輸出型奶媽@奧汀": "Sage"
+    }
   }
 ]
