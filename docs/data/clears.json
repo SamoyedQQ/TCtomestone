@@ -97832,5 +97832,61 @@
       "Hitomi@奧汀": "Scholar",
       "滑水@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "kzKxcR2nHAG7Ygat",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "段藏@利維坦",
+      "Kaede@利維坦",
+      "彗星咩咩貓貓@利維坦",
+      "Ryou@利維坦",
+      "音侍@伊弗利特",
+      "金龍姐姐@利維坦",
+      "夢璃@利維坦",
+      "慎真@利維坦"
+    ],
+    "fight_id": 95,
+    "duration_ms": 853304,
+    "clear_dt_ms": 1789318488088,
+    "jobs": {
+      "段藏@利維坦": "Paladin",
+      "Kaede@利維坦": "RedMage",
+      "彗星咩咩貓貓@利維坦": "Monk",
+      "Ryou@利維坦": "Astrologian",
+      "音侍@伊弗利特": "Samurai",
+      "金龍姐姐@利維坦": "Dancer",
+      "夢璃@利維坦": "Sage",
+      "慎真@利維坦": "Warrior"
+    }
+  },
+  {
+    "code": "9DQJMtHFncK2CRX8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小顆豆丁@鳳凰",
+      "粉紅色阿翔@奧汀",
+      "凱特@鳳凰",
+      "饅頭比蒸的香@迦樓羅",
+      "大顆豆花@鳳凰",
+      "安全上壘@巴哈姆特",
+      "Aray@鳳凰",
+      "Sakana@鳳凰"
+    ],
+    "fight_id": 17,
+    "duration_ms": 979993,
+    "clear_dt_ms": 1789315289571,
+    "jobs": {
+      "小顆豆丁@鳳凰": "Paladin",
+      "粉紅色阿翔@奧汀": "Astrologian",
+      "凱特@鳳凰": "Warrior",
+      "饅頭比蒸的香@迦樓羅": "BlackMage",
+      "大顆豆花@鳳凰": "Samurai",
+      "安全上壘@巴哈姆特": "Monk",
+      "Aray@鳳凰": "Scholar",
+      "Sakana@鳳凰": "Dancer"
+    }
   }
 ]
