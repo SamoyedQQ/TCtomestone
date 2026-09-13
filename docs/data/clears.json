@@ -97720,5 +97720,117 @@
       "侑介@迦樓羅": "Bard",
       "小夢幻@奧汀": "Sage"
     }
+  },
+  {
+    "code": "gyMTR8xzXAPmHbrQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "水果糖@奧汀",
+      "芙莉蓮霧@奧汀",
+      "Arasxi@奧汀",
+      "阿大姆@迦樓羅",
+      "Mogg@伊弗利特",
+      "杏仁豆腐@奧汀",
+      "小夢幻@奧汀",
+      "Cygnus@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1122318,
+    "clear_dt_ms": 1789314466175,
+    "jobs": {
+      "水果糖@奧汀": "Paladin",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "Arasxi@奧汀": "Samurai",
+      "阿大姆@迦樓羅": "Dancer",
+      "Mogg@伊弗利特": "Reaper",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "小夢幻@奧汀": "Sage",
+      "Cygnus@奧汀": "Warrior"
+    }
+  },
+  {
+    "code": "4B9gck1ajF3LYzAK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "薏仁@迦樓羅",
+      "土撥鼠博士@迦樓羅",
+      "Ktne@奧汀",
+      "Chima@伊弗利特",
+      "索拉肥@鳳凰",
+      "小妹@利維坦",
+      "Hitomi@奧汀",
+      "滑水@奧汀"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1061354,
+    "clear_dt_ms": 1789304919534,
+    "jobs": {
+      "薏仁@迦樓羅": "Warrior",
+      "土撥鼠博士@迦樓羅": "RedMage",
+      "Ktne@奧汀": "Sage",
+      "Chima@伊弗利特": "Summoner",
+      "索拉肥@鳳凰": "DarkKnight",
+      "小妹@利維坦": "Dancer",
+      "Hitomi@奧汀": "Scholar",
+      "滑水@奧汀": "Astrologian"
+    }
+  },
+  {
+    "code": "4B9gck1ajF3LYzAK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "薏仁@迦樓羅",
+      "土撥鼠博士@迦樓羅",
+      "Ktne@奧汀",
+      "Chima@伊弗利特",
+      "索拉肥@鳳凰",
+      "小妹@利維坦",
+      "Hitomi@奧汀",
+      "滑水@奧汀"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1054195,
+    "clear_dt_ms": 1789308408400,
+    "jobs": {
+      "薏仁@迦樓羅": "Warrior",
+      "土撥鼠博士@迦樓羅": "RedMage",
+      "Ktne@奧汀": "Sage",
+      "Chima@伊弗利特": "Summoner",
+      "索拉肥@鳳凰": "DarkKnight",
+      "小妹@利維坦": "Dancer",
+      "Hitomi@奧汀": "Scholar",
+      "滑水@奧汀": "Astrologian"
+    }
+  },
+  {
+    "code": "4B9gck1ajF3LYzAK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "薏仁@迦樓羅",
+      "土撥鼠博士@迦樓羅",
+      "Ktne@奧汀",
+      "Chima@伊弗利特",
+      "索拉肥@鳳凰",
+      "小妹@利維坦",
+      "Hitomi@奧汀",
+      "滑水@奧汀"
+    ],
+    "fight_id": 18,
+    "duration_ms": 1086569,
+    "clear_dt_ms": 1789309627801,
+    "jobs": {
+      "薏仁@迦樓羅": "Warrior",
+      "土撥鼠博士@迦樓羅": "RedMage",
+      "Ktne@奧汀": "Sage",
+      "Chima@伊弗利特": "Summoner",
+      "索拉肥@鳳凰": "DarkKnight",
+      "小妹@利維坦": "Dancer",
+      "Hitomi@奧汀": "Scholar",
+      "滑水@奧汀": "Astrologian"
+    }
   }
 ]
