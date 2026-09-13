@@ -97692,5 +97692,33 @@
       "咪幾馬麻@鳳凰": "Dancer",
       "喵噗@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "JGBMYVdpAWDQ8a1b",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "薇薇布@迦樓羅",
+      "杏仁豆腐@奧汀",
+      "Harii@奧汀",
+      "宸仔@伊弗利特",
+      "莫比@利維坦",
+      "Whitew@迦樓羅",
+      "侑介@迦樓羅",
+      "小夢幻@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1112013,
+    "clear_dt_ms": 1789297888979,
+    "jobs": {
+      "薇薇布@迦樓羅": "DarkKnight",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "Harii@奧汀": "Summoner",
+      "宸仔@伊弗利特": "Paladin",
+      "莫比@利維坦": "Ninja",
+      "Whitew@迦樓羅": "Samurai",
+      "侑介@迦樓羅": "Bard",
+      "小夢幻@奧汀": "Sage"
+    }
   }
 ]
