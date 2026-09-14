@@ -97916,5 +97916,61 @@
       "Arasxi@奧汀": "Machinist",
       "咩莉亞@奧汀": "Sage"
     }
+  },
+  {
+    "code": "fabyGQm3AHh7dtTV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "毛毛力大王@奧汀",
+      "麥塊啟動器@伊弗利特",
+      "Niness@迦樓羅",
+      "阿爾博德之門@利維坦",
+      "醉仙月月@利維坦",
+      "Mog@鳳凰",
+      "Yuki醬@利維坦",
+      "法國我@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1136070,
+    "clear_dt_ms": 1789392201026,
+    "jobs": {
+      "毛毛力大王@奧汀": "Dancer",
+      "麥塊啟動器@伊弗利特": "Summoner",
+      "Niness@迦樓羅": "DarkKnight",
+      "阿爾博德之門@利維坦": "Sage",
+      "醉仙月月@利維坦": "Paladin",
+      "Mog@鳳凰": "WhiteMage",
+      "Yuki醬@利維坦": "Viper",
+      "法國我@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "fabyGQm3AHh7dtTV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "麥塊啟動器@伊弗利特",
+      "毛毛力大王@奧汀",
+      "Niness@迦樓羅",
+      "阿爾博德之門@利維坦",
+      "醉仙月月@利維坦",
+      "Mog@鳳凰",
+      "Yuki醬@利維坦",
+      "法國我@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1126711,
+    "clear_dt_ms": 1789393586632,
+    "jobs": {
+      "麥塊啟動器@伊弗利特": "BlackMage",
+      "毛毛力大王@奧汀": "Dancer",
+      "Niness@迦樓羅": "DarkKnight",
+      "阿爾博德之門@利維坦": "Sage",
+      "醉仙月月@利維坦": "Paladin",
+      "Mog@鳳凰": "WhiteMage",
+      "Yuki醬@利維坦": "Viper",
+      "法國我@奧汀": "Dragoon"
+    }
   }
 ]
