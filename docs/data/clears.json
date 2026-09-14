@@ -98168,5 +98168,33 @@
       "送終姬@利維坦": "WhiteMage",
       "紫夜kido@巴哈姆特": "Summoner"
     }
+  },
+  {
+    "code": "b2nYHpmGtxBqLMac",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Buuyee@巴哈姆特",
+      "神秘夾克姐姐@迦樓羅",
+      "笭@迦樓羅",
+      "二v@迦樓羅",
+      "夜月月@迦樓羅",
+      "Wiee@伊弗利特",
+      "塔克西跩佛@奧汀",
+      "笨狼@伊弗利特"
+    ],
+    "fight_id": 46,
+    "duration_ms": 956174,
+    "clear_dt_ms": 1789416177540,
+    "jobs": {
+      "Buuyee@巴哈姆特": "WhiteMage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "笭@迦樓羅": "Paladin",
+      "二v@迦樓羅": "Sage",
+      "夜月月@迦樓羅": "Monk",
+      "Wiee@伊弗利特": "DarkKnight",
+      "塔克西跩佛@奧汀": "Dancer",
+      "笨狼@伊弗利特": "Samurai"
+    }
   }
 ]
