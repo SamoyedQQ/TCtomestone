@@ -98140,5 +98140,33 @@
       "有隻鳥@迦樓羅": "Scholar",
       "茶水@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "jBHYXWVpCqwJ7hF9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "卡妮娜@鳳凰",
+      "Niness@迦樓羅",
+      "三毛毛毛@迦樓羅",
+      "魚fish@利維坦",
+      "罐罐罐@利維坦",
+      "Umisa@迦樓羅",
+      "送終姬@利維坦",
+      "紫夜kido@巴哈姆特"
+    ],
+    "fight_id": 22,
+    "duration_ms": 987771,
+    "clear_dt_ms": 1789411811951,
+    "jobs": {
+      "卡妮娜@鳳凰": "Warrior",
+      "Niness@迦樓羅": "DarkKnight",
+      "三毛毛毛@迦樓羅": "Machinist",
+      "魚fish@利維坦": "Samurai",
+      "罐罐罐@利維坦": "Sage",
+      "Umisa@迦樓羅": "BlackMage",
+      "送終姬@利維坦": "WhiteMage",
+      "紫夜kido@巴哈姆特": "Summoner"
+    }
   }
 ]
