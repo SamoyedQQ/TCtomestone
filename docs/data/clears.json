@@ -98364,5 +98364,61 @@
       "狄暄@利維坦": "Machinist",
       "突擊兔邦妮@利維坦": "Dragoon"
     }
+  },
+  {
+    "code": "gDcHNbnfpdhPCtBk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "真的很爆開@迦樓羅",
+      "Mokino@迦樓羅",
+      "那由多壽司屋@迦樓羅",
+      "蛇蛇征服者@迦樓羅",
+      "Julexx@利維坦",
+      "且茗老茶@迦樓羅",
+      "Estro@利維坦",
+      "今井@奧汀"
+    ],
+    "fight_id": 16,
+    "duration_ms": 1001657,
+    "clear_dt_ms": 1789496073826,
+    "jobs": {
+      "真的很爆開@迦樓羅": "RedMage",
+      "Mokino@迦樓羅": "Dragoon",
+      "那由多壽司屋@迦樓羅": "WhiteMage",
+      "蛇蛇征服者@迦樓羅": "Monk",
+      "Julexx@利維坦": "Machinist",
+      "且茗老茶@迦樓羅": "Sage",
+      "Estro@利維坦": "Paladin",
+      "今井@奧汀": "Warrior"
+    }
+  },
+  {
+    "code": "GVLjzFq7vk3gQdmr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "異累k@迦樓羅",
+      "Matoi@迦樓羅",
+      "阿城城@迦樓羅",
+      "呱極填植樹@奧汀",
+      "強打中年@奧汀",
+      "Vita@伊弗利特",
+      "Chima@伊弗利特",
+      "Lova@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 972077,
+    "clear_dt_ms": 1789493505458,
+    "jobs": {
+      "異累k@迦樓羅": "WhiteMage",
+      "Matoi@迦樓羅": "Paladin",
+      "阿城城@迦樓羅": "Monk",
+      "呱極填植樹@奧汀": "BlackMage",
+      "強打中年@奧汀": "RedMage",
+      "Vita@伊弗利特": "Warrior",
+      "Chima@伊弗利特": "Dancer",
+      "Lova@迦樓羅": "Scholar"
+    }
   }
 ]
