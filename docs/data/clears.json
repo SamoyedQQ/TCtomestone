@@ -98336,5 +98336,33 @@
       "小who豬@鳳凰": "RedMage",
       "椒鹽杏鮑菇@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "LCK1nTVHRAZFz4wa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "一包黑芝麻@利維坦",
+      "珞亞@利維坦",
+      "Neil@利維坦",
+      "瑪茜醬@利維坦",
+      "楓紅@利維坦",
+      "Sophia@利維坦",
+      "狄暄@利維坦",
+      "突擊兔邦妮@利維坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 968263,
+    "clear_dt_ms": 1789487716913,
+    "jobs": {
+      "一包黑芝麻@利維坦": "Paladin",
+      "珞亞@利維坦": "Scholar",
+      "Neil@利維坦": "DarkKnight",
+      "瑪茜醬@利維坦": "BlackMage",
+      "楓紅@利維坦": "Samurai",
+      "Sophia@利維坦": "WhiteMage",
+      "狄暄@利維坦": "Machinist",
+      "突擊兔邦妮@利維坦": "Dragoon"
+    }
   }
 ]
