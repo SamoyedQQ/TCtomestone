@@ -98420,5 +98420,33 @@
       "Chima@伊弗利特": "Dancer",
       "Lova@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "zNwFAJBXC9VP8RnL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小who豬@鳳凰",
+      "Nekols@奧汀",
+      "維克·派金克@奧汀",
+      "三角初音@伊弗利特",
+      "爸爸@伊弗利特",
+      "Yze@伊弗利特",
+      "洽瓜@奧汀",
+      "粉冬@奧汀"
+    ],
+    "fight_id": 1,
+    "duration_ms": 944911,
+    "clear_dt_ms": 1789195905663,
+    "jobs": {
+      "小who豬@鳳凰": "BlackMage",
+      "Nekols@奧汀": "Paladin",
+      "維克·派金克@奧汀": "Machinist",
+      "三角初音@伊弗利特": "Astrologian",
+      "爸爸@伊弗利特": "Monk",
+      "Yze@伊弗利特": "Sage",
+      "洽瓜@奧汀": "Warrior",
+      "粉冬@奧汀": "Reaper"
+    }
   }
 ]
