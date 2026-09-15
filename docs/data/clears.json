@@ -98224,5 +98224,33 @@
       "黑炎@利維坦": "Samurai",
       "阿秩@利維坦": "Warrior"
     }
+  },
+  {
+    "code": "azZ4yVgXnmj9qvLM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "有隻鳥@迦樓羅",
+      "Wiee@伊弗利特",
+      "逆亞@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "奶刀文文@利維坦",
+      "巴尾的熊@鳳凰",
+      "米粉兔子@鳳凰",
+      "繪靈法師@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 838701,
+    "clear_dt_ms": 1789476744490,
+    "jobs": {
+      "有隻鳥@迦樓羅": "Astrologian",
+      "Wiee@伊弗利特": "Ninja",
+      "逆亞@迦樓羅": "Sage",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "奶刀文文@利維坦": "Viper",
+      "巴尾的熊@鳳凰": "Paladin",
+      "米粉兔子@鳳凰": "Summoner",
+      "繪靈法師@迦樓羅": "Dancer"
+    }
   }
 ]
