@@ -98196,5 +98196,33 @@
       "塔克西跩佛@奧汀": "Dancer",
       "笨狼@伊弗利特": "Samurai"
     }
+  },
+  {
+    "code": "ZTkHpzywJ3KGPaCR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "十王星南@利維坦",
+      "椒麻雞@巴哈姆特",
+      "甲醛@奧汀",
+      "准醬@奧汀",
+      "貓丸丸@鳳凰",
+      "丨zero丨@利維坦",
+      "黑炎@利維坦",
+      "阿秩@利維坦"
+    ],
+    "fight_id": 23,
+    "duration_ms": 890713,
+    "clear_dt_ms": 1774978869081,
+    "jobs": {
+      "十王星南@利維坦": "WhiteMage",
+      "椒麻雞@巴哈姆特": "Dragoon",
+      "甲醛@奧汀": "Sage",
+      "准醬@奧汀": "Paladin",
+      "貓丸丸@鳳凰": "Summoner",
+      "丨zero丨@利維坦": "Bard",
+      "黑炎@利維坦": "Samurai",
+      "阿秩@利維坦": "Warrior"
+    }
   }
 ]
