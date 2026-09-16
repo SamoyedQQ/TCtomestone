@@ -98644,5 +98644,33 @@
       "醉仙月月@利維坦": "Paladin",
       "麥塊啟動器@伊弗利特": "BlackMage"
     }
+  },
+  {
+    "code": "atb6VLdJgvWMYf31",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "夜神天祈@伊弗利特",
+      "日式豬排@利維坦",
+      "浮米@泰坦",
+      "Benny@利維坦",
+      "飄飄@巴哈姆特",
+      "阿萬音鈴羽@利維坦",
+      "青雀@利維坦",
+      "Iroha@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1129900,
+    "clear_dt_ms": 1789578251044,
+    "jobs": {
+      "夜神天祈@伊弗利特": "Pictomancer",
+      "日式豬排@利維坦": "Astrologian",
+      "浮米@泰坦": "Scholar",
+      "Benny@利維坦": "Monk",
+      "飄飄@巴哈姆特": "Paladin",
+      "阿萬音鈴羽@利維坦": "DarkKnight",
+      "青雀@利維坦": "Samurai",
+      "Iroha@巴哈姆特": "Dancer"
+    }
   }
 ]
