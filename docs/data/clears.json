@@ -98448,5 +98448,33 @@
       "洽瓜@奧汀": "Warrior",
       "粉冬@奧汀": "Reaper"
     }
+  },
+  {
+    "code": "kLqDFwabHpMXfcNz",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "肥客家人@巴哈姆特",
+      "史嘉蕾特@巴哈姆特",
+      "山壯@鳳凰",
+      "二v@迦樓羅",
+      "Racook@奧汀",
+      "墨寶@利維坦",
+      "雷丁頓@奧汀",
+      "Nobu卡茲@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 847293,
+    "clear_dt_ms": 1789510439236,
+    "jobs": {
+      "肥客家人@巴哈姆特": "RedMage",
+      "史嘉蕾特@巴哈姆特": "Bard",
+      "山壯@鳳凰": "Monk",
+      "二v@迦樓羅": "Gunbreaker",
+      "Racook@奧汀": "Paladin",
+      "墨寶@利維坦": "Viper",
+      "雷丁頓@奧汀": "Sage",
+      "Nobu卡茲@鳳凰": "WhiteMage"
+    }
   }
 ]
