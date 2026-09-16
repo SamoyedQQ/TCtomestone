@@ -98504,5 +98504,33 @@
       "Eliya@泰坦": "BlackMage",
       "椒鹽杏鮑菇@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "736vZrVQpaDghzqP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "座敷童女@迦樓羅",
+      "皮皮滷波皮滷@鳳凰",
+      "里歐@迦樓羅",
+      "衛斯理@迦樓羅",
+      "尼修@迦樓羅",
+      "尼今天平凡嗎@迦樓羅",
+      "Mafdet@迦樓羅",
+      "白之貓狐@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 818458,
+    "clear_dt_ms": 1789565107273,
+    "jobs": {
+      "座敷童女@迦樓羅": "Dancer",
+      "皮皮滷波皮滷@鳳凰": "Viper",
+      "里歐@迦樓羅": "Monk",
+      "衛斯理@迦樓羅": "Paladin",
+      "尼修@迦樓羅": "Sage",
+      "尼今天平凡嗎@迦樓羅": "Summoner",
+      "Mafdet@迦樓羅": "Gunbreaker",
+      "白之貓狐@迦樓羅": "Scholar"
+    }
   }
 ]
