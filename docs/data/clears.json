@@ -98476,5 +98476,33 @@
       "雷丁頓@奧汀": "Sage",
       "Nobu卡茲@鳳凰": "WhiteMage"
     }
+  },
+  {
+    "code": "Yf71yb8Cnt4kGvwq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "寒鐵德魯伊@利維坦",
+      "草peko虐@利維坦",
+      "拉長耳朵@利維坦",
+      "小鳶@利維坦",
+      "直升機@鳳凰",
+      "醉花o@迦樓羅",
+      "Eliya@泰坦",
+      "椒鹽杏鮑菇@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 855147,
+    "clear_dt_ms": 1789548010622,
+    "jobs": {
+      "寒鐵德魯伊@利維坦": "Scholar",
+      "草peko虐@利維坦": "Dancer",
+      "拉長耳朵@利維坦": "Monk",
+      "小鳶@利維坦": "Warrior",
+      "直升機@鳳凰": "Astrologian",
+      "醉花o@迦樓羅": "RedMage",
+      "Eliya@泰坦": "BlackMage",
+      "椒鹽杏鮑菇@迦樓羅": "Paladin"
+    }
   }
 ]
