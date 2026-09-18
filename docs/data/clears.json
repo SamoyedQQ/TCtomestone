@@ -99344,5 +99344,61 @@
       "澤星@迦樓羅": "Summoner",
       "郝響稅@迦樓羅": "Astrologian"
     }
+  },
+  {
+    "code": "bHrFtqhAjDQpMKd2",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@奧汀",
+      "陽光彩虹白駒@迦樓羅",
+      "小夢幻@奧汀",
+      "杏仁豆腐@奧汀",
+      "莉可@鳳凰",
+      "美花丸@奧汀",
+      "薇薇布@迦樓羅",
+      "早餐@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1118647,
+    "clear_dt_ms": 1789748587327,
+    "jobs": {
+      "Benny@奧汀": "Reaper",
+      "陽光彩虹白駒@迦樓羅": "Machinist",
+      "小夢幻@奧汀": "Sage",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "莉可@鳳凰": "Paladin",
+      "美花丸@奧汀": "Dragoon",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "早餐@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "mJG8aTpYyjARnwzP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "妮兒@迦樓羅",
+      "今井莉莎@奧汀",
+      "那由多壽司屋@迦樓羅",
+      "啾哇喲ouo@泰坦",
+      "西朗孤頭@泰坦",
+      "蛇蛇征服者@迦樓羅",
+      "黑狒狒@伊弗利特",
+      "且茗老茶@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 898227,
+    "clear_dt_ms": 1774802403240,
+    "jobs": {
+      "妮兒@迦樓羅": "BlackMage",
+      "今井莉莎@奧汀": "Sage",
+      "那由多壽司屋@迦樓羅": "Paladin",
+      "啾哇喲ouo@泰坦": "Warrior",
+      "西朗孤頭@泰坦": "Samurai",
+      "蛇蛇征服者@迦樓羅": "Summoner",
+      "黑狒狒@伊弗利特": "Dancer",
+      "且茗老茶@迦樓羅": "WhiteMage"
+    }
   }
 ]
