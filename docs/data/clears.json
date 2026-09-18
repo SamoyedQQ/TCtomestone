@@ -99400,5 +99400,61 @@
       "黑狒狒@伊弗利特": "Dancer",
       "且茗老茶@迦樓羅": "WhiteMage"
     }
+  },
+  {
+    "code": "JvxwQW2q1yktjhTb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "冰月雪歌@巴哈姆特",
+      "渚@巴哈姆特",
+      "杯子蛋糕@奧汀",
+      "Hiyaok@迦樓羅",
+      "小桶醬油@迦樓羅",
+      "藏忍忍@迦樓羅",
+      "五指長的嚇人@伊弗利特",
+      "Xinsa@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 878003,
+    "clear_dt_ms": 1789763007578,
+    "jobs": {
+      "冰月雪歌@巴哈姆特": "Paladin",
+      "渚@巴哈姆特": "Viper",
+      "杯子蛋糕@奧汀": "Scholar",
+      "Hiyaok@迦樓羅": "DarkKnight",
+      "小桶醬油@迦樓羅": "RedMage",
+      "藏忍忍@迦樓羅": "Dancer",
+      "五指長的嚇人@伊弗利特": "WhiteMage",
+      "Xinsa@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "nPT6RdJxB3wHyfcq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "納爾遜@鳳凰",
+      "金閃閃@奧汀",
+      "五宮零@奧汀",
+      "Lova@迦樓羅",
+      "馬爾三兄弟@泰坦",
+      "Natsum@奧汀",
+      "菲爾約@巴哈姆特",
+      "Desinc@奧汀"
+    ],
+    "fight_id": 31,
+    "duration_ms": 937821,
+    "clear_dt_ms": 1789757919110,
+    "jobs": {
+      "納爾遜@鳳凰": "Dragoon",
+      "金閃閃@奧汀": "Dancer",
+      "五宮零@奧汀": "Warrior",
+      "Lova@迦樓羅": "Scholar",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "Natsum@奧汀": "WhiteMage",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Desinc@奧汀": "BlackMage"
+    }
   }
 ]
