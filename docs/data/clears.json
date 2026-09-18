@@ -99064,5 +99064,117 @@
       "果賴咪@巴哈姆特": "Dragoon",
       "陽光彩虹白駒@迦樓羅": "Machinist"
     }
+  },
+  {
+    "code": "XABpQ3VMzkxGcgD9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@利維坦",
+      "柳如烟@伊弗利特",
+      "莉可@鳳凰",
+      "薇薇布@迦樓羅",
+      "杏仁豆腐@奧汀",
+      "小夢幻@奧汀",
+      "果賴咪@巴哈姆特",
+      "陽光彩虹白駒@迦樓羅"
+    ],
+    "fight_id": 23,
+    "duration_ms": 1121669,
+    "clear_dt_ms": 1789740734146,
+    "jobs": {
+      "Benny@利維坦": "Monk",
+      "柳如烟@伊弗利特": "BlackMage",
+      "莉可@鳳凰": "Paladin",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "小夢幻@奧汀": "Sage",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "陽光彩虹白駒@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "XABpQ3VMzkxGcgD9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@利維坦",
+      "莉可@鳳凰",
+      "薇薇布@迦樓羅",
+      "杏仁豆腐@奧汀",
+      "小夢幻@奧汀",
+      "甜甜的小仙女@巴哈姆特",
+      "早餐@利維坦",
+      "陽光彩虹白駒@迦樓羅"
+    ],
+    "fight_id": 25,
+    "duration_ms": 1119877,
+    "clear_dt_ms": 1789743809384,
+    "jobs": {
+      "Benny@利維坦": "Monk",
+      "莉可@鳳凰": "Paladin",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "小夢幻@奧汀": "Sage",
+      "甜甜的小仙女@巴哈姆特": "Samurai",
+      "早餐@利維坦": "Pictomancer",
+      "陽光彩虹白駒@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "XABpQ3VMzkxGcgD9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Benny@奧汀",
+      "莉可@鳳凰",
+      "薇薇布@迦樓羅",
+      "美花丸@奧汀",
+      "杏仁豆腐@奧汀",
+      "小夢幻@奧汀",
+      "早餐@利維坦",
+      "陽光彩虹白駒@迦樓羅"
+    ],
+    "fight_id": 26,
+    "duration_ms": 1118583,
+    "clear_dt_ms": 1789745988631,
+    "jobs": {
+      "Benny@奧汀": "Viper",
+      "莉可@鳳凰": "Paladin",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "美花丸@奧汀": "Dragoon",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "小夢幻@奧汀": "Sage",
+      "早餐@利維坦": "Pictomancer",
+      "陽光彩虹白駒@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "dfDPQxM1kXTZ8CHL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "哈士奇@利維坦",
+      "封屁者桐人@迦樓羅",
+      "蝶蝶不修@利維坦",
+      "克拉烏蒂雅@利維坦",
+      "千穗@利維坦",
+      "Den@迦樓羅",
+      "Shibai@利維坦",
+      "縵霓@利維坦"
+    ],
+    "fight_id": 29,
+    "duration_ms": 972980,
+    "clear_dt_ms": 1789740321191,
+    "jobs": {
+      "哈士奇@利維坦": "Ninja",
+      "封屁者桐人@迦樓羅": "Paladin",
+      "蝶蝶不修@利維坦": "Dancer",
+      "克拉烏蒂雅@利維坦": "RedMage",
+      "千穗@利維坦": "Warrior",
+      "Den@迦樓羅": "Astrologian",
+      "Shibai@利維坦": "Samurai",
+      "縵霓@利維坦": "Scholar"
+    }
   }
 ]
