@@ -99456,5 +99456,61 @@
       "菲爾約@巴哈姆特": "Pictomancer",
       "Desinc@奧汀": "BlackMage"
     }
+  },
+  {
+    "code": "wG7Dyx8mcFdZQVB1",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "繪灵@奧汀",
+      "咿呀哈@泰坦",
+      "Tiny石頭@泰坦",
+      "小小飯桶@泰坦",
+      "極速型小豆丁@泰坦",
+      "守護型小豆丁@泰坦",
+      "一個劍術師@泰坦",
+      "雪月狐@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1120953,
+    "clear_dt_ms": 1786780686605,
+    "jobs": {
+      "繪灵@奧汀": "Astrologian",
+      "咿呀哈@泰坦": "Bard",
+      "Tiny石頭@泰坦": "Monk",
+      "小小飯桶@泰坦": "Scholar",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "守護型小豆丁@泰坦": "DarkKnight",
+      "一個劍術師@泰坦": "Paladin",
+      "雪月狐@奧汀": "Pictomancer"
+    }
+  },
+  {
+    "code": "wG7Dyx8mcFdZQVB1",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "繪灵@奧汀",
+      "咿呀哈@泰坦",
+      "Tiny石頭@泰坦",
+      "小小飯桶@泰坦",
+      "極速型小豆丁@泰坦",
+      "守護型小豆丁@泰坦",
+      "一個劍術師@泰坦",
+      "雪月狐@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1119563,
+    "clear_dt_ms": 1786782059325,
+    "jobs": {
+      "繪灵@奧汀": "Astrologian",
+      "咿呀哈@泰坦": "Bard",
+      "Tiny石頭@泰坦": "Monk",
+      "小小飯桶@泰坦": "Scholar",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "守護型小豆丁@泰坦": "DarkKnight",
+      "一個劍術師@泰坦": "Paladin",
+      "雪月狐@奧汀": "Pictomancer"
+    }
   }
 ]
