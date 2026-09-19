@@ -99568,5 +99568,33 @@
       "醉花o@迦樓羅": "Dancer",
       "梅洛洛@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "hAYqt613MvC9fbKD",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "芋泥休斯頓@迦樓羅",
+      "薇薇布@迦樓羅",
+      "虛零@鳳凰",
+      "侑介@迦樓羅",
+      "小夢幻@奧汀",
+      "Dadada@伊弗利特",
+      "Fubuki@奧汀",
+      "Harii@奧汀"
+    ],
+    "fight_id": 53,
+    "duration_ms": 1126173,
+    "clear_dt_ms": 1789808685582,
+    "jobs": {
+      "芋泥休斯頓@迦樓羅": "Dragoon",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "虛零@鳳凰": "Astrologian",
+      "侑介@迦樓羅": "Bard",
+      "小夢幻@奧汀": "Sage",
+      "Dadada@伊弗利特": "Paladin",
+      "Fubuki@奧汀": "BlackMage",
+      "Harii@奧汀": "Viper"
+    }
   }
 ]
