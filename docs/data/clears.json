@@ -99652,5 +99652,89 @@
       "用心待人@奧汀": "Astrologian",
       "Lova@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "VApQNdjrPyq2zYMR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "在下毛毛@泰坦",
+      "試驗型小豆丁@泰坦",
+      "Tiny石頭@泰坦",
+      "極速型小豆丁@泰坦",
+      "拉拉菲悠@巴哈姆特",
+      "嘩啦@泰坦",
+      "Hmaster@迦樓羅",
+      "繪靈@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1115132,
+    "clear_dt_ms": 1789809964338,
+    "jobs": {
+      "在下毛毛@泰坦": "Paladin",
+      "試驗型小豆丁@泰坦": "Pictomancer",
+      "Tiny石頭@泰坦": "Monk",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "拉拉菲悠@巴哈姆特": "DarkKnight",
+      "嘩啦@泰坦": "Bard",
+      "Hmaster@迦樓羅": "Scholar",
+      "繪靈@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "fPpKLBWbxFAgvhZY",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "試驗型小豆丁@泰坦",
+      "Tiny石頭@泰坦",
+      "拉拉菲悠@巴哈姆特",
+      "在下毛毛@泰坦",
+      "Hmaster@迦樓羅",
+      "極速型小豆丁@泰坦",
+      "嘩啦@泰坦",
+      "繪靈@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1108823,
+    "clear_dt_ms": 1789808433064,
+    "jobs": {
+      "試驗型小豆丁@泰坦": "Pictomancer",
+      "Tiny石頭@泰坦": "Monk",
+      "拉拉菲悠@巴哈姆特": "DarkKnight",
+      "在下毛毛@泰坦": "Paladin",
+      "Hmaster@迦樓羅": "Scholar",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "嘩啦@泰坦": "Bard",
+      "繪靈@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "KxYLmW9j7R3Jn4HP",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "拉拉菲悠@巴哈姆特",
+      "Tory@泰坦",
+      "試驗型小豆丁@泰坦",
+      "極速型小豆丁@泰坦",
+      "Hmaster@迦樓羅",
+      "Tiny石頭@泰坦",
+      "在下毛毛@泰坦",
+      "繪靈@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1114985,
+    "clear_dt_ms": 1789807261000,
+    "jobs": {
+      "拉拉菲悠@巴哈姆特": "DarkKnight",
+      "Tory@泰坦": "Bard",
+      "試驗型小豆丁@泰坦": "Pictomancer",
+      "極速型小豆丁@泰坦": "Dragoon",
+      "Hmaster@迦樓羅": "Scholar",
+      "Tiny石頭@泰坦": "Monk",
+      "在下毛毛@泰坦": "Paladin",
+      "繪靈@巴哈姆特": "Astrologian"
+    }
   }
 ]
