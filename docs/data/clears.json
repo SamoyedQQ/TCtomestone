@@ -99512,5 +99512,61 @@
       "一個劍術師@泰坦": "Paladin",
       "雪月狐@奧汀": "Pictomancer"
     }
+  },
+  {
+    "code": "N67z3caPvrTY1kjn",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Yaron@利維坦",
+      "菲爾約@巴哈姆特",
+      "Diaulo@迦樓羅",
+      "伊卡@伊弗利特",
+      "小落奈@巴哈姆特",
+      "Iehtan@泰坦",
+      "梧刻@迦樓羅",
+      "五宮零@奧汀"
+    ],
+    "fight_id": 36,
+    "duration_ms": 969259,
+    "clear_dt_ms": 1789634061668,
+    "jobs": {
+      "Yaron@利維坦": "Sage",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Diaulo@迦樓羅": "Samurai",
+      "伊卡@伊弗利特": "Machinist",
+      "小落奈@巴哈姆特": "Gunbreaker",
+      "Iehtan@泰坦": "WhiteMage",
+      "梧刻@迦樓羅": "Ninja",
+      "五宮零@奧汀": "Warrior"
+    }
+  },
+  {
+    "code": "N67z3caPvrTY1kjn",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Oftum@鳳凰",
+      "御子飯糰@鳳凰",
+      "菲爾約@巴哈姆特",
+      "赫雨娜希恩@迦樓羅",
+      "草莓可麗餅@利維坦",
+      "積美希@利維坦",
+      "醉花o@迦樓羅",
+      "梅洛洛@利維坦"
+    ],
+    "fight_id": 76,
+    "duration_ms": 997644,
+    "clear_dt_ms": 1789662464703,
+    "jobs": {
+      "Oftum@鳳凰": "DarkKnight",
+      "御子飯糰@鳳凰": "Astrologian",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "赫雨娜希恩@迦樓羅": "BlackMage",
+      "草莓可麗餅@利維坦": "Samurai",
+      "積美希@利維坦": "Scholar",
+      "醉花o@迦樓羅": "Dancer",
+      "梅洛洛@利維坦": "Paladin"
+    }
   }
 ]
