@@ -99596,5 +99596,61 @@
       "Fubuki@奧汀": "BlackMage",
       "Harii@奧汀": "Viper"
     }
+  },
+  {
+    "code": "xrvCVXMzP74NHJyh",
+    "title": "0919",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "五宮零@奧汀",
+      "Natsum@奧汀",
+      "菲爾約@巴哈姆特",
+      "Diaulo@迦樓羅",
+      "Desinc@奧汀",
+      "二v@迦樓羅",
+      "金閃閃@奧汀",
+      "Joers@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 937024,
+    "clear_dt_ms": 1789760637917,
+    "jobs": {
+      "五宮零@奧汀": "Warrior",
+      "Natsum@奧汀": "WhiteMage",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Diaulo@迦樓羅": "Samurai",
+      "Desinc@奧汀": "Dragoon",
+      "二v@迦樓羅": "Sage",
+      "金閃閃@奧汀": "Dancer",
+      "Joers@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "NC8qv4HZ6aAphPjX",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Pong@伊弗利特",
+      "慎真@利維坦",
+      "不凋花@伊弗利特",
+      "黑魔@奧汀",
+      "小殘@巴哈姆特",
+      "逆轉壽司@迦樓羅",
+      "用心待人@奧汀",
+      "Lova@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 949582,
+    "clear_dt_ms": 1789805624052,
+    "jobs": {
+      "Pong@伊弗利特": "Machinist",
+      "慎真@利維坦": "Dragoon",
+      "不凋花@伊弗利特": "Monk",
+      "黑魔@奧汀": "BlackMage",
+      "小殘@巴哈姆特": "Paladin",
+      "逆轉壽司@迦樓羅": "Warrior",
+      "用心待人@奧汀": "Astrologian",
+      "Lova@迦樓羅": "Scholar"
+    }
   }
 ]
