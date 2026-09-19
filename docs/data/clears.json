@@ -99736,5 +99736,89 @@
       "在下毛毛@泰坦": "Paladin",
       "繪靈@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "nv9xX8r4mPhdV1Jb",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "咖哩暴龍@迦樓羅",
+      "陰暗爬行初華@利維坦",
+      "梅幽芊@伊弗利特",
+      "銀鈴@伊弗利特",
+      "帽子給我好嗎@伊弗利特",
+      "繆雅菈@鳳凰",
+      "Exsalt@鳳凰",
+      "骯髒毛毯@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1121995,
+    "clear_dt_ms": 1789828727994,
+    "jobs": {
+      "咖哩暴龍@迦樓羅": "Viper",
+      "陰暗爬行初華@利維坦": "BlackMage",
+      "梅幽芊@伊弗利特": "Scholar",
+      "銀鈴@伊弗利特": "WhiteMage",
+      "帽子給我好嗎@伊弗利特": "Paladin",
+      "繆雅菈@鳳凰": "Dancer",
+      "Exsalt@鳳凰": "DarkKnight",
+      "骯髒毛毯@伊弗利特": "Monk"
+    }
+  },
+  {
+    "code": "VxkAQftRKCBZgJzj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Wiee@伊弗利特",
+      "笭@迦樓羅",
+      "夜月月@迦樓羅",
+      "蒜香脆皮雞排@迦樓羅",
+      "巴尾的熊@鳳凰",
+      "Jine@巴哈姆特",
+      "Husky@伊弗利特",
+      "Buuyee@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 946226,
+    "clear_dt_ms": 1789823639436,
+    "jobs": {
+      "Wiee@伊弗利特": "DarkKnight",
+      "笭@迦樓羅": "Machinist",
+      "夜月月@迦樓羅": "Monk",
+      "蒜香脆皮雞排@迦樓羅": "Paladin",
+      "巴尾的熊@鳳凰": "Samurai",
+      "Jine@巴哈姆特": "BlackMage",
+      "Husky@伊弗利特": "Sage",
+      "Buuyee@巴哈姆特": "WhiteMage"
+    }
+  },
+  {
+    "code": "VxkAQftRKCBZgJzj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Linlin@奧汀",
+      "逆亞@迦樓羅",
+      "Dn七四@迦樓羅",
+      "有隻鳥@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "風藍@迦樓羅",
+      "奶刀文文@利維坦",
+      "巴尾的熊@鳳凰"
+    ],
+    "fight_id": 7,
+    "duration_ms": 865142,
+    "clear_dt_ms": 1789829700508,
+    "jobs": {
+      "Linlin@奧汀": "Dancer",
+      "逆亞@迦樓羅": "Sage",
+      "Dn七四@迦樓羅": "Astrologian",
+      "有隻鳥@迦樓羅": "Paladin",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "風藍@迦樓羅": "Summoner",
+      "奶刀文文@利維坦": "Dragoon",
+      "巴尾的熊@鳳凰": "RedMage"
+    }
   }
 ]
