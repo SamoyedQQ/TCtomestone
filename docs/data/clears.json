@@ -100016,5 +100016,117 @@
       "遊星歐米加@利維坦": "Dragoon",
       "Nacho@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "zm46WrkgajfwPhNM",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lunsix@泰坦",
+      "閻龍@利維坦",
+      "莎蓮@伊弗利特",
+      "阿葵@伊弗利特",
+      "Whitew@迦樓羅",
+      "浮米@泰坦",
+      "雲浪丨遊軒轅@鳳凰",
+      "Aqrsky@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1124698,
+    "clear_dt_ms": 1789894157934,
+    "jobs": {
+      "Lunsix@泰坦": "DarkKnight",
+      "閻龍@利維坦": "Paladin",
+      "莎蓮@伊弗利特": "Astrologian",
+      "阿葵@伊弗利特": "Ninja",
+      "Whitew@迦樓羅": "Samurai",
+      "浮米@泰坦": "Scholar",
+      "雲浪丨遊軒轅@鳳凰": "Summoner",
+      "Aqrsky@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "zm46WrkgajfwPhNM",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "閻龍@利維坦",
+      "莎蓮@伊弗利特",
+      "阿葵@伊弗利特",
+      "Whitew@迦樓羅",
+      "浮米@泰坦",
+      "雲浪丨遊軒轅@鳳凰",
+      "Aqrsky@伊弗利特",
+      "香草天空@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1126918,
+    "clear_dt_ms": 1789897306713,
+    "jobs": {
+      "閻龍@利維坦": "Paladin",
+      "莎蓮@伊弗利特": "Astrologian",
+      "阿葵@伊弗利特": "Ninja",
+      "Whitew@迦樓羅": "Samurai",
+      "浮米@泰坦": "Scholar",
+      "雲浪丨遊軒轅@鳳凰": "Summoner",
+      "Aqrsky@伊弗利特": "Dancer",
+      "香草天空@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "dvx9Y4tn7wahqWJG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "陰暗爬行初華@利維坦",
+      "Exsalt@鳳凰",
+      "銀鈴@伊弗利特",
+      "梅幽芊@伊弗利特",
+      "繆雅菈@鳳凰",
+      "骯髒毛毯@伊弗利特",
+      "帽子給我好嗎@伊弗利特",
+      "咖哩暴龍@迦樓羅"
+    ],
+    "fight_id": 60,
+    "duration_ms": 1121724,
+    "clear_dt_ms": 1789895796955,
+    "jobs": {
+      "陰暗爬行初華@利維坦": "BlackMage",
+      "Exsalt@鳳凰": "DarkKnight",
+      "銀鈴@伊弗利特": "WhiteMage",
+      "梅幽芊@伊弗利特": "Scholar",
+      "繆雅菈@鳳凰": "Dancer",
+      "骯髒毛毯@伊弗利特": "Monk",
+      "帽子給我好嗎@伊弗利特": "Paladin",
+      "咖哩暴龍@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "qyg1GYJmTftQ4cW7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "泠凌月@利維坦",
+      "安森@利維坦",
+      "卡丁醇@利維坦",
+      "好der船長@奧汀",
+      "Kairos@利維坦",
+      "諾亞氣泡水@泰坦",
+      "慎真@利維坦",
+      "雨天娃娃@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 848655,
+    "clear_dt_ms": 1789889937762,
+    "jobs": {
+      "泠凌月@利維坦": "Sage",
+      "安森@利維坦": "Warrior",
+      "卡丁醇@利維坦": "Paladin",
+      "好der船長@奧汀": "Pictomancer",
+      "Kairos@利維坦": "Astrologian",
+      "諾亞氣泡水@泰坦": "Monk",
+      "慎真@利維坦": "Bard",
+      "雨天娃娃@利維坦": "Summoner"
+    }
   }
 ]
