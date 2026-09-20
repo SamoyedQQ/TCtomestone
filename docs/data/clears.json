@@ -100464,5 +100464,89 @@
       "里斯@巴哈姆特": "Astrologian",
       "薇薇布@迦樓羅": "DarkKnight"
     }
+  },
+  {
+    "code": "4VNqTxdwm3JYQp8n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "芙莉蓮霧@奧汀",
+      "Sito@奧汀",
+      "霏雪空@迦樓羅",
+      "小落奈@巴哈姆特",
+      "Cangel@迦樓羅",
+      "掃把@伊弗利特",
+      "雪莉的放大鏡@巴哈姆特",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 948374,
+    "clear_dt_ms": 1789930679503,
+    "jobs": {
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "Sito@奧汀": "Astrologian",
+      "霏雪空@迦樓羅": "Samurai",
+      "小落奈@巴哈姆特": "Gunbreaker",
+      "Cangel@迦樓羅": "DarkKnight",
+      "掃把@伊弗利特": "Scholar",
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "三角初音@伊弗利特": "Monk"
+    }
+  },
+  {
+    "code": "wZcTrfxLCmjRMBn6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Enoki@鳳凰",
+      "Umisa@迦樓羅",
+      "魚fish@利維坦",
+      "呼呼泥·呼泥@利維坦",
+      "卡妮娜@鳳凰",
+      "小羊咩咩咩@利維坦",
+      "蜻蜓點火@伊弗利特",
+      "罐罐罐@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 964699,
+    "clear_dt_ms": 1789920849761,
+    "jobs": {
+      "Enoki@鳳凰": "DarkKnight",
+      "Umisa@迦樓羅": "BlackMage",
+      "魚fish@利維坦": "Samurai",
+      "呼呼泥·呼泥@利維坦": "WhiteMage",
+      "卡妮娜@鳳凰": "Warrior",
+      "小羊咩咩咩@利維坦": "Machinist",
+      "蜻蜓點火@伊弗利特": "Ninja",
+      "罐罐罐@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "pDLx4GhgTqWbY9mR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Titan / Ifrit",
+    "players": [
+      "穹情掐六@巴哈姆特",
+      "Kanei@利維坦",
+      "溼戀陣線聯盟@巴哈姆特",
+      "噢買夠都@奧汀",
+      "R雷@伊弗利特",
+      "Hane@泰坦",
+      "葉宥檸@巴哈姆特",
+      "恩布拉@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 857034,
+    "clear_dt_ms": 1778080821598,
+    "jobs": {
+      "穹情掐六@巴哈姆特": "Scholar",
+      "Kanei@利維坦": "Dragoon",
+      "溼戀陣線聯盟@巴哈姆特": "Gunbreaker",
+      "噢買夠都@奧汀": "Warrior",
+      "R雷@伊弗利特": "Dancer",
+      "Hane@泰坦": "Summoner",
+      "葉宥檸@巴哈姆特": "Astrologian",
+      "恩布拉@鳳凰": "Viper"
+    }
   }
 ]
