@@ -101136,5 +101136,33 @@
       "Sellyy@迦樓羅": "Dragoon",
       "夙月@巴哈姆特": "Dancer"
     }
+  },
+  {
+    "code": "8Ak4mBrMzLJphQa9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Walala@伊弗利特",
+      "参拾@伊弗利特",
+      "小町@伊弗利特",
+      "林立于此@利維坦",
+      "小呆酥@伊弗利特",
+      "此名無法顯示@迦樓羅",
+      "昊玥@利維坦",
+      "生魚片@伊弗利特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 995039,
+    "clear_dt_ms": 1790000464907,
+    "jobs": {
+      "Walala@伊弗利特": "Dragoon",
+      "参拾@伊弗利特": "WhiteMage",
+      "小町@伊弗利特": "Samurai",
+      "林立于此@利維坦": "Gunbreaker",
+      "小呆酥@伊弗利特": "Machinist",
+      "此名無法顯示@迦樓羅": "Summoner",
+      "昊玥@利維坦": "Paladin",
+      "生魚片@伊弗利特": "Sage"
+    }
   }
 ]
