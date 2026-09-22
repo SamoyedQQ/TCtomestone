@@ -101556,5 +101556,61 @@
       "一包黑芝麻@利維坦": "Paladin",
       "Neil@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "dHpqGaJ2cKmwv89L",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "魔甘娜米@伊弗利特",
+      "Levia炭@利維坦",
+      "Flag@伊弗利特",
+      "Twom@伊弗利特",
+      "蔥爆牛肉@伊弗利特",
+      "天海布丁@伊弗利特",
+      "十三么@伊弗利特",
+      "環@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121438,
+    "clear_dt_ms": 1790092602713,
+    "jobs": {
+      "魔甘娜米@伊弗利特": "WhiteMage",
+      "Levia炭@利維坦": "Gunbreaker",
+      "Flag@伊弗利特": "Pictomancer",
+      "Twom@伊弗利特": "Dragoon",
+      "蔥爆牛肉@伊弗利特": "Scholar",
+      "天海布丁@伊弗利特": "DarkKnight",
+      "十三么@伊弗利特": "Reaper",
+      "環@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "16yv9AYLhwKjgfPN",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Flag@伊弗利特",
+      "蔥爆牛肉@伊弗利特",
+      "魔甘娜米@伊弗利特",
+      "天海布丁@伊弗利特",
+      "Levia炭@利維坦",
+      "Arasxi@奧汀",
+      "Twom@伊弗利特",
+      "環@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1122396,
+    "clear_dt_ms": 1790085218675,
+    "jobs": {
+      "Flag@伊弗利特": "Pictomancer",
+      "蔥爆牛肉@伊弗利特": "Scholar",
+      "魔甘娜米@伊弗利特": "WhiteMage",
+      "天海布丁@伊弗利特": "DarkKnight",
+      "Levia炭@利維坦": "Gunbreaker",
+      "Arasxi@奧汀": "Samurai",
+      "Twom@伊弗利特": "Dragoon",
+      "環@伊弗利特": "Dancer"
+    }
   }
 ]
