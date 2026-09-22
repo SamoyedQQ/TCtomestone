@@ -101164,5 +101164,33 @@
       "昊玥@利維坦": "Paladin",
       "生魚片@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "qpBAdy8QV3KLPt4N",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "雙魚阿嘉希@伊弗利特",
+      "好der船長@奧汀",
+      "白藍樂事人@巴哈姆特",
+      "涼@利維坦",
+      "Kzz@奧汀",
+      "條紋胖次@伊弗利特",
+      "她說她沒說@泰坦",
+      "玄祭@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 849593,
+    "clear_dt_ms": 1789988585019,
+    "jobs": {
+      "雙魚阿嘉希@伊弗利特": "WhiteMage",
+      "好der船長@奧汀": "Pictomancer",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "涼@利維坦": "Warrior",
+      "Kzz@奧汀": "Ninja",
+      "條紋胖次@伊弗利特": "Dancer",
+      "她說她沒說@泰坦": "Summoner",
+      "玄祭@利維坦": "Sage"
+    }
   }
 ]
