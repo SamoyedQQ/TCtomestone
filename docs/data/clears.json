@@ -101612,5 +101612,33 @@
       "Twom@伊弗利特": "Dragoon",
       "環@伊弗利特": "Dancer"
     }
+  },
+  {
+    "code": "dF9HNfDTGcmrKqjL",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "翔太郎@迦樓羅",
+      "秋月御飯@伊弗利特",
+      "叉燒蘋果派@巴哈姆特",
+      "海晴@伊弗利特",
+      "Tzehin@伊弗利特",
+      "尤吉歐@伊弗利特",
+      "Naukri@迦樓羅",
+      "走路草@鳳凰"
+    ],
+    "fight_id": 19,
+    "duration_ms": 1128242,
+    "clear_dt_ms": 1790099670393,
+    "jobs": {
+      "翔太郎@迦樓羅": "Ninja",
+      "秋月御飯@伊弗利特": "Pictomancer",
+      "叉燒蘋果派@巴哈姆特": "Dragoon",
+      "海晴@伊弗利特": "Gunbreaker",
+      "Tzehin@伊弗利特": "DarkKnight",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "Naukri@迦樓羅": "Scholar",
+      "走路草@鳳凰": "Bard"
+    }
   }
 ]
