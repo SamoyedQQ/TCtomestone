@@ -101780,5 +101780,33 @@
       "洪棗不姓洪@伊弗利特": "Dancer",
       "熊旦濟淚@利維坦": "Sage"
     }
+  },
+  {
+    "code": "Ht1wAvLMKrFXPNad",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "喜哩靠@奧汀",
+      "母湯叭啦@鳳凰",
+      "地方媽需要愛@奧汀",
+      "美堂蠻@奧汀",
+      "球哥@迦樓羅",
+      "好喝一直喝@利維坦",
+      "Shannn@鳳凰",
+      "小富富@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1129584,
+    "clear_dt_ms": 1790148424774,
+    "jobs": {
+      "喜哩靠@奧汀": "Paladin",
+      "母湯叭啦@鳳凰": "Warrior",
+      "地方媽需要愛@奧汀": "Dragoon",
+      "美堂蠻@奧汀": "Summoner",
+      "球哥@迦樓羅": "Machinist",
+      "好喝一直喝@利維坦": "Samurai",
+      "Shannn@鳳凰": "Scholar",
+      "小富富@鳳凰": "WhiteMage"
+    }
   }
 ]
