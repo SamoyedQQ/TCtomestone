@@ -102116,5 +102116,33 @@
       "米粉兔子@鳳凰": "Summoner",
       "巴尾的熊@鳳凰": "Paladin"
     }
+  },
+  {
+    "code": "NvqhzgL2K6AyGk49",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ryou@利維坦",
+      "凱特@鳳凰",
+      "菲爾約@巴哈姆特",
+      "納爾遜@鳳凰",
+      "索拉肥@鳳凰",
+      "夢璃@利維坦",
+      "夏日@迦樓羅",
+      "神秘夾克姐姐@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 959069,
+    "clear_dt_ms": 1790252864472,
+    "jobs": {
+      "Ryou@利維坦": "Astrologian",
+      "凱特@鳳凰": "Warrior",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "納爾遜@鳳凰": "Dragoon",
+      "索拉肥@鳳凰": "DarkKnight",
+      "夢璃@利維坦": "Scholar",
+      "夏日@迦樓羅": "Viper",
+      "神秘夾克姐姐@迦樓羅": "Machinist"
+    }
   }
 ]
