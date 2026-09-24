@@ -102396,5 +102396,89 @@
       "Nonvra@巴哈姆特": "WhiteMage",
       "仙女座@泰坦": "Summoner"
     }
+  },
+  {
+    "code": "89ac7bkJGR3Txf1K",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "深kaku@迦樓羅",
+      "咖啡拉花@迦樓羅",
+      "黑巧尼可可@迦樓羅",
+      "雪藏鮪魚@迦樓羅",
+      "翎櫻@迦樓羅",
+      "赫莫雪魚@迦樓羅",
+      "胖冬瓜@迦樓羅",
+      "芋仔冰@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 975154,
+    "clear_dt_ms": 1790269145269,
+    "jobs": {
+      "深kaku@迦樓羅": "Pictomancer",
+      "咖啡拉花@迦樓羅": "Paladin",
+      "黑巧尼可可@迦樓羅": "Samurai",
+      "雪藏鮪魚@迦樓羅": "BlackMage",
+      "翎櫻@迦樓羅": "Dancer",
+      "赫莫雪魚@迦樓羅": "Sage",
+      "胖冬瓜@迦樓羅": "Astrologian",
+      "芋仔冰@迦樓羅": "Warrior"
+    }
+  },
+  {
+    "code": "DZMfkrNQvyHxKCL4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "屁屁大師@利維坦",
+      "八百歲比名子@伊弗利特",
+      "呼呼泥·呼泥@利維坦",
+      "神秘夾克姐姐@迦樓羅",
+      "拾荒女孩@奧汀",
+      "Chima@伊弗利特",
+      "索拉肥@鳳凰",
+      "馬爾三兄弟@泰坦"
+    ],
+    "fight_id": 30,
+    "duration_ms": 954326,
+    "clear_dt_ms": 1790269255148,
+    "jobs": {
+      "屁屁大師@利維坦": "Scholar",
+      "八百歲比名子@伊弗利特": "Samurai",
+      "呼呼泥·呼泥@利維坦": "WhiteMage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage",
+      "拾荒女孩@奧汀": "Reaper",
+      "Chima@伊弗利特": "Dancer",
+      "索拉肥@鳳凰": "DarkKnight",
+      "馬爾三兄弟@泰坦": "Paladin"
+    }
+  },
+  {
+    "code": "PYkxhVTNZC1LgRQm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "小肥嘟嘟@利維坦",
+      "絢香@巴哈姆特",
+      "盧森堡@巴哈姆特",
+      "不要吵@利維坦",
+      "Ariesy@奧汀",
+      "西莉絲@利維坦",
+      "葡萄瓜子樹@迦樓羅",
+      "酉星酉星口巴@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1063301,
+    "clear_dt_ms": 1790265046948,
+    "jobs": {
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "絢香@巴哈姆特": "Dragoon",
+      "盧森堡@巴哈姆特": "Astrologian",
+      "不要吵@利維坦": "Dancer",
+      "Ariesy@奧汀": "Monk",
+      "西莉絲@利維坦": "DarkKnight",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "酉星酉星口巴@迦樓羅": "Scholar"
+    }
   }
 ]
