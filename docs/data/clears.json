@@ -102844,5 +102844,33 @@
       "卡丁醇@利維坦": "Paladin",
       "神秘夾克姐姐@迦樓羅": "Machinist"
     }
+  },
+  {
+    "code": "83cZk7P1bADnJRdv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "隔夜金針菇@巴哈姆特",
+      "索拉肥@鳳凰",
+      "生魚片@伊弗利特",
+      "諾亞氣泡水@泰坦",
+      "Chima@伊弗利特",
+      "安全上壘@巴哈姆特",
+      "甜甜的小仙女@巴哈姆特",
+      "卡丁醇@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 970884,
+    "clear_dt_ms": 1790316770267,
+    "jobs": {
+      "隔夜金針菇@巴哈姆特": "Astrologian",
+      "索拉肥@鳳凰": "DarkKnight",
+      "生魚片@伊弗利特": "Sage",
+      "諾亞氣泡水@泰坦": "Samurai",
+      "Chima@伊弗利特": "Dancer",
+      "安全上壘@巴哈姆特": "Monk",
+      "甜甜的小仙女@巴哈姆特": "BlackMage",
+      "卡丁醇@利維坦": "Paladin"
+    }
   }
 ]
