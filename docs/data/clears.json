@@ -103376,5 +103376,61 @@
       "魚丸探長@鳳凰": "BlackMage",
       "不雪@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "2r1WzGPwBFhDTa9J",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "欸紗@巴哈姆特",
+      "菲爾約@巴哈姆特",
+      "Dadada@伊弗利特",
+      "貓羊@迦樓羅",
+      "奧爾古斯塔斯@伊弗利特",
+      "燉牛肉超好吃@奧汀",
+      "發芽馬鈴薯@巴哈姆特",
+      "Diaulo@迦樓羅"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1121789,
+    "clear_dt_ms": 1790355157339,
+    "jobs": {
+      "欸紗@巴哈姆特": "Astrologian",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Dadada@伊弗利特": "Paladin",
+      "貓羊@迦樓羅": "Scholar",
+      "奧爾古斯塔斯@伊弗利特": "Dancer",
+      "燉牛肉超好吃@奧汀": "Dragoon",
+      "發芽馬鈴薯@巴哈姆特": "DarkKnight",
+      "Diaulo@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "Qmtc6T4KAgjZyXCp",
+    "title": "AL78",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "那由多壽司屋@迦樓羅",
+      "甜甜的小仙女@巴哈姆特",
+      "今井@奧汀",
+      "秋形蟲@利維坦",
+      "琶舞@迦樓羅",
+      "且茗老茶@迦樓羅",
+      "Souru@利維坦",
+      "Diaulo@迦樓羅"
+    ],
+    "fight_id": 13,
+    "duration_ms": 965134,
+    "clear_dt_ms": 1790365658349,
+    "jobs": {
+      "那由多壽司屋@迦樓羅": "Paladin",
+      "甜甜的小仙女@巴哈姆特": "BlackMage",
+      "今井@奧汀": "Warrior",
+      "秋形蟲@利維坦": "Summoner",
+      "琶舞@迦樓羅": "Bard",
+      "且茗老茶@迦樓羅": "Sage",
+      "Souru@利維坦": "WhiteMage",
+      "Diaulo@迦樓羅": "Samurai"
+    }
   }
 ]
