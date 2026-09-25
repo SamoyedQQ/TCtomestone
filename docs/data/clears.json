@@ -102648,5 +102648,201 @@
       "載客鳩舵手@伊弗利特": "DarkKnight",
       "雪糕糕@奧汀": "BlackMage"
     }
+  },
+  {
+    "code": "mApzD2CBtTnHh8Fj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "未來不好耶@利維坦",
+      "五月@巴哈姆特",
+      "黎森@伊弗利特",
+      "千反田@鳳凰",
+      "Norn@伊弗利特",
+      "凡塔希雅@迦樓羅",
+      "醉花o@迦樓羅",
+      "馬爾三兄弟@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 826953,
+    "clear_dt_ms": 1790330154800,
+    "jobs": {
+      "未來不好耶@利維坦": "Scholar",
+      "五月@巴哈姆特": "BlackMage",
+      "黎森@伊弗利特": "Astrologian",
+      "千反田@鳳凰": "Samurai",
+      "Norn@伊弗利特": "Paladin",
+      "凡塔希雅@迦樓羅": "Summoner",
+      "醉花o@迦樓羅": "Dancer",
+      "馬爾三兄弟@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "dcT1gMqtNJG38hD4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Mogg@伊弗利特",
+      "Second@鳳凰",
+      "小who豬@鳳凰",
+      "風野霜月@巴哈姆特",
+      "凡塔希雅@迦樓羅",
+      "李世河@巴哈姆特",
+      "Kairos@利維坦",
+      "五月@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 855973,
+    "clear_dt_ms": 1790327386531,
+    "jobs": {
+      "Mogg@伊弗利特": "Reaper",
+      "Second@鳳凰": "DarkKnight",
+      "小who豬@鳳凰": "RedMage",
+      "風野霜月@巴哈姆特": "Sage",
+      "凡塔希雅@迦樓羅": "Machinist",
+      "李世河@巴哈姆特": "Gunbreaker",
+      "Kairos@利維坦": "Astrologian",
+      "五月@巴哈姆特": "Summoner"
+    }
+  },
+  {
+    "code": "Jqa4RWVFtcYTBKMr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "沐夕瑾@利維坦",
+      "三角初音@伊弗利特",
+      "空澄雪奈o@伊弗利特",
+      "熊旦濟淚@利維坦",
+      "Ent@利維坦",
+      "雲雀北極星@利維坦",
+      "Yu丷咩@奧汀",
+      "諾亞氣泡水@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 883833,
+    "clear_dt_ms": 1790322637217,
+    "jobs": {
+      "沐夕瑾@利維坦": "Astrologian",
+      "三角初音@伊弗利特": "Dancer",
+      "空澄雪奈o@伊弗利特": "RedMage",
+      "熊旦濟淚@利維坦": "Sage",
+      "Ent@利維坦": "Paladin",
+      "雲雀北極星@利維坦": "DarkKnight",
+      "Yu丷咩@奧汀": "Monk",
+      "諾亞氣泡水@泰坦": "Samurai"
+    }
+  },
+  {
+    "code": "Jqa4RWVFtcYTBKMr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "三角初音@伊弗利特",
+      "沐夕瑾@利維坦",
+      "空澄雪奈o@伊弗利特",
+      "熊旦濟淚@利維坦",
+      "Ent@利維坦",
+      "雲雀北極星@利維坦",
+      "Yu丷咩@奧汀",
+      "諾亞氣泡水@泰坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 865011,
+    "clear_dt_ms": 1790326153663,
+    "jobs": {
+      "三角初音@伊弗利特": "Bard",
+      "沐夕瑾@利維坦": "Astrologian",
+      "空澄雪奈o@伊弗利特": "RedMage",
+      "熊旦濟淚@利維坦": "Sage",
+      "Ent@利維坦": "Paladin",
+      "雲雀北極星@利維坦": "DarkKnight",
+      "Yu丷咩@奧汀": "Monk",
+      "諾亞氣泡水@泰坦": "Samurai"
+    }
+  },
+  {
+    "code": "wxzmZB9N71jVnvfr",
+    "title": "DSR",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Benny@奧汀",
+      "明日的希望@迦樓羅",
+      "小河狸@伊弗利特",
+      "Wenwen@伊弗利特",
+      "八百歲比名子@伊弗利特",
+      "崩落之旅人@利維坦",
+      "阿加德@泰坦",
+      "不凋花@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1103972,
+    "clear_dt_ms": 1790323625207,
+    "jobs": {
+      "Benny@奧汀": "Pictomancer",
+      "明日的希望@迦樓羅": "Warrior",
+      "小河狸@伊弗利特": "Dancer",
+      "Wenwen@伊弗利特": "DarkKnight",
+      "八百歲比名子@伊弗利特": "Samurai",
+      "崩落之旅人@利維坦": "Scholar",
+      "阿加德@泰坦": "Astrologian",
+      "不凋花@伊弗利特": "Reaper"
+    }
+  },
+  {
+    "code": "jHLvTX8wKBmRy3hP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "隔夜金針菇@巴哈姆特",
+      "草莓可麗餅@利維坦",
+      "菲爾約@巴哈姆特",
+      "生魚片@伊弗利特",
+      "索拉肥@鳳凰",
+      "卡丁醇@利維坦",
+      "墮鳶@利維坦",
+      "神秘夾克姐姐@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 979926,
+    "clear_dt_ms": 1790318621104,
+    "jobs": {
+      "隔夜金針菇@巴哈姆特": "Astrologian",
+      "草莓可麗餅@利維坦": "Samurai",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "生魚片@伊弗利特": "Sage",
+      "索拉肥@鳳凰": "DarkKnight",
+      "卡丁醇@利維坦": "Paladin",
+      "墮鳶@利維坦": "Monk",
+      "神秘夾克姐姐@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "jHLvTX8wKBmRy3hP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "隔夜金針菇@巴哈姆特",
+      "草莓可麗餅@利維坦",
+      "菲爾約@巴哈姆特",
+      "Dh@伊弗利特",
+      "生魚片@伊弗利特",
+      "索拉肥@鳳凰",
+      "卡丁醇@利維坦",
+      "神秘夾克姐姐@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 981294,
+    "clear_dt_ms": 1790320329955,
+    "jobs": {
+      "隔夜金針菇@巴哈姆特": "Astrologian",
+      "草莓可麗餅@利維坦": "Samurai",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Dh@伊弗利特": "Dragoon",
+      "生魚片@伊弗利特": "Sage",
+      "索拉肥@鳳凰": "DarkKnight",
+      "卡丁醇@利維坦": "Paladin",
+      "神秘夾克姐姐@迦樓羅": "Machinist"
+    }
   }
 ]
