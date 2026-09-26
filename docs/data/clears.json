@@ -103908,5 +103908,61 @@
       "犬神木南@利維坦": "Paladin",
       "老大是隻貓@鳳凰": "Samurai"
     }
+  },
+  {
+    "code": "vPfxLctFXaQgDWqh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "勾燈費雪@利維坦",
+      "菲爾約@巴哈姆特",
+      "笭@迦樓羅",
+      "小落奈@巴哈姆特",
+      "梅洛洛@利維坦",
+      "群青日和@泰坦",
+      "秋形蟲@利維坦",
+      "寒鐵德魯伊@利維坦"
+    ],
+    "fight_id": 18,
+    "duration_ms": 982573,
+    "clear_dt_ms": 1790456275322,
+    "jobs": {
+      "勾燈費雪@利維坦": "Summoner",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "笭@迦樓羅": "Sage",
+      "小落奈@巴哈姆特": "Gunbreaker",
+      "梅洛洛@利維坦": "Paladin",
+      "群青日和@泰坦": "Samurai",
+      "秋形蟲@利維坦": "Dancer",
+      "寒鐵德魯伊@利維坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "QxY6y47FhTBtLmG3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "浠悅嘟嘟@奧汀",
+      "星屑的懶狗卷@伊弗利特",
+      "Iweasu@迦樓羅",
+      "冬雨@利維坦",
+      "夏洛特@鳳凰",
+      "宏燒肉@迦樓羅",
+      "琶舞@迦樓羅",
+      "偷米@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 960057,
+    "clear_dt_ms": 1790449526635,
+    "jobs": {
+      "浠悅嘟嘟@奧汀": "Sage",
+      "星屑的懶狗卷@伊弗利特": "WhiteMage",
+      "Iweasu@迦樓羅": "BlackMage",
+      "冬雨@利維坦": "RedMage",
+      "夏洛特@鳳凰": "Warrior",
+      "宏燒肉@迦樓羅": "Paladin",
+      "琶舞@迦樓羅": "Samurai",
+      "偷米@奧汀": "Machinist"
+    }
   }
 ]
