@@ -103432,5 +103432,33 @@
       "Souru@利維坦": "WhiteMage",
       "Diaulo@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "YZpXy8JaGwrWjmRF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Peca@伊弗利特",
+      "琶舞@迦樓羅",
+      "群青日和@泰坦",
+      "派保@迦樓羅",
+      "陽光彩虹白駒@迦樓羅",
+      "夏洛特@鳳凰",
+      "璐小凌喵奈@利維坦",
+      "Kita@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 971682,
+    "clear_dt_ms": 1790394870435,
+    "jobs": {
+      "Peca@伊弗利特": "Pictomancer",
+      "琶舞@迦樓羅": "WhiteMage",
+      "群青日和@泰坦": "Monk",
+      "派保@迦樓羅": "Scholar",
+      "陽光彩虹白駒@迦樓羅": "Machinist",
+      "夏洛特@鳳凰": "Warrior",
+      "璐小凌喵奈@利維坦": "DarkKnight",
+      "Kita@利維坦": "Samurai"
+    }
   }
 ]
