@@ -104774,5 +104774,33 @@
       "梅洛洛@利維坦": "Paladin",
       "醉花o@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "cFA8w2nLJd9aKDYr",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "沐夕瑾@利維坦",
+      "顆顆顆@利維坦",
+      "Ent@利維坦",
+      "熊旦濟淚@利維坦",
+      "雲雀北極星@利維坦",
+      "洪棗不姓洪@伊弗利特",
+      "Yu丷咩@奧汀",
+      "卡布奇諾二@利維坦"
+    ],
+    "fight_id": 41,
+    "duration_ms": 868584,
+    "clear_dt_ms": 1790275269783,
+    "jobs": {
+      "沐夕瑾@利維坦": "Astrologian",
+      "顆顆顆@利維坦": "Summoner",
+      "Ent@利維坦": "Paladin",
+      "熊旦濟淚@利維坦": "Sage",
+      "雲雀北極星@利維坦": "DarkKnight",
+      "洪棗不姓洪@伊弗利特": "Dancer",
+      "Yu丷咩@奧汀": "Monk",
+      "卡布奇諾二@利維坦": "Dragoon"
+    }
   }
 ]
