@@ -221946,15 +221946,15 @@
     "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
     "is_clear": true,
     "boss_hp_pct": 0.0,
-    "rdps": 12540.404800326458,
-    "adps": 10587.897092580264,
+    "rdps": 12648.035056308401,
+    "adps": 10903.252409359324,
     "parse_pct": 0.0,
     "job": "Scholar",
-    "char_id": 1000006,
-    "report_code": "hdqnFGX3yxPJ26bL",
-    "fight_id": 8,
-    "timestamp_ms": 1784908803301,
-    "duration_ms": 1122233,
+    "char_id": 1001010,
+    "report_code": "9RQ6VvqpzjMxZtBD",
+    "fight_id": 20,
+    "timestamp_ms": 1790478110743,
+    "duration_ms": 1118220,
     "phase_reached": 0
   },
   "Maple@伊弗利特:1079:Monk": {
@@ -368800,5 +368800,23 @@
     "timestamp_ms": 1790432482316,
     "duration_ms": 0,
     "phase_reached": 2
+  },
+  "Jokerz@伊弗利特:1079:Ninja": {
+    "name": "Jokerz",
+    "server": "伊弗利特",
+    "encounter_id": 1079,
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 28172.8013566662,
+    "adps": 28367.59894265507,
+    "parse_pct": 0.0,
+    "job": "Ninja",
+    "char_id": 1001030,
+    "report_code": "9RQ6VvqpzjMxZtBD",
+    "fight_id": 20,
+    "timestamp_ms": 1790478110743,
+    "duration_ms": 1118220,
+    "phase_reached": 0
   }
 }
