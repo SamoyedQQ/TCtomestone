@@ -104020,5 +104020,61 @@
       "永恆光戰@奧汀": "Pictomancer",
       "閻龍@利維坦": "Paladin"
     }
+  },
+  {
+    "code": "Q3hnkRc9HfGwxjqb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Second@鳳凰",
+      "不可@鳳凰",
+      "小who豬@鳳凰",
+      "Mogg@伊弗利特",
+      "櫻宿花@迦樓羅",
+      "栗栗@迦樓羅",
+      "卡丁醇@利維坦",
+      "我就真的菜丫@泰坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 851104,
+    "clear_dt_ms": 1790495883444,
+    "jobs": {
+      "Second@鳳凰": "Dragoon",
+      "不可@鳳凰": "DarkKnight",
+      "小who豬@鳳凰": "RedMage",
+      "Mogg@伊弗利特": "Astrologian",
+      "櫻宿花@迦樓羅": "Viper",
+      "栗栗@迦樓羅": "Sage",
+      "卡丁醇@利維坦": "Paladin",
+      "我就真的菜丫@泰坦": "Machinist"
+    }
+  },
+  {
+    "code": "kJCngH3wbWYvB4xh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "東方未明@利維坦",
+      "楊之甘露@利維坦",
+      "Yuka@鳳凰",
+      "三角初音@伊弗利特",
+      "喵皮o@鳳凰",
+      "安全上壘@巴哈姆特",
+      "Aimyon@泰坦",
+      "馬爾三兄弟@泰坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 968408,
+    "clear_dt_ms": 1790494398787,
+    "jobs": {
+      "東方未明@利維坦": "Sage",
+      "楊之甘露@利維坦": "Dancer",
+      "Yuka@鳳凰": "WhiteMage",
+      "三角初音@伊弗利特": "Ninja",
+      "喵皮o@鳳凰": "BlackMage",
+      "安全上壘@巴哈姆特": "Monk",
+      "Aimyon@泰坦": "DarkKnight",
+      "馬爾三兄弟@泰坦": "Paladin"
+    }
   }
 ]
