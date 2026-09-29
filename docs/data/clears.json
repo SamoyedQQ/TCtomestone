@@ -105642,5 +105642,57 @@
       "西·特莉格@鳳凰": "Dancer",
       "八奈見杏菜@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "698QwD7hBRrJyH1q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "異累k@迦樓羅",
+      "仙女座@泰坦",
+      "小銀@巴哈姆特",
+      "點點兔子@巴哈姆特",
+      "梨月花@巴哈姆特",
+      "Nonvra@巴哈姆特",
+      "紅玉@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 861195,
+    "clear_dt_ms": 1790606130642,
+    "jobs": {
+      "異累k@迦樓羅": "Sage",
+      "仙女座@泰坦": "Summoner",
+      "小銀@巴哈姆特": "Machinist",
+      "點點兔子@巴哈姆特": "Paladin",
+      "梨月花@巴哈姆特": "Ninja",
+      "Nonvra@巴哈姆特": "WhiteMage",
+      "紅玉@巴哈姆特": "Monk"
+    }
+  },
+  {
+    "code": "698QwD7hBRrJyH1q",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "異累k@迦樓羅",
+      "仙女座@泰坦",
+      "小銀@巴哈姆特",
+      "點點兔子@巴哈姆特",
+      "梨月花@巴哈姆特",
+      "Nonvra@巴哈姆特",
+      "紅玉@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 856153,
+    "clear_dt_ms": 1790607911073,
+    "jobs": {
+      "異累k@迦樓羅": "Sage",
+      "仙女座@泰坦": "Summoner",
+      "小銀@巴哈姆特": "Machinist",
+      "點點兔子@巴哈姆特": "Paladin",
+      "梨月花@巴哈姆特": "Ninja",
+      "Nonvra@巴哈姆特": "WhiteMage",
+      "紅玉@巴哈姆特": "Monk"
+    }
   }
 ]
