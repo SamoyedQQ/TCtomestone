@@ -105614,5 +105614,33 @@
       "咳嗽機@利維坦": "DarkKnight",
       "鼓舞激勵之策@奧汀": "Sage"
     }
+  },
+  {
+    "code": "paT7wh2d3CYZArPM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "阿熏@泰坦",
+      "Kennyt@巴哈姆特",
+      "白宣@泰坦",
+      "蕎麥鮮奶茶@伊弗利特",
+      "Ptcat@利維坦",
+      "穗宮園紫香@鳳凰",
+      "西·特莉格@鳳凰",
+      "八奈見杏菜@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1114552,
+    "clear_dt_ms": 1790650636095,
+    "jobs": {
+      "阿熏@泰坦": "Astrologian",
+      "Kennyt@巴哈姆特": "Samurai",
+      "白宣@泰坦": "DarkKnight",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "Ptcat@利維坦": "Warrior",
+      "穗宮園紫香@鳳凰": "Dragoon",
+      "西·特莉格@鳳凰": "Dancer",
+      "八奈見杏菜@迦樓羅": "BlackMage"
+    }
   }
 ]
