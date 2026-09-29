@@ -105694,5 +105694,33 @@
       "Nonvra@巴哈姆特": "WhiteMage",
       "紅玉@巴哈姆特": "Monk"
     }
+  },
+  {
+    "code": "XTFa7tDZpHrAR9qb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Poma@泰坦",
+      "蒜頭蛤蠣雞湯@伊弗利特",
+      "馬鈴薯排骨@伊弗利特",
+      "蘋果茉莉@伊弗利特",
+      "往生威@迦樓羅",
+      "茶水@迦樓羅",
+      "小莫說@巴哈姆特",
+      "什麼@巴哈姆特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1064060,
+    "clear_dt_ms": 1790612115003,
+    "jobs": {
+      "Poma@泰坦": "Scholar",
+      "蒜頭蛤蠣雞湯@伊弗利特": "Summoner",
+      "馬鈴薯排骨@伊弗利特": "Sage",
+      "蘋果茉莉@伊弗利特": "Machinist",
+      "往生威@迦樓羅": "Warrior",
+      "茶水@迦樓羅": "Astrologian",
+      "小莫說@巴哈姆特": "Samurai",
+      "什麼@巴哈姆特": "Paladin"
+    }
   }
 ]
