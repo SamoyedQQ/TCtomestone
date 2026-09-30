@@ -105722,5 +105722,33 @@
       "小莫說@巴哈姆特": "Samurai",
       "什麼@巴哈姆特": "Paladin"
     }
+  },
+  {
+    "code": "dMnv7CGXkR4WN19p",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Ezzzzz@迦樓羅",
+      "艾瑟爾@伊弗利特",
+      "不可@鳳凰",
+      "放槍小精靈@奧汀",
+      "Lova@迦樓羅",
+      "劍十三@巴哈姆特",
+      "Mambo@奧汀",
+      "狐狸祭司@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 855386,
+    "clear_dt_ms": 1790761923449,
+    "jobs": {
+      "Ezzzzz@迦樓羅": "Warrior",
+      "艾瑟爾@伊弗利特": "Dancer",
+      "不可@鳳凰": "Paladin",
+      "放槍小精靈@奧汀": "BlackMage",
+      "Lova@迦樓羅": "Scholar",
+      "劍十三@巴哈姆特": "Samurai",
+      "Mambo@奧汀": "RedMage",
+      "狐狸祭司@奧汀": "Astrologian"
+    }
   }
 ]
