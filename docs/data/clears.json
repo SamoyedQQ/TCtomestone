@@ -106450,5 +106450,33 @@
       "光譜@巴哈姆特": "Scholar",
       "雅尼斯@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "acd4DrZvJKQRL8PY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Polar@伊弗利特",
+      "月亮阿緹密絲@迦樓羅",
+      "墮鳶@利維坦",
+      "索拉肥@鳳凰",
+      "老吳@巴哈姆特",
+      "Yinx@鳳凰",
+      "美美@伊弗利特",
+      "Chima@伊弗利特"
+    ],
+    "fight_id": 39,
+    "duration_ms": 881076,
+    "clear_dt_ms": 1790874742592,
+    "jobs": {
+      "Polar@伊弗利特": "Samurai",
+      "月亮阿緹密絲@迦樓羅": "WhiteMage",
+      "墮鳶@利維坦": "Warrior",
+      "索拉肥@鳳凰": "DarkKnight",
+      "老吳@巴哈姆特": "Dancer",
+      "Yinx@鳳凰": "Sage",
+      "美美@伊弗利特": "BlackMage",
+      "Chima@伊弗利特": "Summoner"
+    }
   }
 ]
