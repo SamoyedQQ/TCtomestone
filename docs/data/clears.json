@@ -106310,5 +106310,61 @@
       "八奈見杏菜@迦樓羅": "BlackMage",
       "白宣@泰坦": "DarkKnight"
     }
+  },
+  {
+    "code": "Nfw1QHycndgxMVr6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "鳶仔小饅頭@鳳凰",
+      "Koro@奧汀",
+      "笑容不是為我@迦樓羅",
+      "鳩可@迦樓羅",
+      "偷米@奧汀",
+      "布丁蜜豆奶@伊弗利特",
+      "Edsel@伊弗利特",
+      "栗米@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1133927,
+    "clear_dt_ms": 1790862859822,
+    "jobs": {
+      "鳶仔小饅頭@鳳凰": "Dragoon",
+      "Koro@奧汀": "WhiteMage",
+      "笑容不是為我@迦樓羅": "DarkKnight",
+      "鳩可@迦樓羅": "RedMage",
+      "偷米@奧汀": "Machinist",
+      "布丁蜜豆奶@伊弗利特": "Scholar",
+      "Edsel@伊弗利特": "Viper",
+      "栗米@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "N1qrMRCV2HQyzB9x",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "是伍陸@鳳凰",
+      "阿鳥@鳳凰",
+      "兔兔兔兔兔兔@泰坦",
+      "遊星歐米加@利維坦",
+      "雪地咚咚鼠@利維坦",
+      "搭波悠w@迦樓羅",
+      "超級拇指喬@鳳凰",
+      "Nacho@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1130876,
+    "clear_dt_ms": 1790858445471,
+    "jobs": {
+      "是伍陸@鳳凰": "Paladin",
+      "阿鳥@鳳凰": "Bard",
+      "兔兔兔兔兔兔@泰坦": "Astrologian",
+      "遊星歐米加@利維坦": "Dragoon",
+      "雪地咚咚鼠@利維坦": "Warrior",
+      "搭波悠w@迦樓羅": "BlackMage",
+      "超級拇指喬@鳳凰": "Sage",
+      "Nacho@鳳凰": "Monk"
+    }
   }
 ]
