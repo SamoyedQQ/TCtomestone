@@ -106366,5 +106366,89 @@
       "超級拇指喬@鳳凰": "Sage",
       "Nacho@鳳凰": "Monk"
     }
+  },
+  {
+    "code": "PCXypdwfKQcrJL3a",
+    "title": "10.1 絕亞",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "大家長@伊弗利特",
+      "玩到手好痠@奧汀",
+      "五月唯花@巴哈姆特",
+      "咳嗽機@利維坦",
+      "Haru@奧汀",
+      "風妖精一雷伊@鳳凰",
+      "我是天選@泰坦",
+      "樹巴拉斯@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 958740,
+    "clear_dt_ms": 1790869484766,
+    "jobs": {
+      "大家長@伊弗利特": "Bard",
+      "玩到手好痠@奧汀": "Reaper",
+      "五月唯花@巴哈姆特": "Paladin",
+      "咳嗽機@利維坦": "DarkKnight",
+      "Haru@奧汀": "WhiteMage",
+      "風妖精一雷伊@鳳凰": "Samurai",
+      "我是天選@泰坦": "Sage",
+      "樹巴拉斯@奧汀": "BlackMage"
+    }
+  },
+  {
+    "code": "K9gmFBVwt4RCXLWD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "一個劍術師@泰坦",
+      "Tiny石頭@鳳凰",
+      "饿了@鳳凰",
+      "黑魔king@利維坦",
+      "日落雨潮汐@奧汀",
+      "繪靈@泰坦",
+      "Hmaster@泰坦",
+      "嘩啦@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 971676,
+    "clear_dt_ms": 1790438927895,
+    "jobs": {
+      "一個劍術師@泰坦": "Gunbreaker",
+      "Tiny石頭@鳳凰": "Warrior",
+      "饿了@鳳凰": "Dragoon",
+      "黑魔king@利維坦": "Summoner",
+      "日落雨潮汐@奧汀": "WhiteMage",
+      "繪靈@泰坦": "Pictomancer",
+      "Hmaster@泰坦": "Scholar",
+      "嘩啦@泰坦": "Machinist"
+    }
+  },
+  {
+    "code": "6HJbFvgYyrKN3XhW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "青雀@利維坦",
+      "那由多壽司屋@迦樓羅",
+      "培根@利維坦",
+      "日式豬排@利維坦",
+      "Diaulo@迦樓羅",
+      "靜@巴哈姆特",
+      "光譜@巴哈姆特",
+      "雅尼斯@迦樓羅"
+    ],
+    "fight_id": 15,
+    "duration_ms": 967370,
+    "clear_dt_ms": 1790537070435,
+    "jobs": {
+      "青雀@利維坦": "Dragoon",
+      "那由多壽司屋@迦樓羅": "Warrior",
+      "培根@利維坦": "Paladin",
+      "日式豬排@利維坦": "Astrologian",
+      "Diaulo@迦樓羅": "Samurai",
+      "靜@巴哈姆特": "RedMage",
+      "光譜@巴哈姆特": "Scholar",
+      "雅尼斯@迦樓羅": "Dancer"
+    }
   }
 ]
