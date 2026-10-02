@@ -106926,5 +106926,33 @@
       "風妖精一雷伊@鳳凰": "Samurai",
       "咳嗽機@利維坦": "DarkKnight"
     }
+  },
+  {
+    "code": "7xkZVAXN9fyCG3Hh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "電漿衝鋒槍@奧汀",
+      "廉士@鳳凰",
+      "二v@迦樓羅",
+      "歪皮@伊弗利特",
+      "Sixwin@伊弗利特",
+      "丶芊菓@伊弗利特",
+      "李丁路哲@迦樓羅",
+      "阿·瓦諾@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1130616,
+    "clear_dt_ms": 1790967906713,
+    "jobs": {
+      "電漿衝鋒槍@奧汀": "Paladin",
+      "廉士@鳳凰": "BlackMage",
+      "二v@迦樓羅": "Bard",
+      "歪皮@伊弗利特": "Sage",
+      "Sixwin@伊弗利特": "Samurai",
+      "丶芊菓@伊弗利特": "Scholar",
+      "李丁路哲@迦樓羅": "Monk",
+      "阿·瓦諾@奧汀": "Gunbreaker"
+    }
   }
 ]
