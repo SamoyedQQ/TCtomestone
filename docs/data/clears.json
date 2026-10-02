@@ -106506,5 +106506,61 @@
       "Gua@迦樓羅": "Monk",
       "Pingu@伊弗利特": "Scholar"
     }
+  },
+  {
+    "code": "t9KGHqp4XAmFP316",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "秋風夜語@利維坦",
+      "諾爾@伊弗利特",
+      "可頌@巴哈姆特",
+      "Nagi嵐@巴哈姆特",
+      "田中帕托@巴哈姆特",
+      "艾莉緹婭@巴哈姆特",
+      "捏竹米酥@利維坦",
+      "諾亞氣泡水@泰坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 948823,
+    "clear_dt_ms": 1790948181916,
+    "jobs": {
+      "秋風夜語@利維坦": "Dancer",
+      "諾爾@伊弗利特": "Paladin",
+      "可頌@巴哈姆特": "Sage",
+      "Nagi嵐@巴哈姆特": "Warrior",
+      "田中帕托@巴哈姆特": "BlackMage",
+      "艾莉緹婭@巴哈姆特": "Monk",
+      "捏竹米酥@利維坦": "Dragoon",
+      "諾亞氣泡水@泰坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "kdNxAHYZ8rBmCGKn",
+    "title": "123",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "八奈見杏菜@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "茶水@迦樓羅",
+      "米爾凱森@迦樓羅",
+      "小瓦@迦樓羅",
+      "有隻鳥@迦樓羅",
+      "Poma@泰坦",
+      "林檎@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1141887,
+    "clear_dt_ms": 1790945240523,
+    "jobs": {
+      "八奈見杏菜@迦樓羅": "Warrior",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "茶水@迦樓羅": "Astrologian",
+      "米爾凱森@迦樓羅": "Dancer",
+      "小瓦@迦樓羅": "Samurai",
+      "有隻鳥@迦樓羅": "Scholar",
+      "Poma@泰坦": "Reaper",
+      "林檎@迦樓羅": "Pictomancer"
+    }
   }
 ]
