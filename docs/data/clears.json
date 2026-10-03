@@ -107066,5 +107066,89 @@
       "遊星歐米加@利維坦": "Dragoon",
       "搭波悠w@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "QRJ8A6Lc7mXBHj2k",
+    "title": "ULT WEAPON guide",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "風野霜月@巴哈姆特",
+      "蘿苾苾·蘿苾@鳳凰",
+      "超級布拉@巴哈姆特",
+      "緹厄珊@伊弗利特",
+      "凡塔希雅@迦樓羅",
+      "會出意外@巴哈姆特",
+      "阿莫莉絲@巴哈姆特",
+      "二階堂希蘿@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 870091,
+    "clear_dt_ms": 1791035139476,
+    "jobs": {
+      "風野霜月@巴哈姆特": "Sage",
+      "蘿苾苾·蘿苾@鳳凰": "RedMage",
+      "超級布拉@巴哈姆特": "Dancer",
+      "緹厄珊@伊弗利特": "Astrologian",
+      "凡塔希雅@迦樓羅": "Gunbreaker",
+      "會出意外@巴哈姆特": "Monk",
+      "阿莫莉絲@巴哈姆特": "Warrior",
+      "二階堂希蘿@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "wcPxkAFrWnqgMTzy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "凡塔希雅@迦樓羅",
+      "嘻嘻我一定要@鳳凰",
+      "蒲萄洞洞妖@迦樓羅",
+      "咪咪帽帽@鳳凰",
+      "雪染@泰坦",
+      "二階堂希蘿@巴哈姆特",
+      "馬爾三兄弟@泰坦",
+      "Auxm@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 881593,
+    "clear_dt_ms": 1791030316552,
+    "jobs": {
+      "凡塔希雅@迦樓羅": "Gunbreaker",
+      "嘻嘻我一定要@鳳凰": "WhiteMage",
+      "蒲萄洞洞妖@迦樓羅": "Machinist",
+      "咪咪帽帽@鳳凰": "Dragoon",
+      "雪染@泰坦": "Sage",
+      "二階堂希蘿@巴哈姆特": "Summoner",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "Auxm@伊弗利特": "Samurai"
+    }
+  },
+  {
+    "code": "wcPxkAFrWnqgMTzy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "她說她沒說@泰坦",
+      "阿量哥@迦樓羅",
+      "嘻嘻我一定要@鳳凰",
+      "Ccha@迦樓羅",
+      "呆呆奶黃包@泰坦",
+      "Sc@泰坦",
+      "阿ㄈ@鳳凰",
+      "Auxm@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 868762,
+    "clear_dt_ms": 1791034850929,
+    "jobs": {
+      "她說她沒說@泰坦": "Summoner",
+      "阿量哥@迦樓羅": "DarkKnight",
+      "嘻嘻我一定要@鳳凰": "WhiteMage",
+      "Ccha@迦樓羅": "Paladin",
+      "呆呆奶黃包@泰坦": "Monk",
+      "Sc@泰坦": "Machinist",
+      "阿ㄈ@鳳凰": "Sage",
+      "Auxm@伊弗利特": "Samurai"
+    }
   }
 ]
