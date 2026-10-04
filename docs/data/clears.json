@@ -107822,5 +107822,89 @@
       "紅月@迦樓羅": "Samurai",
       "能井@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "DkB9RbGqJmgwh6zH",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "洛賽特@巴哈姆特",
+      "暗影牙叉@伊弗利特",
+      "法國我@奧汀",
+      "醉仙月月@利維坦",
+      "秋@迦樓羅",
+      "Yuki醬@利維坦",
+      "葉卡琳特@利維坦",
+      "麻油@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1123282,
+    "clear_dt_ms": 1791101047075,
+    "jobs": {
+      "洛賽特@巴哈姆特": "Pictomancer",
+      "暗影牙叉@伊弗利特": "Dancer",
+      "法國我@奧汀": "Dragoon",
+      "醉仙月月@利維坦": "DarkKnight",
+      "秋@迦樓羅": "Paladin",
+      "Yuki醬@利維坦": "Monk",
+      "葉卡琳特@利維坦": "Scholar",
+      "麻油@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "DkB9RbGqJmgwh6zH",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "洛賽特@巴哈姆特",
+      "暗影牙叉@伊弗利特",
+      "法國我@奧汀",
+      "醉仙月月@利維坦",
+      "秋@迦樓羅",
+      "Yuki醬@利維坦",
+      "葉卡琳特@利維坦",
+      "麻油@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1125289,
+    "clear_dt_ms": 1791103759873,
+    "jobs": {
+      "洛賽特@巴哈姆特": "Pictomancer",
+      "暗影牙叉@伊弗利特": "Dancer",
+      "法國我@奧汀": "Dragoon",
+      "醉仙月月@利維坦": "DarkKnight",
+      "秋@迦樓羅": "Paladin",
+      "Yuki醬@利維坦": "Monk",
+      "葉卡琳特@利維坦": "Scholar",
+      "麻油@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "RqHrkvTYWg97ZQ1V",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "永恆光戰@奧汀",
+      "Amalos@利維坦",
+      "粉冬@奧汀",
+      "Dadada@伊弗利特",
+      "浮米@泰坦",
+      "尤吉歐@伊弗利特",
+      "紅燒竹鼠@迦樓羅",
+      "Iroha@巴哈姆特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 1124722,
+    "clear_dt_ms": 1791100764073,
+    "jobs": {
+      "永恆光戰@奧汀": "Pictomancer",
+      "Amalos@利維坦": "Reaper",
+      "粉冬@奧汀": "Samurai",
+      "Dadada@伊弗利特": "Paladin",
+      "浮米@泰坦": "Scholar",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "Iroha@巴哈姆特": "Dancer"
+    }
   }
 ]
