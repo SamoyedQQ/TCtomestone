@@ -107766,5 +107766,61 @@
       "Maxmmm@巴哈姆特": "DarkKnight",
       "Prinny@巴哈姆特": "Machinist"
     }
+  },
+  {
+    "code": "DwGa3q4AmfRMtBN7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "卡在原地不動@鳳凰",
+      "小小龍@鳳凰",
+      "沁心紅茶@利維坦",
+      "米爾提@利維坦",
+      "葛萊芬多多@迦樓羅",
+      "Ao@迦樓羅",
+      "潘內托內@利維坦",
+      "小阿呆@迦樓羅"
+    ],
+    "fight_id": 49,
+    "duration_ms": 1092857,
+    "clear_dt_ms": 1791053401633,
+    "jobs": {
+      "卡在原地不動@鳳凰": "Gunbreaker",
+      "小小龍@鳳凰": "DarkKnight",
+      "沁心紅茶@利維坦": "Astrologian",
+      "米爾提@利維坦": "BlackMage",
+      "葛萊芬多多@迦樓羅": "Sage",
+      "Ao@迦樓羅": "Dancer",
+      "潘內托內@利維坦": "Machinist",
+      "小阿呆@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "7qD1rJRYhNWaxAT9",
+    "title": "絕亞過啦",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "亞雷安@伊弗利特",
+      "亞雷孜@伊弗利特",
+      "阿落@伊弗利特",
+      "Kiriyu@伊弗利特",
+      "真是個好名字@泰坦",
+      "貓肉湯owo@伊弗利特",
+      "紅月@迦樓羅",
+      "能井@奧汀"
+    ],
+    "fight_id": 31,
+    "duration_ms": 975335,
+    "clear_dt_ms": 1791051039842,
+    "jobs": {
+      "亞雷安@伊弗利特": "Sage",
+      "亞雷孜@伊弗利特": "Pictomancer",
+      "阿落@伊弗利特": "Paladin",
+      "Kiriyu@伊弗利特": "Warrior",
+      "真是個好名字@泰坦": "Dragoon",
+      "貓肉湯owo@伊弗利特": "Dancer",
+      "紅月@迦樓羅": "Samurai",
+      "能井@奧汀": "Astrologian"
+    }
   }
 ]
