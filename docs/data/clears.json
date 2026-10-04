@@ -107906,5 +107906,201 @@
       "紅燒竹鼠@迦樓羅": "DarkKnight",
       "Iroha@巴哈姆特": "Dancer"
     }
+  },
+  {
+    "code": "HgA6TQLfDVqZ9z2m",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "椒麻雞@巴哈姆特",
+      "侑介@迦樓羅",
+      "杏仁豆腐@奧汀",
+      "芋泥休斯頓@迦樓羅",
+      "Yanjan@伊弗利特",
+      "Lunsix@泰坦",
+      "小夢幻@奧汀",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 20,
+    "duration_ms": 1119485,
+    "clear_dt_ms": 1791110557221,
+    "jobs": {
+      "椒麻雞@巴哈姆特": "Reaper",
+      "侑介@迦樓羅": "Bard",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "芋泥休斯頓@迦樓羅": "Dragoon",
+      "Yanjan@伊弗利特": "Paladin",
+      "Lunsix@泰坦": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "薇薇布@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "KJHQaBxArtnY6R1f",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "Nonvra@巴哈姆特",
+      "點點兔子@巴哈姆特",
+      "紅玉@巴哈姆特",
+      "小銀@巴哈姆特",
+      "異累k@迦樓羅",
+      "仙女座@泰坦",
+      "梨月花@巴哈姆特",
+      "阿吉美眉@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 857007,
+    "clear_dt_ms": 1791119944913,
+    "jobs": {
+      "Nonvra@巴哈姆特": "WhiteMage",
+      "點點兔子@巴哈姆特": "Paladin",
+      "紅玉@巴哈姆特": "Monk",
+      "小銀@巴哈姆特": "Machinist",
+      "異累k@迦樓羅": "Sage",
+      "仙女座@泰坦": "Summoner",
+      "梨月花@巴哈姆特": "Ninja",
+      "阿吉美眉@巴哈姆特": "Warrior"
+    }
+  },
+  {
+    "code": "wHJAGjf63PkN7XgK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Benny@奧汀",
+      "阿加德@泰坦",
+      "永愛三玖@巴哈姆特",
+      "陽光彩虹白駒@迦樓羅",
+      "旮旯給木高手@伊弗利特",
+      "黑魔@奧汀",
+      "Lavid@鳳凰",
+      "Benny@利維坦"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1070903,
+    "clear_dt_ms": 1791116326284,
+    "jobs": {
+      "Benny@奧汀": "Monk",
+      "阿加德@泰坦": "Astrologian",
+      "永愛三玖@巴哈姆特": "Dancer",
+      "陽光彩虹白駒@迦樓羅": "Reaper",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "黑魔@奧汀": "BlackMage",
+      "Lavid@鳳凰": "Paladin",
+      "Benny@利維坦": "Monk"
+    }
+  },
+  {
+    "code": "XbZprxQHRaDkh6CL",
+    "title": "絕神兵  消化",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Ccha@迦樓羅",
+      "未來不好耶@利維坦",
+      "夜映雪@泰坦",
+      "鳶仔小饅頭@鳳凰",
+      "Domirn@巴哈姆特",
+      "Skfish@巴哈姆特",
+      "焦糖胡麻布蕾@利維坦",
+      "桑原同學@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 860109,
+    "clear_dt_ms": 1791111461515,
+    "jobs": {
+      "Ccha@迦樓羅": "Paladin",
+      "未來不好耶@利維坦": "Dragoon",
+      "夜映雪@泰坦": "Viper",
+      "鳶仔小饅頭@鳳凰": "Summoner",
+      "Domirn@巴哈姆特": "Dancer",
+      "Skfish@巴哈姆特": "Scholar",
+      "焦糖胡麻布蕾@利維坦": "DarkKnight",
+      "桑原同學@泰坦": "WhiteMage"
+    }
+  },
+  {
+    "code": "HcnjzhrPJ98Kk6wL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Lova@迦樓羅",
+      "Aimbao@巴哈姆特",
+      "冠老闆@利維坦",
+      "段藏@利維坦",
+      "淡定普洱茶@奧汀",
+      "柳月雲@泰坦",
+      "塵月@鳳凰",
+      "Vita@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 837036,
+    "clear_dt_ms": 1791107978438,
+    "jobs": {
+      "Lova@迦樓羅": "Astrologian",
+      "Aimbao@巴哈姆特": "Ninja",
+      "冠老闆@利維坦": "Dancer",
+      "段藏@利維坦": "Paladin",
+      "淡定普洱茶@奧汀": "Scholar",
+      "柳月雲@泰坦": "Summoner",
+      "塵月@鳳凰": "BlackMage",
+      "Vita@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "2wDvC9VM3tgXJ6aZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "游刃游魚@迦樓羅",
+      "Mogg@伊弗利特",
+      "栗栗@迦樓羅",
+      "Second@鳳凰",
+      "稻荷小狐@鳳凰",
+      "冠老闆@利維坦",
+      "小who豬@鳳凰",
+      "Sealcy@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 840606,
+    "clear_dt_ms": 1791095112168,
+    "jobs": {
+      "游刃游魚@迦樓羅": "BlackMage",
+      "Mogg@伊弗利特": "Gunbreaker",
+      "栗栗@迦樓羅": "Sage",
+      "Second@鳳凰": "DarkKnight",
+      "稻荷小狐@鳳凰": "Dancer",
+      "冠老闆@利維坦": "Dragoon",
+      "小who豬@鳳凰": "RedMage",
+      "Sealcy@迦樓羅": "WhiteMage"
+    }
+  },
+  {
+    "code": "DrkCtTgywcX7ZdRx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "椒麻雞@巴哈姆特",
+      "侑介@迦樓羅",
+      "小夢幻@奧汀",
+      "杏仁豆腐@奧汀",
+      "薇薇布@迦樓羅",
+      "Maple@伊弗利特",
+      "海晴@伊弗利特",
+      "紅燒竹鼠@迦樓羅"
+    ],
+    "fight_id": 34,
+    "duration_ms": 1108747,
+    "clear_dt_ms": 1790438523673,
+    "jobs": {
+      "椒麻雞@巴哈姆特": "Reaper",
+      "侑介@迦樓羅": "Machinist",
+      "小夢幻@奧汀": "Sage",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Pictomancer",
+      "Maple@伊弗利特": "Monk",
+      "海晴@伊弗利特": "Gunbreaker",
+      "紅燒竹鼠@迦樓羅": "DarkKnight"
+    }
   }
 ]
