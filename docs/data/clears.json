@@ -109446,5 +109446,33 @@
       "阿爾博德之門@利維坦": "Sage",
       "法國我@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "Nh1QL4G8b9HvW6fT",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "月月丶@利維坦",
+      "哈哈密瓜@利維坦",
+      "Diaulo@迦樓羅",
+      "流星拉菲卡@迦樓羅",
+      "椒麻雞@巴哈姆特",
+      "貓羊@迦樓羅",
+      "Iroha@巴哈姆特",
+      "Dadada@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1119297,
+    "clear_dt_ms": 1791214300650,
+    "jobs": {
+      "月月丶@利維坦": "DarkKnight",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "Diaulo@迦樓羅": "Samurai",
+      "流星拉菲卡@迦樓羅": "BlackMage",
+      "椒麻雞@巴哈姆特": "Reaper",
+      "貓羊@迦樓羅": "Scholar",
+      "Iroha@巴哈姆特": "Dancer",
+      "Dadada@伊弗利特": "Paladin"
+    }
   }
 ]
