@@ -108998,5 +108998,117 @@
       "喵皮o@鳳凰": "Samurai",
       "神秘夾克姐姐@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "dzrD46gZFfmHxnTR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "濃醇鮮奶茶@鳳凰",
+      "Kanei@利維坦",
+      "Hane@泰坦",
+      "Grende@迦樓羅",
+      "虎鯊莎@利維坦",
+      "小男爵@利維坦",
+      "藍職龍奇@伊弗利特",
+      "Tkc洽@巴哈姆特"
+    ],
+    "fight_id": 19,
+    "duration_ms": 1118975,
+    "clear_dt_ms": 1791211504852,
+    "jobs": {
+      "濃醇鮮奶茶@鳳凰": "Astrologian",
+      "Kanei@利維坦": "Dragoon",
+      "Hane@泰坦": "Scholar",
+      "Grende@迦樓羅": "Pictomancer",
+      "虎鯊莎@利維坦": "Paladin",
+      "小男爵@利維坦": "DarkKnight",
+      "藍職龍奇@伊弗利特": "Reaper",
+      "Tkc洽@巴哈姆特": "Bard"
+    }
+  },
+  {
+    "code": "nq9mcx6MrDzyV4Kb",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "咩咩綿芽@巴哈姆特",
+      "珮迦谷@巴哈姆特",
+      "星河@巴哈姆特",
+      "曉犽伊莉莎@巴哈姆特",
+      "曜晞@巴哈姆特",
+      "大谷翔平@鳳凰",
+      "星街彗星@鳳凰",
+      "一代一代@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1124731,
+    "clear_dt_ms": 1791210271508,
+    "jobs": {
+      "咩咩綿芽@巴哈姆特": "Sage",
+      "珮迦谷@巴哈姆特": "Warrior",
+      "星河@巴哈姆特": "Pictomancer",
+      "曉犽伊莉莎@巴哈姆特": "Dancer",
+      "曜晞@巴哈姆特": "Monk",
+      "大谷翔平@鳳凰": "Samurai",
+      "星街彗星@鳳凰": "Paladin",
+      "一代一代@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "tfzHay7dkFPYNvXC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "Mokame@奧汀",
+      "積美希@利維坦",
+      "璐咘@奧汀",
+      "Krista@奧汀",
+      "米米莉@奧汀",
+      "波蝶琉璃@伊弗利特",
+      "Acedia@泰坦",
+      "維克·派金克@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1124672,
+    "clear_dt_ms": 1791215204730,
+    "jobs": {
+      "Mokame@奧汀": "Dragoon",
+      "積美希@利維坦": "BlackMage",
+      "璐咘@奧汀": "Warrior",
+      "Krista@奧汀": "Sage",
+      "米米莉@奧汀": "WhiteMage",
+      "波蝶琉璃@伊弗利特": "Dancer",
+      "Acedia@泰坦": "Gunbreaker",
+      "維克·派金克@奧汀": "Reaper"
+    }
+  },
+  {
+    "code": "X8TbCPp4kgLRfz12",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "超級布拉@巴哈姆特",
+      "蘿苾苾·蘿苾@鳳凰",
+      "風野霜月@巴哈姆特",
+      "李世河@巴哈姆特",
+      "會出意外@巴哈姆特",
+      "Arya@伊弗利特",
+      "阿莫莉絲@巴哈姆特",
+      "凡塔希雅@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 868043,
+    "clear_dt_ms": 1791210595128,
+    "jobs": {
+      "超級布拉@巴哈姆特": "Dancer",
+      "蘿苾苾·蘿苾@鳳凰": "RedMage",
+      "風野霜月@巴哈姆特": "Sage",
+      "李世河@巴哈姆特": "Gunbreaker",
+      "會出意外@巴哈姆特": "Monk",
+      "Arya@伊弗利特": "WhiteMage",
+      "阿莫莉絲@巴哈姆特": "Warrior",
+      "凡塔希雅@迦樓羅": "BlackMage"
+    }
   }
 ]
