@@ -109586,5 +109586,89 @@
       "璐咘@奧汀": "Warrior",
       "Seckil@奧汀": "Scholar"
     }
+  },
+  {
+    "code": "Q4vTNH3rYaLBqx1c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Domirn@巴哈姆特",
+      "Tuan@巴哈姆特",
+      "Gndd@鳳凰",
+      "Ezzzzz@迦樓羅",
+      "冠老闆@利維坦",
+      "我想問呢@泰坦",
+      "咪咪帽帽@鳳凰",
+      "Pocha@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 858093,
+    "clear_dt_ms": 1791301919906,
+    "jobs": {
+      "Domirn@巴哈姆特": "Dancer",
+      "Tuan@巴哈姆特": "Summoner",
+      "Gndd@鳳凰": "Dragoon",
+      "Ezzzzz@迦樓羅": "Warrior",
+      "冠老闆@利維坦": "Reaper",
+      "我想問呢@泰坦": "Scholar",
+      "咪咪帽帽@鳳凰": "WhiteMage",
+      "Pocha@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "YfB6KTLJRmpgXaP1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "米米莉@奧汀",
+      "Acedia@泰坦",
+      "Mokame@奧汀",
+      "積美希@利維坦",
+      "八百歲比名子@伊弗利特",
+      "Krista@奧汀",
+      "璐咘@奧汀",
+      "波蝶琉璃@伊弗利特"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1123017,
+    "clear_dt_ms": 1791301756719,
+    "jobs": {
+      "米米莉@奧汀": "WhiteMage",
+      "Acedia@泰坦": "Gunbreaker",
+      "Mokame@奧汀": "Dragoon",
+      "積美希@利維坦": "BlackMage",
+      "八百歲比名子@伊弗利特": "Samurai",
+      "Krista@奧汀": "Sage",
+      "璐咘@奧汀": "Warrior",
+      "波蝶琉璃@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "yDC7LTxMgRbcBJQw",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "Sito@奧汀",
+      "休@奧汀",
+      "Cangel@迦樓羅",
+      "娜諾妲@奧汀",
+      "小霖兒@奧汀",
+      "法律系阿嬤@奧汀",
+      "Carol@奧汀",
+      "Jcck@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 953538,
+    "clear_dt_ms": 1791297220834,
+    "jobs": {
+      "Sito@奧汀": "Astrologian",
+      "休@奧汀": "Sage",
+      "Cangel@迦樓羅": "DarkKnight",
+      "娜諾妲@奧汀": "Dancer",
+      "小霖兒@奧汀": "Samurai",
+      "法律系阿嬤@奧汀": "Pictomancer",
+      "Carol@奧汀": "Paladin",
+      "Jcck@奧汀": "RedMage"
+    }
   }
 ]
