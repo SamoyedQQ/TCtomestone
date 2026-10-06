@@ -109474,5 +109474,33 @@
       "Iroha@巴哈姆特": "Dancer",
       "Dadada@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "PtgW7YmRfTcaMjz6",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "浮米@泰坦",
+      "凡塔希雅@迦樓羅",
+      "Mogg@伊弗利特",
+      "Butter@泰坦",
+      "乞討男孩@鳳凰",
+      "維克·派金克@奧汀",
+      "喵皮o@鳳凰",
+      "Na@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 956229,
+    "clear_dt_ms": 1791265097616,
+    "jobs": {
+      "浮米@泰坦": "Sage",
+      "凡塔希雅@迦樓羅": "Paladin",
+      "Mogg@伊弗利特": "Astrologian",
+      "Butter@泰坦": "DarkKnight",
+      "乞討男孩@鳳凰": "Reaper",
+      "維克·派金克@奧汀": "Bard",
+      "喵皮o@鳳凰": "BlackMage",
+      "Na@伊弗利特": "Samurai"
+    }
   }
 ]
