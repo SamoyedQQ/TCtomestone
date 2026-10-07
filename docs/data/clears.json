@@ -110286,5 +110286,61 @@
       "予理@伊弗利特": "DarkKnight",
       "逢魔時王@迦樓羅": "Pictomancer"
     }
+  },
+  {
+    "code": "Vqtcpg4XhYjLaPM9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墨寶@利維坦",
+      "Aimbao@巴哈姆特",
+      "天使之吻@迦樓羅",
+      "草peko虐@利維坦",
+      "郭小皮@迦樓羅",
+      "月月丶@利維坦",
+      "一加一等於三@鳳凰",
+      "Wqw@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 847518,
+    "clear_dt_ms": 1791407036809,
+    "jobs": {
+      "墨寶@利維坦": "Viper",
+      "Aimbao@巴哈姆特": "Ninja",
+      "天使之吻@迦樓羅": "DarkKnight",
+      "草peko虐@利維坦": "Paladin",
+      "郭小皮@迦樓羅": "Summoner",
+      "月月丶@利維坦": "Astrologian",
+      "一加一等於三@鳳凰": "Bard",
+      "Wqw@利維坦": "Sage"
+    }
+  },
+  {
+    "code": "Vqtcpg4XhYjLaPM9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Takeru@利維坦",
+      "墨寶@利維坦",
+      "Aimbao@巴哈姆特",
+      "草peko虐@利維坦",
+      "郭小皮@迦樓羅",
+      "月月丶@利維坦",
+      "一加一等於三@鳳凰",
+      "Wqw@利維坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 831539,
+    "clear_dt_ms": 1791409932144,
+    "jobs": {
+      "Takeru@利維坦": "DarkKnight",
+      "墨寶@利維坦": "Viper",
+      "Aimbao@巴哈姆特": "Ninja",
+      "草peko虐@利維坦": "Paladin",
+      "郭小皮@迦樓羅": "Summoner",
+      "月月丶@利維坦": "Astrologian",
+      "一加一等於三@鳳凰": "Bard",
+      "Wqw@利維坦": "Sage"
+    }
   }
 ]
