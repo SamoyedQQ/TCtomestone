@@ -110090,5 +110090,117 @@
       "可樂米可多@伊弗利特": "BlackMage",
       "Cybers@伊弗利特": "Monk"
     }
+  },
+  {
+    "code": "4n91K8yP76QLrWka",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "我不是卡蘇咪@奧汀",
+      "深雪烏冬@鳳凰",
+      "Harii@奧汀",
+      "Arasxi@奧汀",
+      "杏仁豆腐@奧汀",
+      "狐狸風@奧汀",
+      "小夢幻@奧汀",
+      "八田武利@迦樓羅"
+    ],
+    "fight_id": 45,
+    "duration_ms": 1123849,
+    "clear_dt_ms": 1791391142430,
+    "jobs": {
+      "我不是卡蘇咪@奧汀": "Gunbreaker",
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "Harii@奧汀": "Dancer",
+      "Arasxi@奧汀": "Samurai",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "狐狸風@奧汀": "BlackMage",
+      "小夢幻@奧汀": "Sage",
+      "八田武利@迦樓羅": "Monk"
+    }
+  },
+  {
+    "code": "mpZ7DaWwY2t9BhCG",
+    "title": "絕伊甸1008",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "捷子哥八@伊弗利特",
+      "莫塔里小土豆@奧汀",
+      "Hitomi@奧汀",
+      "卡希雅的娃娃@鳳凰",
+      "Unii@伊弗利特",
+      "美花丸@奧汀",
+      "老大的最愛@巴哈姆特",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1119600,
+    "clear_dt_ms": 1791391860669,
+    "jobs": {
+      "捷子哥八@伊弗利特": "Dancer",
+      "莫塔里小土豆@奧汀": "Gunbreaker",
+      "Hitomi@奧汀": "Sage",
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "Unii@伊弗利特": "WhiteMage",
+      "美花丸@奧汀": "Dragoon",
+      "老大的最愛@巴哈姆特": "DarkKnight",
+      "逢魔時王@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "8QawWgZDBR9FKqfx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "悠太@鳳凰",
+      "哈哈密瓜@利維坦",
+      "轉圈圈@迦樓羅",
+      "薇薇布@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "肥嘟嘟@迦樓羅",
+      "Seira@利維坦",
+      "Whitew@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1115482,
+    "clear_dt_ms": 1791381502925,
+    "jobs": {
+      "悠太@鳳凰": "Paladin",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "轉圈圈@迦樓羅": "Scholar",
+      "薇薇布@迦樓羅": "Pictomancer",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "肥嘟嘟@迦樓羅": "Monk",
+      "Seira@利維坦": "Dancer",
+      "Whitew@迦樓羅": "Samurai"
+    }
+  },
+  {
+    "code": "rmptKFxnWgfHqwRj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Racook@奧汀",
+      "里斯@巴哈姆特",
+      "老鴿@伊弗利特",
+      "Lavid@鳳凰",
+      "飄零雨下@伊弗利特",
+      "Nacho@鳳凰",
+      "標@泰坦",
+      "ㄇ凹ㄇ凹@鳳凰"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1098182,
+    "clear_dt_ms": 1791395146695,
+    "jobs": {
+      "Racook@奧汀": "Gunbreaker",
+      "里斯@巴哈姆特": "Scholar",
+      "老鴿@伊弗利特": "Sage",
+      "Lavid@鳳凰": "Paladin",
+      "飄零雨下@伊弗利特": "BlackMage",
+      "Nacho@鳳凰": "Monk",
+      "標@泰坦": "Dragoon",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer"
+    }
   }
 ]
