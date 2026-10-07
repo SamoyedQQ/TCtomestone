@@ -109754,5 +109754,33 @@
       "風語yc@迦樓羅": "BlackMage",
       "吉備團子@巴哈姆特": "Astrologian"
     }
+  },
+  {
+    "code": "WQZzF6caD4NqMt3A",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "電漿衝鋒槍@奧汀",
+      "史嘉蕾特@巴哈姆特",
+      "阿·瓦諾@奧汀",
+      "安祖卡@迦樓羅",
+      "Tkc洽@巴哈姆特",
+      "Sixwin@伊弗利特",
+      "二v@迦樓羅",
+      "藍職龍奇@伊弗利特"
+    ],
+    "fight_id": 33,
+    "duration_ms": 1126435,
+    "clear_dt_ms": 1791325776732,
+    "jobs": {
+      "電漿衝鋒槍@奧汀": "Sage",
+      "史嘉蕾特@巴哈姆特": "Ninja",
+      "阿·瓦諾@奧汀": "Paladin",
+      "安祖卡@迦樓羅": "RedMage",
+      "Tkc洽@巴哈姆特": "Bard",
+      "Sixwin@伊弗利特": "Samurai",
+      "二v@迦樓羅": "Astrologian",
+      "藍職龍奇@伊弗利特": "DarkKnight"
+    }
   }
 ]
