@@ -110370,5 +110370,33 @@
       "一個劍術師@伊弗利特": "Paladin",
       "球哥@迦樓羅": "Bard"
     }
+  },
+  {
+    "code": "Gf2dzWxtH1AbyJ3L",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "蝦蝦@利維坦",
+      "大雪紛飛@泰坦",
+      "Domirn@巴哈姆特",
+      "艾洛恩@鳳凰",
+      "幽琥@利維坦",
+      "馬爾三兄弟@泰坦",
+      "Mohna@巴哈姆特",
+      "Diaulo@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 873796,
+    "clear_dt_ms": 1791390256030,
+    "jobs": {
+      "蝦蝦@利維坦": "Scholar",
+      "大雪紛飛@泰坦": "WhiteMage",
+      "Domirn@巴哈姆特": "Dancer",
+      "艾洛恩@鳳凰": "DarkKnight",
+      "幽琥@利維坦": "Summoner",
+      "馬爾三兄弟@泰坦": "Paladin",
+      "Mohna@巴哈姆特": "Reaper",
+      "Diaulo@迦樓羅": "Samurai"
+    }
   }
 ]
