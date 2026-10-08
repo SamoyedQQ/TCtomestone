@@ -235212,15 +235212,15 @@
     "encounter": "Garuda / Titan / ... ",
     "is_clear": true,
     "boss_hp_pct": 0.0,
-    "rdps": 677.9166776913904,
-    "adps": 723.8346545538382,
+    "rdps": 686.927963910721,
+    "adps": 716.207235423457,
     "parse_pct": 0.0,
     "job": "Sage",
-    "char_id": 1000005,
-    "report_code": "Hj6A82cypBt1rgKh",
-    "fight_id": 11,
-    "timestamp_ms": 1789138764287,
-    "duration_ms": 898405,
+    "char_id": 1000323,
+    "report_code": "FLRkwgJNmrAbGch2",
+    "fight_id": 101,
+    "timestamp_ms": 1791483764066,
+    "duration_ms": 849462,
     "phase_reached": 0
   },
   "神樂天音@迦樓羅:1074:_wipe": {
@@ -382857,6 +382857,24 @@
     "fight_id": 1,
     "timestamp_ms": 1791483687975,
     "duration_ms": 1124182,
+    "phase_reached": 0
+  },
+  "菲爾約@巴哈姆特:1074:Pictomancer": {
+    "name": "菲爾約",
+    "server": "巴哈姆特",
+    "encounter_id": 1074,
+    "encounter": "Garuda / Titan / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 1618.390002231702,
+    "adps": 1541.9356207094024,
+    "parse_pct": 0.0,
+    "job": "Pictomancer",
+    "char_id": 1000004,
+    "report_code": "FLRkwgJNmrAbGch2",
+    "fight_id": 101,
+    "timestamp_ms": 1791483764066,
+    "duration_ms": 849462,
     "phase_reached": 0
   }
 }
