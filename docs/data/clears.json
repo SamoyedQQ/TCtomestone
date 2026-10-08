@@ -110398,5 +110398,313 @@
       "Mohna@巴哈姆特": "Reaper",
       "Diaulo@迦樓羅": "Samurai"
     }
+  },
+  {
+    "code": "Bj8LybXcTVmgdZGp",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "予理@伊弗利特",
+      "繁殖期彈塗魚@利維坦",
+      "貓耳大拉肥@鳳凰",
+      "朝朝如念@巴哈姆特",
+      "Jester@巴哈姆特",
+      "梅露露·梅露@利維坦",
+      "貓也可以@奧汀",
+      "予情@伊弗利特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1123573,
+    "clear_dt_ms": 1791469410518,
+    "jobs": {
+      "予理@伊弗利特": "DarkKnight",
+      "繁殖期彈塗魚@利維坦": "Paladin",
+      "貓耳大拉肥@鳳凰": "Pictomancer",
+      "朝朝如念@巴哈姆特": "Dancer",
+      "Jester@巴哈姆特": "Dragoon",
+      "梅露露·梅露@利維坦": "Sage",
+      "貓也可以@奧汀": "Monk",
+      "予情@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "CydWTBbjK7XP2vrn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "Krista@奧汀",
+      "Mokame@奧汀",
+      "Acedia@泰坦",
+      "積美希@利維坦",
+      "米米莉@奧汀",
+      "波蝶琉璃@伊弗利特",
+      "維克·派金克@奧汀",
+      "璐咘@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1083567,
+    "clear_dt_ms": 1791471346484,
+    "jobs": {
+      "Krista@奧汀": "Sage",
+      "Mokame@奧汀": "Dragoon",
+      "Acedia@泰坦": "Paladin",
+      "積美希@利維坦": "BlackMage",
+      "米米莉@奧汀": "WhiteMage",
+      "波蝶琉璃@伊弗利特": "Dancer",
+      "維克·派金克@奧汀": "Samurai",
+      "璐咘@奧汀": "DarkKnight"
+    }
+  },
+  {
+    "code": "CydWTBbjK7XP2vrn",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "Krista@奧汀",
+      "Mokame@奧汀",
+      "Acedia@泰坦",
+      "璐咘@奧汀",
+      "積美希@利維坦",
+      "米米莉@奧汀",
+      "波蝶琉璃@伊弗利特",
+      "維克·派金克@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1070632,
+    "clear_dt_ms": 1791473640148,
+    "jobs": {
+      "Krista@奧汀": "Sage",
+      "Mokame@奧汀": "Dragoon",
+      "Acedia@泰坦": "Paladin",
+      "璐咘@奧汀": "Warrior",
+      "積美希@利維坦": "BlackMage",
+      "米米莉@奧汀": "WhiteMage",
+      "波蝶琉璃@伊弗利特": "Dancer",
+      "維克·派金克@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "j6HRgBN24crnCDTP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Chima@伊弗利特",
+      "Peca@伊弗利特",
+      "凍凍@利維坦",
+      "Lufair@利維坦",
+      "Achiou@利維坦",
+      "豬耳花@泰坦",
+      "浮米@泰坦",
+      "卡丁醇@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 977981,
+    "clear_dt_ms": 1791472091362,
+    "jobs": {
+      "Chima@伊弗利特": "Dancer",
+      "Peca@伊弗利特": "Pictomancer",
+      "凍凍@利維坦": "Warrior",
+      "Lufair@利維坦": "Summoner",
+      "Achiou@利維坦": "Monk",
+      "豬耳花@泰坦": "WhiteMage",
+      "浮米@泰坦": "Sage",
+      "卡丁醇@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "6YtwqmhKJMPdfzvT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "日暉曜@鳳凰",
+      "希姆咻@利維坦",
+      "冥淵殞落之王@伊弗利特",
+      "如夢似幻@鳳凰",
+      "花繁似錦@鳳凰",
+      "蒔緋@鳳凰",
+      "Jjyaw@鳳凰",
+      "Yakubb@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 974584,
+    "clear_dt_ms": 1791464828430,
+    "jobs": {
+      "日暉曜@鳳凰": "Samurai",
+      "希姆咻@利維坦": "Dragoon",
+      "冥淵殞落之王@伊弗利特": "DarkKnight",
+      "如夢似幻@鳳凰": "Scholar",
+      "花繁似錦@鳳凰": "Dancer",
+      "蒔緋@鳳凰": "WhiteMage",
+      "Jjyaw@鳳凰": "Warrior",
+      "Yakubb@巴哈姆特": "BlackMage"
+    }
+  },
+  {
+    "code": "6YtwqmhKJMPdfzvT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "日暉曜@鳳凰",
+      "希姆咻@利維坦",
+      "冥淵殞落之王@伊弗利特",
+      "如夢似幻@鳳凰",
+      "花繁似錦@鳳凰",
+      "蒔緋@鳳凰",
+      "Jjyaw@鳳凰",
+      "Yakubb@巴哈姆特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 959027,
+    "clear_dt_ms": 1791469025583,
+    "jobs": {
+      "日暉曜@鳳凰": "Samurai",
+      "希姆咻@利維坦": "Dragoon",
+      "冥淵殞落之王@伊弗利特": "DarkKnight",
+      "如夢似幻@鳳凰": "Scholar",
+      "花繁似錦@鳳凰": "Dancer",
+      "蒔緋@鳳凰": "WhiteMage",
+      "Jjyaw@鳳凰": "Warrior",
+      "Yakubb@巴哈姆特": "BlackMage"
+    }
+  },
+  {
+    "code": "6YtwqmhKJMPdfzvT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "日暉曜@鳳凰",
+      "希姆咻@利維坦",
+      "冥淵殞落之王@伊弗利特",
+      "如夢似幻@鳳凰",
+      "花繁似錦@鳳凰",
+      "蒔緋@鳳凰",
+      "Jjyaw@鳳凰",
+      "Yakubb@巴哈姆特"
+    ],
+    "fight_id": 16,
+    "duration_ms": 945485,
+    "clear_dt_ms": 1791470959468,
+    "jobs": {
+      "日暉曜@鳳凰": "Samurai",
+      "希姆咻@利維坦": "Dragoon",
+      "冥淵殞落之王@伊弗利特": "DarkKnight",
+      "如夢似幻@鳳凰": "Scholar",
+      "花繁似錦@鳳凰": "Dancer",
+      "蒔緋@鳳凰": "WhiteMage",
+      "Jjyaw@鳳凰": "Warrior",
+      "Yakubb@巴哈姆特": "BlackMage"
+    }
+  },
+  {
+    "code": "T29w3JAkQyWdn1Mr",
+    "title": "Futures Rewritten",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "小肥嘟嘟@利維坦",
+      "葡萄瓜子樹@迦樓羅",
+      "盧森堡@巴哈姆特",
+      "酉星酉星口巴@迦樓羅",
+      "Ariesy@奧汀",
+      "西莉絲@利維坦",
+      "絢香@巴哈姆特",
+      "不要吵@利維坦"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1035970,
+    "clear_dt_ms": 1791469538522,
+    "jobs": {
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "盧森堡@巴哈姆特": "Astrologian",
+      "酉星酉星口巴@迦樓羅": "Scholar",
+      "Ariesy@奧汀": "Monk",
+      "西莉絲@利維坦": "DarkKnight",
+      "絢香@巴哈姆特": "Ninja",
+      "不要吵@利維坦": "Dancer"
+    }
+  },
+  {
+    "code": "T29w3JAkQyWdn1Mr",
+    "title": "Futures Rewritten",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "小肥嘟嘟@利維坦",
+      "葡萄瓜子樹@迦樓羅",
+      "盧森堡@巴哈姆特",
+      "酉星酉星口巴@迦樓羅",
+      "Ariesy@奧汀",
+      "西莉絲@利維坦",
+      "不要吵@利維坦",
+      "絢香@巴哈姆特"
+    ],
+    "fight_id": 17,
+    "duration_ms": 1064932,
+    "clear_dt_ms": 1791472703548,
+    "jobs": {
+      "小肥嘟嘟@利維坦": "BlackMage",
+      "葡萄瓜子樹@迦樓羅": "Paladin",
+      "盧森堡@巴哈姆特": "Astrologian",
+      "酉星酉星口巴@迦樓羅": "Scholar",
+      "Ariesy@奧汀": "Monk",
+      "西莉絲@利維坦": "DarkKnight",
+      "不要吵@利維坦": "Dancer",
+      "絢香@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "FLRkwgJNmrAbGch2",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "赫雨娜希恩@迦樓羅",
+      "醉花o@迦樓羅",
+      "Ruko@利維坦",
+      "菲爾約@巴哈姆特",
+      "梅洛洛@利維坦",
+      "草莓可麗餅@利維坦",
+      "Oftum@鳳凰",
+      "積美希@利維坦"
+    ],
+    "fight_id": 90,
+    "duration_ms": 954268,
+    "clear_dt_ms": 1791475781858,
+    "jobs": {
+      "赫雨娜希恩@迦樓羅": "BlackMage",
+      "醉花o@迦樓羅": "Dancer",
+      "Ruko@利維坦": "WhiteMage",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "梅洛洛@利維坦": "Paladin",
+      "草莓可麗餅@利維坦": "Samurai",
+      "Oftum@鳳凰": "DarkKnight",
+      "積美希@利維坦": "Scholar"
+    }
+  },
+  {
+    "code": "FLRkwgJNmrAbGch2",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "赫雨娜希恩@迦樓羅",
+      "露伊一索妮亞@巴哈姆特",
+      "龍龍@奧汀",
+      "醉花o@迦樓羅",
+      "菲爾約@巴哈姆特",
+      "梅洛洛@利維坦",
+      "Oftum@鳳凰",
+      "積美希@利維坦"
+    ],
+    "fight_id": 96,
+    "duration_ms": 982104,
+    "clear_dt_ms": 1791478496736,
+    "jobs": {
+      "赫雨娜希恩@迦樓羅": "BlackMage",
+      "露伊一索妮亞@巴哈姆特": "Monk",
+      "龍龍@奧汀": "WhiteMage",
+      "醉花o@迦樓羅": "Dancer",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "梅洛洛@利維坦": "Paladin",
+      "Oftum@鳳凰": "DarkKnight",
+      "積美希@利維坦": "Scholar"
+    }
   }
 ]
