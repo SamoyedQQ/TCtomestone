@@ -111686,5 +111686,89 @@
       "Yze@伊弗利特": "WhiteMage",
       "七詩零@利維坦": "Machinist"
     }
+  },
+  {
+    "code": "6mhYwfnbGQxZRq4d",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "樺璘@迦樓羅",
+      "七海@巴哈姆特",
+      "米豬@伊弗利特",
+      "D·咕咕嘎嘎@伊弗利特",
+      "阿公穿肚兜跑@利維坦",
+      "塔拉妮絲@巴哈姆特",
+      "彭聖傑傑@利維坦",
+      "Adai@伊弗利特"
+    ],
+    "fight_id": 18,
+    "duration_ms": 1116093,
+    "clear_dt_ms": 1791561778332,
+    "jobs": {
+      "樺璘@迦樓羅": "Machinist",
+      "七海@巴哈姆特": "Ninja",
+      "米豬@伊弗利特": "Dragoon",
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "塔拉妮絲@巴哈姆特": "Warrior",
+      "彭聖傑傑@利維坦": "Scholar",
+      "Adai@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "6mhYwfnbGQxZRq4d",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "樺璘@迦樓羅",
+      "七海@巴哈姆特",
+      "米豬@伊弗利特",
+      "D·咕咕嘎嘎@伊弗利特",
+      "阿公穿肚兜跑@利維坦",
+      "塔拉妮絲@巴哈姆特",
+      "彭聖傑傑@利維坦",
+      "Adai@伊弗利特"
+    ],
+    "fight_id": 20,
+    "duration_ms": 1110000,
+    "clear_dt_ms": 1791563417292,
+    "jobs": {
+      "樺璘@迦樓羅": "Machinist",
+      "七海@巴哈姆特": "Ninja",
+      "米豬@伊弗利特": "Dragoon",
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "塔拉妮絲@巴哈姆特": "Warrior",
+      "彭聖傑傑@利維坦": "Scholar",
+      "Adai@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "7XnhfWrHCv4K8Qjz",
+    "title": "UWU",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "卍乂糯米乂卍@鳳凰",
+      "條紋胖次@伊弗利特",
+      "Amoris@奧汀",
+      "濃綠茶@奧汀",
+      "Bola@迦樓羅",
+      "梵妮@利維坦",
+      "Enter@鳳凰",
+      "Kayoko@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 834932,
+    "clear_dt_ms": 1791554399176,
+    "jobs": {
+      "卍乂糯米乂卍@鳳凰": "Summoner",
+      "條紋胖次@伊弗利特": "Monk",
+      "Amoris@奧汀": "RedMage",
+      "濃綠茶@奧汀": "Sage",
+      "Bola@迦樓羅": "Machinist",
+      "梵妮@利維坦": "Paladin",
+      "Enter@鳳凰": "Warrior",
+      "Kayoko@利維坦": "Astrologian"
+    }
   }
 ]
