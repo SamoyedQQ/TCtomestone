@@ -111042,5 +111042,33 @@
       "真是個好名字@泰坦": "Dragoon",
       "Mogg@伊弗利特": "Astrologian"
     }
+  },
+  {
+    "code": "kx9td8vVmPCznKYr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "翎櫻@迦樓羅",
+      "呼呼泥·呼泥@利維坦",
+      "肉肉肉肉肉@利維坦",
+      "你好我是薄荷@奧汀",
+      "黑巧尼可可@迦樓羅",
+      "Lova@迦樓羅",
+      "凡塔希雅@迦樓羅",
+      "Vita@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 971823,
+    "clear_dt_ms": 1791538700046,
+    "jobs": {
+      "翎櫻@迦樓羅": "Dancer",
+      "呼呼泥·呼泥@利維坦": "WhiteMage",
+      "肉肉肉肉肉@利維坦": "Pictomancer",
+      "你好我是薄荷@奧汀": "Monk",
+      "黑巧尼可可@迦樓羅": "Samurai",
+      "Lova@迦樓羅": "Scholar",
+      "凡塔希雅@迦樓羅": "Paladin",
+      "Vita@伊弗利特": "Warrior"
+    }
   }
 ]
