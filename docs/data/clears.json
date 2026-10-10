@@ -112470,5 +112470,61 @@
       "Levia炭@利維坦": "Warrior",
       "漫夜@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "C4VD1bBAcXdwQqFx",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Jester@巴哈姆特",
+      "魔甘娜米@伊弗利特",
+      "貓耳大拉肥@鳳凰",
+      "梓凜@鳳凰",
+      "Aqrsky@伊弗利特",
+      "Zven@鳳凰",
+      "予情@伊弗利特",
+      "予理@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1122086,
+    "clear_dt_ms": 1791652107922,
+    "jobs": {
+      "Jester@巴哈姆特": "Dragoon",
+      "魔甘娜米@伊弗利特": "Sage",
+      "貓耳大拉肥@鳳凰": "Pictomancer",
+      "梓凜@鳳凰": "Viper",
+      "Aqrsky@伊弗利特": "Dancer",
+      "Zven@鳳凰": "Gunbreaker",
+      "予情@伊弗利特": "Astrologian",
+      "予理@伊弗利特": "DarkKnight"
+    }
+  },
+  {
+    "code": "Q783ZmzyPAKbF4MC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Estro@利維坦",
+      "真的很爆開@迦樓羅",
+      "今井@奧汀",
+      "Souru@利維坦",
+      "Julexx@利維坦",
+      "蛇蛇征服者@迦樓羅",
+      "且茗老茶@迦樓羅",
+      "黑喵喵@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 958474,
+    "clear_dt_ms": 1791650159185,
+    "jobs": {
+      "Estro@利維坦": "Paladin",
+      "真的很爆開@迦樓羅": "RedMage",
+      "今井@奧汀": "Warrior",
+      "Souru@利維坦": "WhiteMage",
+      "Julexx@利維坦": "Machinist",
+      "蛇蛇征服者@迦樓羅": "Monk",
+      "且茗老茶@迦樓羅": "Sage",
+      "黑喵喵@利維坦": "BlackMage"
+    }
   }
 ]
