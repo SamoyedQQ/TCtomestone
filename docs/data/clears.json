@@ -112610,5 +112610,145 @@
       "Whitew@迦樓羅": "Samurai",
       "薇薇布@迦樓羅": "Pictomancer"
     }
+  },
+  {
+    "code": "JTBwXGWV3DqYAjQm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kita@利維坦",
+      "夜風@利維坦",
+      "快樂獨享餐@鳳凰",
+      "Agoti@利維坦",
+      "帥就完事o@鳳凰",
+      "甜甜的小仙女@巴哈姆特",
+      "天宮凜@鳳凰",
+      "Aimbao@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 844124,
+    "clear_dt_ms": 1791616945071,
+    "jobs": {
+      "Kita@利維坦": "Dancer",
+      "夜風@利維坦": "Summoner",
+      "快樂獨享餐@鳳凰": "Paladin",
+      "Agoti@利維坦": "Astrologian",
+      "帥就完事o@鳳凰": "Gunbreaker",
+      "甜甜的小仙女@巴哈姆特": "BlackMage",
+      "天宮凜@鳳凰": "Sage",
+      "Aimbao@巴哈姆特": "Ninja"
+    }
+  },
+  {
+    "code": "JTBwXGWV3DqYAjQm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Kita@利維坦",
+      "夜風@利維坦",
+      "快樂獨享餐@鳳凰",
+      "Agoti@利維坦",
+      "帥就完事o@鳳凰",
+      "甜甜的小仙女@巴哈姆特",
+      "天宮凜@鳳凰",
+      "Aimbao@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 862913,
+    "clear_dt_ms": 1791618059436,
+    "jobs": {
+      "Kita@利維坦": "Dancer",
+      "夜風@利維坦": "Summoner",
+      "快樂獨享餐@鳳凰": "Paladin",
+      "Agoti@利維坦": "Astrologian",
+      "帥就完事o@鳳凰": "Gunbreaker",
+      "甜甜的小仙女@巴哈姆特": "BlackMage",
+      "天宮凜@鳳凰": "Sage",
+      "Aimbao@巴哈姆特": "Ninja"
+    }
+  },
+  {
+    "code": "JTBwXGWV3DqYAjQm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "緹厄珊@伊弗利特",
+      "我想問呢@泰坦",
+      "Domirn@巴哈姆特",
+      "鬱@伊弗利特",
+      "Souru@利維坦",
+      "Aimbao@巴哈姆特",
+      "Ezzzzz@迦樓羅",
+      "丁香@鳳凰"
+    ],
+    "fight_id": 34,
+    "duration_ms": 845191,
+    "clear_dt_ms": 1791654489502,
+    "jobs": {
+      "緹厄珊@伊弗利特": "Astrologian",
+      "我想問呢@泰坦": "Scholar",
+      "Domirn@巴哈姆特": "Dancer",
+      "鬱@伊弗利特": "Paladin",
+      "Souru@利維坦": "Summoner",
+      "Aimbao@巴哈姆特": "Ninja",
+      "Ezzzzz@迦樓羅": "Warrior",
+      "丁香@鳳凰": "Monk"
+    }
+  },
+  {
+    "code": "JTBwXGWV3DqYAjQm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "緹厄珊@伊弗利特",
+      "我想問呢@泰坦",
+      "Domirn@巴哈姆特",
+      "鬱@伊弗利特",
+      "Souru@利維坦",
+      "Aimbao@巴哈姆特",
+      "Ezzzzz@迦樓羅",
+      "丁香@鳳凰"
+    ],
+    "fight_id": 39,
+    "duration_ms": 817098,
+    "clear_dt_ms": 1791657473607,
+    "jobs": {
+      "緹厄珊@伊弗利特": "Astrologian",
+      "我想問呢@泰坦": "Scholar",
+      "Domirn@巴哈姆特": "Dancer",
+      "鬱@伊弗利特": "Paladin",
+      "Souru@利維坦": "Summoner",
+      "Aimbao@巴哈姆特": "Ninja",
+      "Ezzzzz@迦樓羅": "Warrior",
+      "丁香@鳳凰": "Monk"
+    }
+  },
+  {
+    "code": "68a2ADMbGtng1FNj",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Benny@奧汀",
+      "潘內托內@利維坦",
+      "米爾提@利維坦",
+      "燉牛肉超好吃@奧汀",
+      "葛萊芬多多@迦樓羅",
+      "沁心紅茶@利維坦",
+      "小小龍@鳳凰",
+      "Ao@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1113084,
+    "clear_dt_ms": 1791656008521,
+    "jobs": {
+      "Benny@奧汀": "Paladin",
+      "潘內托內@利維坦": "Machinist",
+      "米爾提@利維坦": "BlackMage",
+      "燉牛肉超好吃@奧汀": "Samurai",
+      "葛萊芬多多@迦樓羅": "Sage",
+      "沁心紅茶@利維坦": "Astrologian",
+      "小小龍@鳳凰": "DarkKnight",
+      "Ao@迦樓羅": "Dancer"
+    }
   }
 ]
