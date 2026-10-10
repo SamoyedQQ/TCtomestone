@@ -112526,5 +112526,89 @@
       "且茗老茶@迦樓羅": "Sage",
       "黑喵喵@利維坦": "BlackMage"
     }
+  },
+  {
+    "code": "QXBt9JA7GHTykFhm",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "卡希雅的娃娃@鳳凰",
+      "朝朝如念@巴哈姆特",
+      "逢魔時王@迦樓羅",
+      "玄祭@利維坦",
+      "莫塔里小土豆@奧汀",
+      "哈哈密瓜@利維坦",
+      "予理@伊弗利特",
+      "美花丸@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1121848,
+    "clear_dt_ms": 1791659884607,
+    "jobs": {
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "朝朝如念@巴哈姆特": "Dancer",
+      "逢魔時王@迦樓羅": "Pictomancer",
+      "玄祭@利維坦": "Scholar",
+      "莫塔里小土豆@奧汀": "Gunbreaker",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "予理@伊弗利特": "DarkKnight",
+      "美花丸@奧汀": "Dragoon"
+    }
+  },
+  {
+    "code": "94c6TL3rqjYzmgan",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Shano@泰坦",
+      "煎餃牛排@迦樓羅",
+      "筱楓a黑兔@迦樓羅",
+      "樹林游盛閔@迦樓羅",
+      "魔法黑森林@鳳凰",
+      "尤吉歐@伊弗利特",
+      "Woshoe@迦樓羅",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1121257,
+    "clear_dt_ms": 1791657261122,
+    "jobs": {
+      "Shano@泰坦": "Paladin",
+      "煎餃牛排@迦樓羅": "Ninja",
+      "筱楓a黑兔@迦樓羅": "Sage",
+      "樹林游盛閔@迦樓羅": "Monk",
+      "魔法黑森林@鳳凰": "Dancer",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "Woshoe@迦樓羅": "Warrior",
+      "薇薇布@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "3HcPgbkGmZ4LaQV9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Mohna@巴哈姆特",
+      "玄祭@利維坦",
+      "予理@伊弗利特",
+      "棉花糖@迦樓羅",
+      "予情@伊弗利特",
+      "Aqrsky@伊弗利特",
+      "Whitew@迦樓羅",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1111291,
+    "clear_dt_ms": 1791625367159,
+    "jobs": {
+      "Mohna@巴哈姆特": "Reaper",
+      "玄祭@利維坦": "Scholar",
+      "予理@伊弗利特": "DarkKnight",
+      "棉花糖@迦樓羅": "Paladin",
+      "予情@伊弗利特": "Astrologian",
+      "Aqrsky@伊弗利特": "Dancer",
+      "Whitew@迦樓羅": "Samurai",
+      "薇薇布@迦樓羅": "Pictomancer"
+    }
   }
 ]
