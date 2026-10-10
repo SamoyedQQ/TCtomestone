@@ -111882,5 +111882,61 @@
       "阿公穿肚兜跑@利維坦": "BlackMage",
       "彭聖傑傑@利維坦": "Scholar"
     }
+  },
+  {
+    "code": "2hm3FA6t7RkbgVDN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "八奈見杏菜@迦樓羅",
+      "Ptcat@利維坦",
+      "阿熏@泰坦",
+      "白宣@泰坦",
+      "穗宮園紫香@鳳凰",
+      "蕎麥鮮奶茶@伊弗利特",
+      "Kennyt@巴哈姆特",
+      "西·特莉格@鳳凰"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1098575,
+    "clear_dt_ms": 1791599521326,
+    "jobs": {
+      "八奈見杏菜@迦樓羅": "BlackMage",
+      "Ptcat@利維坦": "Warrior",
+      "阿熏@泰坦": "Astrologian",
+      "白宣@泰坦": "DarkKnight",
+      "穗宮園紫香@鳳凰": "Dragoon",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "Kennyt@巴哈姆特": "Pictomancer",
+      "西·特莉格@鳳凰": "Dancer"
+    }
+  },
+  {
+    "code": "2fFXt3mwq7VCMTN1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Ultima Weapon",
+    "players": [
+      "墨筑@巴哈姆特",
+      "結束btr@奧汀",
+      "小熊子@泰坦",
+      "Domirn@巴哈姆特",
+      "我想問呢@泰坦",
+      "Chima@伊弗利特",
+      "Ezzzzz@迦樓羅",
+      "良女易悲@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 859927,
+    "clear_dt_ms": 1791576549204,
+    "jobs": {
+      "墨筑@巴哈姆特": "WhiteMage",
+      "結束btr@奧汀": "Dragoon",
+      "小熊子@泰坦": "Paladin",
+      "Domirn@巴哈姆特": "Dancer",
+      "我想問呢@泰坦": "Scholar",
+      "Chima@伊弗利特": "Summoner",
+      "Ezzzzz@迦樓羅": "Warrior",
+      "良女易悲@伊弗利特": "Monk"
+    }
   }
 ]
