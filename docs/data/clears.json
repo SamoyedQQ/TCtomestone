@@ -111770,5 +111770,117 @@
       "Enter@鳳凰": "Warrior",
       "Kayoko@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "tn49dJm1pGxvrBF3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "好喝一直喝@奧汀",
+      "美堂蠻@奧汀",
+      "小富富@奧汀",
+      "Shannn@巴哈姆特",
+      "球哥@迦樓羅",
+      "哲瑋@泰坦",
+      "百萬k@泰坦",
+      "母湯叭啦@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1138026,
+    "clear_dt_ms": 1791360890868,
+    "jobs": {
+      "好喝一直喝@奧汀": "Samurai",
+      "美堂蠻@奧汀": "Paladin",
+      "小富富@奧汀": "DarkKnight",
+      "Shannn@巴哈姆特": "Machinist",
+      "球哥@迦樓羅": "Summoner",
+      "哲瑋@泰坦": "WhiteMage",
+      "百萬k@泰坦": "Reaper",
+      "母湯叭啦@巴哈姆特": "Scholar"
+    }
+  },
+  {
+    "code": "fQwWDhkaFp3CVH28",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "喜哩靠@伊弗利特",
+      "球哥@迦樓羅",
+      "美堂蠻@奧汀",
+      "哲瑋@泰坦",
+      "百萬k@泰坦",
+      "小富富@奧汀",
+      "小小飯桶@泰坦",
+      "Shannn@巴哈姆特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1127605,
+    "clear_dt_ms": 1791362706506,
+    "jobs": {
+      "喜哩靠@伊弗利特": "Paladin",
+      "球哥@迦樓羅": "Pictomancer",
+      "美堂蠻@奧汀": "Viper",
+      "哲瑋@泰坦": "WhiteMage",
+      "百萬k@泰坦": "Dragoon",
+      "小富富@奧汀": "DarkKnight",
+      "小小飯桶@泰坦": "Scholar",
+      "Shannn@巴哈姆特": "Machinist"
+    }
+  },
+  {
+    "code": "N72tvaDCx9GWkzYh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "米豬@伊弗利特",
+      "塔拉妮絲@巴哈姆特",
+      "樺璘@迦樓羅",
+      "D·咕咕嘎嘎@伊弗利特",
+      "Adai@伊弗利特",
+      "七海@巴哈姆特",
+      "阿公穿肚兜跑@利維坦",
+      "彭聖傑傑@利維坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1102558,
+    "clear_dt_ms": 1791469528373,
+    "jobs": {
+      "米豬@伊弗利特": "Dragoon",
+      "塔拉妮絲@巴哈姆特": "Warrior",
+      "樺璘@迦樓羅": "Machinist",
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "Adai@伊弗利特": "Paladin",
+      "七海@巴哈姆特": "Ninja",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "彭聖傑傑@利維坦": "Scholar"
+    }
+  },
+  {
+    "code": "N72tvaDCx9GWkzYh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "米豬@伊弗利特",
+      "塔拉妮絲@巴哈姆特",
+      "樺璘@迦樓羅",
+      "Adai@伊弗利特",
+      "D·咕咕嘎嘎@伊弗利特",
+      "七海@巴哈姆特",
+      "阿公穿肚兜跑@利維坦",
+      "彭聖傑傑@利維坦"
+    ],
+    "fight_id": 16,
+    "duration_ms": 1110841,
+    "clear_dt_ms": 1791475933500,
+    "jobs": {
+      "米豬@伊弗利特": "Dragoon",
+      "塔拉妮絲@巴哈姆特": "Warrior",
+      "樺璘@迦樓羅": "Machinist",
+      "Adai@伊弗利特": "Paladin",
+      "D·咕咕嘎嘎@伊弗利特": "Astrologian",
+      "七海@巴哈姆特": "Ninja",
+      "阿公穿肚兜跑@利維坦": "BlackMage",
+      "彭聖傑傑@利維坦": "Scholar"
+    }
   }
 ]
