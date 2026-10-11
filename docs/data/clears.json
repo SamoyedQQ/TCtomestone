@@ -112834,5 +112834,61 @@
       "Ix整點薯條@鳳凰": "Samurai",
       "露露怩雷@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "PHafXqhGJDgtrC21",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Kira@鳳凰",
+      "二v@迦樓羅",
+      "霸總哥布林@巴哈姆特",
+      "Ao@迦樓羅",
+      "Tvtian@迦樓羅",
+      "小夢幻@奧汀",
+      "李丁路哲@迦樓羅",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1116108,
+    "clear_dt_ms": 1791707545173,
+    "jobs": {
+      "Kira@鳳凰": "Dragoon",
+      "二v@迦樓羅": "BlackMage",
+      "霸總哥布林@巴哈姆特": "DarkKnight",
+      "Ao@迦樓羅": "Dancer",
+      "Tvtian@迦樓羅": "Gunbreaker",
+      "小夢幻@奧汀": "Sage",
+      "李丁路哲@迦樓羅": "Samurai",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "7CTbJF6gdNQAVKBc",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Nazu@巴哈姆特",
+      "嘩啦@鳳凰",
+      "Hmaster@奧汀",
+      "Tiny石頭@迦樓羅",
+      "一個劍術師@鳳凰",
+      "繪靈@利維坦",
+      "守護型小豆丁@泰坦",
+      "饿了@泰坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 939170,
+    "clear_dt_ms": 1791698534693,
+    "jobs": {
+      "Nazu@巴哈姆特": "Pictomancer",
+      "嘩啦@鳳凰": "Dragoon",
+      "Hmaster@奧汀": "WhiteMage",
+      "Tiny石頭@迦樓羅": "Samurai",
+      "一個劍術師@鳳凰": "Gunbreaker",
+      "繪靈@利維坦": "Sage",
+      "守護型小豆丁@泰坦": "Warrior",
+      "饿了@泰坦": "Machinist"
+    }
   }
 ]
