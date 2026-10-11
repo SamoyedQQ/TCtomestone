@@ -112806,5 +112806,33 @@
       "予理@伊弗利特": "DarkKnight",
       "帽子給我好嗎@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "d4gTvyRPVb7F9nwa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "芋仔冰@迦樓羅",
+      "黑巧尼可可@迦樓羅",
+      "Lova@迦樓羅",
+      "翎櫻@迦樓羅",
+      "卡丁醇@利維坦",
+      "Only@伊弗利特",
+      "Ix整點薯條@鳳凰",
+      "露露怩雷@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 982918,
+    "clear_dt_ms": 1791703750586,
+    "jobs": {
+      "芋仔冰@迦樓羅": "DarkKnight",
+      "黑巧尼可可@迦樓羅": "Dragoon",
+      "Lova@迦樓羅": "Scholar",
+      "翎櫻@迦樓羅": "Dancer",
+      "卡丁醇@利維坦": "Paladin",
+      "Only@伊弗利特": "WhiteMage",
+      "Ix整點薯條@鳳凰": "Samurai",
+      "露露怩雷@迦樓羅": "BlackMage"
+    }
   }
 ]
