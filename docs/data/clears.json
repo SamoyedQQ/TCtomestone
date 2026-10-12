@@ -113478,5 +113478,33 @@
       "媽揍舞波比@鳳凰": "Monk",
       "伊卡@伊弗利特": "Sage"
     }
+  },
+  {
+    "code": "FVzdcLKNafw8WHQ2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "嵐翼熾光@巴哈姆特",
+      "阿列克·薯咪@巴哈姆特",
+      "洋月@巴哈姆特",
+      "黑皮是隻貓@鳳凰",
+      "涼涼滴@鳳凰",
+      "小落奈@巴哈姆特",
+      "邦妮喵@巴哈姆特",
+      "愛馬仕橘@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 985192,
+    "clear_dt_ms": 1791790655130,
+    "jobs": {
+      "嵐翼熾光@巴哈姆特": "DarkKnight",
+      "阿列克·薯咪@巴哈姆特": "Paladin",
+      "洋月@巴哈姆特": "Samurai",
+      "黑皮是隻貓@鳳凰": "Dancer",
+      "涼涼滴@鳳凰": "Sage",
+      "小落奈@巴哈姆特": "RedMage",
+      "邦妮喵@巴哈姆特": "WhiteMage",
+      "愛馬仕橘@伊弗利特": "Monk"
+    }
   }
 ]
