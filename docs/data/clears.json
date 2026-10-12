@@ -114122,5 +114122,33 @@
       "秋形蟲@利維坦": "Sage",
       "Achiou@利維坦": "Monk"
     }
+  },
+  {
+    "code": "4m3KGC6aNYgxHW89",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "米米莉@奧汀",
+      "ㄇ凹ㄇ凹@鳳凰",
+      "醉愛上布萊澤@奧汀",
+      "抹布@鳳凰",
+      "阿·瓦諾@奧汀",
+      "標@泰坦",
+      "找不到此玩家@迦樓羅",
+      "二v@迦樓羅"
+    ],
+    "fight_id": 16,
+    "duration_ms": 1107609,
+    "clear_dt_ms": 1791829766346,
+    "jobs": {
+      "米米莉@奧汀": "WhiteMage",
+      "ㄇ凹ㄇ凹@鳳凰": "Dancer",
+      "醉愛上布萊澤@奧汀": "Scholar",
+      "抹布@鳳凰": "DarkKnight",
+      "阿·瓦諾@奧汀": "Paladin",
+      "標@泰坦": "Dragoon",
+      "找不到此玩家@迦樓羅": "Viper",
+      "二v@迦樓羅": "Pictomancer"
+    }
   }
 ]
