@@ -113394,5 +113394,89 @@
       "今晚打老虎@迦樓羅": "Paladin",
       "Imluda@泰坦": "DarkKnight"
     }
+  },
+  {
+    "code": "HCrf6RXF1KQNawZ7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Ptcat@利維坦",
+      "Kennyt@巴哈姆特",
+      "阿熏@泰坦",
+      "白宣@泰坦",
+      "穗宮園紫香@鳳凰",
+      "蕎麥鮮奶茶@伊弗利特",
+      "西·特莉格@鳳凰",
+      "八奈見杏菜@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1101532,
+    "clear_dt_ms": 1791770247625,
+    "jobs": {
+      "Ptcat@利維坦": "Warrior",
+      "Kennyt@巴哈姆特": "Reaper",
+      "阿熏@泰坦": "Astrologian",
+      "白宣@泰坦": "DarkKnight",
+      "穗宮園紫香@鳳凰": "Dragoon",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "西·特莉格@鳳凰": "Dancer",
+      "八奈見杏菜@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "nKjcpG8qWP32ZhB7",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "艾奧菲斯@迦樓羅",
+      "宇佐見蓮子@迦樓羅",
+      "伊文婕琳@迦樓羅",
+      "麵先生@迦樓羅",
+      "丁香@鳳凰",
+      "黑糖奶酪@迦樓羅",
+      "龍星群@迦樓羅",
+      "兀兒悳@迦樓羅"
+    ],
+    "fight_id": 25,
+    "duration_ms": 900014,
+    "clear_dt_ms": 1791730424116,
+    "jobs": {
+      "艾奧菲斯@迦樓羅": "Paladin",
+      "宇佐見蓮子@迦樓羅": "Sage",
+      "伊文婕琳@迦樓羅": "Machinist",
+      "麵先生@迦樓羅": "Summoner",
+      "丁香@鳳凰": "Monk",
+      "黑糖奶酪@迦樓羅": "Gunbreaker",
+      "龍星群@迦樓羅": "WhiteMage",
+      "兀兒悳@迦樓羅": "Dragoon"
+    }
+  },
+  {
+    "code": "zrJtwLxDqc764TjF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "魚我無關@泰坦",
+      "卡比瘦不了@奧汀",
+      "熱狗@伊弗利特",
+      "金玟池@伊弗利特",
+      "Suanni@迦樓羅",
+      "Lunax@泰坦",
+      "媽揍舞波比@鳳凰",
+      "伊卡@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 988796,
+    "clear_dt_ms": 1791642384217,
+    "jobs": {
+      "魚我無關@泰坦": "Astrologian",
+      "卡比瘦不了@奧汀": "Warrior",
+      "熱狗@伊弗利特": "Dancer",
+      "金玟池@伊弗利特": "Gunbreaker",
+      "Suanni@迦樓羅": "Pictomancer",
+      "Lunax@泰坦": "Viper",
+      "媽揍舞波比@鳳凰": "Monk",
+      "伊卡@伊弗利特": "Sage"
+    }
   }
 ]
