@@ -114178,5 +114178,33 @@
       "Shoo@奧汀": "Warrior",
       "星楓雪玥@奧汀": "Monk"
     }
+  },
+  {
+    "code": "jGwdVRPMzF9BrJgv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Kuu@巴哈姆特",
+      "真是個好名字@泰坦",
+      "莫比@利維坦",
+      "夜鳩@利維坦",
+      "舉舉@利維坦",
+      "姜小咪@利維坦",
+      "Pingu@伊弗利特",
+      "Gptms@鳳凰"
+    ],
+    "fight_id": 23,
+    "duration_ms": 960142,
+    "clear_dt_ms": 1791887662535,
+    "jobs": {
+      "Kuu@巴哈姆特": "Dancer",
+      "真是個好名字@泰坦": "Dragoon",
+      "莫比@利維坦": "Ninja",
+      "夜鳩@利維坦": "Summoner",
+      "舉舉@利維坦": "WhiteMage",
+      "姜小咪@利維坦": "Warrior",
+      "Pingu@伊弗利特": "Scholar",
+      "Gptms@鳳凰": "Paladin"
+    }
   }
 ]
