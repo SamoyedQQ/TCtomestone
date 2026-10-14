@@ -114710,5 +114710,61 @@
       "小小飯桶@泰坦": "Scholar",
       "名字隨便改@利維坦": "Gunbreaker"
     }
+  },
+  {
+    "code": "njhQk8cyL9xBCZJR",
+    "title": "1014 絕亞 MT 消1",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Aile@伊弗利特",
+      "櫻井雨希@泰坦",
+      "Yuzuha@伊弗利特",
+      "三司@利維坦",
+      "璃雪x@巴哈姆特",
+      "Gua@迦樓羅",
+      "愛與包容@伊弗利特",
+      "毛哈魯@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 956807,
+    "clear_dt_ms": 1791985032042,
+    "jobs": {
+      "Aile@伊弗利特": "BlackMage",
+      "櫻井雨希@泰坦": "Paladin",
+      "Yuzuha@伊弗利特": "Astrologian",
+      "三司@利維坦": "Dancer",
+      "璃雪x@巴哈姆特": "Samurai",
+      "Gua@迦樓羅": "Monk",
+      "愛與包容@伊弗利特": "Sage",
+      "毛哈魯@迦樓羅": "DarkKnight"
+    }
+  },
+  {
+    "code": "QVHjqg41BGrwpTX9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墮鳶@利維坦",
+      "條紋胖次@伊弗利特",
+      "睡睡威@鳳凰",
+      "蘭斯洛特@鳳凰",
+      "Agoti@利維坦",
+      "著色器編譯者@泰坦",
+      "霏霏@泰坦",
+      "羽毛貓咪@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 873914,
+    "clear_dt_ms": 1791967394114,
+    "jobs": {
+      "墮鳶@利維坦": "Summoner",
+      "條紋胖次@伊弗利特": "Warrior",
+      "睡睡威@鳳凰": "Dancer",
+      "蘭斯洛特@鳳凰": "Dragoon",
+      "Agoti@利維坦": "Astrologian",
+      "著色器編譯者@泰坦": "Sage",
+      "霏霏@泰坦": "Paladin",
+      "羽毛貓咪@鳳凰": "Viper"
+    }
   }
 ]
