@@ -114514,5 +114514,33 @@
       "帥氣的煊@奧汀": "Scholar",
       "艾瑟爾@伊弗利特": "Dancer"
     }
+  },
+  {
+    "code": "3pKRJ91MajLmwCQW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "阿熏@泰坦",
+      "Ennie@利維坦",
+      "普路托斯@伊弗利特",
+      "光之小企鵝@伊弗利特",
+      "氰蘋果@鳳凰",
+      "Shano@泰坦",
+      "桃金娘@伊弗利特",
+      "麥克雞快@巴哈姆特"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1078448,
+    "clear_dt_ms": 1791947880744,
+    "jobs": {
+      "阿熏@泰坦": "Warrior",
+      "Ennie@利維坦": "Paladin",
+      "普路托斯@伊弗利特": "Summoner",
+      "光之小企鵝@伊弗利特": "Scholar",
+      "氰蘋果@鳳凰": "Machinist",
+      "Shano@泰坦": "Sage",
+      "桃金娘@伊弗利特": "Astrologian",
+      "麥克雞快@巴哈姆特": "Dragoon"
+    }
   }
 ]
