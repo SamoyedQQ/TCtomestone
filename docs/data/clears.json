@@ -114960,5 +114960,33 @@
       "絨絨莫洢@利維坦": "Summoner",
       "Dc@鳳凰": "Machinist"
     }
+  },
+  {
+    "code": "gx3f8DzywFJTQ7PL",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Xufeng@利維坦",
+      "Natsum@奧汀",
+      "悠洛@奧汀",
+      "Gifgif@利維坦",
+      "Sylph@泰坦",
+      "吸管@利維坦",
+      "嘎嚕嘎嚕@奧汀",
+      "玄祭@利維坦"
+    ],
+    "fight_id": 21,
+    "duration_ms": 1119773,
+    "clear_dt_ms": 1792001133950,
+    "jobs": {
+      "Xufeng@利維坦": "Dragoon",
+      "Natsum@奧汀": "WhiteMage",
+      "悠洛@奧汀": "Pictomancer",
+      "Gifgif@利維坦": "Gunbreaker",
+      "Sylph@泰坦": "Bard",
+      "吸管@利維坦": "Viper",
+      "嘎嚕嘎嚕@奧汀": "Paladin",
+      "玄祭@利維坦": "Scholar"
+    }
   }
 ]
