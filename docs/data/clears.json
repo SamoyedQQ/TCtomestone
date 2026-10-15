@@ -115044,5 +115044,33 @@
       "氰蘋果@鳳凰": "Machinist",
       "桃金娘@伊弗利特": "Astrologian"
     }
+  },
+  {
+    "code": "1Ft2RnkjcvYqbMhZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "自由誓言@迦樓羅",
+      "史卡蕾特@伊弗利特",
+      "芋仔冰@迦樓羅",
+      "Yuzuha@伊弗利特",
+      "Kuu@巴哈姆特",
+      "璐小凌喵奈@利維坦",
+      "煞氣乂羅乂生@奧汀",
+      "妲妲@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 965671,
+    "clear_dt_ms": 1792064298658,
+    "jobs": {
+      "自由誓言@迦樓羅": "Machinist",
+      "史卡蕾特@伊弗利特": "Monk",
+      "芋仔冰@迦樓羅": "Warrior",
+      "Yuzuha@伊弗利特": "Astrologian",
+      "Kuu@巴哈姆特": "Samurai",
+      "璐小凌喵奈@利維坦": "DarkKnight",
+      "煞氣乂羅乂生@奧汀": "Pictomancer",
+      "妲妲@巴哈姆特": "Scholar"
+    }
   }
 ]
