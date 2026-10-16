@@ -115576,5 +115576,33 @@
       "Benny@利維坦": "Monk",
       "安祖卡@迦樓羅": "RedMage"
     }
+  },
+  {
+    "code": "xgFmfrX3VJDbMvPG",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Shano@泰坦",
+      "光之小企鵝@伊弗利特",
+      "桃金娘@伊弗利特",
+      "氰蘋果@鳳凰",
+      "Ennie@利維坦",
+      "麥克雞快@巴哈姆特",
+      "阿熏@泰坦",
+      "普路托斯@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1032447,
+    "clear_dt_ms": 1792117293997,
+    "jobs": {
+      "Shano@泰坦": "Sage",
+      "光之小企鵝@伊弗利特": "Scholar",
+      "桃金娘@伊弗利特": "Astrologian",
+      "氰蘋果@鳳凰": "Machinist",
+      "Ennie@利維坦": "Paladin",
+      "麥克雞快@巴哈姆特": "Dragoon",
+      "阿熏@泰坦": "Warrior",
+      "普路托斯@伊弗利特": "Summoner"
+    }
   }
 ]
