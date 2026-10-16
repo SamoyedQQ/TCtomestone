@@ -116136,5 +116136,117 @@
       "桃梔@泰坦": "Bard",
       "阿多尼斯@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "BpbMmQJF7GrgD9Lj",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "環@伊弗利特",
+      "Mohna@巴哈姆特",
+      "小夢幻@奧汀",
+      "杏仁豆腐@奧汀",
+      "羽丘的怪女生@迦樓羅",
+      "洽米@迦樓羅",
+      "風語yc@迦樓羅",
+      "精靈遊俠@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1109726,
+    "clear_dt_ms": 1792173116570,
+    "jobs": {
+      "環@伊弗利特": "Dancer",
+      "Mohna@巴哈姆特": "Reaper",
+      "小夢幻@奧汀": "Sage",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "羽丘的怪女生@迦樓羅": "Paladin",
+      "洽米@迦樓羅": "DarkKnight",
+      "風語yc@迦樓羅": "BlackMage",
+      "精靈遊俠@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "dRaZBwLkzNqg3W6D",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Souru@利維坦",
+      "羽丘的怪女生@迦樓羅",
+      "杏仁豆腐@奧汀",
+      "風語yc@迦樓羅",
+      "Desinc@奧汀",
+      "金閃閃@奧汀",
+      "顧言@奧汀",
+      "小夢幻@奧汀"
+    ],
+    "fight_id": 21,
+    "duration_ms": 1121085,
+    "clear_dt_ms": 1792170984412,
+    "jobs": {
+      "Souru@利維坦": "Reaper",
+      "羽丘的怪女生@迦樓羅": "Paladin",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "風語yc@迦樓羅": "BlackMage",
+      "Desinc@奧汀": "Dragoon",
+      "金閃閃@奧汀": "Dancer",
+      "顧言@奧汀": "DarkKnight",
+      "小夢幻@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "YXfPgFxH1vqnpwVh",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "April@伊弗利特",
+      "Kupo@泰坦",
+      "Dororo@伊弗利特",
+      "舞川奈富子@奧汀",
+      "Jester@巴哈姆特",
+      "拉雯妲@利維坦",
+      "雪月狐@奧汀",
+      "瀰@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1123965,
+    "clear_dt_ms": 1792168194523,
+    "jobs": {
+      "April@伊弗利特": "Sage",
+      "Kupo@泰坦": "BlackMage",
+      "Dororo@伊弗利特": "Gunbreaker",
+      "舞川奈富子@奧汀": "Dancer",
+      "Jester@巴哈姆特": "Dragoon",
+      "拉雯妲@利維坦": "DarkKnight",
+      "雪月狐@奧汀": "Pictomancer",
+      "瀰@巴哈姆特": "Astrologian"
+    }
+  },
+  {
+    "code": "raAWgwLk1RMNmbpt",
+    "title": "絕伊甸1016",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "卡希雅的娃娃@鳳凰",
+      "Unii@伊弗利特",
+      "新鮮急凍魚乾@奧汀",
+      "莫塔里小土豆@奧汀",
+      "老大的最愛@巴哈姆特",
+      "Hitomi@奧汀",
+      "捷子哥八@伊弗利特",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1119531,
+    "clear_dt_ms": 1792167510079,
+    "jobs": {
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "Unii@伊弗利特": "WhiteMage",
+      "新鮮急凍魚乾@奧汀": "Dragoon",
+      "莫塔里小土豆@奧汀": "Gunbreaker",
+      "老大的最愛@巴哈姆特": "DarkKnight",
+      "Hitomi@奧汀": "Sage",
+      "捷子哥八@伊弗利特": "Dancer",
+      "逢魔時王@迦樓羅": "Pictomancer"
+    }
   }
 ]
