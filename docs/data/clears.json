@@ -116360,5 +116360,33 @@
       "Hitomi@奧汀": "Sage",
       "老大的最愛@巴哈姆特": "DarkKnight"
     }
+  },
+  {
+    "code": "My3n7k9BArQjDHfP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "墮鳶@利維坦",
+      "我就真的菜丫@泰坦",
+      "醉花o@迦樓羅",
+      "索拉肥@鳳凰",
+      "Ceevyi@奧汀",
+      "納爾遜@鳳凰",
+      "嘎兵@鳳凰",
+      "寅虎@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 848069,
+    "clear_dt_ms": 1792207623689,
+    "jobs": {
+      "墮鳶@利維坦": "Summoner",
+      "我就真的菜丫@泰坦": "Dancer",
+      "醉花o@迦樓羅": "BlackMage",
+      "索拉肥@鳳凰": "DarkKnight",
+      "Ceevyi@奧汀": "Paladin",
+      "納爾遜@鳳凰": "Dragoon",
+      "嘎兵@鳳凰": "WhiteMage",
+      "寅虎@鳳凰": "Sage"
+    }
   }
 ]
