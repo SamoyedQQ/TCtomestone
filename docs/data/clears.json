@@ -117172,5 +117172,201 @@
       "莫琳@泰坦": "Dancer",
       "納爾遜@鳳凰": "Dragoon"
     }
+  },
+  {
+    "code": "yZkTfH21pcg6aQ4J",
+    "title": "Futures Rewritten",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "且茗老茶@迦樓羅",
+      "Julexx@利維坦",
+      "蛇蛇征服者@迦樓羅",
+      "真的很爆開@迦樓羅",
+      "今井@奧汀",
+      "傻咩@迦樓羅",
+      "Estro@利維坦",
+      "Souru@利維坦"
+    ],
+    "fight_id": 21,
+    "duration_ms": 972418,
+    "clear_dt_ms": 1792257294010,
+    "jobs": {
+      "且茗老茶@迦樓羅": "Sage",
+      "Julexx@利維坦": "Machinist",
+      "蛇蛇征服者@迦樓羅": "Monk",
+      "真的很爆開@迦樓羅": "RedMage",
+      "今井@奧汀": "Warrior",
+      "傻咩@迦樓羅": "Samurai",
+      "Estro@利維坦": "Paladin",
+      "Souru@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "TpKgLJ6jf7NBy9kR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小綠葉@利維坦",
+      "布丁@利維坦",
+      "Woshoe@迦樓羅",
+      "Benny@利維坦",
+      "芙莉蓮霧@奧汀",
+      "Kumo醬@鳳凰",
+      "薇薇布@迦樓羅",
+      "灛@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1122373,
+    "clear_dt_ms": 1792256235372,
+    "jobs": {
+      "小綠葉@利維坦": "Sage",
+      "布丁@利維坦": "Bard",
+      "Woshoe@迦樓羅": "Warrior",
+      "Benny@利維坦": "Monk",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "Kumo醬@鳳凰": "WhiteMage",
+      "薇薇布@迦樓羅": "Paladin",
+      "灛@奧汀": "Reaper"
+    }
+  },
+  {
+    "code": "n8AkZ7vhdfGJqw3V",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "新手一名@伊弗利特",
+      "阿多尼斯@鳳凰",
+      "艾恩葛朗特@泰坦",
+      "阿兔爺@迦樓羅",
+      "歪燕@利維坦",
+      "黑魔@奧汀",
+      "索拉肥@鳳凰",
+      "桃梔@泰坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 828411,
+    "clear_dt_ms": 1792263958068,
+    "jobs": {
+      "新手一名@伊弗利特": "Gunbreaker",
+      "阿多尼斯@鳳凰": "Dragoon",
+      "艾恩葛朗特@泰坦": "WhiteMage",
+      "阿兔爺@迦樓羅": "Summoner",
+      "歪燕@利維坦": "Sage",
+      "黑魔@奧汀": "BlackMage",
+      "索拉肥@鳳凰": "DarkKnight",
+      "桃梔@泰坦": "Bard"
+    }
+  },
+  {
+    "code": "4M1gVPZ7qKzHvGLQ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "艾恩葛朗特@泰坦",
+      "阿兔爺@迦樓羅",
+      "新手一名@伊弗利特",
+      "索拉肥@鳳凰",
+      "歪燕@利維坦",
+      "桃梔@泰坦",
+      "黑魔@奧汀",
+      "阿多尼斯@鳳凰"
+    ],
+    "fight_id": 52,
+    "duration_ms": 846716,
+    "clear_dt_ms": 1792260546274,
+    "jobs": {
+      "艾恩葛朗特@泰坦": "Astrologian",
+      "阿兔爺@迦樓羅": "Summoner",
+      "新手一名@伊弗利特": "Gunbreaker",
+      "索拉肥@鳳凰": "DarkKnight",
+      "歪燕@利維坦": "Sage",
+      "桃梔@泰坦": "Bard",
+      "黑魔@奧汀": "BlackMage",
+      "阿多尼斯@鳳凰": "Dragoon"
+    }
+  },
+  {
+    "code": "KJBpw2bW7G1AXdnf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "冷冷吖@利維坦",
+      "Moey@利維坦",
+      "小倉吐司@利維坦",
+      "希恩@利維坦",
+      "穗曦@伊弗利特",
+      "塔塔落@利維坦",
+      "王豆沙@利維坦",
+      "果賴咪@巴哈姆特"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1122477,
+    "clear_dt_ms": 1792259298230,
+    "jobs": {
+      "冷冷吖@利維坦": "DarkKnight",
+      "Moey@利維坦": "Viper",
+      "小倉吐司@利維坦": "RedMage",
+      "希恩@利維坦": "Paladin",
+      "穗曦@伊弗利特": "Scholar",
+      "塔塔落@利維坦": "Sage",
+      "王豆沙@利維坦": "Dancer",
+      "果賴咪@巴哈姆特": "Monk"
+    }
+  },
+  {
+    "code": "C1Gv3tbYFraxN8ZA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "燉牛肉超好吃@奧汀",
+      "夏夕夏景@伊弗利特",
+      "陽光彩虹白駒@迦樓羅",
+      "朱雀院紅葉@奧汀",
+      "早餐@利維坦",
+      "八百歲比名子@伊弗利特",
+      "以實瑪利@迦樓羅",
+      "殤魂@奧汀"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1123152,
+    "clear_dt_ms": 1792256228576,
+    "jobs": {
+      "燉牛肉超好吃@奧汀": "Samurai",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "陽光彩虹白駒@迦樓羅": "DarkKnight",
+      "朱雀院紅葉@奧汀": "Paladin",
+      "早餐@利維坦": "Pictomancer",
+      "八百歲比名子@伊弗利特": "Machinist",
+      "以實瑪利@迦樓羅": "WhiteMage",
+      "殤魂@奧汀": "Monk"
+    }
+  },
+  {
+    "code": "BMmGfdH49tjbYwDg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "祈靈@鳳凰",
+      "伊蒂絲維克@鳳凰",
+      "青凛@鳳凰",
+      "Ivel@鳳凰",
+      "Alan大大@鳳凰",
+      "斷月之光@鳳凰",
+      "夜雨墨染@鳳凰",
+      "九五二七@利維坦"
+    ],
+    "fight_id": 24,
+    "duration_ms": 1128453,
+    "clear_dt_ms": 1792255771087,
+    "jobs": {
+      "祈靈@鳳凰": "Dancer",
+      "伊蒂絲維克@鳳凰": "Warrior",
+      "青凛@鳳凰": "WhiteMage",
+      "Ivel@鳳凰": "Ninja",
+      "Alan大大@鳳凰": "Gunbreaker",
+      "斷月之光@鳳凰": "Sage",
+      "夜雨墨染@鳳凰": "BlackMage",
+      "九五二七@利維坦": "Monk"
+    }
   }
 ]
