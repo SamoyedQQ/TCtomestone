@@ -117592,5 +117592,117 @@
       "呆呆奶黃包@泰坦": "Samurai",
       "神秘夾克姐姐@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "72nGRpNZAVm8ghKj",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Okay@迦樓羅",
+      "塔塔落@利維坦",
+      "果賴咪@巴哈姆特",
+      "棉花糖@迦樓羅",
+      "海晴@伊弗利特",
+      "穗曦@伊弗利特",
+      "雪莉@利維坦",
+      "不要吵@利維坦"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1108932,
+    "clear_dt_ms": 1792324262884,
+    "jobs": {
+      "Okay@迦樓羅": "Pictomancer",
+      "塔塔落@利維坦": "Scholar",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "棉花糖@迦樓羅": "DarkKnight",
+      "海晴@伊弗利特": "Gunbreaker",
+      "穗曦@伊弗利特": "WhiteMage",
+      "雪莉@利維坦": "Monk",
+      "不要吵@利維坦": "Bard"
+    }
+  },
+  {
+    "code": "LpPkRNvbQtJy3fCm",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "塔克西跩佛@奧汀",
+      "Racook@奧汀",
+      "哈哈密瓜@利維坦",
+      "精靈遊俠@巴哈姆特",
+      "悠洛@奧汀",
+      "嘎嚕嘎嚕@奧汀",
+      "玄祭@利維坦",
+      "我的褲子@巴哈姆特"
+    ],
+    "fight_id": 30,
+    "duration_ms": 1122095,
+    "clear_dt_ms": 1792321218511,
+    "jobs": {
+      "塔克西跩佛@奧汀": "Dancer",
+      "Racook@奧汀": "Gunbreaker",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "精靈遊俠@巴哈姆特": "Dragoon",
+      "悠洛@奧汀": "Pictomancer",
+      "嘎嚕嘎嚕@奧汀": "Paladin",
+      "玄祭@利維坦": "Scholar",
+      "我的褲子@巴哈姆特": "Reaper"
+    }
+  },
+  {
+    "code": "nfxY7RbagKNFL8tm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "積美希@利維坦",
+      "呆呆奶黃包@泰坦",
+      "Sc@泰坦",
+      "醉花o@迦樓羅",
+      "桑原同學@泰坦",
+      "索拉肥@鳳凰",
+      "菲爾約@巴哈姆特",
+      "她說她沒說@泰坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 977811,
+    "clear_dt_ms": 1792316721566,
+    "jobs": {
+      "積美希@利維坦": "Scholar",
+      "呆呆奶黃包@泰坦": "Samurai",
+      "Sc@泰坦": "Machinist",
+      "醉花o@迦樓羅": "Dancer",
+      "桑原同學@泰坦": "WhiteMage",
+      "索拉肥@鳳凰": "DarkKnight",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "她說她沒說@泰坦": "Warrior"
+    }
+  },
+  {
+    "code": "9mbnpBWN3YAqt67y",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "塔塔落@利維坦",
+      "雪莉@利維坦",
+      "Okay@迦樓羅",
+      "果賴咪@巴哈姆特",
+      "棉花糖@迦樓羅",
+      "阿加德@泰坦",
+      "穗曦@伊弗利特",
+      "不要吵@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1136793,
+    "clear_dt_ms": 1792321701113,
+    "jobs": {
+      "塔塔落@利維坦": "Scholar",
+      "雪莉@利維坦": "Viper",
+      "Okay@迦樓羅": "Pictomancer",
+      "果賴咪@巴哈姆特": "Monk",
+      "棉花糖@迦樓羅": "DarkKnight",
+      "阿加德@泰坦": "Astrologian",
+      "穗曦@伊弗利特": "Paladin",
+      "不要吵@利維坦": "Machinist"
+    }
   }
 ]
