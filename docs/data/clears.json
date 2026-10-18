@@ -118094,5 +118094,33 @@
       "樹林游盛閔@迦樓羅": "Monk",
       "逢魔時王@迦樓羅": "Pictomancer"
     }
+  },
+  {
+    "code": "crM2npzK9fQmwLyd",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "天使之吻@迦樓羅",
+      "草peko虐@利維坦",
+      "薪水很高@奧汀",
+      "尤吉歐@伊弗利特",
+      "穆璃@伊弗利特",
+      "亞爾@伊弗利特",
+      "巧克巧克@伊弗利特",
+      "肥滋滋@迦樓羅"
+    ],
+    "fight_id": 6,
+    "duration_ms": 964191,
+    "clear_dt_ms": 1792356557477,
+    "jobs": {
+      "天使之吻@迦樓羅": "DarkKnight",
+      "草peko虐@利維坦": "Paladin",
+      "薪水很高@奧汀": "BlackMage",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "穆璃@伊弗利特": "Ninja",
+      "亞爾@伊弗利特": "Monk",
+      "巧克巧克@伊弗利特": "Scholar",
+      "肥滋滋@迦樓羅": "Machinist"
+    }
   }
 ]
