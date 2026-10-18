@@ -117368,5 +117368,33 @@
       "夜雨墨染@鳳凰": "BlackMage",
       "九五二七@利維坦": "Monk"
     }
+  },
+  {
+    "code": "PHFt2LhdCcAX4Qbx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "篝之霧枝@泰坦",
+      "水寒@伊弗利特",
+      "汰@迦樓羅",
+      "璐小凌喵奈@利維坦",
+      "芋仔冰@迦樓羅",
+      "傻咩@迦樓羅",
+      "鳳蘭@迦樓羅",
+      "Hhbar@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 989755,
+    "clear_dt_ms": 1792295635841,
+    "jobs": {
+      "篝之霧枝@泰坦": "BlackMage",
+      "水寒@伊弗利特": "Sage",
+      "汰@迦樓羅": "WhiteMage",
+      "璐小凌喵奈@利維坦": "DarkKnight",
+      "芋仔冰@迦樓羅": "Warrior",
+      "傻咩@迦樓羅": "Samurai",
+      "鳳蘭@迦樓羅": "Machinist",
+      "Hhbar@巴哈姆特": "Pictomancer"
+    }
   }
 ]
