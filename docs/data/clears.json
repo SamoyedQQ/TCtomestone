@@ -117396,5 +117396,61 @@
       "鳳蘭@迦樓羅": "Machinist",
       "Hhbar@巴哈姆特": "Pictomancer"
     }
+  },
+  {
+    "code": "cmWVBCFbtgpyTxz4",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "予情@伊弗利特",
+      "Maple@伊弗利特",
+      "April@伊弗利特",
+      "Nekols@奧汀",
+      "七詩零@利維坦",
+      "予理@伊弗利特",
+      "麥克雞快@巴哈姆特",
+      "光之小企鵝@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1121901,
+    "clear_dt_ms": 1792297875921,
+    "jobs": {
+      "予情@伊弗利特": "Astrologian",
+      "Maple@伊弗利特": "Monk",
+      "April@伊弗利特": "Sage",
+      "Nekols@奧汀": "Paladin",
+      "七詩零@利維坦": "Machinist",
+      "予理@伊弗利特": "DarkKnight",
+      "麥克雞快@巴哈姆特": "Dragoon",
+      "光之小企鵝@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "3AwrR8gYG16PDHpf",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "勾燈費雪@利維坦",
+      "秋形蟲@利維坦",
+      "低優低優@利維坦",
+      "Jine@巴哈姆特",
+      "深kaku@迦樓羅",
+      "卡丁醇@利維坦",
+      "寒冬夜@迦樓羅",
+      "阿鹿@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 958162,
+    "clear_dt_ms": 1792308635405,
+    "jobs": {
+      "勾燈費雪@利維坦": "Summoner",
+      "秋形蟲@利維坦": "Sage",
+      "低優低優@利維坦": "Dancer",
+      "Jine@巴哈姆特": "BlackMage",
+      "深kaku@迦樓羅": "Monk",
+      "卡丁醇@利維坦": "Paladin",
+      "寒冬夜@迦樓羅": "DarkKnight",
+      "阿鹿@迦樓羅": "WhiteMage"
+    }
   }
 ]
