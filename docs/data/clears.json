@@ -118794,5 +118794,61 @@
       "永恆詩歌@鳳凰": "Summoner",
       "神秘夾克姐姐@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "azyWGmJk4DXN6L9b",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "下限無底@迦樓羅",
+      "拿豆腐丟你喔@迦樓羅",
+      "Hanouo@迦樓羅",
+      "拉妃比亞@迦樓羅",
+      "一之瀨凜香@迦樓羅",
+      "Ping@迦樓羅",
+      "莉露@迦樓羅",
+      "欸欸欸手摸哪@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 981398,
+    "clear_dt_ms": 1792415837493,
+    "jobs": {
+      "下限無底@迦樓羅": "Paladin",
+      "拿豆腐丟你喔@迦樓羅": "RedMage",
+      "Hanouo@迦樓羅": "Astrologian",
+      "拉妃比亞@迦樓羅": "Machinist",
+      "一之瀨凜香@迦樓羅": "Sage",
+      "Ping@迦樓羅": "Dancer",
+      "莉露@迦樓羅": "Warrior",
+      "欸欸欸手摸哪@伊弗利特": "Samurai"
+    }
+  },
+  {
+    "code": "fZjM1FbJpKH7D6TN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "不可@鳳凰",
+      "阿吉美眉@巴哈姆特",
+      "異累k@迦樓羅",
+      "Only@伊弗利特",
+      "奶油手實習生@伊弗利特",
+      "白上喵雪@奧汀",
+      "二v@迦樓羅",
+      "墨寶@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 835002,
+    "clear_dt_ms": 1792441003376,
+    "jobs": {
+      "不可@鳳凰": "DarkKnight",
+      "阿吉美眉@巴哈姆特": "Paladin",
+      "異累k@迦樓羅": "Sage",
+      "Only@伊弗利特": "Summoner",
+      "奶油手實習生@伊弗利特": "Dancer",
+      "白上喵雪@奧汀": "BlackMage",
+      "二v@迦樓羅": "Astrologian",
+      "墨寶@利維坦": "Viper"
+    }
   }
 ]
