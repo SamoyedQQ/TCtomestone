@@ -119270,5 +119270,61 @@
       "阿加德@泰坦": "Astrologian",
       "Iroha@巴哈姆特": "Dancer"
     }
+  },
+  {
+    "code": "b2PMN7GJgR6zrKp9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Yuzuha@伊弗利特",
+      "伊諾@利維坦",
+      "亞爾@伊弗利特",
+      "Haein@迦樓羅",
+      "舞川奈富子@奧汀",
+      "Diaulo@迦樓羅",
+      "坦格利安@伊弗利特",
+      "Souru@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 980001,
+    "clear_dt_ms": 1792568219225,
+    "jobs": {
+      "Yuzuha@伊弗利特": "Astrologian",
+      "伊諾@利維坦": "Sage",
+      "亞爾@伊弗利特": "Monk",
+      "Haein@迦樓羅": "Gunbreaker",
+      "舞川奈富子@奧汀": "Pictomancer",
+      "Diaulo@迦樓羅": "Machinist",
+      "坦格利安@伊弗利特": "Paladin",
+      "Souru@利維坦": "Reaper"
+    }
+  },
+  {
+    "code": "MH7yJwzKCqPFYNdA",
+    "title": "2026-07-21",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "語@利維坦",
+      "高金生@利維坦",
+      "阿村@利維坦",
+      "巴伯靴@利維坦",
+      "紫柳@利維坦",
+      "B蜂蜂小甜心@利維坦",
+      "花凜@利維坦",
+      "苦難陳述者@利維坦"
+    ],
+    "fight_id": 97,
+    "duration_ms": 854561,
+    "clear_dt_ms": 1784816535612,
+    "jobs": {
+      "語@利維坦": "Dancer",
+      "高金生@利維坦": "Summoner",
+      "阿村@利維坦": "Paladin",
+      "巴伯靴@利維坦": "Scholar",
+      "紫柳@利維坦": "BlackMage",
+      "B蜂蜂小甜心@利維坦": "Astrologian",
+      "花凜@利維坦": "DarkKnight",
+      "苦難陳述者@利維坦": "Samurai"
+    }
   }
 ]
