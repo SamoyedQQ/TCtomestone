@@ -119214,5 +119214,33 @@
       "八奈見杏菜@迦樓羅": "BlackMage",
       "Kennyt@巴哈姆特": "Ninja"
     }
+  },
+  {
+    "code": "LarfFvQhxRKHg6A1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "八奈見杏菜@迦樓羅",
+      "蕎麥鮮奶茶@伊弗利特",
+      "Kennyt@巴哈姆特",
+      "穗宮園紫香@鳳凰",
+      "白宣@泰坦",
+      "西·特莉格@鳳凰",
+      "Ptcat@利維坦",
+      "阿熏@泰坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1113889,
+    "clear_dt_ms": 1792551533803,
+    "jobs": {
+      "八奈見杏菜@迦樓羅": "BlackMage",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "Kennyt@巴哈姆特": "Reaper",
+      "穗宮園紫香@鳳凰": "Dragoon",
+      "白宣@泰坦": "DarkKnight",
+      "西·特莉格@鳳凰": "Dancer",
+      "Ptcat@利維坦": "Warrior",
+      "阿熏@泰坦": "Astrologian"
+    }
   }
 ]
