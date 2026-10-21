@@ -119242,5 +119242,33 @@
       "Ptcat@利維坦": "Warrior",
       "阿熏@泰坦": "Astrologian"
     }
+  },
+  {
+    "code": "Gxc2FpdzrHhfbNPX",
+    "title": "Futures Rewritten",
+    "encounter": "Fatebreaker / Usurper of Frost / ... ",
+    "players": [
+      "維吉爾@利維坦",
+      "愛馬仕橘@伊弗利特",
+      "殺手佐之助@巴哈姆特",
+      "Vieg@伊弗利特",
+      "Mogg@伊弗利特",
+      "水果糖@奧汀",
+      "阿加德@泰坦",
+      "Iroha@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1124900,
+    "clear_dt_ms": 1792559462168,
+    "jobs": {
+      "維吉爾@利維坦": "Samurai",
+      "愛馬仕橘@伊弗利特": "DarkKnight",
+      "殺手佐之助@巴哈姆特": "Scholar",
+      "Vieg@伊弗利特": "BlackMage",
+      "Mogg@伊弗利特": "Reaper",
+      "水果糖@奧汀": "Paladin",
+      "阿加德@泰坦": "Astrologian",
+      "Iroha@巴哈姆特": "Dancer"
+    }
   }
 ]
