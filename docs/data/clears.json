@@ -120978,5 +120978,117 @@
       "下限無底@迦樓羅": "Paladin",
       "鹿餅餅@伊弗利特": "Warrior"
     }
+  },
+  {
+    "code": "8tdcvnPXbJDmW71R",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Sylph@泰坦",
+      "曉春日和@利維坦",
+      "Xufeng@利維坦",
+      "吸管@利維坦",
+      "悠洛@奧汀",
+      "玄祭@利維坦",
+      "送你原石@巴哈姆特",
+      "嘎嚕嘎嚕@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1124251,
+    "clear_dt_ms": 1792784502050,
+    "jobs": {
+      "Sylph@泰坦": "Bard",
+      "曉春日和@利維坦": "Astrologian",
+      "Xufeng@利維坦": "Dragoon",
+      "吸管@利維坦": "Viper",
+      "悠洛@奧汀": "Pictomancer",
+      "玄祭@利維坦": "Scholar",
+      "送你原石@巴哈姆特": "DarkKnight",
+      "嘎嚕嘎嚕@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "d9agxLwJZR3DPG1y",
+    "title": "絕伊甸1024",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "羽丘的怪女生@迦樓羅",
+      "阿葵@伊弗利特",
+      "Mogg@伊弗利特",
+      "朝朝如念@巴哈姆特",
+      "月月丶@利維坦",
+      "神的傑作@迦樓羅",
+      "菟@利維坦",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1115948,
+    "clear_dt_ms": 1792785841964,
+    "jobs": {
+      "羽丘的怪女生@迦樓羅": "Paladin",
+      "阿葵@伊弗利特": "Ninja",
+      "Mogg@伊弗利特": "Reaper",
+      "朝朝如念@巴哈姆特": "Dancer",
+      "月月丶@利維坦": "DarkKnight",
+      "神的傑作@迦樓羅": "Astrologian",
+      "菟@利維坦": "Scholar",
+      "逢魔時王@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "pTZar4R9cqJybzCK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "水寒@伊弗利特",
+      "貓肉湯owo@伊弗利特",
+      "露露米@伊弗利特",
+      "沒可能ouo@伊弗利特",
+      "夏螢@伊弗利特",
+      "蒼蓮@伊弗利特",
+      "棠梨@利維坦",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 995128,
+    "clear_dt_ms": 1792589368095,
+    "jobs": {
+      "水寒@伊弗利特": "Sage",
+      "貓肉湯owo@伊弗利特": "DarkKnight",
+      "露露米@伊弗利特": "Samurai",
+      "沒可能ouo@伊弗利特": "WhiteMage",
+      "夏螢@伊弗利特": "Bard",
+      "蒼蓮@伊弗利特": "Monk",
+      "棠梨@利維坦": "Paladin",
+      "喚靈夜語@伊弗利特": "BlackMage"
+    }
+  },
+  {
+    "code": "pTZar4R9cqJybzCK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "水寒@伊弗利特",
+      "貓肉湯owo@伊弗利特",
+      "露露米@伊弗利特",
+      "沒可能ouo@伊弗利特",
+      "夏螢@伊弗利特",
+      "蒼蓮@伊弗利特",
+      "棠梨@利維坦",
+      "喚靈夜語@伊弗利特"
+    ],
+    "fight_id": 16,
+    "duration_ms": 984706,
+    "clear_dt_ms": 1792595123769,
+    "jobs": {
+      "水寒@伊弗利特": "Sage",
+      "貓肉湯owo@伊弗利特": "DarkKnight",
+      "露露米@伊弗利特": "Samurai",
+      "沒可能ouo@伊弗利特": "WhiteMage",
+      "夏螢@伊弗利特": "Bard",
+      "蒼蓮@伊弗利特": "Monk",
+      "棠梨@利維坦": "Paladin",
+      "喚靈夜語@伊弗利特": "BlackMage"
+    }
   }
 ]
