@@ -120054,5 +120054,89 @@
       "光之小企鵝@伊弗利特": "Scholar",
       "Shano@泰坦": "Sage"
     }
+  },
+  {
+    "code": "fhCBD4tzrpmYwd7y",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "果賴咪@巴哈姆特",
+      "夏夕夏景@伊弗利特",
+      "布丁@利維坦",
+      "貓耳柴柴@奧汀",
+      "海綿睇寶寶@巴哈姆特",
+      "Jokerz@伊弗利特",
+      "Rita@利維坦",
+      "雪月狐@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1122012,
+    "clear_dt_ms": 1792740615602,
+    "jobs": {
+      "果賴咪@巴哈姆特": "Dragoon",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "布丁@利維坦": "Dancer",
+      "貓耳柴柴@奧汀": "WhiteMage",
+      "海綿睇寶寶@巴哈姆特": "Paladin",
+      "Jokerz@伊弗利特": "Ninja",
+      "Rita@利維坦": "DarkKnight",
+      "雪月狐@奧汀": "Pictomancer"
+    }
+  },
+  {
+    "code": "QbHNJVBr4XWMK9YD",
+    "title": "10/23",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Natsum@奧汀",
+      "Pababo@利維坦",
+      "無@迦樓羅",
+      "柳月雲@泰坦",
+      "淺橘@迦樓羅",
+      "五宮零@奧汀",
+      "小町月海@奧汀",
+      "緹厄珊@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 869512,
+    "clear_dt_ms": 1792739018897,
+    "jobs": {
+      "Natsum@奧汀": "Dancer",
+      "Pababo@利維坦": "Warrior",
+      "無@迦樓羅": "Paladin",
+      "柳月雲@泰坦": "Summoner",
+      "淺橘@迦樓羅": "Scholar",
+      "五宮零@奧汀": "Dragoon",
+      "小町月海@奧汀": "Samurai",
+      "緹厄珊@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "L2vVpBPzbHh9njG7",
+    "title": "絕亞#2",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "紅兔@泰坦",
+      "巧克力熱果凍@迦樓羅",
+      "Kanei@利維坦",
+      "逆轉壽司@迦樓羅",
+      "Re晞忒璐@利維坦",
+      "不要吵@利維坦",
+      "伊諾@利維坦",
+      "Linlin@奧汀"
+    ],
+    "fight_id": 4,
+    "duration_ms": 956169,
+    "clear_dt_ms": 1792738465850,
+    "jobs": {
+      "紅兔@泰坦": "Monk",
+      "巧克力熱果凍@迦樓羅": "BlackMage",
+      "Kanei@利維坦": "Dragoon",
+      "逆轉壽司@迦樓羅": "DarkKnight",
+      "Re晞忒璐@利維坦": "Gunbreaker",
+      "不要吵@利維坦": "Sage",
+      "伊諾@利維坦": "Astrologian",
+      "Linlin@奧汀": "Machinist"
+    }
   }
 ]
