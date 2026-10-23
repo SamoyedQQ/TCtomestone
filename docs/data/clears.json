@@ -120530,5 +120530,201 @@
       "只想躺平@利維坦": "Machinist",
       "想喝五十嵐@泰坦": "DarkKnight"
     }
+  },
+  {
+    "code": "RQhZ7G49yqWapMtV",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Kennyy@迦樓羅",
+      "狗@奧汀",
+      "阿公穿肚兜跑@利維坦",
+      "Sweet@泰坦",
+      "Rc@鳳凰",
+      "洽米@迦樓羅",
+      "小籠躺包@鳳凰",
+      "阿葵@伊弗利特"
+    ],
+    "fight_id": 21,
+    "duration_ms": 1111270,
+    "clear_dt_ms": 1792769468016,
+    "jobs": {
+      "Kennyy@迦樓羅": "Astrologian",
+      "狗@奧汀": "Sage",
+      "阿公穿肚兜跑@利維坦": "Pictomancer",
+      "Sweet@泰坦": "Samurai",
+      "Rc@鳳凰": "Dancer",
+      "洽米@迦樓羅": "DarkKnight",
+      "小籠躺包@鳳凰": "Paladin",
+      "阿葵@伊弗利特": "Ninja"
+    }
+  },
+  {
+    "code": "JjWvFmXgwKhPfMHa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "時漸祈@伊弗利特",
+      "沅@鳳凰",
+      "Adios@鳳凰",
+      "嘰裏咕嚕@鳳凰",
+      "才不梨你@鳳凰",
+      "霽雨@鳳凰",
+      "皇家壽司拼盤@巴哈姆特",
+      "弈言@巴哈姆特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 948938,
+    "clear_dt_ms": 1792765832236,
+    "jobs": {
+      "時漸祈@伊弗利特": "Summoner",
+      "沅@鳳凰": "BlackMage",
+      "Adios@鳳凰": "WhiteMage",
+      "嘰裏咕嚕@鳳凰": "Ninja",
+      "才不梨你@鳳凰": "DarkKnight",
+      "霽雨@鳳凰": "Sage",
+      "皇家壽司拼盤@巴哈姆特": "Dancer",
+      "弈言@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "JjWvFmXgwKhPfMHa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "時漸祈@伊弗利特",
+      "沅@鳳凰",
+      "Adios@鳳凰",
+      "嘰裏咕嚕@鳳凰",
+      "才不梨你@鳳凰",
+      "霽雨@鳳凰",
+      "皇家壽司拼盤@巴哈姆特",
+      "弈言@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 950258,
+    "clear_dt_ms": 1792767364671,
+    "jobs": {
+      "時漸祈@伊弗利特": "Summoner",
+      "沅@鳳凰": "BlackMage",
+      "Adios@鳳凰": "WhiteMage",
+      "嘰裏咕嚕@鳳凰": "Ninja",
+      "才不梨你@鳳凰": "DarkKnight",
+      "霽雨@鳳凰": "Sage",
+      "皇家壽司拼盤@巴哈姆特": "Dancer",
+      "弈言@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "JjWvFmXgwKhPfMHa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "時漸祈@伊弗利特",
+      "沅@鳳凰",
+      "Adios@鳳凰",
+      "嘰裏咕嚕@鳳凰",
+      "才不梨你@鳳凰",
+      "霽雨@鳳凰",
+      "皇家壽司拼盤@巴哈姆特",
+      "弈言@巴哈姆特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 955443,
+    "clear_dt_ms": 1792768941218,
+    "jobs": {
+      "時漸祈@伊弗利特": "Summoner",
+      "沅@鳳凰": "BlackMage",
+      "Adios@鳳凰": "WhiteMage",
+      "嘰裏咕嚕@鳳凰": "Ninja",
+      "才不梨你@鳳凰": "DarkKnight",
+      "霽雨@鳳凰": "Sage",
+      "皇家壽司拼盤@巴哈姆特": "Dancer",
+      "弈言@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "TaZchxfjmdF6YbyX",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "她說她沒說@泰坦",
+      "桑原同學@泰坦",
+      "阿爾貝隆@奧汀",
+      "Yinx@鳳凰",
+      "Giwa@巴哈姆特",
+      "葉月小雪@奧汀",
+      "Sc@泰坦",
+      "呆呆奶黃包@泰坦"
+    ],
+    "fight_id": 14,
+    "duration_ms": 947010,
+    "clear_dt_ms": 1792766629019,
+    "jobs": {
+      "她說她沒說@泰坦": "Warrior",
+      "桑原同學@泰坦": "WhiteMage",
+      "阿爾貝隆@奧汀": "DarkKnight",
+      "Yinx@鳳凰": "Sage",
+      "Giwa@巴哈姆特": "Summoner",
+      "葉月小雪@奧汀": "Bard",
+      "Sc@泰坦": "Machinist",
+      "呆呆奶黃包@泰坦": "Samurai"
+    }
+  },
+  {
+    "code": "gkFVq4GnJZftN71a",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "煙花易冷@伊弗利特",
+      "紗糖@伊弗利特",
+      "好taya寶@伊弗利特",
+      "悠娜米@伊弗利特",
+      "薨緹@伊弗利特",
+      "飯糰@伊弗利特",
+      "蛇咬草@伊弗利特",
+      "優紗@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 933337,
+    "clear_dt_ms": 1792761054980,
+    "jobs": {
+      "煙花易冷@伊弗利特": "Warrior",
+      "紗糖@伊弗利特": "BlackMage",
+      "好taya寶@伊弗利特": "Machinist",
+      "悠娜米@伊弗利特": "Sage",
+      "薨緹@伊弗利特": "Astrologian",
+      "飯糰@伊弗利特": "Paladin",
+      "蛇咬草@伊弗利特": "Monk",
+      "優紗@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "6FzjVpwJgN1BYvCA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "紗糖@伊弗利特",
+      "飯糰@伊弗利特",
+      "蛇咬草@伊弗利特",
+      "好taya寶@伊弗利特",
+      "優紗@伊弗利特",
+      "煙花易冷@伊弗利特",
+      "薨緹@伊弗利特",
+      "悠娜米@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 965119,
+    "clear_dt_ms": 1792758188227,
+    "jobs": {
+      "紗糖@伊弗利特": "BlackMage",
+      "飯糰@伊弗利特": "Paladin",
+      "蛇咬草@伊弗利特": "Monk",
+      "好taya寶@伊弗利特": "Machinist",
+      "優紗@伊弗利特": "Pictomancer",
+      "煙花易冷@伊弗利特": "Warrior",
+      "薨緹@伊弗利特": "Astrologian",
+      "悠娜米@伊弗利特": "Sage"
+    }
   }
 ]
