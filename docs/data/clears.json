@@ -120950,5 +120950,33 @@
       "有憾無悔@伊弗利特": "DarkKnight",
       "芷小語@伊弗利特": "Scholar"
     }
+  },
+  {
+    "code": "W2CMQgjKNfJt9bA8",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "塔克西跩佛@奧汀",
+      "果醬@奧汀",
+      "一杯熱牛奶@利維坦",
+      "一之瀨凜香@迦樓羅",
+      "汰@迦樓羅",
+      "希克列斯@鳳凰",
+      "下限無底@迦樓羅",
+      "鹿餅餅@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 966601,
+    "clear_dt_ms": 1792781094592,
+    "jobs": {
+      "塔克西跩佛@奧汀": "Dancer",
+      "果醬@奧汀": "BlackMage",
+      "一杯熱牛奶@利維坦": "Monk",
+      "一之瀨凜香@迦樓羅": "Sage",
+      "汰@迦樓羅": "WhiteMage",
+      "希克列斯@鳳凰": "Samurai",
+      "下限無底@迦樓羅": "Paladin",
+      "鹿餅餅@伊弗利特": "Warrior"
+    }
   }
 ]
