@@ -120026,5 +120026,33 @@
       "Ivel@鳳凰": "Ninja",
       "祈靈@鳳凰": "Dancer"
     }
+  },
+  {
+    "code": "c2Ctx6wmb7WDFAVk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "麥克雞快@巴哈姆特",
+      "普路托斯@伊弗利特",
+      "桃金娘@伊弗利特",
+      "Ennie@利維坦",
+      "氰蘋果@鳳凰",
+      "阿熏@泰坦",
+      "光之小企鵝@伊弗利特",
+      "Shano@泰坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1004420,
+    "clear_dt_ms": 1792725574567,
+    "jobs": {
+      "麥克雞快@巴哈姆特": "Dragoon",
+      "普路托斯@伊弗利特": "Summoner",
+      "桃金娘@伊弗利特": "Astrologian",
+      "Ennie@利維坦": "Paladin",
+      "氰蘋果@鳳凰": "Machinist",
+      "阿熏@泰坦": "Warrior",
+      "光之小企鵝@伊弗利特": "Scholar",
+      "Shano@泰坦": "Sage"
+    }
   }
 ]
