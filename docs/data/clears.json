@@ -121146,5 +121146,33 @@
       "納爾遜@鳳凰": "Monk",
       "Yuzuha@伊弗利特": "Astrologian"
     }
+  },
+  {
+    "code": "2PLhmtCkR7MDy6aA",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蛋餅小仙@奧汀",
+      "Yze@伊弗利特",
+      "貓咪吃糖果@迦樓羅",
+      "希克列斯@鳳凰",
+      "蒼蒼橋@鳳凰",
+      "萊姆lyme@伊弗利特",
+      "Hhbar@巴哈姆特",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 961362,
+    "clear_dt_ms": 1792779580272,
+    "jobs": {
+      "蛋餅小仙@奧汀": "BlackMage",
+      "Yze@伊弗利特": "WhiteMage",
+      "貓咪吃糖果@迦樓羅": "Paladin",
+      "希克列斯@鳳凰": "Samurai",
+      "蒼蒼橋@鳳凰": "Scholar",
+      "萊姆lyme@伊弗利特": "Warrior",
+      "Hhbar@巴哈姆特": "Pictomancer",
+      "三角初音@伊弗利特": "Machinist"
+    }
   }
 ]
