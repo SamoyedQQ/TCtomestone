@@ -122126,5 +122126,33 @@
       "寒冬夜@迦樓羅": "Scholar",
       "三角初音@伊弗利特": "Summoner"
     }
+  },
+  {
+    "code": "RjbNGahpcQn1z3WA",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "特依內@鳳凰",
+      "詠星者的奏鳴@鳳凰",
+      "Mogg@伊弗利特",
+      "舉舉@利維坦",
+      "Neko@伊弗利特",
+      "薇薇布@迦樓羅",
+      "小夢幻@奧汀",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1122475,
+    "clear_dt_ms": 1792934244006,
+    "jobs": {
+      "特依內@鳳凰": "Samurai",
+      "詠星者的奏鳴@鳳凰": "Bard",
+      "Mogg@伊弗利特": "Reaper",
+      "舉舉@利維坦": "BlackMage",
+      "Neko@伊弗利特": "DarkKnight",
+      "薇薇布@迦樓羅": "Paladin",
+      "小夢幻@奧汀": "Sage",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
   }
 ]
