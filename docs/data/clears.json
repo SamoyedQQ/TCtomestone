@@ -122070,5 +122070,61 @@
       "盧卡@鳳凰": "Warrior",
       "Kupo@泰坦": "Paladin"
     }
+  },
+  {
+    "code": "kfmch7qwMPFL4N1y",
+    "title": "絕伊甸1025",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "史嘉蕾特@巴哈姆特",
+      "卡希雅的娃娃@鳳凰",
+      "Hitomi@奧汀",
+      "莫塔里小土豆@奧汀",
+      "捷子哥八@伊弗利特",
+      "尤吉歐@伊弗利特",
+      "老大的最愛@巴哈姆特",
+      "逢魔時王@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1121214,
+    "clear_dt_ms": 1792920903055,
+    "jobs": {
+      "史嘉蕾特@巴哈姆特": "Ninja",
+      "卡希雅的娃娃@鳳凰": "Samurai",
+      "Hitomi@奧汀": "Sage",
+      "莫塔里小土豆@奧汀": "Gunbreaker",
+      "捷子哥八@伊弗利特": "Dancer",
+      "尤吉歐@伊弗利特": "WhiteMage",
+      "老大的最愛@巴哈姆特": "DarkKnight",
+      "逢魔時王@迦樓羅": "Pictomancer"
+    }
+  },
+  {
+    "code": "t6HPzcwnbYqZLVMa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "納爾遜@鳳凰",
+      "眠安@利維坦",
+      "犬神木南@利維坦",
+      "醉花o@迦樓羅",
+      "老樂@奧汀",
+      "奧丁@巴哈姆特",
+      "寒冬夜@迦樓羅",
+      "三角初音@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 891723,
+    "clear_dt_ms": 1792925572108,
+    "jobs": {
+      "納爾遜@鳳凰": "Dragoon",
+      "眠安@利維坦": "WhiteMage",
+      "犬神木南@利維坦": "Paladin",
+      "醉花o@迦樓羅": "Dancer",
+      "老樂@奧汀": "Monk",
+      "奧丁@巴哈姆特": "DarkKnight",
+      "寒冬夜@迦樓羅": "Scholar",
+      "三角初音@伊弗利特": "Summoner"
+    }
   }
 ]
