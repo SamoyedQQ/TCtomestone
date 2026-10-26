@@ -122602,5 +122602,201 @@
       "星界微光@鳳凰": "Dragoon",
       "神秘夾克姐姐@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "HzMRZg1qCtjbdJBP",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "哲別@利維坦",
+      "杏仁豆腐@奧汀",
+      "Edsel@伊弗利特",
+      "小夢幻@奧汀",
+      "薇薇布@迦樓羅",
+      "Mokame@奧汀",
+      "今天還沒練琴@伊弗利特",
+      "Izumi@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1120210,
+    "clear_dt_ms": 1793001039776,
+    "jobs": {
+      "哲別@利維坦": "Dancer",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "Edsel@伊弗利特": "Monk",
+      "小夢幻@奧汀": "Sage",
+      "薇薇布@迦樓羅": "DarkKnight",
+      "Mokame@奧汀": "Paladin",
+      "今天還沒練琴@伊弗利特": "Pictomancer",
+      "Izumi@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "wzjJ7Q8XtNxvVgcY",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "萊姆lyme@伊弗利特",
+      "穆璃@伊弗利特",
+      "神秘夾克姐姐@迦樓羅",
+      "巧克巧克@伊弗利特",
+      "未散@利維坦",
+      "安迪內德@巴哈姆特",
+      "Auxm@伊弗利特",
+      "Ra逼逼it@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 928111,
+    "clear_dt_ms": 1793008166726,
+    "jobs": {
+      "萊姆lyme@伊弗利特": "Warrior",
+      "穆璃@伊弗利特": "Astrologian",
+      "神秘夾克姐姐@迦樓羅": "Machinist",
+      "巧克巧克@伊弗利特": "Scholar",
+      "未散@利維坦": "Monk",
+      "安迪內德@巴哈姆特": "Pictomancer",
+      "Auxm@伊弗利特": "Samurai",
+      "Ra逼逼it@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "8dc2xrp3NGZjTtva",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "雪莉的放大鏡@巴哈姆特",
+      "Second@鳳凰",
+      "Engner@迦樓羅",
+      "小who豬@鳳凰",
+      "Mogg@伊弗利特",
+      "林老奶奶@迦樓羅",
+      "薪水很高@奧汀",
+      "貓也可以@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 971820,
+    "clear_dt_ms": 1792993961340,
+    "jobs": {
+      "雪莉的放大鏡@巴哈姆特": "Dancer",
+      "Second@鳳凰": "Paladin",
+      "Engner@迦樓羅": "Dragoon",
+      "小who豬@鳳凰": "BlackMage",
+      "Mogg@伊弗利特": "Astrologian",
+      "林老奶奶@迦樓羅": "DarkKnight",
+      "薪水很高@奧汀": "Sage",
+      "貓也可以@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "8dc2xrp3NGZjTtva",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "天宙@伊弗利特",
+      "甜點貓貓貓@鳳凰",
+      "金羽衣@巴哈姆特",
+      "否定姬@泰坦",
+      "星楓酥酥@伊弗利特",
+      "旋風@泰坦",
+      "貓也可以@奧汀",
+      "墨汁臭豆腐@鳳凰"
+    ],
+    "fight_id": 16,
+    "duration_ms": 984888,
+    "clear_dt_ms": 1793007342123,
+    "jobs": {
+      "天宙@伊弗利特": "DarkKnight",
+      "甜點貓貓貓@鳳凰": "Paladin",
+      "金羽衣@巴哈姆特": "BlackMage",
+      "否定姬@泰坦": "Monk",
+      "星楓酥酥@伊弗利特": "Sage",
+      "旋風@泰坦": "Astrologian",
+      "貓也可以@奧汀": "Samurai",
+      "墨汁臭豆腐@鳳凰": "Bard"
+    }
+  },
+  {
+    "code": "yLkmANnaphJXxTGW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "未散@利維坦",
+      "Altia@奧汀",
+      "三角初音@伊弗利特",
+      "安迪內德@巴哈姆特",
+      "Ra逼逼it@迦樓羅",
+      "神秘夾克姐姐@迦樓羅",
+      "巧克巧克@伊弗利特",
+      "Auxm@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 940756,
+    "clear_dt_ms": 1793006318492,
+    "jobs": {
+      "未散@利維坦": "Monk",
+      "Altia@奧汀": "WhiteMage",
+      "三角初音@伊弗利特": "Warrior",
+      "安迪內德@巴哈姆特": "Pictomancer",
+      "Ra逼逼it@迦樓羅": "Paladin",
+      "神秘夾克姐姐@迦樓羅": "Machinist",
+      "巧克巧克@伊弗利特": "Scholar",
+      "Auxm@伊弗利特": "Samurai"
+    }
+  },
+  {
+    "code": "hPbk3jHvL6QdZW18",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "Radish@伊弗利特",
+      "夏夕夏景@伊弗利特",
+      "嘟比嘟拔@鳳凰",
+      "陌夜語月@利維坦",
+      "卡在原地不動@鳳凰",
+      "米米莉@奧汀",
+      "Mokame@奧汀",
+      "維克·派金克@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1105004,
+    "clear_dt_ms": 1792995146240,
+    "jobs": {
+      "Radish@伊弗利特": "Machinist",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "嘟比嘟拔@鳳凰": "Pictomancer",
+      "陌夜語月@利維坦": "Paladin",
+      "卡在原地不動@鳳凰": "DarkKnight",
+      "米米莉@奧汀": "WhiteMage",
+      "Mokame@奧汀": "Dragoon",
+      "維克·派金克@奧汀": "Samurai"
+    }
+  },
+  {
+    "code": "hPbk3jHvL6QdZW18",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Dragonsong's Reprise",
+    "players": [
+      "熊貓貓@利維坦",
+      "陽光彩虹白駒@迦樓羅",
+      "夏夕夏景@伊弗利特",
+      "喵喵醬@奧汀",
+      "陌夜語月@利維坦",
+      "米米莉@奧汀",
+      "Mokame@奧汀",
+      "維克·派金克@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1078591,
+    "clear_dt_ms": 1792999337315,
+    "jobs": {
+      "熊貓貓@利維坦": "BlackMage",
+      "陽光彩虹白駒@迦樓羅": "Machinist",
+      "夏夕夏景@伊弗利特": "Scholar",
+      "喵喵醬@奧汀": "Warrior",
+      "陌夜語月@利維坦": "Paladin",
+      "米米莉@奧汀": "WhiteMage",
+      "Mokame@奧汀": "Dragoon",
+      "維克·派金克@奧汀": "Samurai"
+    }
   }
 ]
