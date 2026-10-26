@@ -123218,5 +123218,89 @@
       "圓形食物@鳳凰": "Warrior",
       "舞紗橘@利維坦": "Pictomancer"
     }
+  },
+  {
+    "code": "cNmHPGpngyMQfAj7",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "杏仁豆腐@奧汀",
+      "芙莉蓮霧@奧汀",
+      "塔克西跩佛@奧汀",
+      "果賴咪@巴哈姆特",
+      "薇薇布@迦樓羅",
+      "小夢幻@奧汀",
+      "羽丘的怪女生@迦樓羅",
+      "侑介@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1119295,
+    "clear_dt_ms": 1793042809981,
+    "jobs": {
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "塔克西跩佛@奧汀": "Dancer",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "薇薇布@迦樓羅": "Warrior",
+      "小夢幻@奧汀": "Sage",
+      "羽丘的怪女生@迦樓羅": "Paladin",
+      "侑介@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "vCMQnbqzX6KVA3H2",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "水果糖@奧汀",
+      "Kupo@泰坦",
+      "大野@利維坦",
+      "菟@利維坦",
+      "哈哈密瓜@利維坦",
+      "七詩零@利維坦",
+      "洽瓜@奧汀",
+      "Izumi@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121187,
+    "clear_dt_ms": 1793032168339,
+    "jobs": {
+      "水果糖@奧汀": "Paladin",
+      "Kupo@泰坦": "Pictomancer",
+      "大野@利維坦": "Reaper",
+      "菟@利維坦": "Scholar",
+      "哈哈密瓜@利維坦": "WhiteMage",
+      "七詩零@利維坦": "Bard",
+      "洽瓜@奧汀": "DarkKnight",
+      "Izumi@巴哈姆特": "Dragoon"
+    }
+  },
+  {
+    "code": "rvhKfHd3LBQJmkbx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小p噗噗@伊弗利特",
+      "梅露彌亞@伊弗利特",
+      "阿邦@鳳凰",
+      "楓焦凍@伊弗利特",
+      "Syyndr@奧汀",
+      "留多@鳳凰",
+      "一一大吉一一@奧汀",
+      "刷億場水晶塔@伊弗利特"
+    ],
+    "fight_id": 15,
+    "duration_ms": 957039,
+    "clear_dt_ms": 1793039698426,
+    "jobs": {
+      "小p噗噗@伊弗利特": "Reaper",
+      "梅露彌亞@伊弗利特": "Bard",
+      "阿邦@鳳凰": "Paladin",
+      "楓焦凍@伊弗利特": "Pictomancer",
+      "Syyndr@奧汀": "Sage",
+      "留多@鳳凰": "WhiteMage",
+      "一一大吉一一@奧汀": "Warrior",
+      "刷億場水晶塔@伊弗利特": "BlackMage"
+    }
   }
 ]
