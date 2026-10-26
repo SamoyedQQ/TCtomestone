@@ -270042,15 +270042,15 @@
     "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
     "is_clear": true,
     "boss_hp_pct": 0.0,
-    "rdps": 30084.8902285017,
-    "adps": 28979.001170309966,
+    "rdps": 30303.425378513504,
+    "adps": 29225.689979167037,
     "parse_pct": 0.0,
     "job": "Monk",
-    "char_id": 1000928,
-    "report_code": "32AF47GmJNwRPqvW",
-    "fight_id": 22,
-    "timestamp_ms": 1790334833173,
-    "duration_ms": 1114992,
+    "char_id": 1000315,
+    "report_code": "kcqBwg4zpAJ8ybRF",
+    "fight_id": 6,
+    "timestamp_ms": 1793001039776,
+    "duration_ms": 1120210,
     "phase_reached": 0
   },
   "骨折@利維坦:1079:Paladin": {
@@ -410541,6 +410541,24 @@
     "fight_id": 17,
     "timestamp_ms": 1792954438387,
     "duration_ms": 1120356,
+    "phase_reached": 0
+  },
+  "哲別@利維坦:1079:Dancer": {
+    "name": "哲別",
+    "server": "利維坦",
+    "encounter_id": 1079,
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 25739.994653459795,
+    "adps": 21532.267070117618,
+    "parse_pct": 0.0,
+    "job": "Dancer",
+    "char_id": 1000009,
+    "report_code": "kcqBwg4zpAJ8ybRF",
+    "fight_id": 6,
+    "timestamp_ms": 1793001039776,
+    "duration_ms": 1120210,
     "phase_reached": 0
   }
 }
