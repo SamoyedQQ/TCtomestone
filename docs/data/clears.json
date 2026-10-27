@@ -123386,5 +123386,61 @@
       "Kennyt@巴哈姆特": "Viper",
       "白宣@泰坦": "DarkKnight"
     }
+  },
+  {
+    "code": "TxRJ9kKczdLZHwYN",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "薇薇布@迦樓羅",
+      "蒼眠月@奧汀",
+      "千反田@鳳凰",
+      "鴨打@伊弗利特",
+      "一龍@迦樓羅",
+      "轉圈圈@迦樓羅",
+      "洽米@迦樓羅",
+      "Sheep@迦樓羅"
+    ],
+    "fight_id": 26,
+    "duration_ms": 1118556,
+    "clear_dt_ms": 1793105218484,
+    "jobs": {
+      "薇薇布@迦樓羅": "Astrologian",
+      "蒼眠月@奧汀": "Pictomancer",
+      "千反田@鳳凰": "Paladin",
+      "鴨打@伊弗利特": "Dancer",
+      "一龍@迦樓羅": "Monk",
+      "轉圈圈@迦樓羅": "Scholar",
+      "洽米@迦樓羅": "DarkKnight",
+      "Sheep@迦樓羅": "Ninja"
+    }
+  },
+  {
+    "code": "nDfzhCGATkJc6pyx",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "潔澪@利維坦",
+      "真是個好名字@泰坦",
+      "汐月零@泰坦",
+      "小落奈@巴哈姆特",
+      "沒可能ouo@伊弗利特",
+      "浮米@泰坦",
+      "巴巴博一@利維坦",
+      "炭烤醬油@泰坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 962332,
+    "clear_dt_ms": 1793094338378,
+    "jobs": {
+      "潔澪@利維坦": "Samurai",
+      "真是個好名字@泰坦": "Dragoon",
+      "汐月零@泰坦": "BlackMage",
+      "小落奈@巴哈姆特": "Gunbreaker",
+      "沒可能ouo@伊弗利特": "WhiteMage",
+      "浮米@泰坦": "Sage",
+      "巴巴博一@利維坦": "Warrior",
+      "炭烤醬油@泰坦": "Machinist"
+    }
   }
 ]
