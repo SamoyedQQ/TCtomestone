@@ -123330,5 +123330,61 @@
       "阿加德@泰坦": "Astrologian",
       "黑魔@奧汀": "BlackMage"
     }
+  },
+  {
+    "code": "VnJ41pjR6GTKYZ7g",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "雲浪丨遊軒轅@鳳凰",
+      "Seven宇@奧汀",
+      "顧言@奧汀",
+      "旮旯給木高手@伊弗利特",
+      "蝦蝦@利維坦",
+      "Ccha@迦樓羅",
+      "子時變人猿@奧汀",
+      "夏夕夏景@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 841265,
+    "clear_dt_ms": 1793071317343,
+    "jobs": {
+      "雲浪丨遊軒轅@鳳凰": "Dancer",
+      "Seven宇@奧汀": "Monk",
+      "顧言@奧汀": "Warrior",
+      "旮旯給木高手@伊弗利特": "Paladin",
+      "蝦蝦@利維坦": "Scholar",
+      "Ccha@迦樓羅": "Summoner",
+      "子時變人猿@奧汀": "RedMage",
+      "夏夕夏景@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "dK3BqLGQWDjVg2YP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Ptcat@利維坦",
+      "西·特莉格@鳳凰",
+      "蕎麥鮮奶茶@伊弗利特",
+      "阿熏@泰坦",
+      "穗宮園紫香@鳳凰",
+      "八奈見杏菜@迦樓羅",
+      "Kennyt@巴哈姆特",
+      "白宣@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1092046,
+    "clear_dt_ms": 1793067055637,
+    "jobs": {
+      "Ptcat@利維坦": "Warrior",
+      "西·特莉格@鳳凰": "Dancer",
+      "蕎麥鮮奶茶@伊弗利特": "Scholar",
+      "阿熏@泰坦": "Astrologian",
+      "穗宮園紫香@鳳凰": "Dragoon",
+      "八奈見杏菜@迦樓羅": "BlackMage",
+      "Kennyt@巴哈姆特": "Viper",
+      "白宣@泰坦": "DarkKnight"
+    }
   }
 ]
