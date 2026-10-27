@@ -123442,5 +123442,33 @@
       "巴巴博一@利維坦": "Warrior",
       "炭烤醬油@泰坦": "Machinist"
     }
+  },
+  {
+    "code": "4HhabzTKvW8BVPZy",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "罵丸人@伊弗利特",
+      "鞋貓@伊弗利特",
+      "Yuzuha@奧汀",
+      "睿睿@奧汀",
+      "那海瑪@奧汀",
+      "超級ot王@泰坦",
+      "祿存@伊弗利特",
+      "雪花@奧汀"
+    ],
+    "fight_id": 10,
+    "duration_ms": 957848,
+    "clear_dt_ms": 1793116041302,
+    "jobs": {
+      "罵丸人@伊弗利特": "Sage",
+      "鞋貓@伊弗利特": "WhiteMage",
+      "Yuzuha@奧汀": "Pictomancer",
+      "睿睿@奧汀": "BlackMage",
+      "那海瑪@奧汀": "Warrior",
+      "超級ot王@泰坦": "Gunbreaker",
+      "祿存@伊弗利特": "Dancer",
+      "雪花@奧汀": "Reaper"
+    }
   }
 ]
