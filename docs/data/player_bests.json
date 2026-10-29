@@ -414844,5 +414844,23 @@
     "timestamp_ms": 1793022134796,
     "duration_ms": 0,
     "phase_reached": 1
+  },
+  "氰蘋果@鳳凰:1073:Bard": {
+    "name": "氰蘋果",
+    "server": "鳳凰",
+    "encounter_id": 1073,
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 1460.943616874094,
+    "adps": 1381.3682539166634,
+    "parse_pct": 0.0,
+    "job": "Bard",
+    "char_id": 1000049,
+    "report_code": "DjnwmZVYk3aA4Wrb",
+    "fight_id": 19,
+    "timestamp_ms": 1793245913504,
+    "duration_ms": 1046107,
+    "phase_reached": 0
   }
 }
