@@ -125514,5 +125514,33 @@
       "西·特莉格@鳳凰": "Dancer",
       "八奈見杏菜@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "2jqGZXVmPgYvzfyr",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "阿冠@迦樓羅",
+      "光之小企鵝@伊弗利特",
+      "Bello@伊弗利特",
+      "楓林爺爺@鳳凰",
+      "Yalei@迦樓羅",
+      "Dh@伊弗利特",
+      "托里夜@奧汀",
+      "Sheep@迦樓羅"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121882,
+    "clear_dt_ms": 1793334583788,
+    "jobs": {
+      "阿冠@迦樓羅": "Dancer",
+      "光之小企鵝@伊弗利特": "Pictomancer",
+      "Bello@伊弗利特": "Astrologian",
+      "楓林爺爺@鳳凰": "Paladin",
+      "Yalei@迦樓羅": "Scholar",
+      "Dh@伊弗利特": "Dragoon",
+      "托里夜@奧汀": "DarkKnight",
+      "Sheep@迦樓羅": "Ninja"
+    }
   }
 ]
