@@ -126242,5 +126242,173 @@
       "小who豬@鳳凰": "BlackMage",
       "Yue@迦樓羅": "Machinist"
     }
+  },
+  {
+    "code": "GLNB2c9pYhPVjQWf",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "特依內@鳳凰",
+      "St尼安@迦樓羅",
+      "小夢幻@奧汀",
+      "特米米@伊弗利特",
+      "如月@鳳凰",
+      "雪玥owo@鳳凰",
+      "薇薇布@迦樓羅",
+      "杏仁豆腐@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1118735,
+    "clear_dt_ms": 1793369002292,
+    "jobs": {
+      "特依內@鳳凰": "Samurai",
+      "St尼安@迦樓羅": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "特米米@伊弗利特": "Dancer",
+      "如月@鳳凰": "Monk",
+      "雪玥owo@鳳凰": "Paladin",
+      "薇薇布@迦樓羅": "Pictomancer",
+      "杏仁豆腐@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "nbgzhxcmvy1jKW7d",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Jester@巴哈姆特",
+      "繁殖期彈塗魚@利維坦",
+      "梅露露·梅露@利維坦",
+      "貓也可以@奧汀",
+      "朝朝如念@巴哈姆特",
+      "貓耳大拉肥@鳳凰",
+      "予理@伊弗利特",
+      "予情@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 1122501,
+    "clear_dt_ms": 1793368222138,
+    "jobs": {
+      "Jester@巴哈姆特": "Dragoon",
+      "繁殖期彈塗魚@利維坦": "Paladin",
+      "梅露露·梅露@利維坦": "Sage",
+      "貓也可以@奧汀": "Monk",
+      "朝朝如念@巴哈姆特": "Dancer",
+      "貓耳大拉肥@鳳凰": "Pictomancer",
+      "予理@伊弗利特": "DarkKnight",
+      "予情@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "nbgzhxcmvy1jKW7d",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Jester@巴哈姆特",
+      "繁殖期彈塗魚@利維坦",
+      "梅露露·梅露@利維坦",
+      "貓也可以@奧汀",
+      "朝朝如念@巴哈姆特",
+      "貓耳大拉肥@鳳凰",
+      "予理@伊弗利特",
+      "予情@伊弗利特"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1124012,
+    "clear_dt_ms": 1793371102658,
+    "jobs": {
+      "Jester@巴哈姆特": "Dragoon",
+      "繁殖期彈塗魚@利維坦": "Paladin",
+      "梅露露·梅露@利維坦": "Sage",
+      "貓也可以@奧汀": "Monk",
+      "朝朝如念@巴哈姆特": "Dancer",
+      "貓耳大拉肥@鳳凰": "Pictomancer",
+      "予理@伊弗利特": "DarkKnight",
+      "予情@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "DjmCxJyZMLXKb7W9",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "呆萌白@利維坦",
+      "Naukri@迦樓羅",
+      "海晴@伊弗利特",
+      "叉燒蘋果派@巴哈姆特",
+      "Max@伊弗利特",
+      "Tzehin@伊弗利特",
+      "秋月御飯@伊弗利特",
+      "走路草@鳳凰"
+    ],
+    "fight_id": 20,
+    "duration_ms": 1050566,
+    "clear_dt_ms": 1793381591814,
+    "jobs": {
+      "呆萌白@利維坦": "Summoner",
+      "Naukri@迦樓羅": "Scholar",
+      "海晴@伊弗利特": "Gunbreaker",
+      "叉燒蘋果派@巴哈姆特": "Monk",
+      "Max@伊弗利特": "WhiteMage",
+      "Tzehin@伊弗利特": "DarkKnight",
+      "秋月御飯@伊弗利特": "Sage",
+      "走路草@鳳凰": "Machinist"
+    }
+  },
+  {
+    "code": "GfFHKvq8XM9ntz6b",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "傑傑諾利@利維坦",
+      "Auxm@伊弗利特",
+      "芒果冰淇淋@鳳凰",
+      "超級拇指喬@鳳凰",
+      "小落奈@巴哈姆特",
+      "Katoka@奧汀",
+      "企鵝布丁@鳳凰",
+      "神秘夾克姐姐@迦樓羅"
+    ],
+    "fight_id": 13,
+    "duration_ms": 951454,
+    "clear_dt_ms": 1793024346756,
+    "jobs": {
+      "傑傑諾利@利維坦": "DarkKnight",
+      "Auxm@伊弗利特": "Samurai",
+      "芒果冰淇淋@鳳凰": "Warrior",
+      "超級拇指喬@鳳凰": "Sage",
+      "小落奈@巴哈姆特": "Bard",
+      "Katoka@奧汀": "Monk",
+      "企鵝布丁@鳳凰": "WhiteMage",
+      "神秘夾克姐姐@迦樓羅": "BlackMage"
+    }
+  },
+  {
+    "code": "Cy7jAJBphq3DcLzV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "三角初音@伊弗利特",
+      "瀨織@奧汀",
+      "林崎@奧汀",
+      "厄凡多格尼@奧汀",
+      "白燁燐@奧汀",
+      "巴巴托斯@奧汀",
+      "小桃鼠@奧汀",
+      "Cayson@奧汀"
+    ],
+    "fight_id": 41,
+    "duration_ms": 983614,
+    "clear_dt_ms": 1793284631524,
+    "jobs": {
+      "三角初音@伊弗利特": "DarkKnight",
+      "瀨織@奧汀": "Dragoon",
+      "林崎@奧汀": "Sage",
+      "厄凡多格尼@奧汀": "Warrior",
+      "白燁燐@奧汀": "Monk",
+      "巴巴托斯@奧汀": "Machinist",
+      "小桃鼠@奧汀": "Astrologian",
+      "Cayson@奧汀": "RedMage"
+    }
   }
 ]
