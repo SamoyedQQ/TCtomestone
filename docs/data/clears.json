@@ -127446,5 +127446,89 @@
       "小紅葉@泰坦": "WhiteMage",
       "Edsel@伊弗利特": "Viper"
     }
+  },
+  {
+    "code": "nZ6bGqMFKm8379Xy",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Lcho@利維坦",
+      "Katze@利維坦",
+      "詠星者的奏鳴@鳳凰",
+      "欸欸欸手摸哪@伊弗利特",
+      "Hyper喵@伊弗利特",
+      "雖然很舒服@利維坦",
+      "麻雀啾啾@鳳凰",
+      "瑪茜醬@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1123136,
+    "clear_dt_ms": 1793474284303,
+    "jobs": {
+      "Lcho@利維坦": "Warrior",
+      "Katze@利維坦": "Scholar",
+      "詠星者的奏鳴@鳳凰": "Bard",
+      "欸欸欸手摸哪@伊弗利特": "Samurai",
+      "Hyper喵@伊弗利特": "Viper",
+      "雖然很舒服@利維坦": "WhiteMage",
+      "麻雀啾啾@鳳凰": "Paladin",
+      "瑪茜醬@利維坦": "Pictomancer"
+    }
+  },
+  {
+    "code": "CBfzQkVMjTcG8nLp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "我不是卡蘇咪@奧汀",
+      "深雪烏冬@鳳凰",
+      "我不是洗ㄅㄚ@利維坦",
+      "未花@利維坦",
+      "咩莉亞@奧汀",
+      "Fubuki@奧汀",
+      "星宿及月@迦樓羅",
+      "啵啵伊啵伊@巴哈姆特"
+    ],
+    "fight_id": 25,
+    "duration_ms": 1138416,
+    "clear_dt_ms": 1793470607832,
+    "jobs": {
+      "我不是卡蘇咪@奧汀": "Sage",
+      "深雪烏冬@鳳凰": "DarkKnight",
+      "我不是洗ㄅㄚ@利維坦": "Samurai",
+      "未花@利維坦": "Paladin",
+      "咩莉亞@奧汀": "WhiteMage",
+      "Fubuki@奧汀": "BlackMage",
+      "星宿及月@迦樓羅": "Ninja",
+      "啵啵伊啵伊@巴哈姆特": "Machinist"
+    }
+  },
+  {
+    "code": "mkTZdxt7fwy8pcHb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "且茗老茶@迦樓羅",
+      "Arasxi@奧汀",
+      "那由多壽司屋@迦樓羅",
+      "Altia@奧汀",
+      "櫻井雨希@泰坦",
+      "Kuu@巴哈姆特",
+      "草莓可麗餅@利維坦",
+      "Ukaung@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 968255,
+    "clear_dt_ms": 1791997281026,
+    "jobs": {
+      "且茗老茶@迦樓羅": "Sage",
+      "Arasxi@奧汀": "Dragoon",
+      "那由多壽司屋@迦樓羅": "Warrior",
+      "Altia@奧汀": "WhiteMage",
+      "櫻井雨希@泰坦": "Paladin",
+      "Kuu@巴哈姆特": "Dancer",
+      "草莓可麗餅@利維坦": "Samurai",
+      "Ukaung@迦樓羅": "BlackMage"
+    }
   }
 ]
