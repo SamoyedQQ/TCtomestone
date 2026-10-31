@@ -126606,5 +126606,33 @@
       "果賴咪@巴哈姆特": "Dragoon",
       "姜小咪@利維坦": "Sage"
     }
+  },
+  {
+    "code": "azfbhkGNZ34xV7Xv",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "璦蘭@迦樓羅",
+      "Yoyo柚柚@迦樓羅",
+      "Komaru@迦樓羅",
+      "梨某某@利維坦",
+      "靴子裡有蛇w@利維坦",
+      "嘴zui@迦樓羅",
+      "Kio@鳳凰",
+      "Chuchu@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1142496,
+    "clear_dt_ms": 1793410572798,
+    "jobs": {
+      "璦蘭@迦樓羅": "Sage",
+      "Yoyo柚柚@迦樓羅": "Scholar",
+      "Komaru@迦樓羅": "Ninja",
+      "梨某某@利維坦": "DarkKnight",
+      "靴子裡有蛇w@利維坦": "BlackMage",
+      "嘴zui@迦樓羅": "Dancer",
+      "Kio@鳳凰": "Dragoon",
+      "Chuchu@迦樓羅": "Gunbreaker"
+    }
   }
 ]
