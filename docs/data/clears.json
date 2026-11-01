@@ -127530,5 +127530,61 @@
       "草莓可麗餅@利維坦": "Samurai",
       "Ukaung@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "fP6dhBt2gzW1aVHF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "羽丶@巴哈姆特",
+      "空空@迦樓羅",
+      "Second@鳳凰",
+      "潔澪@利維坦",
+      "Ukaung@迦樓羅",
+      "巴巴博一@利維坦",
+      "Katz@利維坦",
+      "滑水@奧汀"
+    ],
+    "fight_id": 28,
+    "duration_ms": 949948,
+    "clear_dt_ms": 1793498785480,
+    "jobs": {
+      "羽丶@巴哈姆特": "Dancer",
+      "空空@迦樓羅": "Paladin",
+      "Second@鳳凰": "Dragoon",
+      "潔澪@利維坦": "Samurai",
+      "Ukaung@迦樓羅": "BlackMage",
+      "巴巴博一@利維坦": "Warrior",
+      "Katz@利維坦": "Sage",
+      "滑水@奧汀": "Astrologian"
+    }
+  },
+  {
+    "code": "fP6dhBt2gzW1aVHF",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Second@鳳凰",
+      "羽丶@巴哈姆特",
+      "空空@迦樓羅",
+      "潔澪@利維坦",
+      "Ukaung@迦樓羅",
+      "巴巴博一@利維坦",
+      "Katz@利維坦",
+      "滑水@奧汀"
+    ],
+    "fight_id": 32,
+    "duration_ms": 943941,
+    "clear_dt_ms": 1793500463742,
+    "jobs": {
+      "Second@鳳凰": "Reaper",
+      "羽丶@巴哈姆特": "Dancer",
+      "空空@迦樓羅": "Paladin",
+      "潔澪@利維坦": "Samurai",
+      "Ukaung@迦樓羅": "BlackMage",
+      "巴巴博一@利維坦": "Warrior",
+      "Katz@利維坦": "Sage",
+      "滑水@奧汀": "Astrologian"
+    }
   }
 ]
