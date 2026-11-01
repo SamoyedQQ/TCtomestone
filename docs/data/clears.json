@@ -127726,5 +127726,145 @@
       "夜笙散華@奧汀": "Monk",
       "食指父輩里恩@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "xNw4gyTc8Y2bGfMv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "水dd滴@奧汀",
+      "Eevee@奧汀",
+      "Bbjj@奧汀",
+      "Mokame@奧汀",
+      "清澈如水@鳳凰",
+      "三文魚牛寶@伊弗利特",
+      "Sicnyz@奧汀",
+      "Kok@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1120372,
+    "clear_dt_ms": 1793519136301,
+    "jobs": {
+      "水dd滴@奧汀": "Ninja",
+      "Eevee@奧汀": "Astrologian",
+      "Bbjj@奧汀": "Samurai",
+      "Mokame@奧汀": "Paladin",
+      "清澈如水@鳳凰": "Bard",
+      "三文魚牛寶@伊弗利特": "Sage",
+      "Sicnyz@奧汀": "DarkKnight",
+      "Kok@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "xNw4gyTc8Y2bGfMv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "水dd滴@奧汀",
+      "Eevee@奧汀",
+      "Bbjj@奧汀",
+      "Mokame@奧汀",
+      "清澈如水@鳳凰",
+      "三文魚牛寶@伊弗利特",
+      "Sicnyz@奧汀",
+      "Kok@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1122010,
+    "clear_dt_ms": 1793521752968,
+    "jobs": {
+      "水dd滴@奧汀": "Ninja",
+      "Eevee@奧汀": "Astrologian",
+      "Bbjj@奧汀": "Samurai",
+      "Mokame@奧汀": "Paladin",
+      "清澈如水@鳳凰": "Bard",
+      "三文魚牛寶@伊弗利特": "Sage",
+      "Sicnyz@奧汀": "DarkKnight",
+      "Kok@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "xNw4gyTc8Y2bGfMv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "水dd滴@奧汀",
+      "Eevee@奧汀",
+      "Bbjj@奧汀",
+      "Mokame@奧汀",
+      "清澈如水@鳳凰",
+      "三文魚牛寶@伊弗利特",
+      "Sicnyz@奧汀",
+      "Kok@伊弗利特"
+    ],
+    "fight_id": 14,
+    "duration_ms": 1120427,
+    "clear_dt_ms": 1793525303214,
+    "jobs": {
+      "水dd滴@奧汀": "Ninja",
+      "Eevee@奧汀": "Astrologian",
+      "Bbjj@奧汀": "Samurai",
+      "Mokame@奧汀": "Paladin",
+      "清澈如水@鳳凰": "Bard",
+      "三文魚牛寶@伊弗利特": "Sage",
+      "Sicnyz@奧汀": "DarkKnight",
+      "Kok@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "xNw4gyTc8Y2bGfMv",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "水dd滴@奧汀",
+      "Eevee@奧汀",
+      "Bbjj@奧汀",
+      "Mokame@奧汀",
+      "清澈如水@鳳凰",
+      "三文魚牛寶@伊弗利特",
+      "Sicnyz@奧汀",
+      "Kok@伊弗利特"
+    ],
+    "fight_id": 19,
+    "duration_ms": 1121973,
+    "clear_dt_ms": 1793528002659,
+    "jobs": {
+      "水dd滴@奧汀": "Ninja",
+      "Eevee@奧汀": "Astrologian",
+      "Bbjj@奧汀": "Samurai",
+      "Mokame@奧汀": "Paladin",
+      "清澈如水@鳳凰": "Bard",
+      "三文魚牛寶@伊弗利特": "Sage",
+      "Sicnyz@奧汀": "DarkKnight",
+      "Kok@伊弗利特": "Pictomancer"
+    }
+  },
+  {
+    "code": "B4qazZArM6d27Nbj",
+    "title": "1.11 fru",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "茆咪雪茵@奧汀",
+      "朝暉@利維坦",
+      "Grende@迦樓羅",
+      "特別弱@巴哈姆特",
+      "趴搭趴搭@伊弗利特",
+      "Kuira@奧汀",
+      "楓林爺爺@鳳凰",
+      "Bogluu@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1124961,
+    "clear_dt_ms": 1793518288332,
+    "jobs": {
+      "茆咪雪茵@奧汀": "Astrologian",
+      "朝暉@利維坦": "Scholar",
+      "Grende@迦樓羅": "BlackMage",
+      "特別弱@巴哈姆特": "Dancer",
+      "趴搭趴搭@伊弗利特": "Dragoon",
+      "Kuira@奧汀": "Viper",
+      "楓林爺爺@鳳凰": "Paladin",
+      "Bogluu@奧汀": "Gunbreaker"
+    }
   }
 ]
