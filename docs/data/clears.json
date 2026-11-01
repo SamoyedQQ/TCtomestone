@@ -127614,5 +127614,117 @@
       "御子飯糰@鳳凰": "Gunbreaker",
       "肥嘟嘟@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "KMrjxzLAbcB97Tm3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Me開朗雞揉@鳳凰",
+      "雲浪丨遊軒轅@鳳凰",
+      "Rita@利維坦",
+      "Atomic@巴哈姆特",
+      "Elymu@利維坦",
+      "天野舞椰子水@巴哈姆特",
+      "緹厄珊@伊弗利特",
+      "Tifiy@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 858317,
+    "clear_dt_ms": 1793518201434,
+    "jobs": {
+      "Me開朗雞揉@鳳凰": "DarkKnight",
+      "雲浪丨遊軒轅@鳳凰": "Dancer",
+      "Rita@利維坦": "Gunbreaker",
+      "Atomic@巴哈姆特": "Ninja",
+      "Elymu@利維坦": "Dragoon",
+      "天野舞椰子水@巴哈姆特": "Scholar",
+      "緹厄珊@伊弗利特": "Astrologian",
+      "Tifiy@鳳凰": "Summoner"
+    }
+  },
+  {
+    "code": "r2KnN1wZmFgC6YAt",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "穗曦@伊弗利特",
+      "秋霽@迦樓羅",
+      "小小龍@鳳凰",
+      "殤魂@奧汀",
+      "嘟比嘟拔@鳳凰",
+      "Aqrsky@伊弗利特",
+      "陽光彩虹白駒@迦樓羅",
+      "朱雀院紅葉@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1089226,
+    "clear_dt_ms": 1793518169610,
+    "jobs": {
+      "穗曦@伊弗利特": "WhiteMage",
+      "秋霽@迦樓羅": "Scholar",
+      "小小龍@鳳凰": "DarkKnight",
+      "殤魂@奧汀": "Monk",
+      "嘟比嘟拔@鳳凰": "Pictomancer",
+      "Aqrsky@伊弗利特": "Dancer",
+      "陽光彩虹白駒@迦樓羅": "BlackMage",
+      "朱雀院紅葉@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "Gg8YRwKVvWAFbpq3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "田中帕托@巴哈姆特",
+      "空空@迦樓羅",
+      "白藍樂事人@巴哈姆特",
+      "白燁燐@奧汀",
+      "嵐翼熾光@巴哈姆特",
+      "羽丶@巴哈姆特",
+      "Jarnis@泰坦",
+      "Leia@巴哈姆特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 957069,
+    "clear_dt_ms": 1793517547718,
+    "jobs": {
+      "田中帕托@巴哈姆特": "BlackMage",
+      "空空@迦樓羅": "Dragoon",
+      "白藍樂事人@巴哈姆特": "Paladin",
+      "白燁燐@奧汀": "Monk",
+      "嵐翼熾光@巴哈姆特": "DarkKnight",
+      "羽丶@巴哈姆特": "Dancer",
+      "Jarnis@泰坦": "Astrologian",
+      "Leia@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "a9wHX62qzkYn8rpK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Crazy@奧汀",
+      "Danlon@鳳凰",
+      "Kita@利維坦",
+      "雨宮彩鳥@鳳凰",
+      "北台小天使@鳳凰",
+      "楓橋@鳳凰",
+      "夜笙散華@奧汀",
+      "食指父輩里恩@利維坦"
+    ],
+    "fight_id": 30,
+    "duration_ms": 851498,
+    "clear_dt_ms": 1793516506582,
+    "jobs": {
+      "Crazy@奧汀": "Summoner",
+      "Danlon@鳳凰": "Warrior",
+      "Kita@利維坦": "Paladin",
+      "雨宮彩鳥@鳳凰": "Dragoon",
+      "北台小天使@鳳凰": "Scholar",
+      "楓橋@鳳凰": "Machinist",
+      "夜笙散華@奧汀": "Monk",
+      "食指父輩里恩@利維坦": "Astrologian"
+    }
   }
 ]
