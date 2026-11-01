@@ -128482,5 +128482,89 @@
       "Bonter@奧汀": "Pictomancer",
       "Ringo@伊弗利特": "Paladin"
     }
+  },
+  {
+    "code": "gzqbmBftp8jWr2Jw",
+    "title": "Futures Rewritten",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "如月@鳳凰",
+      "你好我是薄荷@奧汀",
+      "芙莉蓮霧@奧汀",
+      "悠然誠心@利維坦",
+      "侑介@迦樓羅",
+      "九巾路跑@鳳凰",
+      "希克列斯@鳳凰",
+      "Chima@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 950455,
+    "clear_dt_ms": 1793559547319,
+    "jobs": {
+      "如月@鳳凰": "Astrologian",
+      "你好我是薄荷@奧汀": "Monk",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "悠然誠心@利維坦": "Paladin",
+      "侑介@迦樓羅": "DarkKnight",
+      "九巾路跑@鳳凰": "Sage",
+      "希克列斯@鳳凰": "Samurai",
+      "Chima@伊弗利特": "Dancer"
+    }
+  },
+  {
+    "code": "B7p42MJxj3VKyQhG",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "小夢幻@奧汀",
+      "杏仁豆腐@奧汀",
+      "薇妮寫詩@伊弗利特",
+      "Lavid@鳳凰",
+      "Amalos@利維坦",
+      "巴隆@泰坦",
+      "薇薇布@迦樓羅",
+      "Neso@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1120467,
+    "clear_dt_ms": 1793558527450,
+    "jobs": {
+      "小夢幻@奧汀": "Sage",
+      "杏仁豆腐@奧汀": "WhiteMage",
+      "薇妮寫詩@伊弗利特": "BlackMage",
+      "Lavid@鳳凰": "Paladin",
+      "Amalos@利維坦": "Monk",
+      "巴隆@泰坦": "Dragoon",
+      "薇薇布@迦樓羅": "Gunbreaker",
+      "Neso@利維坦": "Machinist"
+    }
+  },
+  {
+    "code": "MJtVKkNYCdryxHR9",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Yze@伊弗利特",
+      "洽瓜@奧汀",
+      "Mogg@伊弗利特",
+      "Maxmmm@巴哈姆特",
+      "安祖卡@迦樓羅",
+      "菟@利維坦",
+      "七詩零@利維坦",
+      "羽丘的怪女生@迦樓羅"
+    ],
+    "fight_id": 16,
+    "duration_ms": 1117063,
+    "clear_dt_ms": 1793556018634,
+    "jobs": {
+      "Yze@伊弗利特": "WhiteMage",
+      "洽瓜@奧汀": "Pictomancer",
+      "Mogg@伊弗利特": "Reaper",
+      "Maxmmm@巴哈姆特": "DarkKnight",
+      "安祖卡@迦樓羅": "RedMage",
+      "菟@利維坦": "Scholar",
+      "七詩零@利維坦": "Bard",
+      "羽丘的怪女生@迦樓羅": "Paladin"
+    }
   }
 ]
