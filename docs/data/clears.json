@@ -127586,5 +127586,33 @@
       "Katz@利維坦": "Sage",
       "滑水@奧汀": "Astrologian"
     }
+  },
+  {
+    "code": "1gPv96V23BJFhtaR",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "貓貓一起強大@迦樓羅",
+      "醉花o@迦樓羅",
+      "Yalei@迦樓羅",
+      "呆萌白@利維坦",
+      "Bello@伊弗利特",
+      "Dh@伊弗利特",
+      "御子飯糰@鳳凰",
+      "肥嘟嘟@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1122471,
+    "clear_dt_ms": 1793507435515,
+    "jobs": {
+      "貓貓一起強大@迦樓羅": "DarkKnight",
+      "醉花o@迦樓羅": "Dancer",
+      "Yalei@迦樓羅": "Scholar",
+      "呆萌白@利維坦": "Pictomancer",
+      "Bello@伊弗利特": "Astrologian",
+      "Dh@伊弗利特": "Dragoon",
+      "御子飯糰@鳳凰": "Gunbreaker",
+      "肥嘟嘟@迦樓羅": "Monk"
+    }
   }
 ]
