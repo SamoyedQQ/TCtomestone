@@ -129574,5 +129574,117 @@
       "送你原石@巴哈姆特": "DarkKnight",
       "雨天娃娃@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "JKxTCAXHc384w71B",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "想睡覺mmm@伊弗利特",
+      "Wenwen@伊弗利特",
+      "永愛三玖@巴哈姆特",
+      "Benny@奧汀",
+      "舞紗橘@利維坦",
+      "明日的希望@迦樓羅",
+      "崩落之旅人@利維坦",
+      "Jacy@伊弗利特"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1123908,
+    "clear_dt_ms": 1793714791852,
+    "jobs": {
+      "想睡覺mmm@伊弗利特": "Gunbreaker",
+      "Wenwen@伊弗利特": "Astrologian",
+      "永愛三玖@巴哈姆特": "Bard",
+      "Benny@奧汀": "Monk",
+      "舞紗橘@利維坦": "Pictomancer",
+      "明日的希望@迦樓羅": "BlackMage",
+      "崩落之旅人@利維坦": "Sage",
+      "Jacy@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "mAVyBW6LqXxzp18c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Mambo@奧汀",
+      "Seira@利維坦",
+      "橘桔@迦樓羅",
+      "炫舞蝶@利維坦",
+      "真空爆破月餅@迦樓羅",
+      "塔茲利@利維坦",
+      "牧@巴哈姆特",
+      "無@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 865198,
+    "clear_dt_ms": 1793712099746,
+    "jobs": {
+      "Mambo@奧汀": "Viper",
+      "Seira@利維坦": "Summoner",
+      "橘桔@迦樓羅": "Scholar",
+      "炫舞蝶@利維坦": "Bard",
+      "真空爆破月餅@迦樓羅": "WhiteMage",
+      "塔茲利@利維坦": "Dragoon",
+      "牧@巴哈姆特": "Warrior",
+      "無@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "FBvbX9YTdgzZ7QGV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "烏薩奇配可樂@奧汀",
+      "嘎嘎卡嘎嘎@奧汀",
+      "買購大師@奧汀",
+      "知世@奧汀",
+      "Seven宇@奧汀",
+      "魏娜格隨@奧汀",
+      "靈喵@奧汀",
+      "Rennic@奧汀"
+    ],
+    "fight_id": 9,
+    "duration_ms": 859604,
+    "clear_dt_ms": 1793710241089,
+    "jobs": {
+      "烏薩奇配可樂@奧汀": "Paladin",
+      "嘎嘎卡嘎嘎@奧汀": "Sage",
+      "買購大師@奧汀": "Dragoon",
+      "知世@奧汀": "DarkKnight",
+      "Seven宇@奧汀": "Monk",
+      "魏娜格隨@奧汀": "Dancer",
+      "靈喵@奧汀": "Astrologian",
+      "Rennic@奧汀": "Summoner"
+    }
+  },
+  {
+    "code": "pnZcXb2Lv93x1YBk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "維克·派金克@奧汀",
+      "佩羅羅奇諾@奧汀",
+      "食指父輩里恩@利維坦",
+      "異累k@迦樓羅",
+      "神影依@巴哈姆特",
+      "Pocha@奧汀",
+      "白上喵雪@奧汀",
+      "阿吉美眉@巴哈姆特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 842809,
+    "clear_dt_ms": 1793697345933,
+    "jobs": {
+      "維克·派金克@奧汀": "Dancer",
+      "佩羅羅奇諾@奧汀": "Monk",
+      "食指父輩里恩@利維坦": "Astrologian",
+      "異累k@迦樓羅": "Sage",
+      "神影依@巴哈姆特": "Summoner",
+      "Pocha@奧汀": "Paladin",
+      "白上喵雪@奧汀": "BlackMage",
+      "阿吉美眉@巴哈姆特": "Warrior"
+    }
   }
 ]
