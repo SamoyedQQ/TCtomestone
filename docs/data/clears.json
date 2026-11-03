@@ -129518,5 +129518,61 @@
       "三角初音@伊弗利特": "BlackMage",
       "羽丘的怪女生@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "kgjvYbt1hwc6zRGB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "魔法智蛙@巴哈姆特",
+      "跟隨黨和人民@奧汀",
+      "蘇蘇兒@巴哈姆特",
+      "望舒@巴哈姆特",
+      "豆豆@迦樓羅",
+      "歐嚕嚕@迦樓羅",
+      "送你原石@巴哈姆特",
+      "雨天娃娃@利維坦"
+    ],
+    "fight_id": 58,
+    "duration_ms": 873140,
+    "clear_dt_ms": 1793670287651,
+    "jobs": {
+      "魔法智蛙@巴哈姆特": "Sage",
+      "跟隨黨和人民@奧汀": "Summoner",
+      "蘇蘇兒@巴哈姆特": "Astrologian",
+      "望舒@巴哈姆特": "Dancer",
+      "豆豆@迦樓羅": "Samurai",
+      "歐嚕嚕@迦樓羅": "Paladin",
+      "送你原石@巴哈姆特": "DarkKnight",
+      "雨天娃娃@利維坦": "Ninja"
+    }
+  },
+  {
+    "code": "kgjvYbt1hwc6zRGB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "魔法智蛙@巴哈姆特",
+      "跟隨黨和人民@奧汀",
+      "蘇蘇兒@巴哈姆特",
+      "望舒@巴哈姆特",
+      "豆豆@迦樓羅",
+      "歐嚕嚕@迦樓羅",
+      "送你原石@巴哈姆特",
+      "雨天娃娃@利維坦"
+    ],
+    "fight_id": 59,
+    "duration_ms": 836638,
+    "clear_dt_ms": 1793671405709,
+    "jobs": {
+      "魔法智蛙@巴哈姆特": "Sage",
+      "跟隨黨和人民@奧汀": "Summoner",
+      "蘇蘇兒@巴哈姆特": "Astrologian",
+      "望舒@巴哈姆特": "Dancer",
+      "豆豆@迦樓羅": "Samurai",
+      "歐嚕嚕@迦樓羅": "Paladin",
+      "送你原石@巴哈姆特": "DarkKnight",
+      "雨天娃娃@利維坦": "Ninja"
+    }
   }
 ]
