@@ -130918,5 +130918,33 @@
       "Kennyt@巴哈姆特": "Paladin",
       "羽@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "FGMc3tK2BJmpL1AV",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "冠衝@奧汀",
+      "Tvtian@迦樓羅",
+      "Yze@伊弗利特",
+      "嚕咪@鳳凰",
+      "薇妮寫詩@伊弗利特",
+      "Woshoe@迦樓羅",
+      "不要吵@利維坦",
+      "Mogg@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1121215,
+    "clear_dt_ms": 1793820215364,
+    "jobs": {
+      "冠衝@奧汀": "Viper",
+      "Tvtian@迦樓羅": "Gunbreaker",
+      "Yze@伊弗利特": "WhiteMage",
+      "嚕咪@鳳凰": "Scholar",
+      "薇妮寫詩@伊弗利特": "BlackMage",
+      "Woshoe@迦樓羅": "Warrior",
+      "不要吵@利維坦": "Machinist",
+      "Mogg@伊弗利特": "Reaper"
+    }
   }
 ]
