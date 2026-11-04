@@ -130358,5 +130358,145 @@
       "Mogg@伊弗利特": "Reaper",
       "薇薇布@迦樓羅": "Gunbreaker"
     }
+  },
+  {
+    "code": "NMTzC7yh2FkXBPLJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "瀨織@奧汀",
+      "厄凡多格尼@奧汀",
+      "巴巴托斯@奧汀",
+      "反向童話@奧汀",
+      "白燁燐@奧汀",
+      "小桃鼠@奧汀",
+      "緹歐@奧汀",
+      "Cayson@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 979708,
+    "clear_dt_ms": 1793796349726,
+    "jobs": {
+      "瀨織@奧汀": "Dragoon",
+      "厄凡多格尼@奧汀": "Warrior",
+      "巴巴托斯@奧汀": "Bard",
+      "反向童話@奧汀": "Sage",
+      "白燁燐@奧汀": "Monk",
+      "小桃鼠@奧汀": "Astrologian",
+      "緹歐@奧汀": "DarkKnight",
+      "Cayson@奧汀": "RedMage"
+    }
+  },
+  {
+    "code": "j2rR9AkHm4NJFKLa",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "偷米@奧汀",
+      "Zven@鳳凰",
+      "晞呱owob@鳳凰",
+      "悠羽狐白@利維坦",
+      "Yuuu@迦樓羅",
+      "里克@鳳凰",
+      "Nacho@鳳凰",
+      "阿兔爺@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 984235,
+    "clear_dt_ms": 1793799146059,
+    "jobs": {
+      "偷米@奧汀": "Machinist",
+      "Zven@鳳凰": "Gunbreaker",
+      "晞呱owob@鳳凰": "Paladin",
+      "悠羽狐白@利維坦": "Ninja",
+      "Yuuu@迦樓羅": "Summoner",
+      "里克@鳳凰": "Dragoon",
+      "Nacho@鳳凰": "Astrologian",
+      "阿兔爺@迦樓羅": "Sage"
+    }
+  },
+  {
+    "code": "wPAt7BqcTvkWyKzN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "奶刀文文@利維坦",
+      "Kaorii@迦樓羅",
+      "Wiee@伊弗利特",
+      "咖咖哩@迦樓羅",
+      "紅燒竹鼠@迦樓羅",
+      "有隻鳥@迦樓羅",
+      "巴尾的熊@鳳凰",
+      "米粉兔子@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 1094547,
+    "clear_dt_ms": 1793799453521,
+    "jobs": {
+      "奶刀文文@利維坦": "Dancer",
+      "Kaorii@迦樓羅": "BlackMage",
+      "Wiee@伊弗利特": "Samurai",
+      "咖咖哩@迦樓羅": "Astrologian",
+      "紅燒竹鼠@迦樓羅": "DarkKnight",
+      "有隻鳥@迦樓羅": "Scholar",
+      "巴尾的熊@鳳凰": "Paladin",
+      "米粉兔子@鳳凰": "Summoner"
+    }
+  },
+  {
+    "code": "ZGXt6m1F9zP3fJdR",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "小who豬@鳳凰",
+      "Kitune@迦樓羅",
+      "乂罐頭乂@泰坦",
+      "古·拉哈基米@迦樓羅",
+      "Second@鳳凰",
+      "海獅會寂寞@奧汀",
+      "Mogg@伊弗利特",
+      "Yue@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1138715,
+    "clear_dt_ms": 1793798732294,
+    "jobs": {
+      "小who豬@鳳凰": "BlackMage",
+      "Kitune@迦樓羅": "Pictomancer",
+      "乂罐頭乂@泰坦": "Sage",
+      "古·拉哈基米@迦樓羅": "Warrior",
+      "Second@鳳凰": "DarkKnight",
+      "海獅會寂寞@奧汀": "WhiteMage",
+      "Mogg@伊弗利特": "Reaper",
+      "Yue@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "R1mZcx9CnGvFzXBr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "靈喵@奧汀",
+      "嘎嘎卡嘎嘎@奧汀",
+      "買購大師@奧汀",
+      "Rennic@奧汀",
+      "知世@奧汀",
+      "魏娜格隨@奧汀",
+      "Seven宇@奧汀",
+      "烏薩奇配可樂@奧汀"
+    ],
+    "fight_id": 5,
+    "duration_ms": 860242,
+    "clear_dt_ms": 1793794778122,
+    "jobs": {
+      "靈喵@奧汀": "Astrologian",
+      "嘎嘎卡嘎嘎@奧汀": "Sage",
+      "買購大師@奧汀": "Dragoon",
+      "Rennic@奧汀": "Summoner",
+      "知世@奧汀": "DarkKnight",
+      "魏娜格隨@奧汀": "Dancer",
+      "Seven宇@奧汀": "Monk",
+      "烏薩奇配可樂@奧汀": "Paladin"
+    }
   }
 ]
