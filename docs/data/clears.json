@@ -130274,5 +130274,89 @@
       "羽丘的怪女生@迦樓羅": "Paladin",
       "三角初音@伊弗利特": "Pictomancer"
     }
+  },
+  {
+    "code": "789XaqbzKwPtGBV4",
+    "title": "Futures Rewritten",
+    "encounter": "Fatebreaker / Usurper of Frost / ... ",
+    "players": [
+      "Sylph@泰坦",
+      "St尼安@迦樓羅",
+      "小夢幻@奧汀",
+      "貓耳柴柴@奧汀",
+      "薇薇布@迦樓羅",
+      "一龍@迦樓羅",
+      "墮鳶@利維坦",
+      "雲浪丨遊軒轅@鳳凰"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1120761,
+    "clear_dt_ms": 1793787207624,
+    "jobs": {
+      "Sylph@泰坦": "Bard",
+      "St尼安@迦樓羅": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "貓耳柴柴@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Gunbreaker",
+      "一龍@迦樓羅": "Reaper",
+      "墮鳶@利維坦": "Monk",
+      "雲浪丨遊軒轅@鳳凰": "Summoner"
+    }
+  },
+  {
+    "code": "789XaqbzKwPtGBV4",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Sylph@泰坦",
+      "St尼安@迦樓羅",
+      "小夢幻@奧汀",
+      "Mogg@伊弗利特",
+      "貓耳柴柴@奧汀",
+      "薇薇布@迦樓羅",
+      "墮鳶@利維坦",
+      "雲浪丨遊軒轅@鳳凰"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1121166,
+    "clear_dt_ms": 1793789274882,
+    "jobs": {
+      "Sylph@泰坦": "Bard",
+      "St尼安@迦樓羅": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "Mogg@伊弗利特": "Reaper",
+      "貓耳柴柴@奧汀": "WhiteMage",
+      "薇薇布@迦樓羅": "Gunbreaker",
+      "墮鳶@利維坦": "Monk",
+      "雲浪丨遊軒轅@鳳凰": "Summoner"
+    }
+  },
+  {
+    "code": "789XaqbzKwPtGBV4",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Sylph@泰坦",
+      "玥夏@利維坦",
+      "St尼安@迦樓羅",
+      "小夢幻@奧汀",
+      "雲浪丨遊軒轅@鳳凰",
+      "濃醇鮮奶茶@鳳凰",
+      "Mogg@伊弗利特",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1124274,
+    "clear_dt_ms": 1793792463212,
+    "jobs": {
+      "Sylph@泰坦": "Bard",
+      "玥夏@利維坦": "Viper",
+      "St尼安@迦樓羅": "DarkKnight",
+      "小夢幻@奧汀": "Sage",
+      "雲浪丨遊軒轅@鳳凰": "Pictomancer",
+      "濃醇鮮奶茶@鳳凰": "Astrologian",
+      "Mogg@伊弗利特": "Reaper",
+      "薇薇布@迦樓羅": "Gunbreaker"
+    }
   }
 ]
