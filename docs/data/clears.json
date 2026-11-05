@@ -132010,5 +132010,33 @@
       "九羿@迦樓羅": "Dancer",
       "Dapypy@迦樓羅": "Monk"
     }
+  },
+  {
+    "code": "TfpkHrW8bBAvjC3F",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "布津乃@利維坦",
+      "冷冷吖@利維坦",
+      "Katze@利維坦",
+      "Lcho@利維坦",
+      "名字隨時改嗎@利維坦",
+      "果賴咪@巴哈姆特",
+      "雖然很舒服@利維坦",
+      "Ado@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1123248,
+    "clear_dt_ms": 1793894010083,
+    "jobs": {
+      "布津乃@利維坦": "Paladin",
+      "冷冷吖@利維坦": "Samurai",
+      "Katze@利維坦": "Scholar",
+      "Lcho@利維坦": "Warrior",
+      "名字隨時改嗎@利維坦": "Dancer",
+      "果賴咪@巴哈姆特": "Dragoon",
+      "雖然很舒服@利維坦": "WhiteMage",
+      "Ado@迦樓羅": "Pictomancer"
+    }
   }
 ]
