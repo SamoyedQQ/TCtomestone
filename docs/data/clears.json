@@ -132066,5 +132066,33 @@
       "町田@鳳凰": "Scholar",
       "Chuchu@迦樓羅": "Gunbreaker"
     }
+  },
+  {
+    "code": "r3kWchMZwP4qCTbN",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "超級蘋果人@巴哈姆特",
+      "最純的哈士奇@迦樓羅",
+      "Jack傑哥@奧汀",
+      "哪邊亮按哪邊@泰坦",
+      "愛蜜莉亞@伊弗利特",
+      "真空爆破月餅@迦樓羅",
+      "Pocha@奧汀",
+      "蘑菇會開花@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 860538,
+    "clear_dt_ms": 1793939796005,
+    "jobs": {
+      "超級蘋果人@巴哈姆特": "Viper",
+      "最純的哈士奇@迦樓羅": "Dragoon",
+      "Jack傑哥@奧汀": "Scholar",
+      "哪邊亮按哪邊@泰坦": "Warrior",
+      "愛蜜莉亞@伊弗利特": "Dancer",
+      "真空爆破月餅@迦樓羅": "WhiteMage",
+      "Pocha@奧汀": "Paladin",
+      "蘑菇會開花@奧汀": "Summoner"
+    }
   }
 ]
