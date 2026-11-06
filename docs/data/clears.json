@@ -132094,5 +132094,117 @@
       "Pocha@奧汀": "Paladin",
       "蘑菇會開花@奧汀": "Summoner"
     }
+  },
+  {
+    "code": "yQg2kcbRqtBCvwV6",
+    "title": "",
+    "encounter": "Nael Deus Darnus / Bahamut Prime / Twintania",
+    "players": [
+      "Tkl@伊弗利特",
+      "犬寄咲@伊弗利特",
+      "穗曦@伊弗利特",
+      "戀上十香@迦樓羅",
+      "Sensei@伊弗利特",
+      "絲珥忒@伊弗利特",
+      "太初@巴哈姆特",
+      "梅吉布拉德@伊弗利特"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1088075,
+    "clear_dt_ms": 1793973176998,
+    "jobs": {
+      "Tkl@伊弗利特": "Samurai",
+      "犬寄咲@伊弗利特": "Astrologian",
+      "穗曦@伊弗利特": "Scholar",
+      "戀上十香@迦樓羅": "Dancer",
+      "Sensei@伊弗利特": "Summoner",
+      "絲珥忒@伊弗利特": "Gunbreaker",
+      "太初@巴哈姆特": "Sage",
+      "梅吉布拉德@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "7zvgWN9bGrFQYdPc",
+    "title": "",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zykin@奧汀",
+      "塚燭騎士@奧汀",
+      "糖荳荳@奧汀",
+      "Riru@巴哈姆特",
+      "鼠爸拉稀@奧汀",
+      "阿帕茶@奧汀",
+      "Ruby醬@奧汀",
+      "看起來很好吃@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 973787,
+    "clear_dt_ms": 1793970678794,
+    "jobs": {
+      "Zykin@奧汀": "Bard",
+      "塚燭騎士@奧汀": "Warrior",
+      "糖荳荳@奧汀": "Dragoon",
+      "Riru@巴哈姆特": "BlackMage",
+      "鼠爸拉稀@奧汀": "Ninja",
+      "阿帕茶@奧汀": "Gunbreaker",
+      "Ruby醬@奧汀": "Scholar",
+      "看起來很好吃@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "7zvgWN9bGrFQYdPc",
+    "title": "",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Zykin@奧汀",
+      "塚燭騎士@奧汀",
+      "糖荳荳@奧汀",
+      "Riru@巴哈姆特",
+      "鼠爸拉稀@奧汀",
+      "阿帕茶@奧汀",
+      "Ruby醬@奧汀",
+      "看起來很好吃@奧汀"
+    ],
+    "fight_id": 9,
+    "duration_ms": 971793,
+    "clear_dt_ms": 1793971932528,
+    "jobs": {
+      "Zykin@奧汀": "Bard",
+      "塚燭騎士@奧汀": "Warrior",
+      "糖荳荳@奧汀": "Dragoon",
+      "Riru@巴哈姆特": "BlackMage",
+      "鼠爸拉稀@奧汀": "Ninja",
+      "阿帕茶@奧汀": "Gunbreaker",
+      "Ruby醬@奧汀": "Scholar",
+      "看起來很好吃@奧汀": "WhiteMage"
+    }
+  },
+  {
+    "code": "zYjp6ZaV4HdNRqhT",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "五條和希@泰坦",
+      "麝月四時@利維坦",
+      "琶舞@迦樓羅",
+      "Mogg@伊弗利特",
+      "閻龍@利維坦",
+      "三角初音@伊弗利特",
+      "一三八@迦樓羅",
+      "桶裝布丁@迦樓羅"
+    ],
+    "fight_id": 39,
+    "duration_ms": 1124065,
+    "clear_dt_ms": 1793430828302,
+    "jobs": {
+      "五條和希@泰坦": "Samurai",
+      "麝月四時@利維坦": "DarkKnight",
+      "琶舞@迦樓羅": "Dancer",
+      "Mogg@伊弗利特": "Reaper",
+      "閻龍@利維坦": "Paladin",
+      "三角初音@伊弗利特": "Pictomancer",
+      "一三八@迦樓羅": "WhiteMage",
+      "桶裝布丁@迦樓羅": "Scholar"
+    }
   }
 ]
