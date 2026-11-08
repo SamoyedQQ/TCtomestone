@@ -133914,5 +133914,89 @@
       "真空爆破月餅@迦樓羅": "WhiteMage",
       "凡塔希雅@迦樓羅": "Machinist"
     }
+  },
+  {
+    "code": "2pfcrNL8kMPA6hHw",
+    "title": "",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Bbjj@奧汀",
+      "三文魚牛寶@伊弗利特",
+      "Sicnyz@奧汀",
+      "水dd滴@奧汀",
+      "Kok@伊弗利特",
+      "清澈如水@鳳凰",
+      "Eevee@奧汀",
+      "Mokame@奧汀"
+    ],
+    "fight_id": 2,
+    "duration_ms": 1123797,
+    "clear_dt_ms": 1794121195428,
+    "jobs": {
+      "Bbjj@奧汀": "Samurai",
+      "三文魚牛寶@伊弗利特": "Sage",
+      "Sicnyz@奧汀": "DarkKnight",
+      "水dd滴@奧汀": "Ninja",
+      "Kok@伊弗利特": "Pictomancer",
+      "清澈如水@鳳凰": "Bard",
+      "Eevee@奧汀": "Astrologian",
+      "Mokame@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "2pfcrNL8kMPA6hHw",
+    "title": "",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Bbjj@奧汀",
+      "三文魚牛寶@伊弗利特",
+      "Sicnyz@奧汀",
+      "水dd滴@奧汀",
+      "Kok@伊弗利特",
+      "清澈如水@鳳凰",
+      "Eevee@奧汀",
+      "Mokame@奧汀"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1123747,
+    "clear_dt_ms": 1794124522725,
+    "jobs": {
+      "Bbjj@奧汀": "Samurai",
+      "三文魚牛寶@伊弗利特": "Sage",
+      "Sicnyz@奧汀": "DarkKnight",
+      "水dd滴@奧汀": "Ninja",
+      "Kok@伊弗利特": "Pictomancer",
+      "清澈如水@鳳凰": "Bard",
+      "Eevee@奧汀": "Astrologian",
+      "Mokame@奧汀": "Paladin"
+    }
+  },
+  {
+    "code": "Lj1gDn8Zf2PHtF9p",
+    "title": "",
+    "encounter": "究極武器",
+    "players": [
+      "Yinx@鳳凰",
+      "式葉@伊弗利特",
+      "索拉給@鳳凰",
+      "Kita@利維坦",
+      "哇嗚嗚@利維坦",
+      "閻龍@利維坦",
+      "月亮阿緹密絲@迦樓羅",
+      "墮鳶@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 895071,
+    "clear_dt_ms": 1794121728635,
+    "jobs": {
+      "Yinx@鳳凰": "Sage",
+      "式葉@伊弗利特": "Summoner",
+      "索拉給@鳳凰": "DarkKnight",
+      "Kita@利維坦": "Paladin",
+      "哇嗚嗚@利維坦": "Samurai",
+      "閻龍@利維坦": "Bard",
+      "月亮阿緹密絲@迦樓羅": "WhiteMage",
+      "墮鳶@利維坦": "Monk"
+    }
   }
 ]
