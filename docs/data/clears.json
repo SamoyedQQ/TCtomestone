@@ -133774,5 +133774,61 @@
       "Parden@利維坦": "DarkKnight",
       "雅弭菈·霓恩@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "K1H4CXwdV7hLxWZf",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "Tvtian@迦樓羅",
+      "呆萌白@利維坦",
+      "千反田愛瑠@巴哈姆特",
+      "蹲蹲dun@迦樓羅",
+      "嚕咪@鳳凰",
+      "Woshoe@迦樓羅",
+      "青凛@鳳凰",
+      "琶舞@迦樓羅"
+    ],
+    "fight_id": 7,
+    "duration_ms": 1123209,
+    "clear_dt_ms": 1793983160053,
+    "jobs": {
+      "Tvtian@迦樓羅": "Gunbreaker",
+      "呆萌白@利維坦": "Pictomancer",
+      "千反田愛瑠@巴哈姆特": "RedMage",
+      "蹲蹲dun@迦樓羅": "Dragoon",
+      "嚕咪@鳳凰": "Scholar",
+      "Woshoe@迦樓羅": "Warrior",
+      "青凛@鳳凰": "Astrologian",
+      "琶舞@迦樓羅": "Bard"
+    }
+  },
+  {
+    "code": "K1H4CXwdV7hLxWZf",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "鮭魚明太子@迦樓羅",
+      "Mogg@伊弗利特",
+      "千反田愛瑠@巴哈姆特",
+      "阿大姆@迦樓羅",
+      "給你錢快點做@鳳凰",
+      "緹厄珊@伊弗利特",
+      "嚕咪@鳳凰",
+      "Second@鳳凰"
+    ],
+    "fight_id": 47,
+    "duration_ms": 1123001,
+    "clear_dt_ms": 1794078276825,
+    "jobs": {
+      "鮭魚明太子@迦樓羅": "Pictomancer",
+      "Mogg@伊弗利特": "Reaper",
+      "千反田愛瑠@巴哈姆特": "RedMage",
+      "阿大姆@迦樓羅": "Dancer",
+      "給你錢快點做@鳳凰": "Paladin",
+      "緹厄珊@伊弗利特": "Astrologian",
+      "嚕咪@鳳凰": "Scholar",
+      "Second@鳳凰": "DarkKnight"
+    }
   }
 ]
