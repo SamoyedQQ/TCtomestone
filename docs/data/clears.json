@@ -133830,5 +133830,33 @@
       "嚕咪@鳳凰": "Scholar",
       "Second@鳳凰": "DarkKnight"
     }
+  },
+  {
+    "code": "4whNB76aPnHAVgbD",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Altia@奧汀",
+      "草peko虐@利維坦",
+      "亞爾@伊弗利特",
+      "巧克巧克@伊弗利特",
+      "穆璃@伊弗利特",
+      "Second@鳳凰",
+      "Ecnal@鳳凰",
+      "肥滋滋@迦樓羅"
+    ],
+    "fight_id": 9,
+    "duration_ms": 958888,
+    "clear_dt_ms": 1794098864462,
+    "jobs": {
+      "Altia@奧汀": "WhiteMage",
+      "草peko虐@利維坦": "BlackMage",
+      "亞爾@伊弗利特": "Dragoon",
+      "巧克巧克@伊弗利特": "Scholar",
+      "穆璃@伊弗利特": "Ninja",
+      "Second@鳳凰": "Paladin",
+      "Ecnal@鳳凰": "DarkKnight",
+      "肥滋滋@迦樓羅": "Machinist"
+    }
   }
 ]
