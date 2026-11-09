@@ -135062,5 +135062,89 @@
       "Nono@巴哈姆特": "Dancer",
       "Hmaster@巴哈姆特": "WhiteMage"
     }
+  },
+  {
+    "code": "rRFZhz6wPNfHX2vq",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "芙莉蓮霧@奧汀",
+      "哈土奇@伊弗利特",
+      "暗黑騎士亞克@鳳凰",
+      "殺非螺絲粉@巴哈姆特",
+      "Jerky@迦樓羅",
+      "風語yc@迦樓羅",
+      "傑夫垢垢@伊弗利特",
+      "菲爾約@巴哈姆特"
+    ],
+    "fight_id": 36,
+    "duration_ms": 944492,
+    "clear_dt_ms": 1794214845024,
+    "jobs": {
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "哈土奇@伊弗利特": "Paladin",
+      "暗黑騎士亞克@鳳凰": "DarkKnight",
+      "殺非螺絲粉@巴哈姆特": "Sage",
+      "Jerky@迦樓羅": "Dancer",
+      "風語yc@迦樓羅": "Samurai",
+      "傑夫垢垢@伊弗利特": "Astrologian",
+      "菲爾約@巴哈姆特": "Pictomancer"
+    }
+  },
+  {
+    "code": "fzYGQjhp8FaP6KAL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "霏霏@泰坦",
+      "伊里絲@迦樓羅",
+      "嘎嘎ovo@鳳凰",
+      "狼魚咬咬@鳳凰",
+      "神秘夾克姐姐@迦樓羅",
+      "Gginin@巴哈姆特",
+      "羅仔@鳳凰",
+      "樓梯口@伊弗利特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 989473,
+    "clear_dt_ms": 1794212198870,
+    "jobs": {
+      "霏霏@泰坦": "Paladin",
+      "伊里絲@迦樓羅": "Warrior",
+      "嘎嘎ovo@鳳凰": "WhiteMage",
+      "狼魚咬咬@鳳凰": "Scholar",
+      "神秘夾克姐姐@迦樓羅": "Machinist",
+      "Gginin@巴哈姆特": "Samurai",
+      "羅仔@鳳凰": "Pictomancer",
+      "樓梯口@伊弗利特": "Dragoon"
+    }
+  },
+  {
+    "code": "fzYGQjhp8FaP6KAL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "霏霏@泰坦",
+      "伊里絲@迦樓羅",
+      "嘎嘎ovo@鳳凰",
+      "狼魚咬咬@鳳凰",
+      "神秘夾克姐姐@迦樓羅",
+      "羅仔@鳳凰",
+      "Gginin@巴哈姆特",
+      "樓梯口@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 981409,
+    "clear_dt_ms": 1794213953971,
+    "jobs": {
+      "霏霏@泰坦": "Paladin",
+      "伊里絲@迦樓羅": "Warrior",
+      "嘎嘎ovo@鳳凰": "WhiteMage",
+      "狼魚咬咬@鳳凰": "Scholar",
+      "神秘夾克姐姐@迦樓羅": "Machinist",
+      "羅仔@鳳凰": "Pictomancer",
+      "Gginin@巴哈姆特": "Samurai",
+      "樓梯口@伊弗利特": "Dragoon"
+    }
   }
 ]
