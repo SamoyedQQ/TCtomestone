@@ -134642,5 +134642,117 @@
       "鹿鳴月芽@巴哈姆特": "DarkKnight",
       "璃語玥@巴哈姆特": "RedMage"
     }
+  },
+  {
+    "code": "QVCpmYZdNh8jfL27",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "米漿玄師@鳳凰",
+      "得到寬恕的薯@利維坦",
+      "漂泊者@奧汀",
+      "Ringo@伊弗利特",
+      "蘇草魚禾@伊弗利特",
+      "三司@利維坦",
+      "Bonter@奧汀",
+      "墨筑@巴哈姆特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 957525,
+    "clear_dt_ms": 1793717969843,
+    "jobs": {
+      "米漿玄師@鳳凰": "Dragoon",
+      "得到寬恕的薯@利維坦": "Astrologian",
+      "漂泊者@奧汀": "Monk",
+      "Ringo@伊弗利特": "Paladin",
+      "蘇草魚禾@伊弗利特": "Warrior",
+      "三司@利維坦": "Dancer",
+      "Bonter@奧汀": "Pictomancer",
+      "墨筑@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "QVCpmYZdNh8jfL27",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "米漿玄師@鳳凰",
+      "得到寬恕的薯@利維坦",
+      "漂泊者@奧汀",
+      "Ringo@伊弗利特",
+      "蘇草魚禾@伊弗利特",
+      "三司@利維坦",
+      "Bonter@奧汀",
+      "墨筑@巴哈姆特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 969101,
+    "clear_dt_ms": 1793719479077,
+    "jobs": {
+      "米漿玄師@鳳凰": "Dragoon",
+      "得到寬恕的薯@利維坦": "Astrologian",
+      "漂泊者@奧汀": "Monk",
+      "Ringo@伊弗利特": "Paladin",
+      "蘇草魚禾@伊弗利特": "Warrior",
+      "三司@利維坦": "Dancer",
+      "Bonter@奧汀": "Pictomancer",
+      "墨筑@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "GwNyMPg4naCjpYQT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "晨曦雪月@巴哈姆特",
+      "貓咪吃糖果@迦樓羅",
+      "吧哺吧哺@迦樓羅",
+      "萊姆lyme@伊弗利特",
+      "蒼蒼橋@鳳凰",
+      "藏棋術士@伊弗利特",
+      "綠茶加檸檬@鳳凰",
+      "潔澪@利維坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 965662,
+    "clear_dt_ms": 1793974745004,
+    "jobs": {
+      "晨曦雪月@巴哈姆特": "Astrologian",
+      "貓咪吃糖果@迦樓羅": "Paladin",
+      "吧哺吧哺@迦樓羅": "Dancer",
+      "萊姆lyme@伊弗利特": "Warrior",
+      "蒼蒼橋@鳳凰": "Scholar",
+      "藏棋術士@伊弗利特": "Ninja",
+      "綠茶加檸檬@鳳凰": "BlackMage",
+      "潔澪@利維坦": "Samurai"
+    }
+  },
+  {
+    "code": "GwNyMPg4naCjpYQT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "晨曦雪月@巴哈姆特",
+      "貓咪吃糖果@迦樓羅",
+      "吧哺吧哺@迦樓羅",
+      "萊姆lyme@伊弗利特",
+      "蒼蒼橋@鳳凰",
+      "藏棋術士@伊弗利特",
+      "綠茶加檸檬@鳳凰",
+      "潔澪@利維坦"
+    ],
+    "fight_id": 11,
+    "duration_ms": 962724,
+    "clear_dt_ms": 1793975997711,
+    "jobs": {
+      "晨曦雪月@巴哈姆特": "Astrologian",
+      "貓咪吃糖果@迦樓羅": "Paladin",
+      "吧哺吧哺@迦樓羅": "Dancer",
+      "萊姆lyme@伊弗利特": "Warrior",
+      "蒼蒼橋@鳳凰": "Scholar",
+      "藏棋術士@伊弗利特": "Ninja",
+      "綠茶加檸檬@鳳凰": "BlackMage",
+      "潔澪@利維坦": "Samurai"
+    }
   }
 ]
