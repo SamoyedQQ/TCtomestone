@@ -135006,5 +135006,61 @@
       "Komaru@迦樓羅": "Ninja",
       "Yoyo柚柚@迦樓羅": "Scholar"
     }
+  },
+  {
+    "code": "7q6ZLdjGPNrTMawJ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Nos@巴哈姆特",
+      "超級拇指喬@鳳凰",
+      "夜笙散華@奧汀",
+      "扎忒@泰坦",
+      "玖玖@迦樓羅",
+      "格羅茵@鳳凰",
+      "夏殷@利維坦",
+      "Vita@伊弗利特"
+    ],
+    "fight_id": 3,
+    "duration_ms": 826472,
+    "clear_dt_ms": 1794209375644,
+    "jobs": {
+      "Nos@巴哈姆特": "Pictomancer",
+      "超級拇指喬@鳳凰": "Sage",
+      "夜笙散華@奧汀": "Dancer",
+      "扎忒@泰坦": "Paladin",
+      "玖玖@迦樓羅": "Monk",
+      "格羅茵@鳳凰": "Summoner",
+      "夏殷@利維坦": "Astrologian",
+      "Vita@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "jnzfT7tby2xBkpFP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "嘩啦@伊弗利特",
+      "饿了@奧汀",
+      "繪靈@利維坦",
+      "黑魔king@泰坦",
+      "Tiny石頭@泰坦",
+      "一個劍術師@泰坦",
+      "Nono@巴哈姆特",
+      "Hmaster@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1128743,
+    "clear_dt_ms": 1794203715649,
+    "jobs": {
+      "嘩啦@伊弗利特": "Warrior",
+      "饿了@奧汀": "Dragoon",
+      "繪靈@利維坦": "Scholar",
+      "黑魔king@泰坦": "Summoner",
+      "Tiny石頭@泰坦": "Monk",
+      "一個劍術師@泰坦": "Gunbreaker",
+      "Nono@巴哈姆特": "Dancer",
+      "Hmaster@巴哈姆特": "WhiteMage"
+    }
   }
 ]
