@@ -135734,5 +135734,61 @@
       "瑞寧馨@迦樓羅": "Sage",
       "Neso@利維坦": "Machinist"
     }
+  },
+  {
+    "code": "7MLfJc2mpzTDZABK",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "芙莉蓮霧@奧汀",
+      "侑介@奧汀",
+      "異累k@迦樓羅",
+      "弍玝@伊弗利特",
+      "真空爆破月餅@迦樓羅",
+      "弎拾@伊弗利特",
+      "蘑菇會開花@奧汀",
+      "阿吉美眉@巴哈姆特"
+    ],
+    "fight_id": 51,
+    "duration_ms": 869382,
+    "clear_dt_ms": 1794288523775,
+    "jobs": {
+      "芙莉蓮霧@奧汀": "Summoner",
+      "侑介@奧汀": "DarkKnight",
+      "異累k@迦樓羅": "Sage",
+      "弍玝@伊弗利特": "Dancer",
+      "真空爆破月餅@迦樓羅": "WhiteMage",
+      "弎拾@伊弗利特": "Monk",
+      "蘑菇會開花@奧汀": "Viper",
+      "阿吉美眉@巴哈姆特": "Warrior"
+    }
+  },
+  {
+    "code": "pxWmA9yBMcwkXFgb",
+    "title": "Ultimates (Legacy)",
+    "encounter": "究極武器",
+    "players": [
+      "Rejack@迦樓羅",
+      "Neso@利維坦",
+      "阿吉美眉@巴哈姆特",
+      "Remmmm@鳳凰",
+      "Yanjan@伊弗利特",
+      "大理石彈珠@迦樓羅",
+      "玖玖@迦樓羅",
+      "瑞寧馨@迦樓羅"
+    ],
+    "fight_id": 4,
+    "duration_ms": 865373,
+    "clear_dt_ms": 1794250941786,
+    "jobs": {
+      "Rejack@迦樓羅": "Sage",
+      "Neso@利維坦": "Machinist",
+      "阿吉美眉@巴哈姆特": "Paladin",
+      "Remmmm@鳳凰": "Warrior",
+      "Yanjan@伊弗利特": "Astrologian",
+      "大理石彈珠@迦樓羅": "Summoner",
+      "玖玖@迦樓羅": "BlackMage",
+      "瑞寧馨@迦樓羅": "Viper"
+    }
   }
 ]
