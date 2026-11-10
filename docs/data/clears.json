@@ -136770,5 +136770,61 @@
       "Yanjan@伊弗利特": "Paladin",
       "薇薇布@迦樓羅": "Bard"
     }
+  },
+  {
+    "code": "FArWJhCKxM6DQ4z1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Omega Protocol",
+    "players": [
+      "月月丶@利維坦",
+      "維克·派金克@奧汀",
+      "張員瑛的狗@巴哈姆特",
+      "阿量哥@迦樓羅",
+      "小阿呆@迦樓羅",
+      "羅剎@伊弗利特",
+      "逼欸逼u@利維坦",
+      "水母·苦拉給@鳳凰"
+    ],
+    "fight_id": 31,
+    "duration_ms": 1129244,
+    "clear_dt_ms": 1794335045008,
+    "jobs": {
+      "月月丶@利維坦": "DarkKnight",
+      "維克·派金克@奧汀": "Bard",
+      "張員瑛的狗@巴哈姆特": "BlackMage",
+      "阿量哥@迦樓羅": "Gunbreaker",
+      "小阿呆@迦樓羅": "Monk",
+      "羅剎@伊弗利特": "Dragoon",
+      "逼欸逼u@利維坦": "Scholar",
+      "水母·苦拉給@鳳凰": "Astrologian"
+    }
+  },
+  {
+    "code": "qd14Nrg2vCwK7YXW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "一介散修@巴哈姆特",
+      "夜夜@迦樓羅",
+      "斬斬@鳳凰",
+      "響念@奧汀",
+      "Yinsin@巴哈姆特",
+      "泠凌月@利維坦",
+      "昫哲@利維坦",
+      "失羽失格@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 849798,
+    "clear_dt_ms": 1794328945692,
+    "jobs": {
+      "一介散修@巴哈姆特": "Dragoon",
+      "夜夜@迦樓羅": "Dancer",
+      "斬斬@鳳凰": "Sage",
+      "響念@奧汀": "Summoner",
+      "Yinsin@巴哈姆特": "Paladin",
+      "泠凌月@利維坦": "Astrologian",
+      "昫哲@利維坦": "Warrior",
+      "失羽失格@迦樓羅": "Ninja"
+    }
   }
 ]
