@@ -135790,5 +135790,61 @@
       "玖玖@迦樓羅": "BlackMage",
       "瑞寧馨@迦樓羅": "Viper"
     }
+  },
+  {
+    "code": "cb2LXKHGCrR86JqV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "夢幻o飄@迦樓羅",
+      "彌生@巴哈姆特",
+      "角卷綿芽@伊弗利特",
+      "掃爾哈塔妮x@巴哈姆特",
+      "荷包蛋@鳳凰",
+      "奇異dodo@巴哈姆特",
+      "風語yc@迦樓羅",
+      "舞紗橘@利維坦"
+    ],
+    "fight_id": 2,
+    "duration_ms": 881087,
+    "clear_dt_ms": 1794305004495,
+    "jobs": {
+      "夢幻o飄@迦樓羅": "Astrologian",
+      "彌生@巴哈姆特": "Summoner",
+      "角卷綿芽@伊弗利特": "Warrior",
+      "掃爾哈塔妮x@巴哈姆特": "Dancer",
+      "荷包蛋@鳳凰": "Sage",
+      "奇異dodo@巴哈姆特": "Reaper",
+      "風語yc@迦樓羅": "Samurai",
+      "舞紗橘@利維坦": "Paladin"
+    }
+  },
+  {
+    "code": "b3jz1vmnABRkwK7f",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "沐雨橙風@奧汀",
+      "影紗星蕾@迦樓羅",
+      "瓦爾阿媞蜜絲@泰坦",
+      "扎忒@泰坦",
+      "Tanasa@鳳凰",
+      "超級拇指喬@鳳凰",
+      "格羅茵@鳳凰",
+      "Naisu@泰坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 837422,
+    "clear_dt_ms": 1794300949224,
+    "jobs": {
+      "沐雨橙風@奧汀": "Astrologian",
+      "影紗星蕾@迦樓羅": "Dancer",
+      "瓦爾阿媞蜜絲@泰坦": "Monk",
+      "扎忒@泰坦": "Paladin",
+      "Tanasa@鳳凰": "Warrior",
+      "超級拇指喬@鳳凰": "Sage",
+      "格羅茵@鳳凰": "Summoner",
+      "Naisu@泰坦": "Viper"
+    }
   }
 ]
