@@ -135650,5 +135650,89 @@
       "瑞寧馨@迦樓羅": "Viper",
       "玖玖@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "Hj1hwZW9f2KN8qL3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rejack@迦樓羅",
+      "玖玖@迦樓羅",
+      "Remmmm@鳳凰",
+      "椒麻雞@巴哈姆特",
+      "Yanjan@伊弗利特",
+      "伊埃蘇@迦樓羅",
+      "瑞寧馨@迦樓羅",
+      "Neso@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 1127604,
+    "clear_dt_ms": 1794242704217,
+    "jobs": {
+      "Rejack@迦樓羅": "Scholar",
+      "玖玖@迦樓羅": "BlackMage",
+      "Remmmm@鳳凰": "Warrior",
+      "椒麻雞@巴哈姆特": "Dragoon",
+      "Yanjan@伊弗利特": "Paladin",
+      "伊埃蘇@迦樓羅": "Monk",
+      "瑞寧馨@迦樓羅": "Sage",
+      "Neso@利維坦": "Machinist"
+    }
+  },
+  {
+    "code": "Hj1hwZW9f2KN8qL3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rejack@迦樓羅",
+      "玖玖@迦樓羅",
+      "Remmmm@鳳凰",
+      "椒麻雞@巴哈姆特",
+      "Yanjan@伊弗利特",
+      "伊埃蘇@迦樓羅",
+      "瑞寧馨@迦樓羅",
+      "Neso@利維坦"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1130199,
+    "clear_dt_ms": 1794244456412,
+    "jobs": {
+      "Rejack@迦樓羅": "Scholar",
+      "玖玖@迦樓羅": "BlackMage",
+      "Remmmm@鳳凰": "Warrior",
+      "椒麻雞@巴哈姆特": "Dragoon",
+      "Yanjan@伊弗利特": "Paladin",
+      "伊埃蘇@迦樓羅": "Monk",
+      "瑞寧馨@迦樓羅": "Sage",
+      "Neso@利維坦": "Machinist"
+    }
+  },
+  {
+    "code": "Hj1hwZW9f2KN8qL3",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Rejack@迦樓羅",
+      "玖玖@迦樓羅",
+      "Remmmm@鳳凰",
+      "椒麻雞@巴哈姆特",
+      "Yanjan@伊弗利特",
+      "伊埃蘇@迦樓羅",
+      "瑞寧馨@迦樓羅",
+      "Neso@利維坦"
+    ],
+    "fight_id": 13,
+    "duration_ms": 1120478,
+    "clear_dt_ms": 1794247429583,
+    "jobs": {
+      "Rejack@迦樓羅": "Scholar",
+      "玖玖@迦樓羅": "BlackMage",
+      "Remmmm@鳳凰": "Warrior",
+      "椒麻雞@巴哈姆特": "Dragoon",
+      "Yanjan@伊弗利特": "Paladin",
+      "伊埃蘇@迦樓羅": "Monk",
+      "瑞寧馨@迦樓羅": "Sage",
+      "Neso@利維坦": "Machinist"
+    }
   }
 ]
