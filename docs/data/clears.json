@@ -136714,5 +136714,61 @@
       "旋風@泰坦": "Astrologian",
       "Ukaung@迦樓羅": "BlackMage"
     }
+  },
+  {
+    "code": "th1ym9wbYGWrjBvQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "菲爾約@巴哈姆特",
+      "Souru@利維坦",
+      "巴隆@泰坦",
+      "顧言@奧汀",
+      "濃醇鮮奶茶@鳳凰",
+      "嚕咪@鳳凰",
+      "Yanjan@伊弗利特",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1113976,
+    "clear_dt_ms": 1794335940014,
+    "jobs": {
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Souru@利維坦": "Reaper",
+      "巴隆@泰坦": "Dragoon",
+      "顧言@奧汀": "DarkKnight",
+      "濃醇鮮奶茶@鳳凰": "Astrologian",
+      "嚕咪@鳳凰": "Scholar",
+      "Yanjan@伊弗利特": "Paladin",
+      "薇薇布@迦樓羅": "Bard"
+    }
+  },
+  {
+    "code": "th1ym9wbYGWrjBvQ",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "菲爾約@巴哈姆特",
+      "Souru@利維坦",
+      "巴隆@泰坦",
+      "顧言@奧汀",
+      "濃醇鮮奶茶@鳳凰",
+      "嚕咪@鳳凰",
+      "Yanjan@伊弗利特",
+      "薇薇布@迦樓羅"
+    ],
+    "fight_id": 15,
+    "duration_ms": 1115493,
+    "clear_dt_ms": 1794339114258,
+    "jobs": {
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "Souru@利維坦": "Reaper",
+      "巴隆@泰坦": "Dragoon",
+      "顧言@奧汀": "DarkKnight",
+      "濃醇鮮奶茶@鳳凰": "Astrologian",
+      "嚕咪@鳳凰": "Scholar",
+      "Yanjan@伊弗利特": "Paladin",
+      "薇薇布@迦樓羅": "Bard"
+    }
   }
 ]
