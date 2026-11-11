@@ -137190,5 +137190,89 @@
       "大杯冰紅茶@巴哈姆特": "Warrior",
       "隼@巴哈姆特": "Samurai"
     }
+  },
+  {
+    "code": "JDcC3vVBXhK8jFbm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "果醬@奧汀",
+      "殺非螺絲粉@巴哈姆特",
+      "特依內@鳳凰",
+      "Cayson@奧汀",
+      "暗黑騎士亞克@鳳凰",
+      "白九@迦樓羅",
+      "但丁zx@奧汀",
+      "肥滋滋@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 976983,
+    "clear_dt_ms": 1794392533393,
+    "jobs": {
+      "果醬@奧汀": "Paladin",
+      "殺非螺絲粉@巴哈姆特": "Sage",
+      "特依內@鳳凰": "Samurai",
+      "Cayson@奧汀": "RedMage",
+      "暗黑騎士亞克@鳳凰": "DarkKnight",
+      "白九@迦樓羅": "Astrologian",
+      "但丁zx@奧汀": "Dragoon",
+      "肥滋滋@迦樓羅": "Machinist"
+    }
+  },
+  {
+    "code": "Zn93jrW4BCTgN6Qp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Yongno@伊弗利特",
+      "超級拇指喬@鳳凰",
+      "格羅茵@鳳凰",
+      "Natsum@奧汀",
+      "真空爆破月餅@迦樓羅",
+      "Edsel@伊弗利特",
+      "弍玝@伊弗利特",
+      "茱皮皮@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 839224,
+    "clear_dt_ms": 1794389336422,
+    "jobs": {
+      "Yongno@伊弗利特": "Paladin",
+      "超級拇指喬@鳳凰": "Sage",
+      "格羅茵@鳳凰": "Summoner",
+      "Natsum@奧汀": "DarkKnight",
+      "真空爆破月餅@迦樓羅": "WhiteMage",
+      "Edsel@伊弗利特": "Monk",
+      "弍玝@伊弗利特": "Dancer",
+      "茱皮皮@泰坦": "BlackMage"
+    }
+  },
+  {
+    "code": "Zn93jrW4BCTgN6Qp",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "曦晨@奧汀",
+      "新約能天使@奧汀",
+      "Natsum@奧汀",
+      "冰凜羽@泰坦",
+      "格羅茵@鳳凰",
+      "真空爆破月餅@迦樓羅",
+      "Edsel@伊弗利特",
+      "弍玝@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 820910,
+    "clear_dt_ms": 1794390967433,
+    "jobs": {
+      "曦晨@奧汀": "DarkKnight",
+      "新約能天使@奧汀": "Ninja",
+      "Natsum@奧汀": "Sage",
+      "冰凜羽@泰坦": "Paladin",
+      "格羅茵@鳳凰": "Summoner",
+      "真空爆破月餅@迦樓羅": "WhiteMage",
+      "Edsel@伊弗利特": "Monk",
+      "弍玝@伊弗利特": "Dancer"
+    }
   }
 ]
