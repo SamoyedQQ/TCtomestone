@@ -138338,5 +138338,61 @@
       "秋月御飯@伊弗利特": "Sage",
       "呆萌白@利維坦": "Summoner"
     }
+  },
+  {
+    "code": "ngQjbWNMAtkzyRKV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "貓貓hana@伊弗利特",
+      "絕命獨獅@巴哈姆特",
+      "暗黑騎士亞克@鳳凰",
+      "Aptsss@鳳凰",
+      "Yt段布玩@鳳凰",
+      "Yinx@鳳凰",
+      "Gginin@巴哈姆特",
+      "拉芙希妮@伊弗利特"
+    ],
+    "fight_id": 4,
+    "duration_ms": 978177,
+    "clear_dt_ms": 1794465249329,
+    "jobs": {
+      "貓貓hana@伊弗利特": "Summoner",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "暗黑騎士亞克@鳳凰": "DarkKnight",
+      "Aptsss@鳳凰": "Dancer",
+      "Yt段布玩@鳳凰": "Ninja",
+      "Yinx@鳳凰": "Sage",
+      "Gginin@巴哈姆特": "Samurai",
+      "拉芙希妮@伊弗利特": "WhiteMage"
+    }
+  },
+  {
+    "code": "ngQjbWNMAtkzyRKV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "The Epic of Alexander",
+    "players": [
+      "貓貓hana@伊弗利特",
+      "絕命獨獅@巴哈姆特",
+      "暗黑騎士亞克@鳳凰",
+      "Aptsss@鳳凰",
+      "Yt段布玩@鳳凰",
+      "Gginin@巴哈姆特",
+      "Yinx@鳳凰",
+      "拉芙希妮@伊弗利特"
+    ],
+    "fight_id": 7,
+    "duration_ms": 977488,
+    "clear_dt_ms": 1794467148200,
+    "jobs": {
+      "貓貓hana@伊弗利特": "Summoner",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "暗黑騎士亞克@鳳凰": "DarkKnight",
+      "Aptsss@鳳凰": "Dancer",
+      "Yt段布玩@鳳凰": "Ninja",
+      "Gginin@巴哈姆特": "Samurai",
+      "Yinx@鳳凰": "Sage",
+      "拉芙希妮@伊弗利特": "WhiteMage"
+    }
   }
 ]
