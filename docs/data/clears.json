@@ -139318,5 +139318,117 @@
       "巧克巧克@伊弗利特": "Scholar",
       "我就真的菜丫@泰坦": "Monk"
     }
+  },
+  {
+    "code": "zXjh3gy1rW7n9fvk",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "白克鯨@鳳凰",
+      "絕命獨獅@巴哈姆特",
+      "冠老闆@利維坦",
+      "Yt段布玩@鳳凰",
+      "筱嵐@迦樓羅",
+      "五月@巴哈姆特",
+      "Dapypy@迦樓羅",
+      "流星絕@巴哈姆特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 982669,
+    "clear_dt_ms": 1794553584404,
+    "jobs": {
+      "白克鯨@鳳凰": "Pictomancer",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "冠老闆@利維坦": "BlackMage",
+      "Yt段布玩@鳳凰": "Ninja",
+      "筱嵐@迦樓羅": "WhiteMage",
+      "五月@巴哈姆特": "DarkKnight",
+      "Dapypy@迦樓羅": "Monk",
+      "流星絕@巴哈姆特": "Sage"
+    }
+  },
+  {
+    "code": "Bcrwy4Pxgh7fDTXm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "雪莉的放大鏡@巴哈姆特",
+      "小who豬@鳳凰",
+      "安米@伊弗利特",
+      "星楓酥酥@伊弗利特",
+      "Ausden@伊弗利特",
+      "Second@鳳凰",
+      "宸仔@伊弗利特",
+      "Mogg@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 962864,
+    "clear_dt_ms": 1794548371901,
+    "jobs": {
+      "雪莉的放大鏡@巴哈姆特": "Pictomancer",
+      "小who豬@鳳凰": "BlackMage",
+      "安米@伊弗利特": "Gunbreaker",
+      "星楓酥酥@伊弗利特": "Sage",
+      "Ausden@伊弗利特": "Machinist",
+      "Second@鳳凰": "Dragoon",
+      "宸仔@伊弗利特": "Warrior",
+      "Mogg@伊弗利特": "Astrologian"
+    }
+  },
+  {
+    "code": "Bcrwy4Pxgh7fDTXm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "拉芙希妮@伊弗利特",
+      "果醬@奧汀",
+      "雪莉的放大鏡@巴哈姆特",
+      "安米@伊弗利特",
+      "星楓酥酥@伊弗利特",
+      "茱皮皮@泰坦",
+      "Ausden@伊弗利特",
+      "宸仔@伊弗利特"
+    ],
+    "fight_id": 10,
+    "duration_ms": 953712,
+    "clear_dt_ms": 1794550192892,
+    "jobs": {
+      "拉芙希妮@伊弗利特": "WhiteMage",
+      "果醬@奧汀": "Dragoon",
+      "雪莉的放大鏡@巴哈姆特": "Pictomancer",
+      "安米@伊弗利特": "Gunbreaker",
+      "星楓酥酥@伊弗利特": "Sage",
+      "茱皮皮@泰坦": "BlackMage",
+      "Ausden@伊弗利特": "Machinist",
+      "宸仔@伊弗利特": "Warrior"
+    }
+  },
+  {
+    "code": "92nrZaKYX7MApt1c",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "豆豆@迦樓羅",
+      "望舒@巴哈姆特",
+      "歐嚕嚕@迦樓羅",
+      "防波堤@鳳凰",
+      "梧刻@迦樓羅",
+      "玥玦@利維坦",
+      "蘇蘇兒@巴哈姆特",
+      "跟隨黨和人民@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 858523,
+    "clear_dt_ms": 1794536185683,
+    "jobs": {
+      "豆豆@迦樓羅": "Samurai",
+      "望舒@巴哈姆特": "Dancer",
+      "歐嚕嚕@迦樓羅": "Sage",
+      "防波堤@鳳凰": "Ninja",
+      "梧刻@迦樓羅": "DarkKnight",
+      "玥玦@利維坦": "Paladin",
+      "蘇蘇兒@巴哈姆特": "Astrologian",
+      "跟隨黨和人民@奧汀": "Summoner"
+    }
   }
 ]
