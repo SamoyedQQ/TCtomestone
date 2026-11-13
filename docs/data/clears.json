@@ -140102,5 +140102,61 @@
       "茱皮皮@泰坦": "Sage",
       "Ao@迦樓羅": "Dancer"
     }
+  },
+  {
+    "code": "FRG49ZMCqdAL7Qm2",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "嘎嘎ovo@鳳凰",
+      "食指父輩里恩@利維坦",
+      "Ombre@伊弗利特",
+      "貓飼料加水@利維坦",
+      "垮頌@利維坦",
+      "狼魚咬咬@鳳凰",
+      "Kita@利維坦",
+      "軟萌凱凱醬@奧汀"
+    ],
+    "fight_id": 35,
+    "duration_ms": 861720,
+    "clear_dt_ms": 1794594092467,
+    "jobs": {
+      "嘎嘎ovo@鳳凰": "Warrior",
+      "食指父輩里恩@利維坦": "Astrologian",
+      "Ombre@伊弗利特": "Samurai",
+      "貓飼料加水@利維坦": "Ninja",
+      "垮頌@利維坦": "Dancer",
+      "狼魚咬咬@鳳凰": "Summoner",
+      "Kita@利維坦": "Paladin",
+      "軟萌凱凱醬@奧汀": "Sage"
+    }
+  },
+  {
+    "code": "KCFXaDLynRbJPkNH",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "羅剎@伊弗利特",
+      "月月丶@利維坦",
+      "逼欸逼u@利維坦",
+      "水母·苦拉給@鳳凰",
+      "小阿呆@迦樓羅",
+      "維克·派金克@奧汀",
+      "阿量哥@迦樓羅",
+      "張員瑛的狗@巴哈姆特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1131270,
+    "clear_dt_ms": 1794588733191,
+    "jobs": {
+      "羅剎@伊弗利特": "Dragoon",
+      "月月丶@利維坦": "DarkKnight",
+      "逼欸逼u@利維坦": "Scholar",
+      "水母·苦拉給@鳳凰": "Astrologian",
+      "小阿呆@迦樓羅": "Monk",
+      "維克·派金克@奧汀": "Dancer",
+      "阿量哥@迦樓羅": "Gunbreaker",
+      "張員瑛的狗@巴哈姆特": "BlackMage"
+    }
   }
 ]
