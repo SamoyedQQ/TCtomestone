@@ -139458,5 +139458,89 @@
       "筱楓a黑兔@迦樓羅": "Sage",
       "Racook@奧汀": "DarkKnight"
     }
+  },
+  {
+    "code": "hDjqFPT3RJpt9r4X",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "蒼月隱@奧汀",
+      "姆姆@利維坦",
+      "青籠籠·蒲萄@迦樓羅",
+      "顧言@奧汀",
+      "傭兵@伊弗利特",
+      "卡鴉君@利維坦",
+      "Hizki@利維坦",
+      "吉娃娃小戰士@迦樓羅"
+    ],
+    "fight_id": 2,
+    "duration_ms": 973777,
+    "clear_dt_ms": 1794576142286,
+    "jobs": {
+      "蒼月隱@奧汀": "Dragoon",
+      "姆姆@利維坦": "Astrologian",
+      "青籠籠·蒲萄@迦樓羅": "Machinist",
+      "顧言@奧汀": "DarkKnight",
+      "傭兵@伊弗利特": "Ninja",
+      "卡鴉君@利維坦": "Sage",
+      "Hizki@利維坦": "RedMage",
+      "吉娃娃小戰士@迦樓羅": "Paladin"
+    }
+  },
+  {
+    "code": "8b16k9YFtjw32PdL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "雄雄@利維坦",
+      "窩不知道@利維坦",
+      "阿里薩@迦樓羅",
+      "命中已注定@鳳凰",
+      "乂破滅丿鯢乂@利維坦",
+      "乂破滅丿茶乂@利維坦",
+      "凜風舞@利維坦",
+      "乂破葉丿鴨乂@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 860372,
+    "clear_dt_ms": 1794577430948,
+    "jobs": {
+      "雄雄@利維坦": "Astrologian",
+      "窩不知道@利維坦": "Scholar",
+      "阿里薩@迦樓羅": "Warrior",
+      "命中已注定@鳳凰": "Dancer",
+      "乂破滅丿鯢乂@利維坦": "Dragoon",
+      "乂破滅丿茶乂@利維坦": "DarkKnight",
+      "凜風舞@利維坦": "BlackMage",
+      "乂破葉丿鴨乂@利維坦": "Summoner"
+    }
+  },
+  {
+    "code": "bcxQh3CM9YHPXVy4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "破曉金風@迦樓羅",
+      "夙月@巴哈姆特",
+      "屁屁大師@利維坦",
+      "嘎boom@鳳凰",
+      "八百歲比名子@伊弗利特",
+      "Noma@伊弗利特",
+      "旮旯給木高手@伊弗利特",
+      "Sellyy@迦樓羅"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1133489,
+    "clear_dt_ms": 1794573622256,
+    "jobs": {
+      "破曉金風@迦樓羅": "Gunbreaker",
+      "夙月@巴哈姆特": "Monk",
+      "屁屁大師@利維坦": "Sage",
+      "嘎boom@鳳凰": "Pictomancer",
+      "八百歲比名子@伊弗利特": "Samurai",
+      "Noma@伊弗利特": "Astrologian",
+      "旮旯給木高手@伊弗利特": "DarkKnight",
+      "Sellyy@迦樓羅": "Machinist"
+    }
   }
 ]
