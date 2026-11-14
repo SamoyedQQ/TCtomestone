@@ -140242,5 +140242,61 @@
       "宸仔@伊弗利特": "Warrior",
       "狼一@泰坦": "Sage"
     }
+  },
+  {
+    "code": "CmQTdhzaqGcgA4PM",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "企鵝布丁@鳳凰",
+      "Katoka@奧汀",
+      "風語yc@迦樓羅",
+      "天空藍毅@巴哈姆特",
+      "冠老闆@利維坦",
+      "亞爾@伊弗利特",
+      "Dseven@迦樓羅",
+      "超級拇指喬@鳳凰"
+    ],
+    "fight_id": 105,
+    "duration_ms": 951599,
+    "clear_dt_ms": 1794632458942,
+    "jobs": {
+      "企鵝布丁@鳳凰": "WhiteMage",
+      "Katoka@奧汀": "Samurai",
+      "風語yc@迦樓羅": "Monk",
+      "天空藍毅@巴哈姆特": "Paladin",
+      "冠老闆@利維坦": "BlackMage",
+      "亞爾@伊弗利特": "Dancer",
+      "Dseven@迦樓羅": "DarkKnight",
+      "超級拇指喬@鳳凰": "Sage"
+    }
+  },
+  {
+    "code": "vjwGhKYqWTJL6t9n",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "自由誓言@迦樓羅",
+      "白九@迦樓羅",
+      "夕夕夕夕天使@鳳凰",
+      "殞星@利維坦",
+      "Yinx@鳳凰",
+      "倉掛可拉拉@迦樓羅",
+      "Ecnal@鳳凰",
+      "黑喵喵@利維坦"
+    ],
+    "fight_id": 6,
+    "duration_ms": 961664,
+    "clear_dt_ms": 1794630953525,
+    "jobs": {
+      "自由誓言@迦樓羅": "Machinist",
+      "白九@迦樓羅": "Astrologian",
+      "夕夕夕夕天使@鳳凰": "Samurai",
+      "殞星@利維坦": "Paladin",
+      "Yinx@鳳凰": "Sage",
+      "倉掛可拉拉@迦樓羅": "BlackMage",
+      "Ecnal@鳳凰": "DarkKnight",
+      "黑喵喵@利維坦": "Ninja"
+    }
   }
 ]
