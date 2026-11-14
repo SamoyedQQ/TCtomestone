@@ -140214,5 +140214,33 @@
       "名字隨時改嗎@利維坦": "Dancer",
       "雖然很舒服@利維坦": "WhiteMage"
     }
+  },
+  {
+    "code": "ywm3zxvZBp47RjAC",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "香酥脆@巴哈姆特",
+      "Kuu@巴哈姆特",
+      "Achiou@利維坦",
+      "絕命獨獅@巴哈姆特",
+      "巴隆@泰坦",
+      "菲爾約@巴哈姆特",
+      "宸仔@伊弗利特",
+      "狼一@泰坦"
+    ],
+    "fight_id": 7,
+    "duration_ms": 948908,
+    "clear_dt_ms": 1794601387103,
+    "jobs": {
+      "香酥脆@巴哈姆特": "WhiteMage",
+      "Kuu@巴哈姆特": "Dancer",
+      "Achiou@利維坦": "Monk",
+      "絕命獨獅@巴哈姆特": "Paladin",
+      "巴隆@泰坦": "Ninja",
+      "菲爾約@巴哈姆特": "Pictomancer",
+      "宸仔@伊弗利特": "Warrior",
+      "狼一@泰坦": "Sage"
+    }
   }
 ]
