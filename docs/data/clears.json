@@ -140298,5 +140298,33 @@
       "Ecnal@鳳凰": "DarkKnight",
       "黑喵喵@利維坦": "Ninja"
     }
+  },
+  {
+    "code": "naH8xQZCJXkVdzMP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "掃爾哈塔妮x@巴哈姆特",
+      "小鳥遊@利維坦",
+      "Mkk@奧汀",
+      "Mayu@迦樓羅",
+      "段藏@利維坦",
+      "凡塔希雅@巴哈姆特",
+      "夏普柴柴@泰坦",
+      "茉兒@奧汀"
+    ],
+    "fight_id": 6,
+    "duration_ms": 860263,
+    "clear_dt_ms": 1794638656482,
+    "jobs": {
+      "掃爾哈塔妮x@巴哈姆特": "Dancer",
+      "小鳥遊@利維坦": "WhiteMage",
+      "Mkk@奧汀": "Dragoon",
+      "Mayu@迦樓羅": "Summoner",
+      "段藏@利維坦": "Paladin",
+      "凡塔希雅@巴哈姆特": "Gunbreaker",
+      "夏普柴柴@泰坦": "BlackMage",
+      "茉兒@奧汀": "Sage"
+    }
   }
 ]
