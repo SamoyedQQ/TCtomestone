@@ -140942,5 +140942,89 @@
       "閻龍@利維坦": "Paladin",
       "薇薇布@迦樓羅": "Bard"
     }
+  },
+  {
+    "code": "ga4zyXN2xQdr6KfW",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "蒼眠月@奧汀",
+      "阿冠@迦樓羅",
+      "夢璃@奧汀",
+      "Papa鴨@鳳凰",
+      "伊娜莉·尼亞@伊弗利特",
+      "貓翼@伊弗利特",
+      "丶芊菓@伊弗利特",
+      "五條和希@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1120343,
+    "clear_dt_ms": 1794680966802,
+    "jobs": {
+      "蒼眠月@奧汀": "Pictomancer",
+      "阿冠@迦樓羅": "Dancer",
+      "夢璃@奧汀": "Dragoon",
+      "Papa鴨@鳳凰": "DarkKnight",
+      "伊娜莉·尼亞@伊弗利特": "WhiteMage",
+      "貓翼@伊弗利特": "Paladin",
+      "丶芊菓@伊弗利特": "Scholar",
+      "五條和希@泰坦": "Samurai"
+    }
+  },
+  {
+    "code": "KpTzQXv4RD6Yh7Ly",
+    "title": "絕神兵Day7",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "米戈米戈勒@利維坦",
+      "沐雨橙風@奧汀",
+      "農夫三拳@迦樓羅",
+      "薇莉拉星語@迦樓羅",
+      "阿里薩@迦樓羅",
+      "緋櫻月璃@迦樓羅",
+      "Gguy居蓋@奧汀",
+      "莉莉普雷亞@迦樓羅"
+    ],
+    "fight_id": 10,
+    "duration_ms": 858563,
+    "clear_dt_ms": 1794675276604,
+    "jobs": {
+      "米戈米戈勒@利維坦": "Dragoon",
+      "沐雨橙風@奧汀": "Astrologian",
+      "農夫三拳@迦樓羅": "Paladin",
+      "薇莉拉星語@迦樓羅": "Sage",
+      "阿里薩@迦樓羅": "Warrior",
+      "緋櫻月璃@迦樓羅": "Summoner",
+      "Gguy居蓋@奧汀": "Viper",
+      "莉莉普雷亞@迦樓羅": "Dancer"
+    }
+  },
+  {
+    "code": "qhbc9AKt8j3n2JX4",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "塔塔落@利維坦",
+      "Yue@迦樓羅",
+      "果賴咪@巴哈姆特",
+      "椒麻雞@巴哈姆特",
+      "芙莉蓮霧@奧汀",
+      "Lunsix@泰坦",
+      "灛@奧汀",
+      "浮米@泰坦"
+    ],
+    "fight_id": 5,
+    "duration_ms": 1135231,
+    "clear_dt_ms": 1794680550414,
+    "jobs": {
+      "塔塔落@利維坦": "Astrologian",
+      "Yue@迦樓羅": "Machinist",
+      "果賴咪@巴哈姆特": "Monk",
+      "椒麻雞@巴哈姆特": "Dragoon",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "Lunsix@泰坦": "DarkKnight",
+      "灛@奧汀": "Gunbreaker",
+      "浮米@泰坦": "Scholar"
+    }
   }
 ]
