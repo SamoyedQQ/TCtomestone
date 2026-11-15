@@ -141026,5 +141026,89 @@
       "灛@奧汀": "Gunbreaker",
       "浮米@泰坦": "Scholar"
     }
+  },
+  {
+    "code": "t9y2FP3ZDJLa6RKh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "古菇菇@鳳凰",
+      "羽丶@巴哈姆特",
+      "Benson@鳳凰",
+      "Ecnal@鳳凰",
+      "特依內@鳳凰",
+      "桑原同學@泰坦",
+      "夏殷@利維坦",
+      "微寒@鳳凰"
+    ],
+    "fight_id": 8,
+    "duration_ms": 943919,
+    "clear_dt_ms": 1794663354667,
+    "jobs": {
+      "古菇菇@鳳凰": "Sage",
+      "羽丶@巴哈姆特": "Dancer",
+      "Benson@鳳凰": "Dragoon",
+      "Ecnal@鳳凰": "DarkKnight",
+      "特依內@鳳凰": "Samurai",
+      "桑原同學@泰坦": "WhiteMage",
+      "夏殷@利維坦": "Summoner",
+      "微寒@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "t9y2FP3ZDJLa6RKh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "羽丶@巴哈姆特",
+      "Ecnal@鳳凰",
+      "Leia@巴哈姆特",
+      "夏殷@利維坦",
+      "侑介@奧汀",
+      "傑夫垢垢@伊弗利特",
+      "芙莉蓮霧@奧汀",
+      "微寒@鳳凰"
+    ],
+    "fight_id": 15,
+    "duration_ms": 938938,
+    "clear_dt_ms": 1794668972242,
+    "jobs": {
+      "羽丶@巴哈姆特": "Dancer",
+      "Ecnal@鳳凰": "DarkKnight",
+      "Leia@巴哈姆特": "Sage",
+      "夏殷@利維坦": "Summoner",
+      "侑介@奧汀": "Monk",
+      "傑夫垢垢@伊弗利特": "Astrologian",
+      "芙莉蓮霧@奧汀": "BlackMage",
+      "微寒@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "t9y2FP3ZDJLa6RKh",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Benson@鳳凰",
+      "伊諾@利維坦",
+      "特依內@鳳凰",
+      "Matoi@迦樓羅",
+      "拉芙希妮@伊弗利特",
+      "伊里絲@迦樓羅",
+      "嘎兵@鳳凰",
+      "夏殷@利維坦"
+    ],
+    "fight_id": 19,
+    "duration_ms": 947192,
+    "clear_dt_ms": 1794674175033,
+    "jobs": {
+      "Benson@鳳凰": "Dragoon",
+      "伊諾@利維坦": "Sage",
+      "特依內@鳳凰": "Samurai",
+      "Matoi@迦樓羅": "Paladin",
+      "拉芙希妮@伊弗利特": "WhiteMage",
+      "伊里絲@迦樓羅": "Warrior",
+      "嘎兵@鳳凰": "BlackMage",
+      "夏殷@利維坦": "Dancer"
+    }
   }
 ]
