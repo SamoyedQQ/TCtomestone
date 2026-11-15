@@ -141110,5 +141110,61 @@
       "嘎兵@鳳凰": "BlackMage",
       "夏殷@利維坦": "Dancer"
     }
+  },
+  {
+    "code": "FcRYXCMZkBJq6zn3",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "夢璃@奧汀",
+      "抹茶ouo@迦樓羅",
+      "拉la@伊弗利特",
+      "Dj@巴哈姆特",
+      "神宗@迦樓羅",
+      "哲別@利維坦",
+      "五條和希@泰坦",
+      "豆腐出沒注意@利維坦"
+    ],
+    "fight_id": 3,
+    "duration_ms": 1123995,
+    "clear_dt_ms": 1794716771608,
+    "jobs": {
+      "夢璃@奧汀": "Dragoon",
+      "抹茶ouo@迦樓羅": "Pictomancer",
+      "拉la@伊弗利特": "Paladin",
+      "Dj@巴哈姆特": "DarkKnight",
+      "神宗@迦樓羅": "Sage",
+      "哲別@利維坦": "Dancer",
+      "五條和希@泰坦": "Viper",
+      "豆腐出沒注意@利維坦": "Astrologian"
+    }
+  },
+  {
+    "code": "dCWaFG9KZJ4Mzm1g",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Garuda / Titan / ... ",
+    "players": [
+      "Skfish@巴哈姆特",
+      "高希音娜@利維坦",
+      "雨宮彩鳥@鳳凰",
+      "彌生@巴哈姆特",
+      "花生@利維坦",
+      "溫德水獺@泰坦",
+      "幽夢@鳳凰",
+      "天音x@巴哈姆特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 847161,
+    "clear_dt_ms": 1794718687833,
+    "jobs": {
+      "Skfish@巴哈姆特": "Scholar",
+      "高希音娜@利維坦": "Warrior",
+      "雨宮彩鳥@鳳凰": "Dragoon",
+      "彌生@巴哈姆特": "Summoner",
+      "花生@利維坦": "WhiteMage",
+      "溫德水獺@泰坦": "Dancer",
+      "幽夢@鳳凰": "Samurai",
+      "天音x@巴哈姆特": "Paladin"
+    }
   }
 ]
