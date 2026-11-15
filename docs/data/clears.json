@@ -142006,5 +142006,61 @@
       "泉@伊弗利特": "Samurai",
       "黑色楓葉@利維坦": "BlackMage"
     }
+  },
+  {
+    "code": "DBgvRPtLxGJNrb4a",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "霧雨的魔法使@迦樓羅",
+      "阿加爾塔@奧汀",
+      "阿韋布斯坦@鳳凰",
+      "小膿泡@迦樓羅",
+      "灰特@伊弗利特",
+      "土撥鼠@迦樓羅",
+      "炎@鳳凰",
+      "Raiden@鳳凰"
+    ],
+    "fight_id": 12,
+    "duration_ms": 1123412,
+    "clear_dt_ms": 1794758323350,
+    "jobs": {
+      "霧雨的魔法使@迦樓羅": "Astrologian",
+      "阿加爾塔@奧汀": "Pictomancer",
+      "阿韋布斯坦@鳳凰": "Scholar",
+      "小膿泡@迦樓羅": "DarkKnight",
+      "灰特@伊弗利特": "Dancer",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "炎@鳳凰": "Paladin",
+      "Raiden@鳳凰": "Viper"
+    }
+  },
+  {
+    "code": "4YT7RKPqcQ1p6Brg",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "小殘@巴哈姆特",
+      "Yanjan@伊弗利特",
+      "風語yc@迦樓羅",
+      "我不是小魚@泰坦",
+      "拉芙希妮@伊弗利特",
+      "伊諾@利維坦",
+      "宸仔@伊弗利特",
+      "小p噗噗@伊弗利特"
+    ],
+    "fight_id": 2,
+    "duration_ms": 940574,
+    "clear_dt_ms": 1794760049427,
+    "jobs": {
+      "小殘@巴哈姆特": "Paladin",
+      "Yanjan@伊弗利特": "Dancer",
+      "風語yc@迦樓羅": "Monk",
+      "我不是小魚@泰坦": "Pictomancer",
+      "拉芙希妮@伊弗利特": "WhiteMage",
+      "伊諾@利維坦": "Sage",
+      "宸仔@伊弗利特": "Warrior",
+      "小p噗噗@伊弗利特": "Reaper"
+    }
   }
 ]
