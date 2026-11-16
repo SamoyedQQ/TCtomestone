@@ -142090,5 +142090,33 @@
       "月娜@奧汀": "WhiteMage",
       "弦凱@巴哈姆特": "BlackMage"
     }
+  },
+  {
+    "code": "w97pDVdkHacrFQPT",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "特依內@鳳凰",
+      "吉娃娃小戰士@迦樓羅",
+      "哇嗚嗚@利維坦",
+      "柴犬汪汪叫@利維坦",
+      "Aimbao@巴哈姆特",
+      "暗黑騎士亞克@鳳凰",
+      "Pingu@伊弗利特",
+      "貓咪吃糖果@迦樓羅"
+    ],
+    "fight_id": 21,
+    "duration_ms": 966419,
+    "clear_dt_ms": 1794757739688,
+    "jobs": {
+      "特依內@鳳凰": "Samurai",
+      "吉娃娃小戰士@迦樓羅": "Paladin",
+      "哇嗚嗚@利維坦": "WhiteMage",
+      "柴犬汪汪叫@利維坦": "Machinist",
+      "Aimbao@巴哈姆特": "Ninja",
+      "暗黑騎士亞克@鳳凰": "DarkKnight",
+      "Pingu@伊弗利特": "Scholar",
+      "貓咪吃糖果@迦樓羅": "BlackMage"
+    }
   }
 ]
