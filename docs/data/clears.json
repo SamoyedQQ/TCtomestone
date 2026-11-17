@@ -142986,5 +142986,33 @@
       "炭烤醬油@泰坦": "Machinist",
       "Migo@奧汀": "Dragoon"
     }
+  },
+  {
+    "code": "43pacf98TV6Lt2Cr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "Fallen@利維坦",
+      "沁心紅茶@利維坦",
+      "米爾提@利維坦",
+      "小小龍@鳳凰",
+      "逼欸逼u@利維坦",
+      "Ao@迦樓羅",
+      "青雀@利維坦",
+      "日式豬排@利維坦"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1141117,
+    "clear_dt_ms": 1794926552843,
+    "jobs": {
+      "Fallen@利維坦": "Monk",
+      "沁心紅茶@利維坦": "Paladin",
+      "米爾提@利維坦": "BlackMage",
+      "小小龍@鳳凰": "DarkKnight",
+      "逼欸逼u@利維坦": "Scholar",
+      "Ao@迦樓羅": "Dancer",
+      "青雀@利維坦": "Samurai",
+      "日式豬排@利維坦": "Astrologian"
+    }
   }
 ]
