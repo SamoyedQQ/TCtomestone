@@ -143014,5 +143014,33 @@
       "青雀@利維坦": "Samurai",
       "日式豬排@利維坦": "Astrologian"
     }
+  },
+  {
+    "code": "dgK4nGvaYz7QVWBH",
+    "title": " 【絕亞】消化，但只成功一次",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "羅仔@鳳凰",
+      "金冬天的狗丷@利維坦",
+      "Gibada@鳳凰",
+      "鴨鴨@鳳凰",
+      "咚搭@鳳凰",
+      "殘翼@迦樓羅",
+      "樓梯口@伊弗利特",
+      "寒棠月@鳳凰"
+    ],
+    "fight_id": 4,
+    "duration_ms": 945329,
+    "clear_dt_ms": 1794924851263,
+    "jobs": {
+      "羅仔@鳳凰": "Pictomancer",
+      "金冬天的狗丷@利維坦": "WhiteMage",
+      "Gibada@鳳凰": "Monk",
+      "鴨鴨@鳳凰": "Dancer",
+      "咚搭@鳳凰": "Scholar",
+      "殘翼@迦樓羅": "DarkKnight",
+      "樓梯口@伊弗利特": "Dragoon",
+      "寒棠月@鳳凰": "Paladin"
+    }
   }
 ]
