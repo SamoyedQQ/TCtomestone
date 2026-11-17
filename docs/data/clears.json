@@ -142958,5 +142958,33 @@
       "寅虎@鳳凰": "Sage",
       "黑柴犬奴@鳳凰": "Samurai"
     }
+  },
+  {
+    "code": "Bgcw27VWdCJvZ3Np",
+    "title": "AAC Light-Heavyweight",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "白上喵雪@奧汀",
+      "寒鐵德魯伊@利維坦",
+      "阿吉美眉@巴哈姆特",
+      "焦糖胡麻布蕾@利維坦",
+      "星楓雪玥@奧汀",
+      "異累k@迦樓羅",
+      "炭烤醬油@泰坦",
+      "Migo@奧汀"
+    ],
+    "fight_id": 14,
+    "duration_ms": 952397,
+    "clear_dt_ms": 1794851992909,
+    "jobs": {
+      "白上喵雪@奧汀": "BlackMage",
+      "寒鐵德魯伊@利維坦": "Scholar",
+      "阿吉美眉@巴哈姆特": "Paladin",
+      "焦糖胡麻布蕾@利維坦": "DarkKnight",
+      "星楓雪玥@奧汀": "Monk",
+      "異累k@迦樓羅": "WhiteMage",
+      "炭烤醬油@泰坦": "Machinist",
+      "Migo@奧汀": "Dragoon"
+    }
   }
 ]
