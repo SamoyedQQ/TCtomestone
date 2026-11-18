@@ -143210,5 +143210,61 @@
       "Zykin@奧汀": "Bard",
       "Ruby醬@奧汀": "Scholar"
     }
+  },
+  {
+    "code": "T1cq8HvB4QKxF7Mj",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "嚕咪@鳳凰",
+      "五條和希@泰坦",
+      "夢璃@奧汀",
+      "Sweet@奧汀",
+      "異世界@利維坦",
+      "寶寶ovo@伊弗利特",
+      "羽丘的怪女生@迦樓羅",
+      "阿吉美眉@巴哈姆特"
+    ],
+    "fight_id": 1,
+    "duration_ms": 1131626,
+    "clear_dt_ms": 1795023852693,
+    "jobs": {
+      "嚕咪@鳳凰": "Scholar",
+      "五條和希@泰坦": "Viper",
+      "夢璃@奧汀": "Dragoon",
+      "Sweet@奧汀": "Bard",
+      "異世界@利維坦": "Pictomancer",
+      "寶寶ovo@伊弗利特": "WhiteMage",
+      "羽丘的怪女生@迦樓羅": "Paladin",
+      "阿吉美眉@巴哈姆特": "DarkKnight"
+    }
+  },
+  {
+    "code": "b7ntV3m9hWwyAgHL",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "悠然誠心@利維坦",
+      "拉芙希妮@伊弗利特",
+      "芙芙柚葉@泰坦",
+      "香@鳳凰",
+      "小小鷗@迦樓羅",
+      "沁雪冰心@利維坦",
+      "如月@鳳凰",
+      "Yongno@伊弗利特"
+    ],
+    "fight_id": 6,
+    "duration_ms": 976384,
+    "clear_dt_ms": 1795023304124,
+    "jobs": {
+      "悠然誠心@利維坦": "DarkKnight",
+      "拉芙希妮@伊弗利特": "WhiteMage",
+      "芙芙柚葉@泰坦": "Paladin",
+      "香@鳳凰": "Scholar",
+      "小小鷗@迦樓羅": "Monk",
+      "沁雪冰心@利維坦": "Dancer",
+      "如月@鳳凰": "Samurai",
+      "Yongno@伊弗利特": "Summoner"
+    }
   }
 ]
