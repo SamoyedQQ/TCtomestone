@@ -143322,5 +143322,61 @@
       "超級ot王@奧汀": "Gunbreaker",
       "真是個好名字@泰坦": "DarkKnight"
     }
+  },
+  {
+    "code": "MvQjnmRKc7YXThqd",
+    "title": "Futures Rewritten",
+    "encounter": "Oracle of Darkness / Usurper of Frost / ... ",
+    "players": [
+      "浣恩特@利維坦",
+      "那由多壽司屋@迦樓羅",
+      "張員瑛的狗@巴哈姆特",
+      "阿加德@泰坦",
+      "Nacho@鳳凰",
+      "真香@迦樓羅",
+      "燉牛肉超好吃@奧汀",
+      "Ao@迦樓羅"
+    ],
+    "fight_id": 8,
+    "duration_ms": 1113479,
+    "clear_dt_ms": 1795095112586,
+    "jobs": {
+      "浣恩特@利維坦": "Scholar",
+      "那由多壽司屋@迦樓羅": "Paladin",
+      "張員瑛的狗@巴哈姆特": "Pictomancer",
+      "阿加德@泰坦": "Astrologian",
+      "Nacho@鳳凰": "Monk",
+      "真香@迦樓羅": "DarkKnight",
+      "燉牛肉超好吃@奧汀": "Dragoon",
+      "Ao@迦樓羅": "Dancer"
+    }
+  },
+  {
+    "code": "f1XMdy2WQjhpDVqZ",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "老樂@奧汀",
+      "貓咪吃糖果@迦樓羅",
+      "楚璃@利維坦",
+      "朝武芳乃@伊弗利特",
+      "暗黑騎士亞克@鳳凰",
+      "她說她沒說@泰坦",
+      "巴隆@泰坦",
+      "我想問呢@泰坦"
+    ],
+    "fight_id": 19,
+    "duration_ms": 979314,
+    "clear_dt_ms": 1795087169176,
+    "jobs": {
+      "老樂@奧汀": "Monk",
+      "貓咪吃糖果@迦樓羅": "BlackMage",
+      "楚璃@利維坦": "WhiteMage",
+      "朝武芳乃@伊弗利特": "Dancer",
+      "暗黑騎士亞克@鳳凰": "DarkKnight",
+      "她說她沒說@泰坦": "Gunbreaker",
+      "巴隆@泰坦": "Dragoon",
+      "我想問呢@泰坦": "Sage"
+    }
   }
 ]
