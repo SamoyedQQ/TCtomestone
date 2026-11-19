@@ -450286,5 +450286,41 @@
     "timestamp_ms": 1795025278276,
     "duration_ms": 0,
     "phase_reached": 3
+  },
+  "Ombre@伊弗利特:1075:Samurai": {
+    "name": "Ombre",
+    "server": "伊弗利特",
+    "encounter_id": 1075,
+    "encounter": "living liquid / liquid hand / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 2955.6806423100434,
+    "adps": 3160.5484955011016,
+    "parse_pct": 0.0,
+    "job": "Samurai",
+    "char_id": 1000014,
+    "report_code": "Fn1HgbvhM9XJp6VB",
+    "fight_id": 10,
+    "timestamp_ms": 1795074099999,
+    "duration_ms": 981151,
+    "phase_reached": 0
+  },
+  "真是個好名字@泰坦:1075:DarkKnight": {
+    "name": "真是個好名字",
+    "server": "泰坦",
+    "encounter_id": 1075,
+    "encounter": "living liquid / liquid hand / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 1667.045416357117,
+    "adps": 1793.2101818715862,
+    "parse_pct": 0.0,
+    "job": "DarkKnight",
+    "char_id": 1000006,
+    "report_code": "Fn1HgbvhM9XJp6VB",
+    "fight_id": 10,
+    "timestamp_ms": 1795074099999,
+    "duration_ms": 981151,
+    "phase_reached": 0
   }
 }

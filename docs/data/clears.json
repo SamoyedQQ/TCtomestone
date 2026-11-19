@@ -143294,5 +143294,33 @@
       "貓羊@迦樓羅": "Scholar",
       "吸貓貓@迦樓羅": "Paladin"
     }
+  },
+  {
+    "code": "Fn1HgbvhM9XJp6VB",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "Ombre@伊弗利特",
+      "Mizusa@迦樓羅",
+      "巧克巧克@伊弗利特",
+      "亞爾@伊弗利特",
+      "穆璃@伊弗利特",
+      "果醬@奧汀",
+      "超級ot王@奧汀",
+      "真是個好名字@泰坦"
+    ],
+    "fight_id": 10,
+    "duration_ms": 981151,
+    "clear_dt_ms": 1795074099999,
+    "jobs": {
+      "Ombre@伊弗利特": "Samurai",
+      "Mizusa@迦樓羅": "BlackMage",
+      "巧克巧克@伊弗利特": "Scholar",
+      "亞爾@伊弗利特": "Dragoon",
+      "穆璃@伊弗利特": "Astrologian",
+      "果醬@奧汀": "Dancer",
+      "超級ot王@奧汀": "Gunbreaker",
+      "真是個好名字@泰坦": "DarkKnight"
+    }
   }
 ]
