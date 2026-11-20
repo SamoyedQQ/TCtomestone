@@ -143686,5 +143686,61 @@
       "麥克雞快@巴哈姆特": "Dragoon",
       "飲冰室茶姬@巴哈姆特": "Reaper"
     }
+  },
+  {
+    "code": "2jFGyMkKxDd3pHJV",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "點滴咖啡@鳳凰",
+      "暮隱@伊弗利特",
+      "Ly@鳳凰",
+      "星星來囉@伊弗利特",
+      "Laliet@伊弗利特",
+      "空空@伊弗利特",
+      "焉陶@伊弗利特",
+      "霧久@伊弗利特"
+    ],
+    "fight_id": 9,
+    "duration_ms": 974995,
+    "clear_dt_ms": 1795103202225,
+    "jobs": {
+      "點滴咖啡@鳳凰": "Pictomancer",
+      "暮隱@伊弗利特": "Summoner",
+      "Ly@鳳凰": "Samurai",
+      "星星來囉@伊弗利特": "Dancer",
+      "Laliet@伊弗利特": "Sage",
+      "空空@伊弗利特": "DarkKnight",
+      "焉陶@伊弗利特": "WhiteMage",
+      "霧久@伊弗利特": "Paladin"
+    }
+  },
+  {
+    "code": "H3DJhjK4vPQZgBk1",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "黑魔king@奧汀",
+      "嘩啦@鳳凰",
+      "新鮮急凍魚乾@奧汀",
+      "嘩啦@泰坦",
+      "Hmaster@巴哈姆特",
+      "一個劍術師@泰坦",
+      "繪靈@巴哈姆特",
+      "饿了@奧汀"
+    ],
+    "fight_id": 3,
+    "duration_ms": 995053,
+    "clear_dt_ms": 1794213493642,
+    "jobs": {
+      "黑魔king@奧汀": "Summoner",
+      "嘩啦@鳳凰": "Machinist",
+      "新鮮急凍魚乾@奧汀": "Samurai",
+      "嘩啦@泰坦": "Machinist",
+      "Hmaster@巴哈姆特": "Scholar",
+      "一個劍術師@泰坦": "DarkKnight",
+      "繪靈@巴哈姆特": "WhiteMage",
+      "饿了@奧汀": "Reaper"
+    }
   }
 ]
