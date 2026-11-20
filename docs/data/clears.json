@@ -143742,5 +143742,33 @@
       "繪靈@巴哈姆特": "WhiteMage",
       "饿了@奧汀": "Reaper"
     }
+  },
+  {
+    "code": "pnVYgTq6BZhX9tcr",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "曉夜@巴哈姆特",
+      "天川涼音@巴哈姆特",
+      "雪盡千明@迦樓羅",
+      "電漿衝鋒槍@奧汀",
+      "花無十一日紅@迦樓羅",
+      "闇夜@巴哈姆特",
+      "Baicon@巴哈姆特",
+      "哈土奇@伊弗利特"
+    ],
+    "fight_id": 41,
+    "duration_ms": 985258,
+    "clear_dt_ms": 1795167507744,
+    "jobs": {
+      "曉夜@巴哈姆特": "WhiteMage",
+      "天川涼音@巴哈姆特": "Sage",
+      "雪盡千明@迦樓羅": "Pictomancer",
+      "電漿衝鋒槍@奧汀": "Dancer",
+      "花無十一日紅@迦樓羅": "Monk",
+      "闇夜@巴哈姆特": "DarkKnight",
+      "Baicon@巴哈姆特": "Dragoon",
+      "哈土奇@伊弗利特": "Paladin"
+    }
   }
 ]
