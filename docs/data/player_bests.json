@@ -451402,5 +451402,41 @@
     "timestamp_ms": 1795098291039,
     "duration_ms": 0,
     "phase_reached": 4
+  },
+  "嘩啦@鳳凰:1075:Warrior": {
+    "name": "嘩啦",
+    "server": "鳳凰",
+    "encounter_id": 1075,
+    "encounter": "living liquid / liquid hand / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 1812.1426616394876,
+    "adps": 1883.7641010995292,
+    "parse_pct": 0.0,
+    "job": "Warrior",
+    "char_id": 1000006,
+    "report_code": "H3DJhjK4vPQZgBk1",
+    "fight_id": 3,
+    "timestamp_ms": 1794213493642,
+    "duration_ms": 995053,
+    "phase_reached": 0
+  },
+  "嘩啦@泰坦:1075:Warrior": {
+    "name": "嘩啦",
+    "server": "泰坦",
+    "encounter_id": 1075,
+    "encounter": "living liquid / liquid hand / ... ",
+    "is_clear": true,
+    "boss_hp_pct": 0.0,
+    "rdps": 1812.1426616394876,
+    "adps": 1883.7641010995292,
+    "parse_pct": 0.0,
+    "job": "Warrior",
+    "char_id": 1000006,
+    "report_code": "H3DJhjK4vPQZgBk1",
+    "fight_id": 3,
+    "timestamp_ms": 1794213493642,
+    "duration_ms": 995053,
+    "phase_reached": 0
   }
 }
