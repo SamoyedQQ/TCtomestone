@@ -143966,5 +143966,61 @@
       "莉可@鳳凰": "Paladin",
       "殤魂@奧汀": "Monk"
     }
+  },
+  {
+    "code": "DQGvAgqRBxWpjPYf",
+    "title": "Futures Rewritten",
+    "encounter": "Futures Rewritten",
+    "players": [
+      "小膿泡@迦樓羅",
+      "阿加爾塔@奧汀",
+      "土撥鼠@迦樓羅",
+      "灰特@伊弗利特",
+      "Raiden@鳳凰",
+      "炎@鳳凰",
+      "霧雨的魔法使@迦樓羅",
+      "阿韋布斯坦@鳳凰"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1118681,
+    "clear_dt_ms": 1795191099980,
+    "jobs": {
+      "小膿泡@迦樓羅": "DarkKnight",
+      "阿加爾塔@奧汀": "Pictomancer",
+      "土撥鼠@迦樓羅": "Dragoon",
+      "灰特@伊弗利特": "Dancer",
+      "Raiden@鳳凰": "Ninja",
+      "炎@鳳凰": "Paladin",
+      "霧雨的魔法使@迦樓羅": "Astrologian",
+      "阿韋布斯坦@鳳凰": "Scholar"
+    }
+  },
+  {
+    "code": "AJTfn8wBVNZ3v9mW",
+    "title": "Ultimates (Legacy)",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "暮隱@伊弗利特",
+      "空空@伊弗利特",
+      "點滴咖啡@鳳凰",
+      "Laliet@伊弗利特",
+      "霧久@伊弗利特",
+      "星星來囉@伊弗利特",
+      "Ly@鳳凰",
+      "焉陶@伊弗利特"
+    ],
+    "fight_id": 8,
+    "duration_ms": 981122,
+    "clear_dt_ms": 1795188133443,
+    "jobs": {
+      "暮隱@伊弗利特": "Summoner",
+      "空空@伊弗利特": "DarkKnight",
+      "點滴咖啡@鳳凰": "Pictomancer",
+      "Laliet@伊弗利特": "Sage",
+      "霧久@伊弗利特": "Paladin",
+      "星星來囉@伊弗利特": "Dancer",
+      "Ly@鳳凰": "Samurai",
+      "焉陶@伊弗利特": "WhiteMage"
+    }
   }
 ]
