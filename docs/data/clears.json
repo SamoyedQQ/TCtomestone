@@ -143882,5 +143882,89 @@
       "Natsum@奧汀": "Bard",
       "莫塔里小土豆@奧汀": "Paladin"
     }
+  },
+  {
+    "code": "HLq6gCXZmrkMz1nP",
+    "title": "Ultimates (Legacy)",
+    "encounter": "Omega / Omega-M / Alpha Omega",
+    "players": [
+      "夜雨聲煩@鳳凰",
+      "伊醉月@鳳凰",
+      "餡餅@利維坦",
+      "莉蓓兒@巴哈姆特",
+      "Tkc洽@巴哈姆特",
+      "Bea碧@巴哈姆特",
+      "史嘉蕾特@巴哈姆特",
+      "藍職龍奇@巴哈姆特"
+    ],
+    "fight_id": 11,
+    "duration_ms": 1134330,
+    "clear_dt_ms": 1795196835926,
+    "jobs": {
+      "夜雨聲煩@鳳凰": "DarkKnight",
+      "伊醉月@鳳凰": "Sage",
+      "餡餅@利維坦": "Samurai",
+      "莉蓓兒@巴哈姆特": "BlackMage",
+      "Tkc洽@巴哈姆特": "Dancer",
+      "Bea碧@巴哈姆特": "Scholar",
+      "史嘉蕾特@巴哈姆特": "Ninja",
+      "藍職龍奇@巴哈姆特": "Paladin"
+    }
+  },
+  {
+    "code": "8kgvJQ7nzp9aNjHK",
+    "title": "【絕亞】野團消化",
+    "encounter": "living liquid / liquid hand / ... ",
+    "players": [
+      "伯爵奶茶誇鬆@奧汀",
+      "緋璃@奧汀",
+      "Coyeee@奧汀",
+      "艾達·甘乃迪@奧汀",
+      "小噗子@利維坦",
+      "盧瑟·潘德拉@奧汀",
+      "著色器編譯者@泰坦",
+      "寒棠月@鳳凰"
+    ],
+    "fight_id": 2,
+    "duration_ms": 978889,
+    "clear_dt_ms": 1795190455168,
+    "jobs": {
+      "伯爵奶茶誇鬆@奧汀": "Warrior",
+      "緋璃@奧汀": "Machinist",
+      "Coyeee@奧汀": "WhiteMage",
+      "艾達·甘乃迪@奧汀": "Pictomancer",
+      "小噗子@利維坦": "BlackMage",
+      "盧瑟·潘德拉@奧汀": "Dragoon",
+      "著色器編譯者@泰坦": "Sage",
+      "寒棠月@鳳凰": "Paladin"
+    }
+  },
+  {
+    "code": "WQzL74pqn9xXJfHm",
+    "title": "Ultimates (Legacy)",
+    "encounter": "left eye / right eye / ... ",
+    "players": [
+      "Ao@迦樓羅",
+      "燁子@鳳凰",
+      "小小龍@鳳凰",
+      "Zard@巴哈姆特",
+      "阿格尼絲@奧汀",
+      "沁心紅茶@利維坦",
+      "莉可@鳳凰",
+      "殤魂@奧汀"
+    ],
+    "fight_id": 9,
+    "duration_ms": 1097104,
+    "clear_dt_ms": 1795194113890,
+    "jobs": {
+      "Ao@迦樓羅": "Machinist",
+      "燁子@鳳凰": "Sage",
+      "小小龍@鳳凰": "DarkKnight",
+      "Zard@巴哈姆特": "BlackMage",
+      "阿格尼絲@奧汀": "Ninja",
+      "沁心紅茶@利維坦": "Astrologian",
+      "莉可@鳳凰": "Paladin",
+      "殤魂@奧汀": "Monk"
+    }
   }
 ]
